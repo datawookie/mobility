@@ -17,16 +17,20 @@ jobs:
 
       - uses: r-lib/actions/setup-r@v1
 
-      - name: Download & unpack data
+      - name: Install Ubuntu dependencies
         run: |
-          mkdir -p data-raw/regional
-          cd data-raw
-          wget -q https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv -O mobility-global.csv
+          sudo apt-get install libcurl4-openssl-dev
 
       - name: Install R dependencies
         run: |
           install.packages(c("here", "usethis"))
         shell: Rscript {0}
+
+      - name: Download & unpack data
+        run: |
+          mkdir -p data-raw/regional
+          cd data-raw
+          wget -q https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv -O mobility-global.csv
 
       - name: Build data
         run: |
