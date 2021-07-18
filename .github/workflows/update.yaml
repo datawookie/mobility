@@ -1,0 +1,31 @@
+on:
+  push:
+    branches:
+      - master
+    tags:
+      -'*'
+
+name: update
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: r-lib/actions/setup-r@v1
+
+      - uses: r-lib/actions/setup-pandoc@v1
+
+      - name: Install Ubuntu dependencies
+        run: |
+          mkdir -p mobility/regional
+          cd mobility
+          wget -q https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip -O mobility-regional.zip
+          wget -q https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv -O mobility-global.csv
+          unzip -o -d regional/ mobility-regional.zip
+          rm mobility-regional.zip
+          pwd
+          ls
