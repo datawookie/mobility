@@ -26,7 +26,7 @@ jobs:
       - name: Install R dependencies
         run: |
           remotes::install_deps(dependencies = TRUE)
-          install.packages(c("here"))
+          install.packages(c("here", "usethis"))
         shell: Rscript {0}
 
       - name: Build data
