@@ -21,11 +21,7 @@ jobs:
         run: |
           mkdir -p data-raw/regional
           cd data-raw
-          wget -q https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip -O mobility-regional.zip
           wget -q https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv -O mobility-global.csv
-          unzip -o -d regional/ mobility-regional.zip
-          rm mobility-regional.zip
-          ls
 
       - name: Install R dependencies
         run: |
