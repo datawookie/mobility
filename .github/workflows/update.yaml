@@ -37,6 +37,11 @@ jobs:
           rm mobility-regional.zip
           ls
 
+      - name: Load data
+        run: |
+          source(here::here("script/create-mobility.R")
+        shell: Rscript {0}
+
       # https://github.com/stefanzweifel/git-auto-commit-action
       #
       - uses: stefanzweifel/git-auto-commit-action@v4
