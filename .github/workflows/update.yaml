@@ -37,6 +37,10 @@ jobs:
           rm mobility-regional.zip
           ls
 
+      # https://github.com/stefanzweifel/git-auto-commit-action
+      #
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
             commit_message: "Test update"
+            branch: master
+            file_pattern: data-raw/*.csv
