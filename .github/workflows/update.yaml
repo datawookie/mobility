@@ -1,4 +1,6 @@
 on:
+  schedule:
+    - cron:  '30 0 * * *'
   push:
     branches:
       - master
@@ -28,11 +30,13 @@ jobs:
 
       - name: Download data
         run: |
-          mkdir -p data-raw/regional
+          mkdir -p data-raw
           cd data-raw
-          wget -q https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv -O mobility-global.csv
+          wget -q https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip -O mobility-regional.zip
+          unzip -o mobility-regional.zip
+          rm mobility-regional.zip
+          ls
 
-      - name: Build package
-        run: |
-          devtools::build()
-        shell: Rscript {0}
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Test update"
