@@ -1,0 +1,861 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-01,-53,-38,65,-71,-75,25
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-02,-5,0,66,-32,-22,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-03,-11,-6,77,-34,-25,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-04,-5,1,74,-25,-24,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-05,-9,-3,65,-33,-20,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-06,-5,-2,66,-33,-19,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-07,-2,1,63,-32,-20,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-08,-5,-3,61,-30,-17,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-09,-4,1,54,-31,-17,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-10,-8,-1,68,-42,-22,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-11,-5,-4,67,-24,-20,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-12,-13,-12,48,-41,-22,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-13,-13,-11,49,-37,-22,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-14,-7,-6,49,-35,-25,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-15,-9,-7,48,-38,-23,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-16,-13,-7,44,-36,-26,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-17,-14,-6,60,-47,-31,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-18,-14,-7,58,-33,-26,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-19,-18,-13,46,-44,-25,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-20,-14,-13,48,-37,-24,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-21,-10,-8,46,-32,-24,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-22,-9,-8,50,-31,-23,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-23,-12,-6,42,-37,-24,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-24,-15,-6,59,-49,-29,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-25,-13,-6,60,-31,-24,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-26,-17,-12,46,-43,-24,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-27,-11,-1,46,-41,-24,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-28,-3,-5,43,-35,-25,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-29,-16,-3,34,-37,-23,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-30,-17,0,36,-37,-31,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-01-31,-25,-1,43,-43,-34,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-01,-17,-4,42,-36,-27,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-02,-23,-7,37,-45,-27,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-03,-26,-7,39,-46,-29,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-04,-25,-15,37,-50,-37,8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-05,-27,-14,42,-50,-37,8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-06,-29,-12,40,-49,-35,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-07,-35,-17,53,-52,-39,2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-08,-28,-19,44,-49,-40,8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-09,-31,-13,36,-54,-41,10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-10,-28,-12,39,-51,-41,9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-11,-26,-14,33,-51,-43,8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-12,-29,-10,38,-46,-42,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-13,-26,-7,42,-44,-38,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-14,-29,-12,58,-54,-42,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-15,-28,-18,44,-51,-46,2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-16,-38,-21,28,-57,-47,6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-17,-35,-19,30,-57,-45,6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-18,-35,-20,32,-57,-46,7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-19,-35,-15,31,-56,-44,6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-20,-34,-11,32,-52,-39,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-21,-40,-16,44,-59,-43,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-22,-32,-24,36,-54,-45,5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-23,-35,-24,30,-60,-46,7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-24,-35,-16,34,-58,-45,6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-25,-31,-17,29,-56,-46,7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-26,-30,-10,32,-51,-43,6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-27,-25,-2,39,-43,-37,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-02-28,-32,-8,48,-57,-41,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-01,-24,-9,45,-49,-44,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-02,-28,-11,37,-54,-44,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-03,-28,-11,39,-53,-44,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-04,-27,-9,40,-55,-45,6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-05,-29,-8,40,-54,-43,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-06,-30,-7,37,-44,-37,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-07,-35,-9,51,-55,-43,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-08,-28,-15,40,-48,-44,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-09,-30,-14,32,-57,-44,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-10,-30,-15,34,-53,-43,5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-11,-27,-11,42,-54,-45,5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-12,-30,-12,41,-51,-42,5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-13,-29,-3,41,-41,-35,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-14,-34,-10,55,-57,-38,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-15,-21,-5,52,-46,-41,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-16,-27,-9,41,-52,-42,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-17,-24,-5,44,-49,-39,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-18,-24,-6,46,-47,-41,4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-19,-23,1,50,-47,-38,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-20,-24,1,47,-39,-32,-4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-21,-25,-9,66,-49,-34,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-22,-21,-8,50,-45,-38,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-23,-25,-7,46,-51,-39,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-24,-24,-6,47,-51,-38,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-25,-19,-3,45,-45,-39,3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-26,-21,2,50,-40,-38,1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-27,-20,4,50,-31,-30,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-28,-22,-2,65,-46,-33,-6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-29,-18,-1,56,-41,-38,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-30,-21,1,44,-48,-38,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-03-31,-13,9,45,-43,-37,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-01,4,42,61,-28,-38,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-02,-66,-30,39,-79,-78,16
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-03,-13,10,46,-32,-28,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-04,-23,-1,60,-47,-34,-6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-05,-53,-26,57,-73,-78,13
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-06,-17,0,43,-46,-37,-2
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-07,-15,5,49,-49,-38,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-08,-12,2,50,-45,-37,0
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-09,-14,4,51,-37,-35,-1
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-10,-14,5,57,-35,-26,-6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-11,-18,0,73,-48,-31,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-12,-16,0,57,-42,-29,-4
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-13,-19,-1,47,-47,-31,-3
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-14,-15,2,50,-41,-28,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-15,-9,8,56,-40,-28,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-16,-9,6,58,-34,-24,-6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-17,-5,10,60,-29,-23,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-18,-13,10,78,-41,-28,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-19,-9,8,63,-34,-27,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-20,-14,2,55,-41,-26,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-21,-12,6,55,-43,-25,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-22,-12,5,56,-43,-26,-6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-23,-8,5,60,-39,-21,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-24,-6,8,59,-33,-22,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-25,-13,7,79,-45,-27,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-26,-10,7,69,-37,-25,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-27,-12,1,56,-46,-24,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-28,-8,7,58,-45,-25,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-29,-2,9,57,-42,-25,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-04-30,3,15,64,-32,-21,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-01,4,20,62,-28,-22,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-02,-1,16,84,-45,-28,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-03,-43,-13,64,-74,-77,11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-04,0,16,53,-39,-23,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-05,1,11,62,-41,-23,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-06,2,11,62,-38,-24,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-07,-1,15,69,-30,-19,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-08,6,21,67,-30,-21,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-09,-2,13,85,-47,-30,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-10,-6,6,69,-35,-24,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-11,-10,7,53,-39,-21,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-12,-6,11,61,-44,-22,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-13,0,11,66,-39,-32,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-14,0,13,61,-33,-20,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-15,-1,13,60,-34,-22,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-16,-6,13,83,-42,-29,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-17,-3,8,73,-31,-22,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-18,-7,8,63,-34,-21,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-19,-6,10,66,-42,-20,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-20,-1,12,62,-36,-21,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-21,0,15,66,-31,-15,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-22,3,14,59,-35,-20,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-23,3,13,80,-44,-27,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-24,-42,-12,69,-71,-76,11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-25,-1,14,58,-30,-16,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-26,0,14,63,-40,-16,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-27,7,14,64,-28,-14,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-28,8,17,72,-28,-9,-13
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-29,10,18,68,-28,-14,-12
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-30,8,16,84,-38,-26,-12
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-05-31,5,17,77,-35,-13,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-01,2,11,66,-35,-13,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-02,5,15,67,-39,-14,-12
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-03,10,17,67,-33,-14,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-04,12,18,68,-33,-9,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-05,10,17,63,-32,-16,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-06,6,10,88,-40,-22,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-07,6,13,73,-31,-12,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-08,1,8,61,-29,-9,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-09,7,11,68,-32,-15,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-10,9,13,72,-31,-15,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-11,8,13,70,-26,-10,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-12,10,13,63,-27,-18,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-13,5,6,85,-38,-27,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-14,5,8,74,-32,-15,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-15,4,8,66,-35,-12,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-16,7,7,68,-35,-16,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-17,8,10,58,-33,-21,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-18,11,9,65,-27,-17,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-19,16,12,65,-29,-21,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-20,8,6,85,-36,-31,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-21,2,2,70,-33,-21,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-22,5,1,62,-34,-19,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-23,7,6,63,-37,-20,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-24,12,11,64,-32,-21,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-25,10,10,62,-26,-19,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-26,11,10,59,-31,-21,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-27,15,6,93,-29,-28,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-28,9,7,75,-29,-25,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-29,1,0,56,-33,-24,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-06-30,11,12,59,-38,-26,-5
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-01,16,14,64,-31,-27,-7
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-02,16,10,62,-28,-23,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-03,20,11,63,-20,-18,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-04,17,9,89,-26,-26,-12
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-05,16,9,80,-26,-23,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-06,14,6,65,-32,-22,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-07,12,6,72,-35,-23,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-08,18,9,69,-34,-25,-8
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-09,16,10,71,-26,-21,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-10,16,5,68,-28,-16,-11
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-11,14,6,90,-28,-23,-12
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-12,14,8,80,-26,-21,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-13,11,6,70,-24,-20,-9
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-14,16,11,72,-33,-21,-10
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2021-07-15,19,12,71,-24,-21,-10
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-01,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-02,,,,-33,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-03,,,,-27,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-04,,,,-32,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-05,,,,-45,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-06,,,,-37,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-07,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-08,,,,-36,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-09,,,,-34,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-10,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-11,,,,-37,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-12,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-13,,,,-51,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-14,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-15,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-16,,,,-37,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-17,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-18,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-19,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-20,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-21,,,,-46,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-22,,,,-49,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-23,,,,-48,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-24,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-25,,,,-49,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-26,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-27,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-28,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-29,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-30,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-01-31,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-01,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-02,,,,-61,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-03,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-04,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-05,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-06,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-07,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-08,,,,-49,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-09,,,,-61,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-10,,,,-51,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-11,,,,-51,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-12,,,,-48,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-13,,,,-55,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-14,,,,-61,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-15,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-16,,,,-59,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-17,,,,-55,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-18,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-19,,,,-63,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-20,,,,-55,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-21,,,,-62,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-22,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-23,,,,-60,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-24,,,,-61,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-25,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-26,,,,-51,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-27,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-02-28,,,,-57,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-01,,,,-50,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-02,,,,-60,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-03,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-04,,,,-59,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-05,,,,-59,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-06,,,,-57,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-07,,,,-63,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-08,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-09,,,,-64,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-10,,,,-60,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-11,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-12,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-13,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-14,,,,-60,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-15,,,,-49,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-16,,,,-65,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-17,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-18,,,,-55,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-19,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-20,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-21,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-22,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-23,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-24,,,,-59,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-25,,,,-59,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-26,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-27,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-28,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-29,,,,-46,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-30,,,,-59,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-03-31,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-01,,,,-50,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-02,,,,-70,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-03,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-04,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-05,,,,-67,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-06,,,,-55,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-07,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-08,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-09,,,,-49,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-10,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-11,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-12,,,,-50,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-13,,,,-57,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-14,,,,-59,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-15,,,,-51,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-16,,,,-46,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-17,,,,-43,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-18,,,,-48,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-19,,,,-48,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-20,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-21,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-22,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-23,,,,-51,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-24,,,,-46,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-25,,,,-55,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-26,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-27,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-28,,,,-51,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-29,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-04-30,,,,-48,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-01,,,,-38,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-02,,,,-52,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-03,,,,-69,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-04,,,,-58,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-05,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-06,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-07,,,,-41,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-08,,,,-46,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-09,,,,-53,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-10,,,,-49,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-11,,,,-49,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-12,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-13,,,,-43,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-14,,,,-46,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-15,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-16,,,,-46,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-17,,,,-45,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-18,,,,-43,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-19,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-20,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-21,,,,-40,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-22,,,,-47,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-23,,,,-45,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-24,,,,-64,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-25,,,,-35,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-26,,,,-54,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-27,,,,-38,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-28,,,,-37,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-29,,,,-38,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-30,,,,-43,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-05-31,,,,-48,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-01,,,,-42,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-02,,,,-56,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-03,,,,-39,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-04,,,,-39,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-05,,,,-41,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-06,,,,-42,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-07,,,,-42,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-08,,,,-35,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-09,,,,-41,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-10,,,,-38,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-11,,,,-34,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-12,,,,-35,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-13,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-14,,,,-35,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-15,,,,-38,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-16,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-17,,,,-37,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-18,,,,-26,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-19,,,,-32,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-20,,,,-40,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-21,,,,-36,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-22,,,,-38,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-23,,,,-38,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-24,,,,-36,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-25,,,,-30,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-26,,,,-36,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-27,,,,-25,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-28,,,,-39,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-29,,,,-32,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-06-30,,,,-36,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-01,,,,-25,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-02,,,,-27,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-03,,,,-14,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-04,,,,-19,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-05,,,,-24,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-06,,,,-35,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-07,,,,-39,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-08,,,,-29,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-09,,,,-17,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-10,,,,-31,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-11,,,,-25,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-12,,,,-27,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-13,,,,-29,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-14,,,,-36,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2021-07-15,,,,-26,,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-01,-56,-42,87,-81,-75,25
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-02,-3,1,80,-29,-20,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-03,-11,-7,101,,-23,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-04,0,2,96,-26,-22,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-05,-6,-4,93,-31,-20,5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-06,-1,-2,86,-29,-18,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-07,1,0,87,-27,-19,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-08,-3,-1,78,-26,-16,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-09,-5,0,68,-31,-17,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-10,-10,-3,88,,-19,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-11,-1,-5,88,-19,-18,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-12,-12,-13,71,-35,-20,2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-13,-11,-10,67,-30,-21,2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-14,-7,-7,69,-28,-23,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-15,-7,-4,63,-34,-22,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-16,-14,-7,58,-36,-26,-2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-17,-14,-7,78,,-30,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-18,-11,-6,77,-28,-23,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-19,-18,-13,66,-40,-23,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-20,-11,-13,66,-32,-24,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-21,-7,-10,67,-21,-23,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-22,-6,-7,65,-24,-22,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-23,-13,-5,55,-28,-24,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-24,-15,-6,74,,-29,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-25,-11,-7,80,-23,-23,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-26,-16,-10,68,-39,-23,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-27,-8,-2,63,-31,-23,2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-28,0,-7,64,-27,-24,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-29,-11,-3,49,-27,-22,-2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-30,-16,0,48,-26,-29,-4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-01-31,-21,0,58,,-32,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-01,-14,-6,58,-29,-26,-3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-02,-21,-4,56,-41,-26,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-03,-24,-7,57,-42,-28,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-04,-22,-16,57,-52,-37,8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-05,-25,-11,57,-47,-35,8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-06,-29,-12,53,-43,-34,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-07,-35,-19,71,,-37,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-08,-25,-20,61,-48,-39,8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-09,-30,-11,57,-52,-40,10
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-10,-26,-11,54,-46,-39,9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-11,-25,-15,51,-51,-42,8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-12,-25,-7,54,-46,-40,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-13,-25,-6,54,-39,-38,-3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-14,-33,-12,75,,-42,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-15,-27,-17,61,-52,-43,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-16,-38,-20,48,-60,-46,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-17,-33,-20,44,-56,-44,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-18,-33,-20,51,-57,-45,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-19,-34,-12,47,-54,-42,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-20,-33,-12,43,-50,-38,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-21,-40,-17,62,-63,-46,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-22,-30,-24,55,-56,-43,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-23,-34,-20,49,-58,-46,8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-24,-33,-14,48,-57,-44,7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-25,-28,-16,49,-59,-44,8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-26,-27,-6,47,-50,-42,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-27,-24,1,51,-36,-37,-3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-02-28,-32,-6,69,-55,-40,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-01,-20,-9,63,-51,-43,2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-02,-26,-7,60,-54,-43,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-03,-25,-9,55,-50,-43,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-04,-25,-10,61,-53,-44,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-05,-27,-5,56,-51,-42,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-06,-29,-5,51,-38,-38,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-07,-36,-10,67,,-44,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-08,-26,-14,58,-50,-42,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-09,-29,-10,54,-55,-44,5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-10,-27,-13,48,-53,-43,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-11,-24,-11,65,-54,-43,6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-12,-29,-9,55,-49,-40,5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-13,-29,-2,53,-33,-34,-2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-14,-36,-11,72,-54,-36,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-15,-20,-6,72,-47,-38,2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-16,-26,-6,65,-49,-41,3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-17,-22,-4,62,-47,-37,3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-18,-20,-6,68,-45,-39,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-19,-19,3,65,-42,-36,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-20,-24,2,60,-30,-31,-4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-21,-26,-7,83,,-32,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-22,-20,-6,68,-42,-36,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-23,-25,-7,65,-50,-37,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-24,-22,-4,61,-46,-37,2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-25,-18,-3,67,-40,-36,3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-26,-18,6,66,-32,-35,2
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-27,-20,6,64,-24,-29,-5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-28,-23,-3,85,,-31,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-29,-16,-2,74,-41,-35,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-30,-22,4,65,-51,-36,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-03-31,-10,12,63,-36,-35,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-01,10,45,85,-10,-36,-5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-02,-70,-31,58,-82,-78,17
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-03,-11,14,64,-26,-27,-5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-04,-21,1,83,,-34,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-05,-57,-31,78,-79,-78,14
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-06,-15,2,68,-46,-36,-1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-07,-10,7,69,-42,-38,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-08,-9,1,71,-41,-36,1
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-09,-11,6,67,-32,-33,0
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-10,-14,6,69,-25,-26,-5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-11,-18,-2,91,,-31,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-12,-12,0,76,-42,-27,-4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-13,-17,0,69,-45,-29,-3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-14,-12,2,66,-29,-26,-3
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-15,-6,7,79,-32,-27,-5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-16,-5,10,77,-31,-22,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-17,-5,11,74,-21,-23,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-18,-13,11,97,,-26,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-19,-5,7,84,-30,-24,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-20,-12,3,80,-37,-25,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-21,-8,6,73,-33,-24,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-22,-9,3,79,-39,-25,-5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-23,-5,8,78,-34,-19,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-24,-6,8,74,-27,-20,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-25,-12,7,100,,-24,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-26,-7,7,91,-34,-23,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-27,-11,4,76,-45,-23,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-28,-4,8,78,-39,-23,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-29,4,8,82,-36,-23,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-04-30,7,20,83,-26,-19,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-01,6,21,78,-26,-20,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-02,1,18,104,,-24,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-03,-46,-17,89,-79,-76,12
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-04,5,20,79,-30,-21,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-05,6,13,83,-32,-22,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-06,6,10,90,-31,-22,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-07,5,21,90,-23,-17,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-08,8,22,83,-19,-19,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-09,-3,15,108,,-29,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-10,-3,7,92,-32,-21,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-11,-8,10,77,-38,-20,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-12,-2,12,81,-37,-21,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-13,4,11,91,-37,-30,-4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-14,2,18,80,-29,-18,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-15,-2,15,73,-29,-19,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-16,-6,14,103,,-25,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-17,0,10,98,-28,-19,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-18,-6,9,88,-34,-19,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-19,-4,11,88,-32,-19,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-20,3,11,87,-31,-19,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-21,2,20,85,-28,-14,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-22,3,14,73,-33,-18,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-23,4,10,98,,-26,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-24,-45,-17,93,-80,-75,12
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-25,0,16,83,-32,-13,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-26,3,15,83,-32,-14,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-27,12,14,89,-29,-10,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-28,13,19,92,-22,-4,-11
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-29,11,19,86,-26,-9,-11
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-30,9,17,107,,-22,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-05-31,8,18,102,-26,-9,-10
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-01,4,12,95,-37,-8,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-02,10,15,91,-29,-11,-10
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-03,14,16,93,-32,-9,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-04,16,19,89,-31,-4,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-05,11,15,79,-29,-11,-10
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-06,8,10,110,,-18,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-07,9,12,99,-29,-8,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-08,2,8,88,-32,-4,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-09,11,11,89,-27,-11,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-10,13,13,100,-33,-12,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-11,11,14,88,-26,-5,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-12,10,13,80,-27,-11,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-13,7,3,103,,-21,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-14,9,9,98,-33,-10,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-15,5,9,93,-38,-8,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-16,11,6,87,-30,-14,-10
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-17,15,9,84,-32,-17,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-18,15,10,84,-30,-12,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-19,16,13,80,-29,-17,-10
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-20,7,5,108,,-23,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-21,5,1,93,-37,-17,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-22,6,1,89,-39,-14,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-23,11,5,83,-30,-16,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-24,17,7,89,-35,-16,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-25,15,11,81,-28,-13,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-26,11,9,74,-28,-18,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-27,15,5,111,,-24,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-28,11,6,100,-31,-21,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-29,3,1,79,-41,-19,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-06-30,15,12,78,-37,-23,-5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-01,23,14,89,-35,-21,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-02,24,12,82,-32,-17,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-03,23,9,80,-26,-12,-10
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-04,18,6,111,,-24,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-05,19,7,103,-32,-19,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-06,15,6,90,-33,-16,-7
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-07,17,4,92,-32,-19,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-08,23,6,93,-40,-20,-6
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-09,21,10,90,-33,-16,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-10,15,2,84,-30,-13,-11
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-11,16,3,112,,-17,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-12,17,5,104,-31,-16,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-13,14,3,95,-36,-15,-8
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-14,20,9,93,-31,-17,-9
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2021-07-15,23,11,96,-28,-16,-8
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-01,,,,,-73,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-04,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-05,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-06,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-07,,,,,-18,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-11,,,,,-22,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-12,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-13,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-14,,,,,-20,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-15,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-18,,,,,-37,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-19,,,,,-29,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-20,,,,,-31,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-21,,,,,-21,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-22,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-25,,,,,-26,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-26,,,,,-26,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-27,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-28,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-01-29,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-01,,,,,-29,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-02,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-03,,,,,-34,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-04,,,,,-40,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-05,,,,,-38,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-08,,,,,-43,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-09,,,,,-50,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-10,,,,,-49,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-11,,,,,-42,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-12,,,,,-47,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-15,,,,,-51,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-16,,,,,-44,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-17,,,,,-50,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-18,,,,,-53,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-19,,,,,-45,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-22,,,,,-48,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-23,,,,,-49,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-24,,,,,-44,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-25,,,,,-43,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-02-26,,,,,-48,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-01,,,,,-52,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-02,,,,,-45,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-03,,,,,-51,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-04,,,,,-45,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-05,,,,,-42,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-08,,,,,-47,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-09,,,,,-44,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-10,,,,,-41,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-11,,,,,-41,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-12,,,,,-38,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-15,,,,,-38,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-16,,,,,-41,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-17,,,,,-42,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-18,,,,,-40,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-19,,,,,-39,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-22,,,,,-43,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-23,,,,,-44,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-24,,,,,-37,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-25,,,,,-38,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-26,,,,,-35,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-29,,,,,-42,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-30,,,,,-39,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-03-31,,,,,-42,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-01,,,,,-35,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-02,,,,,-77,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-05,,,,,-76,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-06,,,,,-41,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-07,,,,,-41,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-08,,,,,-34,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-09,,,,,-37,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-12,,,,,-33,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-13,,,,,-33,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-14,,,,,-37,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-15,,,,,-27,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-16,,,,,-21,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-19,,,,,-32,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-20,,,,,-29,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-21,,,,,-29,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-22,,,,,-29,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-23,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-26,,,,,-33,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-27,,,,,-28,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-28,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-29,,,,,-22,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-04-30,,,,,-21,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-03,,,,,-74,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-04,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-05,,,,,-29,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-06,,,,,-20,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-07,,,,,-22,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-10,,,,,-28,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-11,,,,,-28,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-12,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-13,,,,,-31,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-14,,,,,-17,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-17,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-18,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-19,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-20,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-24,,,,,-75,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-25,,,,,-16,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-26,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-05-31,,,,,-20,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-02,,,,,-21,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-07,,,,,-14,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-08,,,,,-13,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-09,,,,,-17,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-10,,,,,-18,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-14,,,,,-15,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-15,,,,,-14,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-16,,,,,-18,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-17,,,,,-17,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-18,,,,,-20,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-21,,,,,-23,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-22,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-23,,,,,-21,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-24,,,,,-26,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-25,,,,,-17,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-28,,,,,-29,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-29,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-06-30,,,,,-27,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-01,,,,,-28,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-02,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-05,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-06,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-07,,,,,-27,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-08,,,,,-27,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-09,,,,,-22,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-12,,,,,-30,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-13,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-14,,,,,-25,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,ChIJxy3TCjHtEowRz3L6kqeWNNs,2021-07-15,,,,,-17,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-01,,,,,-77,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-04,,,,,-25,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-05,,,,,-26,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-06,,,,,-24,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-07,,,,,-23,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-08,,,,,-24,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-11,,,,,-27,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-12,,,,,-29,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-13,,,,,-26,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-14,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-15,,,,,-27,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-18,,,,,-34,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-19,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-20,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-21,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-22,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-25,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-26,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-27,,,,,-29,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-28,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-01-29,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-01,,,,,-34,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-02,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-03,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-04,,,,,-44,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-05,,,,,-43,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-08,,,,,-45,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-09,,,,,-45,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-10,,,,,-49,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-11,,,,,-50,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-12,,,,,-49,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-15,,,,,-53,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-16,,,,,-56,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-17,,,,,-51,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-18,,,,,-51,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-19,,,,,-50,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-22,,,,,-53,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-23,,,,,-52,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-24,,,,,-48,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-25,,,,,-48,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-02-26,,,,,-50,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-01,,,,,-53,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-02,,,,,-49,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-03,,,,,-48,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-04,,,,,-53,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-05,,,,,-46,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-08,,,,,-52,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-09,,,,,-49,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-10,,,,,-50,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-11,,,,,-55,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-12,,,,,-49,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-15,,,,,-48,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-16,,,,,-47,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-17,,,,,-47,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-18,,,,,-44,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-19,,,,,-41,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-22,,,,,-45,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-23,,,,,-48,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-24,,,,,-41,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-25,,,,,-45,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-26,,,,,-43,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-29,,,,,-44,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-30,,,,,-43,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-03-31,,,,,-44,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-01,,,,,-50,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-02,,,,,-76,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-05,,,,,-74,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-06,,,,,-42,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-07,,,,,-44,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-08,,,,,-42,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-09,,,,,-41,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-12,,,,,-37,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-13,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-14,,,,,-29,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-15,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-16,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-19,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-20,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-21,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-22,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-23,,,,,-27,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-26,,,,,-29,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-27,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-28,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-29,,,,,-33,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-04-30,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-03,,,,,-77,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-04,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-05,,,,,-27,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-06,,,,,-34,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-07,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-10,,,,,-34,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-11,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-12,,,,,-29,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-13,,,,,-44,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-14,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-17,,,,,-36,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-18,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-19,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-20,,,,,-29,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-21,,,,,-22,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-24,,,,,-79,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-25,,,,,-24,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-26,,,,,-22,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-27,,,,,-26,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-28,,,,,-13,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-05-31,,,,,-25,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-01,,,,,-23,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-02,,,,,-21,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-03,,,,,-29,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-04,,,,,-20,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-07,,,,,-21,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-08,,,,,-24,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-09,,,,,-24,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-10,,,,,-25,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-11,,,,,-22,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-14,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-15,,,,,-23,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-16,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-17,,,,,-34,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-18,,,,,-27,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-21,,,,,-36,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-22,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-23,,,,,-28,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-24,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-25,,,,,-31,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-28,,,,,-37,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-29,,,,,-39,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-06-30,,,,,-37,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-01,,,,,-35,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-02,,,,,-39,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-05,,,,,-40,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-06,,,,,-36,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-07,,,,,-36,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-08,,,,,-38,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-09,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-12,,,,,-36,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-13,,,,,-30,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-14,,,,,-32,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2021-07-15,,,,,-36,

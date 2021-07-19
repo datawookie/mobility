@@ -1,0 +1,778 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-01,-20,7,49,-28,-67,27
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-02,-16,22,52,-6,-25,19
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-03,-7,23,53,6,-6,12
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-04,-8,46,60,17,-1,11
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-05,-5,43,56,17,3,11
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-06,-4,43,57,25,4,12
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-07,-2,45,50,27,2,12
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-08,1,38,51,19,6,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-09,3,34,59,12,3,9
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-10,5,14,47,14,-2,9
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-11,-2,34,56,25,3,8
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-12,-1,31,46,21,4,8
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-13,-6,24,43,19,0,8
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-14,-9,20,37,21,-7,9
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-15,-10,15,34,7,-7,8
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-16,-12,10,36,-3,-12,8
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-17,-12,-8,27,-5,-17,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-18,-14,13,35,10,-10,9
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-19,-13,14,36,4,-8,9
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-20,-13,12,37,2,-8,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-21,-11,16,34,10,-8,11
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-22,-9,16,30,5,-5,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-23,-9,16,37,-1,-6,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-24,-8,0,30,3,-13,11
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-25,-11,20,42,10,-5,9
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-26,-11,16,36,4,-4,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-27,-9,17,38,4,-4,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-28,-7,24,36,17,-5,10
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-29,-6,26,40,10,-2,7
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-30,-3,27,52,7,-5,5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-01-31,-5,16,42,7,-15,6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-01,-8,33,53,9,-5,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-02,-6,34,55,9,-4,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-03,-9,28,45,4,-6,5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-04,-9,32,46,14,-10,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-05,-7,29,45,6,-7,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-06,-7,24,53,0,-11,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-07,-10,12,41,0,-18,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-08,-11,31,48,9,-11,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-09,-8,32,46,5,-7,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-10,-9,31,44,4,-8,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-11,-5,34,39,9,-9,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-12,-7,28,32,2,-7,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-13,-4,27,47,-4,-10,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-14,2,11,40,-3,-16,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-15,-10,27,37,1,-8,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-16,-7,30,34,-4,-7,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-17,-9,27,35,-7,-6,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-18,-6,30,30,7,-8,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-19,-4,29,36,2,-4,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-20,-5,25,43,-2,-8,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-21,-5,11,38,-7,-15,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-22,-9,28,35,3,-6,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-23,-5,30,38,-3,-5,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-24,-6,29,35,2,-4,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-25,-4,34,35,9,-6,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-26,0,35,35,3,-1,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-27,2,32,51,4,-6,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-02-28,2,18,42,0,-12,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-01,-3,36,43,4,-4,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-02,-1,37,46,4,-3,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-03,0,37,40,3,-4,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-04,0,38,39,12,-6,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-05,1,35,43,10,-3,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-06,3,32,54,0,-7,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-07,-3,10,36,-6,-17,-1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-08,1,37,51,6,-4,-1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-09,0,38,46,0,-3,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-10,1,37,45,3,-3,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-11,1,37,40,11,-5,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-12,3,38,43,8,0,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-13,2,33,53,1,-6,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-14,-5,9,33,-1,-14,5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-15,1,42,54,9,-2,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-16,2,40,52,0,-2,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-17,0,37,46,2,-2,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-18,1,41,44,12,-3,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-19,4,43,47,3,2,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-20,5,41,63,-1,-2,-1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-21,5,24,52,1,-9,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-22,-1,41,51,2,0,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-23,-6,31,40,-3,-1,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-24,-3,40,46,-1,-1,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-25,4,48,54,8,-2,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-26,3,46,52,5,2,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-27,6,43,70,-1,-2,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-28,1,28,48,-5,-12,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-29,2,49,62,1,0,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-30,3,48,59,-1,1,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-03-31,4,49,49,6,-1,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-01,5,52,48,18,-1,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-02,5,52,56,11,1,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-03,8,55,61,9,-2,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-04,6,30,52,-8,-13,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-05,-4,31,56,-10,-53,12
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-06,4,53,53,-1,0,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-07,5,52,50,5,-3,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-08,10,54,55,16,-2,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-09,9,54,55,7,2,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-10,9,45,58,-1,-2,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-11,9,31,57,-1,-8,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-12,8,57,63,7,-2,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-13,6,51,54,-4,-1,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-14,4,48,60,3,-3,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-15,6,53,53,13,-3,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-16,6,49,52,8,1,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-17,7,44,65,3,2,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-18,-7,12,24,-9,-11,8
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-19,6,52,61,3,-1,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-20,9,52,61,-1,1,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-21,6,49,55,8,3,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-22,8,50,51,21,4,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-23,9,50,50,15,9,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-24,-3,34,45,8,2,5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-25,5,30,44,0,-3,5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-26,10,55,64,13,5,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-27,1,34,51,-8,-46,15
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-28,5,51,53,9,6,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-29,11,54,55,20,5,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-04-30,15,65,61,22,12,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-01,5,32,57,0,-23,7
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-02,8,28,44,0,-4,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-03,-4,35,57,-8,-46,15
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-04,11,58,66,3,7,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-05,11,58,63,14,5,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-06,12,57,59,21,5,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-07,9,56,64,20,9,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-08,13,51,73,13,7,3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-09,10,34,52,2,-1,5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-10,12,58,69,10,8,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-11,16,61,69,8,9,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-12,21,69,73,17,7,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-13,10,37,67,7,-56,14
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-14,15,55,67,20,8,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-15,15,47,74,13,5,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-16,15,33,58,5,-1,4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-17,14,58,72,17,9,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-18,13,54,68,13,9,2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-19,14,54,67,18,9,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-20,16,56,66,28,8,1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-21,22,58,78,24,15,-2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-22,19,52,76,26,8,-2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-23,19,32,69,11,-3,-1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-24,12,42,81,7,-46,9
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-25,17,55,75,11,12,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-26,19,57,74,18,8,-2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-27,24,66,78,28,8,-2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-28,27,65,87,23,14,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-29,30,63,89,23,10,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-30,26,38,79,16,-2,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-05-31,23,68,93,18,10,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-01,22,66,89,14,8,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-02,25,68,93,22,8,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-03,28,71,89,31,9,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-04,22,64,88,21,12,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-05,28,66,109,20,10,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-06,29,45,85,10,0,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-07,26,70,100,16,10,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-08,22,62,87,5,10,-4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-09,21,67,92,16,8,-4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-10,30,76,98,32,10,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-11,11,50,68,16,12,-2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-12,27,64,106,23,10,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-13,27,40,88,6,2,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-14,23,68,98,20,8,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-15,24,63,97,9,8,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-16,21,59,83,16,5,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-17,24,63,93,27,4,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-18,21,57,85,19,9,-4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-19,23,54,95,18,5,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-20,10,19,56,0,-11,-1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-21,11,46,86,6,-44,7
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-22,20,57,93,11,5,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-23,18,58,86,17,3,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-24,24,64,86,31,4,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-25,26,65,82,32,10,-4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-26,7,31,65,14,0,0
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-27,24,39,75,17,-3,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-28,23,65,88,26,5,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-29,21,57,85,12,5,-6
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-06-30,23,60,88,23,5,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-01,27,68,89,35,6,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-02,29,66,94,31,12,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-03,19,46,82,21,6,-1
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-04,25,40,82,16,-3,-2
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-05,30,74,106,30,8,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-06,30,71,101,19,7,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-07,29,70,105,30,4,-4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-08,33,71,104,42,5,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-09,29,67,100,34,10,-3
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-10,32,65,112,31,8,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-11,27,38,81,16,-2,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-12,29,70,105,33,5,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-13,31,66,109,22,5,-5
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-14,30,71,99,26,5,-4
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2021-07-15,31,74,97,40,5,-3
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-01-01,,,,,-52,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-01-21,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-02-04,,,,,-37,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-02-08,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-02-11,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-02-15,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-02-22,,,,,-40,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-02-25,,,,,-41,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-03-01,,,,,-39,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-03-08,,,,,-34,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-03-11,,,,,-39,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-03-15,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-03-18,,,,,-39,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-03-25,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-03-29,,,,,-34,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-04-05,,,,,-55,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-04-08,,,,,-38,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-04-19,,,,,-37,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-04-22,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-04-27,,,,,-50,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-05-03,,,,,-46,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-05-06,,,,,-42,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-05-13,,,,,-59,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-05-20,,,,,-39,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-05-24,,,,,-52,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-06-03,,,,,-35,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-06-21,,,,,-60,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-06-28,,,,,-45,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-06-30,,,,,-44,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-07-05,,,,,-36,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-07-08,,,,,-37,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-07-12,,,,,-39,
+TG,Togo,Centrale Region,,,TG-C,,ChIJoaGBl-44KRARH1aDFViHrTU,2021-07-15,,,,,-43,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-01,,,,,-65,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-02,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-04,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-05,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-06,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-07,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-08,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-09,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-11,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-12,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-13,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-14,,,,,-38,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-15,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-16,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-18,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-19,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-20,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-21,,,,,-29,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-22,,,,,-29,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-23,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-25,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-26,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-27,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-28,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-29,,,,,-29,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-01-30,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-01,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-02,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-03,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-04,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-05,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-06,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-08,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-09,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-10,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-11,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-12,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-13,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-15,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-16,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-17,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-18,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-19,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-20,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-22,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-23,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-24,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-25,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-26,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-02-27,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-01,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-02,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-03,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-04,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-05,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-06,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-08,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-09,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-10,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-11,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-12,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-13,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-15,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-16,,,,,-29,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-17,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-18,,,,,-32,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-19,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-20,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-22,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-23,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-24,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-25,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-26,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-27,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-29,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-30,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-03-31,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-01,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-02,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-03,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-05,,,,,-58,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-06,,,,,-31,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-07,,,,,-34,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-08,,,,,-35,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-09,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-10,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-12,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-13,,,,,-29,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-14,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-15,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-16,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-17,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-19,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-20,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-21,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-22,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-23,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-26,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-27,,,,,-53,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-28,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-29,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-04-30,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-01,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-03,,,,,-53,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-04,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-05,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-06,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-07,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-08,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-10,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-11,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-12,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-13,,,,,-61,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-14,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-15,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-17,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-18,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-19,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-20,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-21,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-24,,,,,-51,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-25,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-26,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-27,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-28,,,,,-12,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-05-31,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-01,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-02,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-03,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-04,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-07,,,,,-16,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-08,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-09,,,,,-14,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-10,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-11,,,,,-9,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-14,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-15,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-16,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-17,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-18,,,,,-21,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-21,,,,,-57,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-22,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-23,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-24,,,,,-29,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-25,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-28,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-29,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-06-30,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-01,,,,,-26,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-02,,,,,-15,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-05,,,,,-20,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-06,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-07,,,,,-18,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-08,,,,,-22,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-09,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-12,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-13,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-14,,,,,-19,
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2021-07-15,,,,,-20,
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-01,-23,6,73,-28,-69,28
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-02,-17,20,82,-4,-26,20
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-03,-9,22,75,9,-5,12
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-04,-9,45,102,17,1,12
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-05,-6,42,99,18,1,11
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-06,-4,43,90,25,5,12
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-07,-3,43,83,31,5,12
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-08,-1,38,77,21,6,10
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-09,3,33,92,15,4,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-10,3,13,67,16,0,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-11,-2,33,87,26,6,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-12,-2,30,78,25,2,8
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-13,-6,24,68,19,2,8
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-14,-10,19,60,23,-4,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-15,-12,14,49,6,-8,8
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-16,-13,8,57,-1,-11,8
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-17,-13,-8,41,-1,-16,10
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-18,-15,11,60,13,-8,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-19,-14,13,64,7,-9,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-20,-13,12,59,0,-6,10
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-21,-12,15,58,12,-6,11
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-22,-11,15,45,7,-5,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-23,-9,14,59,0,-5,10
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-24,-8,0,43,4,-12,11
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-25,-12,20,68,10,-3,10
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-26,-11,15,61,4,-6,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-27,-9,16,58,2,-3,10
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-28,-8,21,60,16,-2,10
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-29,-8,24,59,10,-2,7
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-30,-4,25,80,6,-4,5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-01-31,-6,15,62,7,-13,6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-01,-8,33,87,6,-3,5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-02,-7,33,94,7,-6,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-03,-9,27,77,0,-5,4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-04,-9,30,79,13,-7,4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-05,-9,28,66,4,-7,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-06,-7,22,83,-1,-10,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-07,-11,12,60,-1,-16,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-08,-11,31,78,7,-9,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-09,-9,32,84,4,-8,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-10,-8,30,70,0,-6,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-11,-6,32,70,10,-6,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-12,-9,27,59,-2,-7,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-13,-4,25,84,-5,-8,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-14,2,10,68,-5,-13,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-15,-10,27,77,0,-5,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-16,-8,30,73,-6,-7,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-17,-9,27,72,-9,-4,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-18,-7,28,68,6,-5,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-19,-6,28,65,0,-4,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-20,-5,23,82,-2,-7,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-21,-6,10,67,-8,-13,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-22,-9,26,68,1,-4,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-23,-6,30,76,-5,-6,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-24,-6,29,67,-1,-2,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-25,-6,32,71,8,-3,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-26,-3,33,60,-1,-1,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-27,1,31,83,0,-5,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-02-28,0,17,66,-2,-9,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-01,-3,36,82,1,-1,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-02,-2,37,94,2,-3,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-03,0,36,76,-3,-2,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-04,-1,37,80,8,-3,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-05,-1,34,71,6,-2,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-06,3,31,94,-3,-6,-1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-07,-4,9,60,-8,-15,-2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-08,1,36,97,3,-2,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-09,-1,37,94,-3,-4,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-10,2,36,87,-1,-1,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-11,0,36,78,10,-1,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-12,1,37,73,6,0,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-13,1,32,89,-2,-4,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-14,-7,8,58,-4,-12,5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-15,1,41,103,6,1,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-16,1,39,105,-4,-2,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-17,0,36,83,-3,1,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-18,0,41,86,11,2,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-19,2,42,78,0,2,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-20,4,40,104,-3,0,-1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-21,4,22,78,-1,-6,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-22,-2,40,91,-4,2,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-23,-7,30,77,-9,-2,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-24,-2,41,82,-3,2,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-25,2,47,96,9,2,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-26,0,45,87,3,3,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-27,5,42,111,-2,0,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-28,-1,27,73,-8,-9,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-29,1,48,113,-2,2,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-30,2,46,113,-5,0,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-03-31,4,48,91,2,1,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-01,4,49,89,17,3,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-02,3,50,91,9,1,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-03,7,52,100,6,-1,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-04,4,27,77,-13,-10,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-05,-5,30,100,-13,-53,13
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-06,3,52,103,-5,-1,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-07,5,51,91,-1,0,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-08,8,52,103,14,2,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-09,6,52,92,4,2,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-10,8,43,96,-1,0,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-11,7,30,85,-5,-5,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-12,7,56,113,3,1,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-13,4,49,101,-9,-2,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-14,4,47,101,-3,-1,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-15,5,51,96,11,1,4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-16,4,48,85,4,2,4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-17,7,43,110,4,4,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-18,-9,11,44,-11,-10,8
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-19,5,51,110,0,2,4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-20,7,51,114,-6,0,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-21,6,49,105,1,6,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-22,6,48,97,17,8,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-23,7,49,84,11,9,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-24,-4,31,78,2,3,5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-25,4,29,71,-6,1,4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-26,10,54,115,8,8,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-27,0,32,97,-13,-48,15
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-28,6,50,95,2,9,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-29,11,52,102,15,9,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-04-30,13,63,103,17,12,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-01,5,30,101,-2,-23,7
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-02,8,28,73,-3,-2,4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-03,-5,35,107,-14,-46,16
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-04,10,56,124,-3,6,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-05,11,58,113,6,8,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-06,12,55,110,17,9,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-07,7,55,103,15,10,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-08,13,48,120,8,9,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-09,9,33,82,-3,2,5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-10,13,56,130,4,11,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-11,15,60,132,2,8,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-12,22,69,129,8,10,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-13,9,35,115,3,-56,14
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-14,13,54,105,12,9,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-15,16,47,120,9,8,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-16,14,32,90,-1,2,3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-17,14,58,127,10,12,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-18,12,53,122,3,9,2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-19,14,55,114,9,12,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-20,16,54,114,23,13,1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-21,21,57,119,17,16,-2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-22,17,49,118,20,9,-2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-23,17,30,97,7,0,-2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-24,11,41,136,1,-46,9
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-25,17,55,131,7,11,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-26,21,57,121,10,11,-2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-27,22,64,134,21,13,-2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-28,24,63,130,17,15,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-29,30,61,137,20,12,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-30,26,39,112,9,3,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-05-31,24,66,162,10,13,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-01,21,64,153,6,8,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-02,25,68,149,12,11,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-03,26,68,146,26,13,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-04,20,62,133,16,13,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-05,27,63,159,15,12,-7
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-06,28,43,122,7,4,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-07,25,68,164,10,13,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-08,20,60,149,0,10,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-09,22,65,143,9,11,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-10,29,73,156,26,14,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-11,8,47,103,11,12,-2
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-12,27,63,160,22,13,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-13,25,40,125,2,6,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-14,23,67,163,15,11,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-15,23,62,162,4,8,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-16,21,58,134,8,8,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-17,23,60,148,23,9,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-18,18,55,124,12,9,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-19,23,51,140,15,8,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-20,8,17,83,-2,-7,-1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-21,11,45,145,3,-43,7
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-22,18,54,153,6,6,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-23,18,57,140,11,6,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-24,23,62,136,26,9,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-25,24,64,125,29,11,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-26,6,27,102,9,3,0
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-27,23,38,109,14,2,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-28,23,65,147,20,9,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-29,21,59,152,6,5,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-06-30,24,61,140,16,8,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-01,28,69,146,32,11,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-02,27,67,139,24,13,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-03,17,43,125,19,8,-1
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-04,25,38,117,14,2,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-05,30,73,172,27,11,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-06,29,71,168,12,7,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-07,30,70,159,24,8,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-08,32,68,161,40,9,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-09,26,65,139,29,10,-3
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-10,32,64,163,30,10,-6
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-11,26,37,115,13,3,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-12,30,69,173,30,8,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-13,31,66,181,20,5,-5
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-14,30,70,151,25,8,-4
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2021-07-15,31,71,155,43,9,-3
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-01,,,,,-48,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-02,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-04,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-05,,,,,-4,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-06,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-07,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-08,,,,,-9,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-09,,,,,-9,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-11,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-12,,,,,-5,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-13,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-14,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-15,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-16,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-18,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-19,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-20,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-21,,,,,-18,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-22,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-23,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-25,,,,,-16,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-26,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-27,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-28,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-29,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-01-30,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-01,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-02,,,,,-11,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-03,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-04,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-05,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-06,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-08,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-09,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-10,,,,,-26,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-11,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-12,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-13,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-15,,,,,-31,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-16,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-17,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-18,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-19,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-20,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-22,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-23,,,,,-28,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-24,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-25,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-26,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-02-27,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-01,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-02,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-03,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-04,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-05,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-06,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-08,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-09,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-10,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-11,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-12,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-13,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-15,,,,,-26,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-16,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-17,,,,,-28,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-18,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-19,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-20,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-22,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-23,,,,,-28,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-24,,,,,-32,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-25,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-26,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-27,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-29,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-30,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-03-31,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-01,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-02,,,,,-26,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-03,,,,,-31,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-05,,,,,-52,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-06,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-07,,,,,-26,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-08,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-09,,,,,-18,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-10,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-12,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-13,,,,,-33,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-14,,,,,-37,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-15,,,,,-29,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-16,,,,,-31,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-17,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-19,,,,,-28,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-20,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-21,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-22,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-23,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-24,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-26,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-27,,,,,-41,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-28,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-29,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-04-30,,,,,-18,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-01,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-03,,,,,-47,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-04,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-05,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-06,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-07,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-08,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-10,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-11,,,,,-16,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-12,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-13,,,,,-52,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-14,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-15,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-17,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-18,,,,,-18,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-19,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-20,,,,,-16,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-21,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-22,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-24,,,,,-50,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-25,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-26,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-27,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-28,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-29,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-05-31,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-01,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-02,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-03,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-04,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-05,,,,,-14,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-07,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-08,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-09,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-10,,,,,-18,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-11,,,,,-20,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-12,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-14,,,,,-16,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-15,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-16,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-17,,,,,-17,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-18,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-19,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-21,,,,,-53,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-22,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-23,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-24,,,,,-26,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-25,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-26,,,,,-26,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-28,,,,,-27,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-29,,,,,-25,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-06-30,,,,,-28,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-01,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-02,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-03,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-05,,,,,-15,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-06,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-07,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-08,,,,,-23,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-09,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-10,,,,,-19,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-12,,,,,-24,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-13,,,,,-21,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-14,,,,,-22,
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2021-07-15,,,,,-26,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-02-08,,,,,-38,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-02-15,,,,,-36,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-02-16,,,,,-44,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-02-22,,,,,-35,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-03-15,,,,,-37,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-03-17,,,,,-40,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-03-22,,,,,-37,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-03-29,,,,,-35,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-04-05,,,,,-55,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-04-12,,,,,-41,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-04-14,,,,,-41,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-04-26,,,,,-34,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-04-27,,,,,-46,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-05-03,,,,,-53,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-05-04,,,,,-44,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-05-10,,,,,-38,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-05-13,,,,,-68,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-05-24,,,,,-53,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-06-21,,,,,-65,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-06-24,,,,,-44,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-06-28,,,,,-40,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-06-30,,,,,-39,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-07-05,,,,,-36,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-07-12,,,,,-35,
+TG,Togo,Savanes Region,,,TG-S,,ChIJM82nCYXSKhARFrfoINH_Vys,2021-07-15,,,,,-40,
