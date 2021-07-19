@@ -23,16 +23,16 @@ jobs:
 
       - name: Install R dependencies
         run: |
-          install.packages(c("here", "usethis"))
+          install.packages(c("here", "usethis", "devtools"))
         shell: Rscript {0}
 
-      - name: Download & unpack data
+      - name: Download data
         run: |
           mkdir -p data-raw/regional
           cd data-raw
           wget -q https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv -O mobility-global.csv
 
-      - name: Build data
+      - name: Build package
         run: |
-          source("scripts/build-data.R")
+          devtools::build()
         shell: Rscript {0}
