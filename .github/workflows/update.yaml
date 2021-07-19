@@ -39,7 +39,7 @@ jobs:
 
       - name: Load data
         run: |
-          source(here::here("script/create-mobility.R")
+          source(here::here("script/create-mobility.R"))
         shell: Rscript {0}
 
       # https://github.com/stefanzweifel/git-auto-commit-action
