@@ -25,7 +25,7 @@ jobs:
 
       - name: Install R dependencies
         run: |
-          install.packages(c("here", "usethis", "devtools"))
+          install.packages(c("here", "usethis", "devtools", "tidyverse"))
         shell: Rscript {0}
 
       - name: Download data
