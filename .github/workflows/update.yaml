@@ -30,6 +30,7 @@ jobs:
 
       - name: Download data
         run: |
+          pwd
           mkdir -p data-raw
           cd data-raw
           wget -q https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip -O mobility-regional.zip
@@ -39,6 +40,8 @@ jobs:
 
       - name: Load data
         run: |
+          print(getwd())
+          print(list.files())
           source(here::here("script/create-mobility.R"))
         shell: Rscript {0}
 
