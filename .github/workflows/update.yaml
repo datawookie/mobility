@@ -1,11 +1,6 @@
 on:
   schedule:
     - cron:  '30 0 * * *'
-  push:
-    branches:
-      - master
-    tags:
-      -'*'
 
 name: update
 
@@ -30,13 +25,11 @@ jobs:
 
       - name: Download data
         run: |
-          pwd
           mkdir -p data-raw
           cd data-raw
           wget -q https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip -O mobility-regional.zip
           unzip -o mobility-regional.zip
           rm mobility-regional.zip
-          ls
 
       - name: Load data
         run: |
