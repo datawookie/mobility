@@ -40,8 +40,6 @@ jobs:
 
       - name: Load data
         run: |
-          print(getwd())
-          print(list.files())
           source(here::here("script/create-mobility.R"))
         shell: Rscript {0}
 
