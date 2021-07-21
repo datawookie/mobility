@@ -20,4 +20,5 @@ Imports:
     purrr,
     here,
     usethis,
-    devtools
+    devtools,
+    readr (>= 2.0.0)
