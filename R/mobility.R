@@ -3,10 +3,10 @@
 #' @import purrr
 NULL
 
-EXTDATA_DIR <- system.file("extdata/", package = "mobility")
+EXTDATA_DIR <- system.file("extdata", package = "mobility")
 
 mobility_region <- function(region) {
-  PATHS <- paste0(EXTDATA_DIR, "*_", region, "_Region_Mobility_Report.csv")
+  PATHS <- file.path(EXTDATA_DIR, paste0("*_", region, "_Region_Mobility_Report.csv"))
 
   readr::read_csv(
     Sys.glob(PATHS),
@@ -29,7 +29,25 @@ mobility_region <- function(region) {
       vars(ends_with("from_baseline")),
       function(n) sub("_percent_change_from_baseline", "", n)
     ) %>%
-    nest(data = date:last_col())
+    nest(data = date:last_col()) %>%
+    mutate(
+      data = map(
+        data,
+        function(df) {
+          df %>%
+            pivot_longer(
+              cols = -date,
+              names_to = "place",
+              values_to = "change"
+            ) %>%
+            mutate(
+              place = sub("and", "&", gsub("_", " ", place)),
+              place = factor(place)
+            )
+        }
+      )
+    ) %>%
+    identity()
 }
 mobility_region <- memoise::memoise(mobility_region)
 
@@ -47,11 +65,11 @@ mobility_region <- memoise::memoise(mobility_region)
 #' mobility()
 mobility <- function(region = NULL) {
   if (is.null(region)) {
+    message("Hang tight... reading lots of data.")
     map_dfr(regions, mobility_region)
   } else {
     if (!(region %in% regions)) stop("Invalid region.", call. = FALSE)
 
     mobility_region(region)
   }
-
 }
