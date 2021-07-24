@@ -10,8 +10,6 @@ EXTDATA_DIR <- system.file("extdata/", package = "mobility")
 #' @param region
 #'
 #' @return
-#'
-#' @examples
 mobility_region <- function(region) {
   PATHS <- paste0(EXTDATA_DIR, "*_", region, "_Region_Mobility_Report.csv")
 

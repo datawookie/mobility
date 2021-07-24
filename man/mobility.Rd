@@ -2,7 +2,7 @@
 % Please edit documentation in R/mobility.R
 \name{mobility}
 \alias{mobility}
-\title{Retrieve mobility data for a region}
+\title{Retrieve mobility data}
 \usage{
 mobility(region = NULL)
 }
@@ -13,7 +13,7 @@ mobility(region = NULL)
 
 }
 \description{
-Retrieve mobility data for a region
+Retrieve mobility data
 }
 \examples{
 # Get mobility data for South Africa.
