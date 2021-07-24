@@ -1,6 +1,7 @@
 on:
   schedule:
     - cron:  '30 0 * * *'
+  workflow_dispatch:
 
 name: update
 
@@ -10,6 +11,10 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
       - uses: actions/checkout@v2
 
       - uses: r-lib/actions/setup-r@v1
@@ -40,6 +45,6 @@ jobs:
       #
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-            commit_message: "Test update $USER $(date)"
+            commit_message: "Update data ${{ steps.date.outputs.date }}"
             branch: master
             file_pattern: data-raw/*.csv data/*.rda
