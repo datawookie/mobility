@@ -70,4 +70,4 @@ jobs:
         with:
             commit_message: "data: Update data [${{ steps.date.outputs.date }}]"
             branch: master
-            file_pattern: data-raw/*.csv data/*.rda
+            file_pattern: inst/extdata/*.csv data/*.rda
