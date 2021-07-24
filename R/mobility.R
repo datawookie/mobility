@@ -5,11 +5,6 @@ NULL
 
 EXTDATA_DIR <- system.file("extdata/", package = "mobility")
 
-#' Helper function for retrieving mobility data for a specific region
-#'
-#' @param region
-#'
-#' @return
 mobility_region <- function(region) {
   PATHS <- paste0(EXTDATA_DIR, "*_", region, "_Region_Mobility_Report.csv")
 
