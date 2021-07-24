@@ -18,15 +18,17 @@ mobility_region <- function(region) {
     show_col_types = FALSE,
     progress = FALSE
   ) %>%
+    mutate(
+      iso = coalesce(iso_3166_2_code, country_region_code)
+    ) %>%
     select(
-      iso_country = country_region_code,
-      iso_region = iso_3166_2_code,
+      iso,
       country = country_region,
       region = sub_region_1,
       sub_region = sub_region_2,
       metro = metro_area,
       everything(),
-      -place_id, -census_fips_code
+      -place_id, -census_fips_code, -ends_with("_code")
     ) %>%
     rename_at(
       vars(ends_with("from_baseline")),
