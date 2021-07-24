@@ -1,3 +1,5 @@
+library(dplyr)
+
 MOBILITY_RDA <- here::here("data/mobility.rda")
 DATA_DIR <- dirname(MOBILITY_RDA)
 
