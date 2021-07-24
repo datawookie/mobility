@@ -7,8 +7,8 @@ Authors@R:
              family = "Collier",
              role = c("aut", "cre"),
              email = "andrew.b.collier@gmail.com"))
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Mobility data gathered by Google.
+StagedInstall: no
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
@@ -17,6 +17,7 @@ Depends:
     R (>= 3.5)
 Imports:
     dplyr,
+    tidyr,
     purrr,
     here,
     usethis,
