@@ -53,11 +53,11 @@ jobs:
 
       - name: Download data
         run: |
-          mkdir -p data-raw
-          cd data-raw
-          wget -q https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip -O mobility-regional.zip
-          unzip -o mobility-regional.zip
-          rm mobility-regional.zip
+          mkdir -p inst/extdata
+          cd inst/extdata
+          wget -q https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip
+          unzip -o Region_Mobility_Report_CSVs.zip
+          rm Region_Mobility_Report_CSVs.zip
 
       - name: Load data
         run: |
