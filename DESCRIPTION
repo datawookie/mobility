@@ -16,10 +16,11 @@ RoxygenNote: 7.1.1
 Depends: 
     R (>= 3.5)
 Imports:
-    dplyr,
-    tidyr,
-    purrr,
-    here,
-    usethis,
     devtools,
-    readr (>= 2.0.0)
+    dplyr,
+    here,
+    memoise,
+    purrr,
+    readr (>= 2.0.0),
+    tidyr,
+    usethis

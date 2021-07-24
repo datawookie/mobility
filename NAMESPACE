@@ -2,3 +2,5 @@
 
 export(mobility)
 import(dplyr)
+import(purrr)
+import(tidyr)

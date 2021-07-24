@@ -1,9 +1,44 @@
 #' @import dplyr
+#' @import tidyr
+#' @import purrr
 NULL
 
 EXTDATA_DIR <- system.file("extdata/", package = "mobility")
 
-#' Retrieve mobility data for a region
+#' Helper function for retrieving mobility data for a specific region
+#'
+#' @param region
+#'
+#' @return
+#'
+#' @examples
+mobility_region <- function(region) {
+  PATHS <- paste0(EXTDATA_DIR, "*_", region, "_Region_Mobility_Report.csv")
+
+  readr::read_csv(
+    Sys.glob(PATHS),
+    show_col_types = FALSE,
+    progress = FALSE
+  ) %>%
+    select(
+      iso_country = country_region_code,
+      iso_region = iso_3166_2_code,
+      country = country_region,
+      region = sub_region_1,
+      sub_region = sub_region_2,
+      metro = metro_area,
+      everything(),
+      -place_id, -census_fips_code
+    ) %>%
+    rename_at(
+      vars(ends_with("from_baseline")),
+      function(n) sub("_percent_change_from_baseline", "", n)
+    ) %>%
+    nest(data = date:last_col())
+}
+mobility_region <- memoise::memoise(mobility_region)
+
+#' Retrieve mobility data
 #'
 #' @param region Two character country ISO code. If \code{NULL} then select all regions.
 #'
@@ -17,27 +52,11 @@ EXTDATA_DIR <- system.file("extdata/", package = "mobility")
 #' mobility()
 mobility <- function(region = NULL) {
   if (is.null(region)) {
-    region = "??"
+    map_dfr(regions, mobility_region)
   } else {
     if (!(region %in% regions)) stop("Invalid region.", call. = FALSE)
+
+    mobility_region(region)
   }
 
-  PATHS <- paste0(EXTDATA_DIR, "*_", region, "_Region_Mobility_Report.csv")
-
-  readr::read_csv(Sys.glob(PATHS), show_col_types = FALSE) %>%
-    select(
-      iso_country = country_region_code,
-      iso_region = iso_3166_2_code,
-      country = country_region,
-      region = sub_region_1,
-      sub_region = sub_region_2,
-      metro = metro_area,
-      census_fips = census_fips_code,
-      everything(),
-      -place_id
-    ) %>%
-    rename_at(
-      vars(ends_with("from_baseline")),
-      function(n) sub("_percent_change_from_baseline", "", n)
-    )
 }
