@@ -10,6 +10,7 @@ mobility_region <- function(region) {
 
   readr::read_csv(
     Sys.glob(PATHS),
+    col_types = "ccccccccDdddddd",
     show_col_types = FALSE,
     progress = FALSE
   ) %>%
@@ -66,7 +67,10 @@ mobility_region <- memoise::memoise(mobility_region)
 mobility <- function(region = NULL) {
   if (is.null(region)) {
     message("Hang tight... reading lots of data.")
-    map_dfr(regions, mobility_region)
+    map_dfr(regions, function(region) {
+      message("- ", region)
+      mobility_region(region)
+    })
   } else {
     if (!(region %in% regions)) stop("Invalid region.", call. = FALSE)
 
