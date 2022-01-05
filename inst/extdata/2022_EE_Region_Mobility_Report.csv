@@ -1,0 +1,12 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+EE,Estonia,,,,,,ChIJ_UuggpyUkkYRwyW0T7qf6kA,2022-01-01,-60,-42,23,-40,-56,8
+EE,Estonia,Harju County,,,EE-37,,ChIJkawxZkDqkkYRIGD8GG2zAAM,2022-01-01,-62,-45,34,-42,-62,7
+EE,Estonia,Ida-Viru County,,,EE-45,,ChIJe13Sj0NglEYRQGD8GG2zAAM,2022-01-01,-58,-38,,-42,-54,8
+EE,Estonia,Järva County,,,EE-52,,ChIJYYCdyCg4k0YRYGD8GG2zAAM,2022-01-01,,,,,-49,
+EE,Estonia,Lääne-Viru County,,,EE-60,,ChIJ0zwY69Z1k0YRgGD8GG2zAAM,2022-01-01,-55,-43,,-49,-49,
+EE,Estonia,Pärnu County,,,EE-68,,ChIJpYnrfIb-7EYRoGD8GG2zAAM,2022-01-01,-58,-37,-18,-30,-56,
+EE,Estonia,Rapla County,,,EE-71,,ChIJGVNYfDct7UYRsGD8GG2zAAM,2022-01-01,,-40,,,-52,
+EE,Estonia,Saare County,,,EE-74,,ChIJ8ydWE-5y8kYRwGD8GG2zAAM,2022-01-01,,,,,-53,
+EE,Estonia,Tartu County,,,EE-79,,ChIJBWDePa0260YR0GD8GG2zAAM,2022-01-01,-66,-43,36,-45,-54,8
+EE,Estonia,Viljandi County,,,EE-84,,ChIJHeNB2iOZ7EYR8GD8GG2zAAM,2022-01-01,-70,-47,,-13,-44,
+EE,Estonia,Võru County,,,EE-87,,ChIJXTMR3X736kYRAGH8GG2zAAM,2022-01-01,-54,,,,-53,

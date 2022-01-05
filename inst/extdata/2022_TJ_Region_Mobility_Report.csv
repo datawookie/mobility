@@ -1,0 +1,3 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+TJ,Tajikistan,,,,,,ChIJzbO8enN2sTgRtYgZT4QxwyU,2022-01-01,-38,-29,-32,-47,-67,19
+TJ,Tajikistan,,,Dushanbe Metropolitan Area,,,ChIJ2buhwgvOtTgRDY8MehM-FKA,2022-01-01,-42,-34,-38,-47,-71,19

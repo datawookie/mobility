@@ -1,0 +1,325 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CO,Colombia,,,,,,ChIJo5QVrjqkFY4RQKPy7wSaDZo,2022-01-01,-40,-24,4,-42,-60,7
+CO,Colombia,Amazonas,,,CO-AMA,,ChIJuR67ovBG5JERmc75jvwzR3U,2022-01-01,,,-21,,-40,
+CO,Colombia,Amazonas,Leticia,,,,ChIJZzhKl3328pEReiqwU14on2s,2022-01-01,,,-41,,-31,
+CO,Colombia,Antioquia,,,CO-ANT,,ChIJg6eo2bIpRI4RmpWBdco2ClQ,2022-01-01,-49,-30,-5,-43,-63,8
+CO,Colombia,Antioquia,Amagá,,,,ChIJc0LyceOHRo4Rnr1RYJMZ08Q,2022-01-01,,,31,,-51,
+CO,Colombia,Antioquia,Amalfi,,,,ChIJqebBstSCRI4REDynBDsb7xk,2022-01-01,,,2,,,
+CO,Colombia,Antioquia,Andes,,,,ChIJCeVNqAJORo4R6TCF5Q2BP1k,2022-01-01,,,,,-27,
+CO,Colombia,Antioquia,Apartadó,,,,ChIJC_V-a3oNUI4RRAefGvFtg_4,2022-01-01,-24,5,0,,-55,0
+CO,Colombia,Antioquia,Arboletes,,,,ChIJfR3ArrYAWo4REYfHi_2mpuU,2022-01-01,,,140,,,
+CO,Colombia,Antioquia,Barbosa,,,,ChIJiRwtXhsWRI4RISuEa03uNxA,2022-01-01,14,,52,,-50,3
+CO,Colombia,Antioquia,Bello,,,,ChIJ4--dL6UvRI4RwPgpnwjcGUg,2022-01-01,-33,-6,-28,-56,-65,8
+CO,Colombia,Antioquia,Buriticá,,,,ChIJ8eWEEQWmRY4RvKNIBPnWhbQ,2022-01-01,,,-26,,,
+CO,Colombia,Antioquia,Caldas,,,,ChIJf-dUH5CGRo4RW3Idst1_jsc,2022-01-01,-29,-18,-28,,-66,8
+CO,Colombia,Antioquia,Carepa,,,,ChIJtUh58SgOUI4R1gFg2qdbZV0,2022-01-01,,,57,,-43,
+CO,Colombia,Antioquia,Carmen de Viboral,,,,ChIJWVBeaoKYRo4Rh2d67iR079Q,2022-01-01,10,,157,,-56,5
+CO,Colombia,Antioquia,Caucasia,,,,ChIJ3a3LueJuW44RCv82AICgOJs,2022-01-01,9,12,120,,-46,-4
+CO,Colombia,Antioquia,Chigorodó,,,,ChIJnUcW7SUdUI4RSBLwjmmyRCA,2022-01-01,,,-7,,-30,
+CO,Colombia,Antioquia,Cisneros,,,,ChIJL1DfeRZzRI4RgXQdq1r30zo,2022-01-01,,,-14,,,
+CO,Colombia,Antioquia,Ciudad Bolívar,,,,ChIJ_6OxiqlBRo4RG-9CX5x95dk,2022-01-01,,,,,-33,
+CO,Colombia,Antioquia,Copacabana,,,,ChIJ91xmsBQlRI4RJ7VmyoRxNOU,2022-01-01,-25,-31,-10,,-68,7
+CO,Colombia,Antioquia,Dabeiba,,,,ChIJacEo-sh5RY4R0PDibf6fSZ0,2022-01-01,,,24,,,
+CO,Colombia,Antioquia,Don Matías,,,,ChIJr2WKnuQ-RI4Rl4awn4d38iI,2022-01-01,,,,,-38,
+CO,Colombia,Antioquia,El Bagre,,,,ChIJi0yVasStXI4RhHxoxtye5XM,2022-01-01,,,,,-44,
+CO,Colombia,Antioquia,El Santuario,,,,ChIJOWSPzBehRo4RwTLVNZFalIM,2022-01-01,,,-6,,-63,
+CO,Colombia,Antioquia,Envigado,,,,ChIJO35KCEWCRo4RbUIbuOWrciE,2022-01-01,-65,-64,-22,-51,-71,9
+CO,Colombia,Antioquia,Girardota,,,,ChIJGacFfkg7RI4RdpZ-eVj1zeE,2022-01-01,-12,,-21,-31,-63,3
+CO,Colombia,Antioquia,Guarne,,,,ChIJvXhF31QhRI4RDVp2CVO6f6E,2022-01-01,-12,16,,,-57,6
+CO,Colombia,Antioquia,Guatapé,,,,ChIJszRwCdYcRI4RJeS7fDFd7j4,2022-01-01,,,68,,,
+CO,Colombia,Antioquia,Itagüí,,,,ChIJyZFiTy-CRo4Ru-xhr15i79M,2022-01-01,-50,-53,-33,-36,-71,9
+CO,Colombia,Antioquia,La Ceja,,,,ChIJL_9xDVOXRo4RVTtd9qwmq34,2022-01-01,-48,-14,-27,,-64,7
+CO,Colombia,Antioquia,La Estrella,,,,ChIJdSrpX0eBRo4R4nypR41MPQk,2022-01-01,-47,,-16,,-73,11
+CO,Colombia,Antioquia,La Unión,,,,ChIJ9eLaSvyVRo4RpggZxjMKfbA,2022-01-01,,,26,,-47,
+CO,Colombia,Antioquia,Marinilla,,,,ChIJne5SnIqfRo4R_pa-cad1tcg,2022-01-01,-11,1,-1,,-61,6
+CO,Colombia,Antioquia,Medellin,,,,ChIJ291STu8oRI4RcqxwksPWL3I,2022-01-01,-64,-41,-29,-49,-69,10
+CO,Colombia,Antioquia,Necoclí,,,,ChIJhQtrWOaQUI4RUFdwemBywS4,2022-01-01,,,-5,,-20,
+CO,Colombia,Antioquia,Peñol,,,,ChIJCS9yteAdRI4RobkR1lRIktY,2022-01-01,,,26,,-5,
+CO,Colombia,Antioquia,Puerto Berrío,,,,ChIJ3WKwEtm3Q44RpUL81LUCs0k,2022-01-01,,,1,,-24,
+CO,Colombia,Antioquia,Puerto Triunfo,,,,ChIJof9sNP9AQY4RO4G5AoXdlfU,2022-01-01,,,37,,-16,
+CO,Colombia,Antioquia,Remedios,,,,ChIJQ7QA30QSQ44RXQucuOrO_sQ,2022-01-01,,,,,-32,
+CO,Colombia,Antioquia,Retiro,,,,ChIJ754VszuQRo4RnZnACN504So,2022-01-01,-19,,-25,,-59,
+CO,Colombia,Antioquia,Rionegro,,,,ChIJJXNvK-yeRo4RVmuxbR41GLk,2022-01-01,-52,-41,-41,20,-64,7
+CO,Colombia,Antioquia,Sabaneta,,,,ChIJB7P13cCDRo4RVcnRnwYVF3E,2022-01-01,-75,-31,5,,-64,9
+CO,Colombia,Antioquia,San Jerónimo,,,,ChIJL1cAsjQzRI4RGsP_Bzb7bPk,2022-01-01,,-12,55,,-27,
+CO,Colombia,Antioquia,San Pedro de los Milagros,,,,ChIJ0YMkWiU3RI4R6Ewb4lW6eZU,2022-01-01,,,,,-39,
+CO,Colombia,Antioquia,San Rafael,,,,ChIJEfcQuXMHRI4RsuaV5LHw-Ow,2022-01-01,,,75,,,
+CO,Colombia,Antioquia,Santa Bárbara,,,,ChIJax1GrTbzRo4RTJzKr5bdA8Y,2022-01-01,,,44,,-31,
+CO,Colombia,Antioquia,Santa Fe de Antioquia,,,,ChIJgZxRA_LHRY4RNcgo7n1lDBI,2022-01-01,,,69,,-8,
+CO,Colombia,Antioquia,Santa Rosa de Osos,,,,ChIJM_JgU1pERI4RjMB20wizLdY,2022-01-01,,,-6,,-43,
+CO,Colombia,Antioquia,Santo Domingo,,,,ChIJhfFTBnESRI4R4413S5vdMmE,2022-01-01,,,124,,,
+CO,Colombia,Antioquia,Segovia,,,,ChIJN9kdobtuQ44RNAAnlxe8uF4,2022-01-01,,,52,,-33,
+CO,Colombia,Antioquia,Sonsón,,,,ChIJI2q6KnTSRo4R9jEjWFNF7Nw,2022-01-01,,,12,,-37,
+CO,Colombia,Antioquia,Sopetrán,,,,ChIJCT_56vvKRY4RS3fsF8jNJGg,2022-01-01,,,-39,,,
+CO,Colombia,Antioquia,Támesis,,,,ChIJf7Cu8yxWRo4RbIPPRa__4Wk,2022-01-01,,,118,,,
+CO,Colombia,Antioquia,Turbo,,,,ChIJT_hax6NrUI4R0DCgLQSg_QI,2022-01-01,67,,45,,-28,-3
+CO,Colombia,Antioquia,Urrao,,,,ChIJZZrX4dfmRY4RuybEIgZEuWg,2022-01-01,,,-39,,-17,
+CO,Colombia,Antioquia,Venecia,,,,ChIJ8YuID9djRo4RW0lzPmjA2bw,2022-01-01,,,139,,,
+CO,Colombia,Antioquia,Yarumal,,,,ChIJ1awcwczxRI4RADOXFwlEh3c,2022-01-01,,,-86,,-36,
+CO,Colombia,Arauca,,,CO-ARA,,ChIJkRzPv_RFbo4Rpil-EU7aG-w,2022-01-01,31,21,14,6,-35,-2
+CO,Colombia,Arauca,Arauca,,,,ChIJS_R_hvPWb44R2D4xIZxFV2I,2022-01-01,-11,-17,-12,,-54,2
+CO,Colombia,Arauca,Arauquita,,,,ChIJ1xk3PloBb44RxNGBkcJktDU,2022-01-01,,,,,-33,
+CO,Colombia,Arauca,Saravena,,,,ChIJfTZC_4otb44RSMmluXGFti4,2022-01-01,,,,,-31,
+CO,Colombia,Arauca,Tame,,,,ChIJTwE_0DfGbo4REo4THQVaSUs,2022-01-01,,,,19,-35,
+CO,Colombia,Atlantico,,,CO-ATL,,ChIJ89ro1UIt9I4RfwE4srgW80c,2022-01-01,-37,-14,-16,-25,-58,8
+CO,Colombia,Atlantico,Baranoa,,,,ChIJhaJVPS_Y9Y4R-qYT-DE-uQM,2022-01-01,,,30,,-26,
+CO,Colombia,Atlantico,Barranquilla,,,,ChIJORHUIlAs9I4R7Hv0XI18dwc,2022-01-01,-48,-29,-38,-66,-61,9
+CO,Colombia,Atlantico,Galapa,,,,ChIJIROQEwvU9Y4RnfQC1XnZ010,2022-01-01,,,,,-51,5
+CO,Colombia,Atlantico,Malambo,,,,ChIJU-0xO_3N9Y4RcAaV73jQqaQ,2022-01-01,,,43,,-53,9
+CO,Colombia,Atlantico,Puerto Colombia,,,,ChIJDVWX8ZIq9I4RWEvOypQXI7g,2022-01-01,22,,29,,-25,
+CO,Colombia,Atlantico,Sabanagrande,,,,ChIJ4z7Ck5TP9Y4RAzZ3KbVIW1g,2022-01-01,,,,,-44,
+CO,Colombia,Atlantico,Sabanalarga,,,,ChIJgRgqyeXf9Y4R3ju5S4C_Wgc,2022-01-01,14,,,-43,-3,
+CO,Colombia,Atlantico,Santo Tomás,,,,ChIJK2BUnGrF9Y4RVT9FDheVLCM,2022-01-01,,,,,-52,
+CO,Colombia,Atlantico,Soledad,,,,ChIJbxVN3obN9Y4RnlKNasqe0kQ,2022-01-01,-13,-6,-2,5,-61,7
+CO,Colombia,Bogota,,,CO-DC,,ChIJZ0-SYJsAP44RBHEcWTjKX1U,2022-01-01,-67,-51,-47,-53,-69,10
+CO,Colombia,Bolivar,,,CO-BOL,,ChIJhWiv4EXQWI4RFZYP9gSTAaY,2022-01-01,-15,9,26,-4,-43,5
+CO,Colombia,Bolivar,Arjona,,,,ChIJbxEWxIufWI4R1NciEYB6bFU,2022-01-01,,,,,-41,
+CO,Colombia,Bolivar,Cartagena Province,,,,ChIJL_pb_8Yl9o4RaHb7oHlZMaw,2022-01-01,-25,-4,-3,-7,-47,5
+CO,Colombia,Bolivar,El Carmen de Bolivar,,,,ChIJoUs6AH_aWI4RdDU-MaRCEiY,2022-01-01,,,36,,-13,
+CO,Colombia,Bolivar,Magangué,,,,ChIJz4tqbUS5Xo4R7PFLbZ9U_90,2022-01-01,,,72,,-42,5
+CO,Colombia,Bolivar,Santa Rosa del Sur,,,,ChIJLVyQLpUaXY4Rn2rJacCgHTA,2022-01-01,,,-4,,-24,
+CO,Colombia,Bolivar,Turbaco,,,,ChIJY9YCfBgh9o4Rro2Xqnwuh1U,2022-01-01,10,37,,,-48,3
+CO,Colombia,Boyaca,,,CO-BOY,,ChIJg6KQ-HWkaY4R95-8ZFsl4f8,2022-01-01,0,10,70,16,-45,4
+CO,Colombia,Boyaca,Aquitania,,,,ChIJbVo_ZoJXao4RASxkqoUu748,2022-01-01,,,1,,,
+CO,Colombia,Boyaca,Chiquinquirá,,,,ChIJ3w5-lrfJQY4Rqhn-bFevRl0,2022-01-01,-29,-6,45,,-58,3
+CO,Colombia,Boyaca,Duitama,,,,ChIJhY2T0Ao_ao4RMvQ5XY83_Qo,2022-01-01,-26,-37,-40,-81,-62,6
+CO,Colombia,Boyaca,Moniquirá,,,,ChIJIfapVJXmQY4Rg9d7lb3G7yU,2022-01-01,,,125,,-29,
+CO,Colombia,Boyaca,Nobsa,,,,ChIJNV8Fj7tHao4RRtx4xUxbOIs,2022-01-01,,,74,,-33,
+CO,Colombia,Boyaca,Paipa,,,,ChIJYQ5E1-cUao4RetJg1PYjvBM,2022-01-01,21,,230,,-34,
+CO,Colombia,Boyaca,Puerto Boyacá,,,,ChIJk0FrBYZvQY4Rfo_yKJnDcL8,2022-01-01,-9,,7,,-46,
+CO,Colombia,Boyaca,Samacá,,,,ChIJdZ4RX7UqQI4RUIJJLejyrYg,2022-01-01,,,,,-59,
+CO,Colombia,Boyaca,Sogamoso,,,,ChIJ_zIxAdhFao4Rn1Zq8xIH2Ac,2022-01-01,-25,-1,-41,,-62,3
+CO,Colombia,Boyaca,Tunja,,,,ChIJ1zA0gCN8ao4R3O3ljdLJJiA,2022-01-01,-63,-39,-38,-45,-55,4
+CO,Colombia,Boyaca,Villa de Leyva,,,,ChIJ4Y5AuijYQY4RosHuqW3VkyY,2022-01-01,68,,52,,19,
+CO,Colombia,Caldas,,,CO-CAL,,ChIJcd6LEpw9R44RjJ6clEdODWg,2022-01-01,-33,-31,20,-9,-55,5
+CO,Colombia,Caldas,Aguadas,,,,ChIJ004IlzfiRo4ROBxLGok_u7k,2022-01-01,,,85,,,
+CO,Colombia,Caldas,Anserma,,,,ChIJFT0sj-ehR44RIl6sfD4X9kI,2022-01-01,,,37,,-29,
+CO,Colombia,Caldas,Chinchiná,,,,ChIJN9MekyF5R44RbDRBFs_HVEI,2022-01-01,-1,,-29,,-48,3
+CO,Colombia,Caldas,La Dorada,,,,ChIJfYBkNaPeQI4RymGNr7jGcYc,2022-01-01,9,,131,,-48,6
+CO,Colombia,Caldas,Manizales,,,,ChIJQ77mcJFvR44RegoSeGbgTFU,2022-01-01,-54,-52,-33,-10,-67,6
+CO,Colombia,Caldas,Manzanares,,,,ChIJz_P5ENU5R44RegqIIFvlHws,2022-01-01,,,50,,,
+CO,Colombia,Caldas,Neira,,,,ChIJP9FKpHFtR44Rin4j01Y-pFE,2022-01-01,,,53,,,
+CO,Colombia,Caldas,Riosucio,,,,ChIJ89bDdL-pR44RxBjDhg02mq8,2022-01-01,,,71,,-23,
+CO,Colombia,Caldas,Supía,,,,ChIJ09p6_sEGR44RcZLnXuxNF8U,2022-01-01,,,,,-33,
+CO,Colombia,Caldas,Villamaría,,,,ChIJ_xhglDliR44RAg06QOFjcIY,2022-01-01,,,-21,,-63,7
+CO,Colombia,Caldas,Viterbo,,,,ChIJK_JpbDeFR44Rgxvs18kAyEY,2022-01-01,,,80,,,
+CO,Colombia,Caqueta,,,CO-CAQ,,ChIJ71Y71ZiLIY4RdwaRZv8sn2I,2022-01-01,-24,14,23,,-54,-2
+CO,Colombia,Caqueta,Florencia,,,,ChIJHQUPYAtOJI4RmFm5Yl7rs24,2022-01-01,-36,-13,-17,,-60,0
+CO,Colombia,Caqueta,San Vicente del Caguán,,,,ChIJ0bcOzjxVIo4R1kI_Lb3bo1g,2022-01-01,,,-11,,-58,
+CO,Colombia,Casanare,,,CO-CAS,,ChIJM364TjQMa44RAKlGyUkZ9Cg,2022-01-01,-13,-1,7,11,-54,1
+CO,Colombia,Casanare,Aguazul,,,,ChIJB3TQBB4ja44RkLc25w6qa_w,2022-01-01,-5,,2,,-57,
+CO,Colombia,Casanare,Maní,,,,ChIJe2TUeiq1FI4RXhlXAYpecoA,2022-01-01,,,72,,,
+CO,Colombia,Casanare,Paz de Ariporo,,,,ChIJna2ApxzHbY4RXighxw337w0,2022-01-01,,,28,,-35,
+CO,Colombia,Casanare,Tauramena,,,,ChIJ7VO-0mbRFI4R0n3qKZgfysM,2022-01-01,,,,,-29,
+CO,Colombia,Casanare,Villanueva,,,,ChIJ-42M5GU7FY4RA2QwWxQBgfw,2022-01-01,,,41,,-44,
+CO,Colombia,Casanare,Yopal,,,,ChIJs9YVo2psa44RhCT7bmlc7Bk,2022-01-01,-38,-29,-37,-2,-63,2
+CO,Colombia,Cauca,,,CO-CAU,,ChIJ7bbI7I7IL44Rf_y3Js5Ch2I,2022-01-01,0,-11,26,16,-38,3
+CO,Colombia,Cauca,Argelia,,,,ChIJOSDNRoAtLo4RKZnt-3RdNp0,2022-01-01,,,-21,,,
+CO,Colombia,Cauca,Caloto,,,,ChIJ558Dt09-Oo4RydGAm0I0wGU,2022-01-01,,,,,-36,
+CO,Colombia,Cauca,Miranda,,,,ChIJB2tSnSxsOo4RijcWTuWra98,2022-01-01,,,103,,8,
+CO,Colombia,Cauca,Patia,,,,ChIJ_YmCf_nIL44RKoblkI0qaS4,2022-01-01,,,6,,-21,
+CO,Colombia,Cauca,Piendamó,,,,ChIJX2saMsQLMI4ReTzMT3WBNzo,2022-01-01,,,,-26,-37,
+CO,Colombia,Cauca,Popayán,,,,ChIJcSqzU_ACMI4RTyD_yAJ1PCc,2022-01-01,-23,-22,-12,,-51,3
+CO,Colombia,Cauca,Puerto Tejada,,,,ChIJC1lRK2B2Oo4RRL1JZ9E8Qbg,2022-01-01,,,33,,-43,
+CO,Colombia,Cauca,Santander de Quilichao,,,,ChIJh6i3P-F_MI4RxoDzx51aZDM,2022-01-01,15,-27,-2,,-50,1
+CO,Colombia,Cauca,Timbío,,,,ChIJbTThqi_iL44RW8xV_Dkkjp0,2022-01-01,,,68,,-17,
+CO,Colombia,Cauca,Villa Rica,,,,ChIJq9pa61udMI4RiKWJDnLWChE,2022-01-01,,,,,-23,
+CO,Colombia,Cesar,,,CO-CES,,ChIJgbkNEIiPXY4RUFQJbpp0Hog,2022-01-01,-25,-8,26,-12,-47,3
+CO,Colombia,Cesar,Aguachica,,,,ChIJSQ3hEI2EXY4RTvVNilt50Zk,2022-01-01,-41,-10,1,,-51,3
+CO,Colombia,Cesar,Bosconia,,,,ChIJy0FuFvWUX44RouaKVuLW-ys,2022-01-01,,,,,-32,
+CO,Colombia,Cesar,Codazzi,,,,ChIJM7aTRRcQYI4RAnENHog2cek,2022-01-01,,,66,,-27,
+CO,Colombia,Cesar,Curumaní,,,,ChIJ-xupMhIhXo4Rf1VDscyWrKE,2022-01-01,,,,,-15,
+CO,Colombia,Cesar,El Paso,,,,ChIJ81-bT8baX44RbC6mohKMyoM,2022-01-01,,,-31,,-25,
+CO,Colombia,Cesar,La Jagua de Ibirico,,,,ChIJy40ooYp8YI4RIIC3YkdQSu0,2022-01-01,-29,,24,,-31,
+CO,Colombia,Cesar,San Alberto,,,,ChIJeQjqPy9gXY4RzMsF35-nrtA,2022-01-01,,,,,-29,
+CO,Colombia,Cesar,Valledupar,,,,ChIJWfAZvEmtio4RAMACI067shU,2022-01-01,-36,-31,-11,-8,-59,3
+CO,Colombia,Choco,,,CO-CHO,,ChIJxfeIZXCPSI4Rvl1GgkYTYKU,2022-01-01,0,5,83,-35,-43,4
+CO,Colombia,Choco,Istmina,,,,ChIJS9ASVoIRSI4RSYSanlpCb3o,2022-01-01,,,,,-32,
+CO,Colombia,Choco,Quibdó,,,,ChIJH5g2DXCPSI4Rl41CCS8xfrs,2022-01-01,-13,-13,44,-49,-53,4
+CO,Colombia,Cordoba,,,CO-COR,,ChIJ80WQ6Jq6WY4RIn6pt7InGok,2022-01-01,-10,10,47,-17,-47,1
+CO,Colombia,Cordoba,Cereté,,,,ChIJqZcs12koWo4RaKNopSZO3es,2022-01-01,-18,-1,-9,54,-53,-1
+CO,Colombia,Cordoba,Chinú,,,,ChIJCXhRkuNoWY4RNk0g4B5c5gc,2022-01-01,,,,,-27,
+CO,Colombia,Cordoba,Ciénaga de Oro,,,,ChIJT70JjP_TW44RYChZ3Cm_Ysw,2022-01-01,,,23,,,
+CO,Colombia,Cordoba,Lorica,,,,ChIJbR_HwEeXWY4RVHfByUPVBLs,2022-01-01,,,,,-33,
+CO,Colombia,Cordoba,Montelíbano,,,,ChIJSemozNsbW44R_vpGUHSuFUk,2022-01-01,9,,58,,-46,
+CO,Colombia,Cordoba,Montería,,,,ChIJi7-268M4Wo4RGuZolnn72G0,2022-01-01,-37,-12,23,-25,-60,3
+CO,Colombia,Cordoba,Planeta Rica,,,,ChIJYVDlLiupW44RVkLMbH3CdG4,2022-01-01,,,111,,-40,
+CO,Colombia,Cordoba,Sahagún,,,,ChIJcWFui35hWY4RN3RlbqZ4hdE,2022-01-01,,,-9,,-42,
+CO,Colombia,Cordoba,Tierralta,,,,ChIJ6UvqV_2-Wo4RXPunrqzNrnQ,2022-01-01,,,29,,-36,
+CO,Colombia,Cundinamarca,,,CO-CUN,,ChIJK68WFusoP44R7QjR-rW8PJM,2022-01-01,-17,7,43,-19,-58,9
+CO,Colombia,Cundinamarca,Albán,,,,ChIJmy6rGnSdQI4R1M9UdHG6j1k,2022-01-01,,,,-18,,
+CO,Colombia,Cundinamarca,Anapoima,,,,ChIJwbyUtNMUP44R2D3zFwjyXRg,2022-01-01,,,,,-8,
+CO,Colombia,Cundinamarca,Cajicá,,,,ChIJPTjeKmJ3QI4RqJ2VpXPwphI,2022-01-01,-54,-31,-43,,-58,11
+CO,Colombia,Cundinamarca,Caparrapí,,,,ChIJN29rEjTvQI4RLN6sURtSTtw,2022-01-01,,,77,,,
+CO,Colombia,Cundinamarca,Chía,,,,ChIJfRvLsoiHP44RjNsYGh1TiRA,2022-01-01,-49,-41,-56,60,-63,11
+CO,Colombia,Cundinamarca,Chocontá,,,,ChIJ7c-rX68XQI4RuB8K4etOXTU,2022-01-01,,,65,,-50,
+CO,Colombia,Cundinamarca,Cogua,,,,ChIJ43Ag0ShpQI4R3E2QT7LukSY,2022-01-01,,,137,,-57,
+CO,Colombia,Cundinamarca,Cota,,,,ChIJM8rns8OGP44RUHEw0k3LHoU,2022-01-01,-35,-20,0,-44,-68,16
+CO,Colombia,Cundinamarca,El Rosal,,,,ChIJcw2CTBGAQI4RktHZ7qKqZfM,2022-01-01,,,56,,-61,
+CO,Colombia,Cundinamarca,Facatativa,,,,ChIJuVIUsF98P44RTrva3s4QFJM,2022-01-01,-45,-40,-31,,-68,9
+CO,Colombia,Cundinamarca,Fomeque,,,,ChIJpy5ivtPBP44RYFKnQg0XqPM,2022-01-01,,,45,,,
+CO,Colombia,Cundinamarca,Funza,,,,ChIJw5qBv6iCP44Rfq43yAFplNM,2022-01-01,-52,-36,-47,-40,-68,9
+CO,Colombia,Cundinamarca,Fusagasugá,,,,ChIJla6OIcAEP44RayYTPg6JpJQ,2022-01-01,34,26,44,86,-52,8
+CO,Colombia,Cundinamarca,Gachancipá,,,,ChIJZ9RrgfRyQI4RcYthXV2UA6g,2022-01-01,,,-57,,-52,
+CO,Colombia,Cundinamarca,Girardot,,,,ChIJK68WFusoP44RGcXi6Zx1cR0,2022-01-01,8,23,125,,-42,6
+CO,Colombia,Cundinamarca,Guachetá,,,,ChIJ3TMCcqoxQI4R0-6bAjKxJMQ,2022-01-01,,,-7,,,
+CO,Colombia,Cundinamarca,Guaduas,,,,ChIJLWH2PmG9QI4Rc1lT-rlyYTg,2022-01-01,16,,,,-26,
+CO,Colombia,Cundinamarca,Guasca,,,,ChIJHVMYVTaLP44RWlcSjoSbXfk,2022-01-01,,,64,,-47,
+CO,Colombia,Cundinamarca,La Calera,,,,ChIJVwnPTouNP44RHJzfGH3sAqA,2022-01-01,-14,-31,-50,2,-62,12
+CO,Colombia,Cundinamarca,La Mesa,,,,ChIJNRxPpSVsP44RkmwYI8nirr8,2022-01-01,,,93,,-16,
+CO,Colombia,Cundinamarca,La Vega,,,,ChIJyXSEIkeEQI4RCDGIOrx4AWw,2022-01-01,,,96,,-23,
+CO,Colombia,Cundinamarca,Madrid,,,,ChIJcZjlfrV5P44R7lPXJrVoWxI,2022-01-01,-48,-45,-11,-40,-66,12
+CO,Colombia,Cundinamarca,Mesitas del Colegio,,,,ChIJ55WbPzZtP44Rfyf3C6HWYLU,2022-01-01,,,366,,19,
+CO,Colombia,Cundinamarca,Mosquera,,,,ChIJNVE00PZ3P44RrlWvM8U7oGg,2022-01-01,-52,-7,-21,-50,-72,10
+CO,Colombia,Cundinamarca,Nilo,,,,ChIJwyVuuIYhP44ROLenj3GZKJc,2022-01-01,,,,-69,-40,
+CO,Colombia,Cundinamarca,Pacho,,,,ChIJReiUDg1hQI4RFXglyxNnk_8,2022-01-01,,,,,-10,
+CO,Colombia,Cundinamarca,Paratebueno,,,,ChIJix5WUuVoFY4RKHAWHpiyIkQ,2022-01-01,,,-21,,,
+CO,Colombia,Cundinamarca,Ricaurte,,,,ChIJR6UayYgmP44RErHlhpKYG8k,2022-01-01,,,,,-33,
+CO,Colombia,Cundinamarca,Sibaté,,,,ChIJSaumB4QJP44RWI7oI1bwnUU,2022-01-01,44,,,,-49,
+CO,Colombia,Cundinamarca,Silvania,,,,ChIJXWHKRu4PP44RZC8E8tzXy2Y,2022-01-01,,,216,,-18,
+CO,Colombia,Cundinamarca,Soacha,,,,ChIJr3k57n51P44RBCnQHcRTbco,2022-01-01,-51,-10,-38,-59,-65,11
+CO,Colombia,Cundinamarca,Sopó,,,,ChIJwxIXHCd0QI4RoqizjKgQOYE,2022-01-01,-45,30,,,-63,
+CO,Colombia,Cundinamarca,Subachoque,,,,ChIJUenggDl8QI4R7EcyEEZ2FNU,2022-01-01,,,1,,-59,
+CO,Colombia,Cundinamarca,Suesca,,,,ChIJB6OSckkUQI4RAlFf61bzheI,2022-01-01,,,,,-38,
+CO,Colombia,Cundinamarca,Tabio,,,,ChIJJc9OpD15QI4R-YMHmvsoyZw,2022-01-01,-14,,32,,-61,
+CO,Colombia,Cundinamarca,Tena,,,,ChIJkTOFEZlxP44RVZust3dm6GQ,2022-01-01,,,158,,,
+CO,Colombia,Cundinamarca,Tenjo,,,,ChIJb3cLQR6BP44RADyftFpRkx0,2022-01-01,,,49,,-54,
+CO,Colombia,Cundinamarca,Tocancipá,,,,ChIJS8nEacFzQI4R-jkIPnR7ItI,2022-01-01,-52,,-4,,-60,9
+CO,Colombia,Cundinamarca,Villa de San Diego de Ubate,,,,ChIJrz00T244QI4RFgmpdYLmO3Y,2022-01-01,-21,-20,-39,,-72,
+CO,Colombia,Cundinamarca,Villeta,,,,ChIJJ-WzHkGaQI4Rt1l5DHuqchQ,2022-01-01,,,77,,-41,
+CO,Colombia,Cundinamarca,Zipaquirá,,,,ChIJg4Q8Q-BvQI4RaeeppsVAiLk,2022-01-01,-48,-31,-45,-24,-61,8
+CO,Colombia,Guaviare,,,CO-GUV,,ChIJ10lZEGXbEI4Rx1SITSuSNWQ,2022-01-01,,,47,,-40,
+CO,Colombia,Guaviare,San José del Guaviare,,,,ChIJQzV8WLhRF44RAheS1m_MMKA,2022-01-01,,,33,,-43,
+CO,Colombia,Huila,,,CO-HUI,,ChIJCzCnagAjO44Rvf5euiPn0bo,2022-01-01,-4,0,53,,-45,0
+CO,Colombia,Huila,Campoalegre,,,,ChIJscrEuflAO44RkMdJpXimJro,2022-01-01,,,57,,-1,
+CO,Colombia,Huila,Garzon,,,,ChIJyc4PbXjZJI4Rzlh842fQCzE,2022-01-01,,,119,,-36,-4
+CO,Colombia,Huila,La Plata,,,,ChIJmXkTihNKJY4RQjeNPi4OsRs,2022-01-01,,,6,,-36,
+CO,Colombia,Huila,Neiva,,,,ChIJH2cga0B0O44RNytGfiLJApo,2022-01-01,-33,-23,-31,,-62,3
+CO,Colombia,Huila,Palermo,,,,ChIJ7S7itbkOO44R2uuLP40NVeI,2022-01-01,,,,,-30,
+CO,Colombia,Huila,Pitalito,,,,ChIJE-m1g4AMJY4RUaLocjJ9SPo,2022-01-01,-31,10,-14,,-54,-2
+CO,Colombia,Huila,Rivera,,,,ChIJ7QROVzpvO44RfFQRfJx_zmE,2022-01-01,,,,,-23,
+CO,Colombia,La Guajira,,,CO-LAG,,ChIJ_zhyYhSJi44RFpd9GoPY5iI,2022-01-01,-8,-13,9,6,-36,6
+CO,Colombia,La Guajira,Barrancas,,,,ChIJKynyBY0Gi44RspeZJdmS8Rc,2022-01-01,,,-33,,,
+CO,Colombia,La Guajira,Fonseca,,,,ChIJc7AHHAT-io4RfpzGn4nt58M,2022-01-01,,,,,-30,
+CO,Colombia,La Guajira,Maicao,,,,ChIJa-x9_37xi44RMUsDRfqNqUo,2022-01-01,-48,,-29,,-56,12
+CO,Colombia,La Guajira,Riohacha,,,,ChIJfYfvqqVii44ReIFu16gkgq4,2022-01-01,-25,-28,-10,11,-41,4
+CO,Colombia,La Guajira,San Juan del Cesar,,,,ChIJf-wxtFnhio4RGCv_67Q1_MA,2022-01-01,,,,,-35,
+CO,Colombia,La Guajira,Uribia,,,,ChIJqfY2GhGQjo4RnLiNYknv7J0,2022-01-01,,,-16,,,
+CO,Colombia,Magdalena,,,CO-MAG,,ChIJ83MHO58wX44RGxlZqXQjgSk,2022-01-01,-8,18,36,61,-37,5
+CO,Colombia,Magdalena,Ciénaga,,,,ChIJOeEB5MhV9I4RCXLJkkoRMUo,2022-01-01,-21,,43,,-27,7
+CO,Colombia,Magdalena,El Banco,,,,ChIJsSH4a-loXo4RM_GsU0AvGVw,2022-01-01,,,,-46,-34,
+CO,Colombia,Magdalena,Fundación,,,,ChIJ49LWrG9p9Y4RKsn5WJ7oMaU,2022-01-01,,,,,-41,
+CO,Colombia,Magdalena,Plato,,,,ChIJ2UNmvaA9X44R-jS9m44eONA,2022-01-01,,,42,,6,
+CO,Colombia,Magdalena,Santa Marta,,,,ChIJrQDajIDo9I4R6nlvLdvKeP4,2022-01-01,-18,15,19,76,-44,6
+CO,Colombia,Magdalena,Sitionuevo,,,,ChIJV5ZRbwLL9Y4R2V_0mt6Zb9I,2022-01-01,,,126,,,
+CO,Colombia,Meta,,,CO-MET,,ChIJb0oPImFBFo4RxjdvCI8cRdY,2022-01-01,3,6,62,28,-53,3
+CO,Colombia,Meta,Acacías,,,,ChIJ3UCIqcs7Po4R5DpOW2E8hkY,2022-01-01,86,56,130,,-52,1
+CO,Colombia,Meta,Barranca de Upía,,,,ChIJCXQKPkc8FY4RYpuTpv2t3fM,2022-01-01,,,-24,,,
+CO,Colombia,Meta,Castilla la Nueva,,,,ChIJ_egxUjMXPo4RJMdL266eXGA,2022-01-01,,,65,,,
+CO,Colombia,Meta,Cumaral,,,,ChIJL2L8OaTxFI4Rh39okfTClIQ,2022-01-01,,,140,,-43,
+CO,Colombia,Meta,Granada,,,,ChIJJTrbfqDjPY4RCXPS_j9uOsM,2022-01-01,17,,39,,-42,-1
+CO,Colombia,Meta,Puerto Gaitán,,,,ChIJH8kJcl-bE44RLOi7LDu6xP8,2022-01-01,-30,,50,,-8,
+CO,Colombia,Meta,Puerto Lleras,,,,ChIJjfiaPI88Fo4RUhRFDCSkVVQ,2022-01-01,,,148,,,
+CO,Colombia,Meta,Puerto López,,,,ChIJH618LvakFY4RarJl8Ewo7yo,2022-01-01,,,160,,-35,
+CO,Colombia,Meta,Restrepo,,,,ChIJQ_FaCY_TP44R8ur7hEKYX1w,2022-01-01,,,,,-45,
+CO,Colombia,Meta,San Martín,,,,ChIJcfh4HVx0Fo4RxtBTQ_7opGE,2022-01-01,,,,,-24,
+CO,Colombia,Meta,Villavicencio,,,,ChIJ9-MfbuUtPo4RrC6CiDbbNDw,2022-01-01,-22,-24,8,6,-61,5
+CO,Colombia,Narino,,,CO-NAR,,ChIJjQ6m6H4gLI4R6uZgqP61Nns,2022-01-01,-26,-14,19,94,-47,6
+CO,Colombia,Narino,Chachagüí,,,,ChIJyWlwaUzZLo4RzBEEn3S7JRk,2022-01-01,,,125,85,,
+CO,Colombia,Narino,Ipiales,,,,ChIJVwHw7L9rKY4R8FuCMzrsz-0,2022-01-01,-28,-29,-16,,-55,6
+CO,Colombia,Narino,La Unión,,,,ChIJj-0H0fEcL44RjCHt17GU3nE,2022-01-01,,,-47,,-41,
+CO,Colombia,Narino,Pasto,,,,ChIJ_QMlcoXULo4RdYq8avIejyk,2022-01-01,-43,-28,-18,,-61,6
+CO,Colombia,Narino,San Andres de Tumaco,,,,ChIJh6sak11YLI4RuKBzLR8pTXA,2022-01-01,18,15,14,-50,-37,5
+CO,Colombia,Narino,Túquerres,,,,ChIJCYt_cj9LKY4RhD9_5qAX0kU,2022-01-01,,,,,-42,
+CO,Colombia,North Santander,,,CO-NSA,,ChIJe7AZn3ZFZo4RnvxECXA4KSY,2022-01-01,-36,-18,-9,21,-60,8
+CO,Colombia,North Santander,Chinácota,,,,ChIJk3nDiv8tZo4RMQ-nzSkfzEM,2022-01-01,,,55,,,
+CO,Colombia,North Santander,Cucuta,,,,ChIJscWUDGFYZo4ROryvyLtBEDk,2022-01-01,-47,-25,-42,30,-64,9
+CO,Colombia,North Santander,El Zulia,,,,ChIJQZIaIv1RZo4RYI5FFtHbcbA,2022-01-01,,,22,,-36,
+CO,Colombia,North Santander,Los Patios,,,,ChIJPyb2eQRGZo4RmzxDWd6dcOI,2022-01-01,13,-12,17,,-62,7
+CO,Colombia,North Santander,Ocaña,,,,ChIJ0R9tHZd7Z44RyZi0P_i17vM,2022-01-01,-16,-25,-15,,-61,4
+CO,Colombia,North Santander,Pamplona,,,,ChIJ2Su7Y8SAaI4R-IG_FAtTKcM,2022-01-01,-42,,18,,-53,9
+CO,Colombia,North Santander,Tibú,,,,ChIJATTukzgoZ44RKMd3KpEfLJQ,2022-01-01,,,18,,-34,
+CO,Colombia,North Santander,Villa Del Rosario,,,,ChIJQSm97JpHZo4RjITFWio97Tw,2022-01-01,4,-21,-12,,-61,9
+CO,Colombia,Putumayo,,,CO-PUT,,ChIJ4dNiCRwQJ44RphIOU5DEezg,2022-01-01,57,54,14,,-33,-3
+CO,Colombia,Putumayo,Mocoa,,,,ChIJ0-tCR8eyKI4RypprNZ2b6h0,2022-01-01,,,-23,,-41,-5
+CO,Colombia,Putumayo,Orito,,,,ChIJ99UCfl_tKI4Rwx-1Tk8o2R4,2022-01-01,,,15,,-30,
+CO,Colombia,Putumayo,Puerto Asís,,,,ChIJAeW5Id1-KI4RLhRTFz0LpRQ,2022-01-01,,,30,,-39,
+CO,Colombia,Putumayo,Sibundoy,,,,ChIJ5TOMWFszL44R7dJni-CIM8Y,2022-01-01,,,24,,,
+CO,Colombia,Putumayo,Valle del Guamuez,,,,ChIJXeMcGT1DKI4RfKXYEXDcUTc,2022-01-01,,,-27,,-21,
+CO,Colombia,Putumayo,Villagarzón,,,,ChIJyWqXFPm-KI4RnnLtHU25VdU,2022-01-01,,,18,,-26,
+CO,Colombia,Quindio,,,CO-QUI,,ChIJX4ofDKJUOI4R44PjiT5XqwU,2022-01-01,-17,-17,26,,-55,5
+CO,Colombia,Quindio,Armenia,,,,ChIJL2WGT471OI4REQUgersu05A,2022-01-01,-45,-35,-36,,-64,5
+CO,Colombia,Quindio,Calarca,,,,ChIJuXzQt7H3OI4RLhMJ7t-dLKc,2022-01-01,28,1,74,,-50,5
+CO,Colombia,Quindio,Circasia,,,,ChIJ-dLCRP2KOI4RvnO8owm4F9k,2022-01-01,,,37,,-39,
+CO,Colombia,Quindio,Filandia,,,,ChIJ2fJAon2JOI4R-LzEoz13aBw,2022-01-01,,,107,,,
+CO,Colombia,Quindio,La Tebaida,,,,ChIJCQ_MiI9ZOI4R866anLsgx8g,2022-01-01,,,55,28,-44,
+CO,Colombia,Quindio,Montenegro,,,,ChIJeb75VzNeOI4RAzhnvtbWg3I,2022-01-01,,,7,,-39,
+CO,Colombia,Quindio,Quimbaya,,,,ChIJIeQ3wQFhOI4RSokKOL64WVc,2022-01-01,,,116,,-27,
+CO,Colombia,Quindio,Salento,,,,ChIJ5SDE7bySOI4RupnWre7tgY8,2022-01-01,,,80,,-22,
+CO,Colombia,Risaralda,,,CO-RIS,,ChIJIa1iMeKAOI4RsIIuwg6R6io,2022-01-01,-33,-33,-14,-15,-62,4
+CO,Colombia,Risaralda,Dosquebradas,,,,ChIJA4PXXMSAOI4R_pMlCM8lBus,2022-01-01,-24,-35,23,,-69,3
+CO,Colombia,Risaralda,La Virginia,,,,ChIJAe8eRg54OI4RzmAg4DPwt8Y,2022-01-01,,,44,,-32,
+CO,Colombia,Risaralda,Marsella,,,,ChIJeeZvbGWAR44RPfGK8so_cIo,2022-01-01,,,54,,,
+CO,Colombia,Risaralda,Pereira,,,,ChIJvZg6-_-GOI4Ro7Dx4XsrBIA,2022-01-01,-41,-42,-45,-5,-67,5
+CO,Colombia,Risaralda,Santa Rosa de Cabal,,,,ChIJPwN5FEGDOI4RZn2HY-Fj1bY,2022-01-01,28,-5,36,,-56,3
+CO,Colombia,San Andres and Providencia,,,CO-SAP,,ChIJ4fBdUFXSBI8RKYUk0Gcbqkg,2022-01-01,13,,-27,78,-48,
+CO,Colombia,San Andres and Providencia,San Andrés,,,,ChIJ-TR0F3WlBY8RLE8Ri-bjajU,2022-01-01,13,-25,-28,81,-49,13
+CO,Colombia,Santander,,,CO-SAN,,ChIJm4wE_VJ4Qo4RJeD6ou1GDvc,2022-01-01,-33,-29,20,-14,-61,6
+CO,Colombia,Santander,Barbosa,,,,ChIJt4WgmQ3lQY4R-uak69QSOU0,2022-01-01,,,196,,-14,
+CO,Colombia,Santander,Barichara,,,,ChIJXychnXfPaY4RJtcRz7SMofw,2022-01-01,,,165,,,
+CO,Colombia,Santander,Barrancabermeja,,,,ChIJLVmCUFbrQo4RQBgY0NfZmzg,2022-01-01,-30,-15,10,-52,-53,4
+CO,Colombia,Santander,Bucaramanga,,,,ChIJ_4qNVdo_aI4RCo5jYtH5RfA,2022-01-01,-65,-59,-43,-45,-72,8
+CO,Colombia,Santander,Cimitarra,,,,ChIJp334NW40Qo4RvhyGFUjZqPU,2022-01-01,,,-17,-56,-21,
+CO,Colombia,Santander,Floridablanca,,,,ChIJt8vI7GI_aI4RKgBB7he4xDY,2022-01-01,-36,-38,-16,24,-67,8
+CO,Colombia,Santander,Girón,,,,ChIJM0OWG3wjaI4RWBERV_VOcfY,2022-01-01,-2,-24,22,19,-63,8
+CO,Colombia,Santander,Lebrija,,,,ChIJufHjagcBaI4RYe5ODFrqyBc,2022-01-01,23,,,,-39,
+CO,Colombia,Santander,Malaga,,,,ChIJVawpdSKqaY4Rlctpcfn3BrA,2022-01-01,,,-48,-43,-34,
+CO,Colombia,Santander,Oiba,,,,ChIJpeKyp_T6aY4RhDWhNtTCyCU,2022-01-01,,,22,,,
+CO,Colombia,Santander,Piedecuesta,,,,ChIJd7xD_59IaI4RGHIDQxhPFR8,2022-01-01,-23,18,66,1,-60,6
+CO,Colombia,Santander,Sabana de Torres,,,,ChIJF2mn732sQo4RWOUuRm5dYDU,2022-01-01,,,-23,,-41,
+CO,Colombia,Santander,San Gil,,,,ChIJW4z0hdHGaY4RqYNndE-6MWI,2022-01-01,6,17,-13,-68,-60,3
+CO,Colombia,Santander,San Vicente de Chucurí,,,,ChIJaT1ysIKDQo4RZvfGnLTStSY,2022-01-01,,,47,,-47,
+CO,Colombia,Santander,Socorro,,,,ChIJtwLLP6TCaY4RMi0YHnQIPzg,2022-01-01,-23,,11,,-48,
+CO,Colombia,Santander,Vélez,,,,ChIJs8bbi3obQo4RmneViXv7lD0,2022-01-01,,,-2,,-46,
+CO,Colombia,Sucre,,,CO-SUC,,ChIJ8YlDTjxaWI4R-0EWY0TZLd8,2022-01-01,6,3,36,-57,-46,3
+CO,Colombia,Sucre,Corozal,,,,ChIJWSVoUyg8WY4RZNNnMbXXCvo,2022-01-01,,,56,,-36,1
+CO,Colombia,Sucre,Sincelejo,,,,ChIJB999iTUUWY4RqmMX84ENV40,2022-01-01,-36,-35,-10,,-62,3
+CO,Colombia,Sucre,Tolú,,,,ChIJIRHcoHQDWY4R0GzAZTi-bZg,2022-01-01,,,97,,-30,
+CO,Colombia,Tolima,,,CO-TOL,,ChIJCd_Y75zEOI4RlzwFW87NAc8,2022-01-01,12,9,116,-13,-51,4
+CO,Colombia,Tolima,Cajamarca,,,,ChIJR8-BbnflOI4RXla7aw8kCvU,2022-01-01,,,82,,,
+CO,Colombia,Tolima,Chaparral,,,,ChIJf-4AJvRkOY4RAfuwSda_Vao,2022-01-01,,,154,,-32,
+CO,Colombia,Tolima,Flandes,,,,ChIJdYz0xGEoP44RMlpCUsMWjZs,2022-01-01,,,,,-56,
+CO,Colombia,Tolima,Guamo,,,,ChIJ5Q1mZbDSPo4RCoAnmil6jaE,2022-01-01,,,198,,-24,
+CO,Colombia,Tolima,Honda,,,,ChIJG8t4u3m4QI4RdTJ7YgecDbo,2022-01-01,,,68,,-17,
+CO,Colombia,Tolima,Ibague,,,,ChIJw4N9lwnEOI4RjnG5Vu4_b-E,2022-01-01,-26,-31,20,-36,-65,5
+CO,Colombia,Tolima,Icononzo,,,,ChIJE6UZjwDnPo4Rto8wlAEnzHI,2022-01-01,,,148,,,
+CO,Colombia,Tolima,Líbano,,,,ChIJu7rZoXpWR44R6sE-8AfaM9I,2022-01-01,,,102,,-15,
+CO,Colombia,Tolima,Mariquita,,,,ChIJk2feamrKQI4RsgCDFWoJzMg,2022-01-01,92,-1,49,,-48,
+CO,Colombia,Tolima,Melgar,,,,ChIJ_8PcFv3ePo4RA-1g4WkG42M,2022-01-01,51,97,226,,-29,7
+CO,Colombia,Valle del Cauca,,,CO-VAC,,ChIJj0EMhiryNo4RoExlemHhg-s,2022-01-01,-36,-31,-1,-40,-62,8
+CO,Colombia,Valle del Cauca,Andalucía,,,,ChIJw46Q5EnJOY4RaRm0OSXDpAg,2022-01-01,,,,,-48,
+CO,Colombia,Valle del Cauca,Buenaventura,,,,ChIJ1a-EAXgkN44RFFOM1NrrLyk,2022-01-01,-34,-43,3,,-58,12
+CO,Colombia,Valle del Cauca,Bugalagrande,,,,ChIJRXTCNZTLOY4R_vijFI80QaA,2022-01-01,,,,,-51,
+CO,Colombia,Valle del Cauca,Caicedonia,,,,ChIJczNuaehTOI4RCfpdg1A1Uko,2022-01-01,,,80,,-5,
+CO,Colombia,Valle del Cauca,Cali,,,,ChIJESedtkOmMI4R--NFJ63l3jc,2022-01-01,-48,-38,-20,-55,-69,10
+CO,Colombia,Valle del Cauca,Calima,,,,ChIJYeuaIh9DN44Ru9dTpkHqpbY,2022-01-01,,,52,,-8,
+CO,Colombia,Valle del Cauca,Candelaria,,,,ChIJPzfZiJELOo4RBFbVbU72qXc,2022-01-01,38,-25,88,,-50,7
+CO,Colombia,Valle del Cauca,Cartago,,,,ChIJfctJtvxvOI4R_VAnQsqtEro,2022-01-01,-11,-8,-4,-25,-59,2
+CO,Colombia,Valle del Cauca,Dagua,,,,ChIJ_Rpms9tMN44Rh9sdIzl7mq4,2022-01-01,32,,,-26,-33,
+CO,Colombia,Valle del Cauca,El Cerrito,,,,ChIJUa9SbqH5OY4RDAhu90ywG3s,2022-01-01,62,,103,,-34,4
+CO,Colombia,Valle del Cauca,Florida,,,,ChIJSx94PckSOo4Ry4aVCVFsx9Q,2022-01-01,,,86,,-40,4
+CO,Colombia,Valle del Cauca,Ginebra,,,,ChIJvSegcafwOY4Ryxx2SjgSBhc,2022-01-01,,,,,-26,
+CO,Colombia,Valle del Cauca,Guacarí,,,,ChIJOYxUghH7OY4RXdTCQXl-VL4,2022-01-01,,,2,,-36,
+CO,Colombia,Valle del Cauca,Guadalajara de Buga,,,,ChIJK7UTTrnsOY4RUFPKTAHNjEE,2022-01-01,-22,-41,-10,,-62,4
+CO,Colombia,Valle del Cauca,Jamundí,,,,ChIJ4WhQCLieMI4RFSQw06kORvE,2022-01-01,-16,-26,1,,-56,6
+CO,Colombia,Valle del Cauca,La Cumbre,,,,ChIJr0YXkcZTN44RoGI_KRkmqyM,2022-01-01,,,60,,,
+CO,Colombia,Valle del Cauca,La Unión,,,,ChIJCTC9zG0_OI4RVKFT9JSWJwE,2022-01-01,,,25,,-21,
+CO,Colombia,Valle del Cauca,Palmira,,,,ChIJ50-bZo0EOo4RztMKkH4J1Qk,2022-01-01,-29,-43,-19,71,-60,5
+CO,Colombia,Valle del Cauca,Pradera,,,,ChIJvaB2tb8ROo4RwBeDgQwSTnw,2022-01-01,,,,,-31,
+CO,Colombia,Valle del Cauca,Roldanillo,,,,ChIJ1T7Dazw3OI4Rm5Qs3jXlht4,2022-01-01,,,-2,,-46,
+CO,Colombia,Valle del Cauca,San Pedro,,,,ChIJTwmtn0fCOY4RamdR0sg8s_s,2022-01-01,,,,,-44,
+CO,Colombia,Valle del Cauca,Sevilla,,,,ChIJJZfgMiWuOY4Ryu-9pMwwmQ8,2022-01-01,,,118,,-19,
+CO,Colombia,Valle del Cauca,Tuluá,,,,ChIJJZxtXbvFOY4R-_c1itIe7kY,2022-01-01,-22,-34,-24,-54,-59,4
+CO,Colombia,Valle del Cauca,Yumbo,,,,ChIJ-9bNDq-rMI4RjK0W2Nxbwbc,2022-01-01,-19,-50,-43,,-61,10
+CO,Colombia,Valle del Cauca,Zarzal,,,,ChIJ560oGy1IOI4Rwk5BM9YGw6E,2022-01-01,,,81,,-28,
+CO,Colombia,Vichada,Puerto Carreño,,,,ChIJ9Yxz9jkZdo4RuhjbKk8Tqpg,2022-01-01,,,,,-21,

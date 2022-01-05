@@ -1,0 +1,4 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+GH,Ghana,,,,,,ChIJx9baqM1a1w8RNtKT0DDy11Q,2022-01-01,20,44,0,11,-28,12
+GH,Ghana,,,Accra Metropolitan Area,,,ChIJ6fNExKqb3w8RGqR8UDG1n5Q,2022-01-01,22,54,-8,2,-29,15
+GH,Ghana,,,Kumasi Metropolitan Area,,,ChIJ05lJ3faW2w8RUO6U-21oRA8,2022-01-01,19,2,-2,9,-40,12

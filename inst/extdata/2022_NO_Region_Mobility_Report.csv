@@ -1,0 +1,89 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+NO,Norway,,,,,,ChIJv-VNj0VoEkYRK9BkuJ07sKE,2022-01-01,-82,-89,-12,-54,-51,7
+NO,Norway,Agder,,,NO-42,,ChIJD0JSTvhPOEYR8vitVnMQwW0,2022-01-01,-80,-84,-11,-50,-47,7
+NO,Norway,Agder,Arendal Municipality,,,,ChIJlS1QDGK_R0YRa-8OK3vK0Ps,2022-01-01,-86,-88,-33,-57,-53,
+NO,Norway,Agder,Grimstad Municipality,,,,ChIJsa97QOroR0YRFTsULrQD7ak,2022-01-01,,-86,,,-50,
+NO,Norway,Agder,Kristiansand Municipality,,,,ChIJT-OcM68JSEYRGl6Fddm9zxI,2022-01-01,-82,-85,-3,-45,-56,7
+NO,Norway,Agder,Lindesnes Municipality,,,,ChIJ88hciF-DN0YRw6ptINtDeYE,2022-01-01,,-83,,,-47,
+NO,Norway,Innlandet,,,NO-34,,ChIJi7dNxCDIakYRGiV44hMlmp8,2022-01-01,-77,-87,-1,-51,-47,7
+NO,Norway,Innlandet,Elverum Municipality,,,,ChIJpUNoubb5aUYRciqpk_eBh2U,2022-01-01,-80,,,,-53,
+NO,Norway,Innlandet,Gjøvik Municipality,,,,ChIJN8_hiS8rQEYR4S7oCOch6-o,2022-01-01,-90,-93,,,-54,
+NO,Norway,Innlandet,Hamar Municipality,,,,ChIJXRMKSP8MakYRrUHxsr0KnCw,2022-01-01,-87,-91,,-63,-54,
+NO,Norway,Innlandet,Lillehammer Municipality,,,,ChIJSfDxgY2IakYRT4ClnwHLo28,2022-01-01,-74,-92,,-36,-58,
+NO,Norway,Innlandet,Ringsaker,,,,ChIJT50kojN3akYRJI8efVw3pZo,2022-01-01,-76,-76,,-63,-55,
+NO,Norway,Innlandet,Stange Municipality,,,,ChIJe9-aOcjwQUYRkVItQzwyQ-A,2022-01-01,,,,,-53,
+NO,Norway,Møre og Romsdal,,,NO-15,,ChIJWcLG1x1UEUYRWmPHRZ1TRJ4,2022-01-01,-84,-90,7,-37,-57,8
+NO,Norway,Møre og Romsdal,Ålesund Municipality,,,,ChIJu7ZO68LPFkYRhZDW1GKE8dM,2022-01-01,-85,-88,,-50,-60,7
+NO,Norway,Møre og Romsdal,Giske Municipality,,,,ChIJC2SEfvYrF0YRhZkEj4mBUTY,2022-01-01,,,,-33,,
+NO,Norway,Møre og Romsdal,Kristiansund Municipality,,,,ChIJx-ui2u7EE0YRR4uSxXCJpJ4,2022-01-01,-89,-81,,,-62,
+NO,Norway,Møre og Romsdal,Molde,,,,ChIJf0iFNnj6E0YRFnspqlUB-p8,2022-01-01,-82,-87,,-40,-58,
+NO,Norway,Nordland,,,NO-18,,ChIJU1QPxFM-30URIB3dD6sIAgM,2022-01-01,-84,-90,-7,-22,-54,5
+NO,Norway,Nordland,Bodø Municipality,,,,ChIJ67c2gwcI30URcyApT1WEDEI,2022-01-01,-87,-91,,-31,-52,4
+NO,Norway,Nordland,Narvik Municipality,,,,ChIJ4UZVzb7G20UR3LWYmEM91Vg,2022-01-01,,-90,,,-59,
+NO,Norway,Nordland,Rana Municipality,,,,ChIJK827AOXtdUYRT0npHA5C5bA,2022-01-01,,-87,,,-52,
+NO,Norway,Nordland,Vefsn Municipality,,,,ChIJ418I-k5adEYR88kApGOdeiA,2022-01-01,,,,,-60,
+NO,Norway,Oslo,,,NO-03,,ChIJvRIImcJtQUYReQpUuAPqbBA,2022-01-01,-81,-83,-26,-63,-55,6
+NO,Norway,Rogaland,,,NO-11,,ChIJC9fcKj81OkYRvMAMC7ocBuA,2022-01-01,-82,-91,17,-54,-53,9
+NO,Norway,Rogaland,Hå Municipality,,,,ChIJEZWZEKMMOUYRKm80EX6UAZs,2022-01-01,,,,,-59,
+NO,Norway,Rogaland,Haugesund Municipality,,,,ChIJKR368gNyO0YRtOKlloSC2Gg,2022-01-01,-88,-90,,-51,-52,
+NO,Norway,Rogaland,Karmøy,,,,ChIJFcNPiSsPO0YRwrFcGMSR1KE,2022-01-01,-79,-94,,-59,-56,
+NO,Norway,Rogaland,Klepp,,,,ChIJ1yzD_A9FOkYRSa_-8VUcj7o,2022-01-01,-72,-93,,,-51,
+NO,Norway,Rogaland,Sandnes Municipality,,,,ChIJzXEoKBIyOkYRyj1PFuoXYE8,2022-01-01,-84,-94,,-59,-56,8
+NO,Norway,Rogaland,Sola,,,,ChIJJXxxGyRbOkYRuUJ5mpIKb00,2022-01-01,,-88,,-50,-57,
+NO,Norway,Rogaland,Stavanger Municipality,,,,ChIJKUhVXszMO0YRlfJ9w4UpBbw,2022-01-01,-86,-90,15,-62,-59,9
+NO,Norway,Rogaland,Time Municipality,,,,ChIJu2NVZSk5OkYR0DYFWw9O0Hs,2022-01-01,-91,,,,-64,
+NO,Norway,Troms og Finnmark fylke,,,NO-54,,ChIJhwjlWeowz0URUqTmfXklFw8,2022-01-01,-86,-91,-19,-32,-49,5
+NO,Norway,Troms og Finnmark fylke,Alta,,,,ChIJY9UuFwJAz0URIj5Ne8rTLvo,2022-01-01,,-88,,,-59,
+NO,Norway,Troms og Finnmark fylke,Hammerfest Municipality,,,,ChIJny1mfYqmyEURe2_gTZA5z9A,2022-01-01,,,,,-57,
+NO,Norway,Troms og Finnmark fylke,Harstad Municipality,,,,ChIJIa5gyE2A20UR_lWTo4ziqMQ,2022-01-01,-95,-87,,,-53,
+NO,Norway,Troms og Finnmark fylke,Senja,,,,ChIJR2-F81en3EUR7QwOL8nH_wQ,2022-01-01,,,,,-51,
+NO,Norway,Troms og Finnmark fylke,Sor-Varanger,,,,ChIJR9GN3S1Ry0URqJvoYapOwJA,2022-01-01,,,,,-53,
+NO,Norway,Troms og Finnmark fylke,Tromsø Municipality,,,,ChIJvQ0IsGS7cUYRR-jE7WOFpcs,2022-01-01,-86,-89,-16,-29,-49,4
+NO,Norway,Trøndelag,,,NO-50,,ChIJvTic8NUzbUYRflObX3-sL_0,2022-01-01,-85,-92,-9,-55,-51,6
+NO,Norway,Trøndelag,Levanger Municipality,,,,ChIJlwVXLHdvbUYRmCPfLSDT_LU,2022-01-01,,-89,,,-48,
+NO,Norway,Trøndelag,Orkland,,,,ChIJS-os14_YEkYRrHnW8E_AvP4,2022-01-01,,-87,,,-48,
+NO,Norway,Trøndelag,Steinkjer Municipality,,,,ChIJxWPAXxiPckYRs58i2e6idts,2022-01-01,-87,,,,-59,
+NO,Norway,Trøndelag,Stjørdal Municipality,,,,ChIJl40COZISbUYRuZj_LTtxgZQ,2022-01-01,,,,-47,-49,
+NO,Norway,Trøndelag,Trondheim Municipality,,,,ChIJ96h6VB0ubUYRVNnGf4YJrlc,2022-01-01,-85,-91,19,-65,-53,6
+NO,Norway,Vestfold og Telemark,,,NO-38,,ChIJVfIRGaRaR0YReuL0C6KfSvw,2022-01-01,-81,-88,-7,-58,-53,8
+NO,Norway,Vestfold og Telemark,Færder,,,,ChIJdSoU7CSYRkYRUUF7Eic0YD4,2022-01-01,,,,,-50,
+NO,Norway,Vestfold og Telemark,Holmestrand Municipality,,,,ChIJCSVaj0E0QUYRYRyrRkb2O68,2022-01-01,,,,,-59,
+NO,Norway,Vestfold og Telemark,Horten,,,,ChIJhzLMUbq0RkYRW5Qdvw6dBJQ,2022-01-01,-84,-91,,-52,-62,
+NO,Norway,Vestfold og Telemark,Larvik Municipality,,,,ChIJR6ZjpCPzRkYRIsdPU7LrcjM,2022-01-01,-81,-85,,-58,-57,
+NO,Norway,Vestfold og Telemark,Porsgrunn Municipality,,,,ChIJvcTKl5ngRkYRlV1Anx5q0_g,2022-01-01,-79,-92,,-45,-56,
+NO,Norway,Vestfold og Telemark,Sandefjord,,,,ChIJJWCaqZ-WRkYR1sORnlhxXVw,2022-01-01,-82,-89,-42,-56,-58,8
+NO,Norway,Vestfold og Telemark,Skien Municipality,,,,ChIJXeprAaslR0YR3bJWT-eWJrs,2022-01-01,-87,-91,,-63,-54,
+NO,Norway,Vestfold og Telemark,Tønsberg Municipality,,,,ChIJnWJKJSO3RkYRcdlRb9SMS6w,2022-01-01,-83,-90,,-60,-52,
+NO,Norway,Vestland,,,NO-46,,ChIJv16rc8s5FkYROwJbXfdDQg0,2022-01-01,-83,-92,-23,-18,-54,7
+NO,Norway,Vestland,Alver,,,,ChIJVZ0FvFgQPUYRkE0tYVR21XI,2022-01-01,,,,,-52,
+NO,Norway,Vestland,Askøy,,,,ChIJoUPh5sIdPUYRfDgaPJTB6Kk,2022-01-01,,-90,,,-54,
+NO,Norway,Vestland,Bergen Municipality,,,,ChIJ-VwsUUkNOUYRsOz5MMzt87g,2022-01-01,-83,-91,-43,-23,-50,7
+NO,Norway,Vestland,Bjørnafjorden,,,,ChIJx7owCaVbPEYR6vm0WJhPyCA,2022-01-01,,-93,,,-68,
+NO,Norway,Vestland,Kinn,,,,ChIJW_vSOMh4F0YRfSIWGTwS3po,2022-01-01,,,,,-59,
+NO,Norway,Vestland,Øygarden Municipality,,,,ChIJPczY4rooPUYRLX1iBhqU_RM,2022-01-01,-91,-96,,,-62,
+NO,Norway,Vestland,Stord Municipality,,,,ChIJpX7Qx_x7PEYReKr2e7td4O4,2022-01-01,,,,,-55,
+NO,Norway,Vestland,Sunnfjord,,,,ChIJP8cUaCIxFkYRvi9dlJ2PF8g,2022-01-01,,-94,,,-57,
+NO,Norway,Vestland,Voss Municipality,,,,ChIJ42FIDGHDPUYR_zBDxG1xLXw,2022-01-01,,-88,,,-53,
+NO,Norway,Viken,,,NO-30,,ChIJcU9uGtfvQEYRag4KtVvjDxo,2022-01-01,-81,-89,-13,-60,-48,7
+NO,Norway,Viken,Ås Municipality,,,,ChIJ36nfZJZcQUYRtpbxRAaBXuU,2022-01-01,-89,-91,,,-52,
+NO,Norway,Viken,Asker Municipality,,,,ChIJPX3qwSI-QUYRarbJnlpokgI,2022-01-01,-88,-92,,-61,-51,6
+NO,Norway,Viken,Bærum,,,,ChIJCwoHxOa6RkYRPVrYyP2ga6g,2022-01-01,-86,-87,,-58,-55,6
+NO,Norway,Viken,Drammen Municipality,,,,ChIJW-h_314jQUYR1uuAS9lDQ_0,2022-01-01,-84,-92,,-57,-46,6
+NO,Norway,Viken,Eidsvoll Municipality,,,,ChIJH2JzAviLQUYROwtnTnGQ1gg,2022-01-01,,,,-46,-48,
+NO,Norway,Viken,Fredrikstad Municipality,,,,ChIJFyZGYlsdREYRt3hLR5OUurQ,2022-01-01,-80,-88,,-68,-48,8
+NO,Norway,Viken,Halden Municipality,,,,ChIJB_1RusNsREYRlM6ztGq0LK4,2022-01-01,-77,-89,,-56,-49,
+NO,Norway,Viken,Indre Østfold,,,,ChIJWeyb4ILkQ0YRlt1PxGP36EM,2022-01-01,-75,-91,,-61,-52,
+NO,Norway,Viken,Kongsberg,,,,ChIJ8-mmUTHRQEYRNEkWtzwAOi8,2022-01-01,-88,-91,,,-60,
+NO,Norway,Viken,Lier Municipality,,,,ChIJLYwZpjsYQUYRAhDgV0yX93M,2022-01-01,-67,-89,,,-55,
+NO,Norway,Viken,Lillestrøm,,,,ChIJUXJwrwbYQ0YRmdAJ9UGYkrs,2022-01-01,-85,-91,,-60,-59,5
+NO,Norway,Viken,Lørenskog Municipality,,,,ChIJ-eOdlPZkQUYRzes2YJ0jrkI,2022-01-01,-84,-88,,-63,-60,
+NO,Norway,Viken,Moss,,,,ChIJcdWcYIVNQUYRfIWY2vyKANU,2022-01-01,-83,-93,,-64,-55,
+NO,Norway,Viken,Nannestad Municipality,,,,ChIJa-9jm36bQUYRWAFa3Zk5-I0,2022-01-01,,,,,-53,
+NO,Norway,Viken,Nes,,,,ChIJlaa6VissQkYRBtuOMZpfkWk,2022-01-01,,-91,,,-46,
+NO,Norway,Viken,Nittedal Municipality,,,,ChIJVyQlU4l2QUYRp9-RCihIDXc,2022-01-01,,,,,-53,
+NO,Norway,Viken,Nordre Follo,,,,ChIJYVYWoXNdQUYRX78ZSqFczjM,2022-01-01,-88,-90,,-65,-59,
+NO,Norway,Viken,Øvre Eiker Municipality,,,,ChIJV8l9UzLfQEYRPY28OWXo2RU,2022-01-01,,,,,-49,
+NO,Norway,Viken,Ringerike Municipality,,,,ChIJ72li8tOsQUYRm5ZnGxteFjw,2022-01-01,-87,-93,,-49,-47,
+NO,Norway,Viken,Sarpsborg Municipality,,,,ChIJMeVmAekFREYRVGg8MREt_Iw,2022-01-01,-77,-93,,-63,-48,
+NO,Norway,Viken,Ullensaker Municipality,,,,ChIJD0YijaaBQUYR-OVRIcc0ZOk,2022-01-01,-82,-89,,-47,-59,
+NO,Norway,Viken,Vestby Municipality,,,,ChIJ3ZWyJidYQUYReEPjiGydeD0,2022-01-01,-84,,,,,

@@ -1,0 +1,29 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CM,Cameroon,,,,,,ChIJIQ8-cFM3YRARU5uCmUXEAys,2022-01-01,13,22,18,34,-49,5
+CM,Cameroon,Adamawa,,,CM-AD,,ChIJWwh3JNS18RARIt_y5d85GnE,2022-01-01,,,,,-25,
+CM,Cameroon,Adamawa,Vina,,,,ChIJ1z492Ye57xARJjAGiHRYYn4,2022-01-01,,,,,-19,
+CM,Cameroon,Centre,,,CM-CE,,ChIJd3maMHrPixARaSVjg0STQEc,2022-01-01,13,20,-22,47,-50,4
+CM,Cameroon,Centre,Lekie,,,,ChIJmyh0B-8QixARAMcPnJRmKLw,2022-01-01,6,0,-34,55,-51,7
+CM,Cameroon,Centre,Mefou-et-Afamba,,,,ChIJF_NBZl_yixAR4KCodaWzozQ,2022-01-01,24,87,30,54,-51,3
+CM,Cameroon,East,,,CM-ES,,ChIJfYUIQ2CYkhARegFaQ-sQo-k,2022-01-01,,,,,-17,
+CM,Cameroon,East,Lom -Et- Djerem,,,,ChIJDWfYqi9f7RAR2BwtpT_tDZk,2022-01-01,,,,,-13,
+CM,Cameroon,Far North,,,CM-EN,,ChIJN67D-yJtHBERbwYZUxIq0Zo,2022-01-01,,,,,-21,
+CM,Cameroon,Far North,Diamare,,,,ChIJ_eamAbujHREResHL6xhfXq0,2022-01-01,,,,,-22,
+CM,Cameroon,Littoral,,,CM-LT,,ChIJbf7h4osSYRAROTQqubbrl5s,2022-01-01,20,17,29,22,-55,10
+CM,Cameroon,Littoral,Moungo,,,,ChIJyRRSnDwXYRARzFBb9g7ZACg,2022-01-01,,-16,,,-32,
+CM,Cameroon,Littoral,Nkam,,,,ChIJlwDeTa05YBARHSta1Optxmc,2022-01-01,,,87,,,
+CM,Cameroon,Littoral,Wouri,,,,ChIJvThOVBxrYRAR1oI-McfV2KQ,2022-01-01,18,25,3,23,-56,11
+CM,Cameroon,North,,,CM-NO,,ChIJY84g8C3I_BARzuy9UeTEQp8,2022-01-01,,,,,-30,
+CM,Cameroon,North,Bénoué,,,,ChIJATSf1YpO4xARVCSDkaj1LpM,2022-01-01,,,,,-36,
+CM,Cameroon,Northwest,,,CM-NW,,ChIJqzsR-j0WXxAR-_gnaMmyA28,2022-01-01,,0,,,-60,
+CM,Cameroon,Northwest,Momo,,,,ChIJ59MLaGUfXxARcDtUuRvT3pE,2022-01-01,-12,1,,-24,-60,-3
+CM,Cameroon,South,,,CM-SU,,ChIJSVR3GmHRiBARB46Ntm5_1js,2022-01-01,,,,,-49,
+CM,Cameroon,South,Mvila,,,,ChIJN5DA6LpUjxARpMfaohMdVp0,2022-01-01,,,,,-57,
+CM,Cameroon,South,Ocean,,,,ChIJc4YINk-kYhARnfgAKCrXG6Q,2022-01-01,,,,,-37,
+CM,Cameroon,Southwest,,,CM-SW,,ChIJR30IXzrHYBAREw_mApHA4A4,2022-01-01,,86,,,-41,-3
+CM,Cameroon,Southwest,Fako,,,,ChIJQ1Qrk08uYRARSBE_KRVEiBM,2022-01-01,35,78,,,-38,0
+CM,Cameroon,Southwest,Meme,,,,ChIJwSNTEaClYBARGmSxZ1GBwyE,2022-01-01,,,,,-47,
+CM,Cameroon,West,,,CM-OU,,ChIJPWy600KZ9RAR9lifxK0sABs,2022-01-01,35,9,-56,,-44,-3
+CM,Cameroon,West,Menoua,,,,ChIJvT3hbja3XxARH1ml5P-S70A,2022-01-01,,,,,-37,
+CM,Cameroon,West,Mifi,,,,ChIJ60ehGfOaXxARvN_QQ46jF2I,2022-01-01,76,29,,-15,-49,0
+CM,Cameroon,West,Noun,,,,ChIJ8VIIbdBw9RARSqNlaVQmSFM,2022-01-01,,,,,-33,

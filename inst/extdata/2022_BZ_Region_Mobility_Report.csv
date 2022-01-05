@@ -1,0 +1,7 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BZ,Belize,,,,,,ChIJ-foSwT5bXI8RTuMeP02KSvY,2022-01-01,-34,-17,51,-37,-43,0
+BZ,Belize,Belize District,,,BZ-BZ,,ChIJjU1Odp5GXI8R9Gnf8G_6efo,2022-01-01,-38,-38,11,-39,-50,3
+BZ,Belize,Cayo District,,,BZ-CY,,ChIJE6Mw4WfVXY8RKrsFp7Ef4PM,2022-01-01,-30,,80,-58,-51,
+BZ,Belize,Corozal District,,,BZ-CZL,,ChIJqxb2v-hhW48R4_W_oO2Nof0,2022-01-01,-15,,,,-44,
+BZ,Belize,Orange Walk District,,,BZ-OW,,ChIJU3DMrirwW48Ro8kL1OKsPqE,2022-01-01,,,,,-48,
+BZ,Belize,Stann Creek District,,,BZ-SC,,ChIJ5YuYFpkPXY8RLagQHLzNVA4,2022-01-01,,,,,-30,

@@ -1,0 +1,92 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CZ,Czechia,,,,,,ChIJQ4Ld14-UC0cRb1jb03UcZvg,2022-01-01,-69,-83,20,-33,-53,8
+CZ,Czechia,Central Bohemian Region,,,CZ-20,,ChIJo_KPDpyTC0cRMKgUZg-vAAE,2022-01-01,-67,-82,44,-19,-52,8
+CZ,Czechia,Central Bohemian Region,Benešov District,,CZ-201,,ChIJgdH0HOmHDEcREKkUZg-vAAM,2022-01-01,-58,-83,63,-14,-52,9
+CZ,Czechia,Central Bohemian Region,Beroun District,,CZ-202,,ChIJy_gxcQSmC0cRIKkUZg-vAAM,2022-01-01,-58,-83,14,9,-57,8
+CZ,Czechia,Central Bohemian Region,Kladno District,,CZ-203,,ChIJb2aRvKXJC0cRMKkUZg-vAAM,2022-01-01,-64,-77,52,6,-55,8
+CZ,Czechia,Central Bohemian Region,Kolín District,,CZ-204,,ChIJ1z12Jn6KC0cRO4UXBKZ_beM,2022-01-01,-75,-86,,-8,-58,9
+CZ,Czechia,Central Bohemian Region,Kutná Hora District,,CZ-205,,ChIJrT3zBeFCDEcRUKkUZg-vAAM,2022-01-01,-57,-73,76,9,-54,10
+CZ,Czechia,Central Bohemian Region,Mělník District,,CZ-206,,ChIJl1dm9FLnC0cRYKkUZg-vAAM,2022-01-01,-64,-88,64,-34,-51,9
+CZ,Czechia,Central Bohemian Region,Mladá Boleslav District,,CZ-207,,ChIJq4tbupNVCUcRcKkUZg-vAAM,2022-01-01,-74,-79,21,-27,-56,9
+CZ,Czechia,Central Bohemian Region,Nymburk District,,CZ-208,,ChIJnYgV12kFDEcRgKkUZg-vAAM,2022-01-01,-55,-79,46,-19,-53,9
+CZ,Czechia,Central Bohemian Region,Prague-East District,,CZ-209,,ChIJ3WW5Tw2NC0cRkKkUZg-vAAM,2022-01-01,-73,-89,57,-41,-54,8
+CZ,Czechia,Central Bohemian Region,Prague-West District,,CZ-20A,,ChIJ-ZOjQFqWC0cRoKkUZg-vAAM,2022-01-01,-64,-84,33,-29,-51,7
+CZ,Czechia,Central Bohemian Region,Příbram District,,CZ-20B,,ChIJ7w_GEOIMC0cRsKkUZg-vAAM,2022-01-01,-69,-84,36,14,-51,9
+CZ,Czechia,Central Bohemian Region,Rakovník District,,CZ-20C,,ChIJNb_-5RhPCkcRwKkUZg-vAAM,2022-01-01,-63,-83,,,-55,
+CZ,Czechia,Hradec Králové Region,,,CZ-52,,ChIJMfr5cQ2GDkcRkKgUZg-vAAE,2022-01-01,-69,-85,12,-23,-56,9
+CZ,Czechia,Hradec Králové Region,Hradec Králové District,,CZ-521,,ChIJ4UGUNRMpDEcRkKsUZg-vAAM,2022-01-01,-77,-88,-6,-42,-57,8
+CZ,Czechia,Hradec Králové Region,Jičín District,,CZ-522,,ChIJVxnjhS-iDkcRoKsUZg-vAAM,2022-01-01,-66,-87,-7,,-59,10
+CZ,Czechia,Hradec Králové Region,Náchod District,,CZ-523,,ChIJHyOfm6xmDkcRsKsUZg-vAAM,2022-01-01,-68,-87,2,-9,-55,10
+CZ,Czechia,Hradec Králové Region,Rychnov nad Kněžnou District,,CZ-524,,ChIJDcz1xG91DkcRwKsUZg-vAAM,2022-01-01,-68,-85,30,,-67,12
+CZ,Czechia,Hradec Králové Region,Trutnov District,,CZ-525,,ChIJ1x2MpwmNDkcR0KsUZg-vAAM,2022-01-01,-51,-81,20,3,-49,10
+CZ,Czechia,Karlovy Vary Region,,,CZ-41,,ChIJzfOKMreRoEcRYKgUZg-vAAE,2022-01-01,-65,-82,8,-30,-46,8
+CZ,Czechia,Karlovy Vary Region,Cheb District,,CZ-411,,ChIJg8Ix2il-CkcRgr-xQOQAAEU,2022-01-01,-71,-84,5,-20,-48,9
+CZ,Czechia,Karlovy Vary Region,Karlovy Vary District,,CZ-412,,ChIJVZEYksKdoEcRwKoUZg-vAAM,2022-01-01,-66,-84,14,-39,-46,8
+CZ,Czechia,Karlovy Vary Region,Sokolov District,,CZ-413,,ChIJ0fzsx5uToEcR0KoUZg-vAAM,2022-01-01,-66,-79,24,,-44,9
+CZ,Czechia,Liberec Region,,,CZ-51,,ChIJw21vd603CUcRgKgUZg-vAAE,2022-01-01,-67,-84,46,-31,-60,9
+CZ,Czechia,Liberec Region,Česká Lípa District,,CZ-511,,ChIJf1Z58u9pCUcRUKsUZg-vAAM,2022-01-01,-64,-81,92,-24,-59,10
+CZ,Czechia,Liberec Region,Jablonec nad Nisou District,,CZ-512,,ChIJy8smMbrLDkcRYKsUZg-vAAM,2022-01-01,-59,-82,81,-27,-56,8
+CZ,Czechia,Liberec Region,Liberec District,,CZ-513,,ChIJEVRTg0wxCUcRcKsUZg-vAAM,2022-01-01,-77,-87,32,-40,-67,9
+CZ,Czechia,Liberec Region,Semily District,,CZ-514,,ChIJyU9tKIu3DkcRgKsUZg-vAAM,2022-01-01,-44,-77,10,-6,-51,7
+CZ,Czechia,Moravian-Silesian Region,,,CZ-MO,,ChIJ20M_Z4beE0cR8KgUZg-vAAE,2022-01-01,-76,-88,-9,-38,-54,9
+CZ,Czechia,Moravian-Silesian Region,Bruntál District,,CZ-801,,ChIJA7Z1fdaHEUcRcK0UZg-vAAM,2022-01-01,-64,-83,38,-7,-43,10
+CZ,Czechia,Moravian-Silesian Region,Frýdek-Místek District,,CZ-802,,ChIJaUMoIlkJFEcRgK0UZg-vAAM,2022-01-01,-72,-90,-24,-36,-58,9
+CZ,Czechia,Moravian-Silesian Region,Karviná District,,CZ-803,,ChIJRZcOS1r-E0cRkK0UZg-vAAM,2022-01-01,-71,-86,59,-38,-58,9
+CZ,Czechia,Moravian-Silesian Region,Nový Jičín District,,CZ-804,,ChIJIxMFSE_qE0cRoK0UZg-vAAM,2022-01-01,-61,-86,-23,-28,-61,10
+CZ,Czechia,Moravian-Silesian Region,Opava District,,CZ-805,,ChIJQxzMOQ7ZE0cRsK0UZg-vAAM,2022-01-01,-75,-90,,-24,-51,8
+CZ,Czechia,Moravian-Silesian Region,Ostrava-City District,,CZ-806,,ChIJneckMWpYEUcRqCOgY2-OIrY,2022-01-01,-82,-90,-40,-42,-52,7
+CZ,Czechia,Olomouc Region,,,CZ-71,,ChIJSSEHIaM6EkcR0KgUZg-vAAE,2022-01-01,-71,-86,31,-2,-50,9
+CZ,Czechia,Olomouc Region,Jeseník District,,CZ-711,,ChIJbbSUfa_vEUcRIK0UZg-vAAM,2022-01-01,,,,,-42,
+CZ,Czechia,Olomouc Region,Olomouc District,,CZ-712,,ChIJBddoFR5JEkcR8KwUZg-vAAM,2022-01-01,-78,-90,-7,-13,-50,8
+CZ,Czechia,Olomouc Region,Přerov District,,CZ-714,,ChIJtTT3ffCvE0cRAK0UZg-vAAM,2022-01-01,-58,-88,,32,-46,9
+CZ,Czechia,Olomouc Region,Prostějov District,,CZ-713,,ChIJIRtacRpZEkcR4KwUZg-vAAM,2022-01-01,-69,-85,,0,-58,9
+CZ,Czechia,Olomouc Region,Šumperk District,,CZ-715,,ChIJ8zgMVQcbEkcREK0UZg-vAAM,2022-01-01,-63,-87,31,9,-59,9
+CZ,Czechia,Pardubice Region,,,CZ-53,,ChIJaUFizQjADUcRoKgUZg-vAAE,2022-01-01,-69,-86,33,-21,-52,9
+CZ,Czechia,Pardubice Region,Chrudim District,,CZ-531,,ChIJg-fAjTS3DUcR4KsUZg-vAAM,2022-01-01,-58,-78,57,,-54,9
+CZ,Czechia,Pardubice Region,Pardubice District,,CZ-532,,ChIJiUqlb9PMDUcR8KsUZg-vAAM,2022-01-01,-74,-89,26,-26,-58,8
+CZ,Czechia,Pardubice Region,Svitavy District,,CZ-533,,ChIJyYUDsGKJDUcRAKwUZg-vAAM,2022-01-01,-67,-87,,-43,-47,10
+CZ,Czechia,Pardubice Region,Ústí nad Orlicí District,,CZ-534,,ChIJHQXKK6X6DUcREKwUZg-vAAM,2022-01-01,-62,-87,17,-26,-54,9
+CZ,Czechia,Plzeň Region,,,CZ-32,,ChIJaWXbs0u_CkcRUKgUZg-vAAE,2022-01-01,-69,-79,53,-15,-53,7
+CZ,Czechia,Plzeň Region,Domažlice District,,CZ-321,,ChIJC4s6XVilCkcRQKoUZg-vAAM,2022-01-01,-58,-63,,,-48,
+CZ,Czechia,Plzeň Region,Klatovy District,,CZ-322,,ChIJH34ubynVCkcRUKoUZg-vAAM,2022-01-01,-51,-79,36,,-48,8
+CZ,Czechia,Plzeň Region,Plzeň-City District,,CZ-323,,ChIJw62-3mTjCkcRnR4yybj4S2w,2022-01-01,-77,-86,55,-34,-60,5
+CZ,Czechia,Plzeň Region,Plzeň-North District,,CZ-325,,ChIJIYd-lzr1CkcRgKoUZg-vAAM,2022-01-01,-56,,,22,-57,8
+CZ,Czechia,Plzeň Region,Plzeň-South District,,CZ-324,,ChIJBzUkRP7nCkcRcKoUZg-vAAM,2022-01-01,,,,,-59,
+CZ,Czechia,Plzeň Region,Rokycany District,,CZ-326,,ChIJG54q847-CkcRkKoUZg-vAAM,2022-01-01,,,,,-61,
+CZ,Czechia,Plzeň Region,Tachov District,,CZ-327,,ChIJA31YF1J2oEcRoKoUZg-vAAM,2022-01-01,-64,-82,,,-49,
+CZ,Czechia,Prague,,,CZ-10,,ChIJi3lwCZyTC0cRIKgUZg-vAAE,2022-01-01,-69,-83,13,-39,-50,5
+CZ,Czechia,South Bohemian Region,,,CZ-31,,ChIJZ2aXTChNc0cRQKgUZg-vAAE,2022-01-01,-60,-81,42,-14,-50,7
+CZ,Czechia,South Bohemian Region,České Budějovice District,,CZ-311,,ChIJhQbcWsZOc0cR0KkUZg-vAAM,2022-01-01,-70,-88,83,-43,-51,6
+CZ,Czechia,South Bohemian Region,Český Krumlov District,,CZ-312,,ChIJvXlhAb5nc0cR4KkUZg-vAAM,2022-01-01,-38,-73,1,-48,-48,
+CZ,Czechia,South Bohemian Region,Jindřichův Hradec District,,CZ-313,,ChIJy_gHa9jUDEcR8KkUZg-vAAM,2022-01-01,-61,-78,,,-46,7
+CZ,Czechia,South Bohemian Region,Písek District,,CZ-314,,ChIJjX9IeTNbC0cRAKoUZg-vAAM,2022-01-01,-38,-79,2,,-57,
+CZ,Czechia,South Bohemian Region,Prachatice District,,CZ-315,,ChIJ5wFm5r67dEcREKoUZg-vAAM,2022-01-01,-50,,59,,-52,
+CZ,Czechia,South Bohemian Region,Strakonice District,,CZ-316,,ChIJue3T90NIC0cRIKoUZg-vAAM,2022-01-01,-61,-81,,,-50,
+CZ,Czechia,South Bohemian Region,Tábor District,,CZ-317,,ChIJOdNJXBmYDEcR3RK7P48Z-eY,2022-01-01,-67,-81,87,-30,-57,9
+CZ,Czechia,South Moravian Region,,,CZ-64,,ChIJjQugXLi_EkcRwKgUZg-vAAE,2022-01-01,-74,-85,18,-39,-55,8
+CZ,Czechia,South Moravian Region,Blansko District,,CZ-641,,ChIJO2hn4HGIEkcRcKwUZg-vAAM,2022-01-01,-61,-87,8,-32,-57,9
+CZ,Czechia,South Moravian Region,Břeclav District,,CZ-644,,ChIJc7kNMlPSEkcRoKwUZg-vAAM,2022-01-01,-61,-84,-6,-45,-64,9
+CZ,Czechia,South Moravian Region,Brno-City District,,CZ-642,,ChIJEVE_wDqUEkcRgKwUZg-vAAM,2022-01-01,-81,-86,-1,-45,-55,5
+CZ,Czechia,South Moravian Region,Brno-Country District,,CZ-643,,ChIJTfxlwhKWEkcRkKwUZg-vAAM,2022-01-01,-65,-82,65,-37,-62,8
+CZ,Czechia,South Moravian Region,Hodonín District,,CZ-625,,ChIJIV5ls1g7E0cRsKwUZg-vAAM,2022-01-01,-67,-80,,-19,-53,10
+CZ,Czechia,South Moravian Region,Vyškov District,,CZ-646,,ChIJ30nshLv6EkcRwKwUZg-vAAM,2022-01-01,-69,-89,,-33,-57,10
+CZ,Czechia,South Moravian Region,Znojmo District,,CZ-647,,ChIJMRsqSkdVDUcR0KwUZg-vAAM,2022-01-01,-71,-83,,-33,-57,9
+CZ,Czechia,Ústí nad Labem Region,,,CZ-42,,ChIJyauIT6CJCUcRcKgUZg-vAAE,2022-01-01,-69,-83,61,-14,-53,8
+CZ,Czechia,Ústí nad Labem Region,Chomutov District,,CZ-422,,ChIJX8ITf2APCkcR8KoUZg-vAAM,2022-01-01,-76,-84,48,-19,-55,10
+CZ,Czechia,Ústí nad Labem Region,Děčín District,,CZ-421,,ChIJD6N9WKMLCUcR4KoUZg-vAAM,2022-01-01,-66,-83,50,-34,-59,8
+CZ,Czechia,Ústí nad Labem Region,Litoměřice District,,CZ-423,,ChIJzRH2EhR-CUcRAKsUZg-vAAM,2022-01-01,-45,-80,51,-25,-47,9
+CZ,Czechia,Ústí nad Labem Region,Louny District,,CZ-424,,ChIJv3wlEFo5CkcREKsUZg-vAAM,2022-01-01,-67,-86,,-20,-54,9
+CZ,Czechia,Ústí nad Labem Region,Most District,,CZ-425,,ChIJ--vuq4T1CUcRIKsUZg-vAAM,2022-01-01,-72,-86,,-54,-54,9
+CZ,Czechia,Ústí nad Labem Region,Teplice District,,CZ-426,,ChIJR5_PXlaJCUcRMKsUZg-vAAM,2022-01-01,-75,-85,88,26,-55,9
+CZ,Czechia,Ústí nad Labem Region,Ústí nad Labem District,,CZ-427,,ChIJXRamunybCUcRQKsUZg-vAAM,2022-01-01,-74,-79,72,11,-56,8
+CZ,Czechia,Vysočina Region,,,CZ-63,,ChIJVf0Z3PAQDUcRsKgUZg-vAAE,2022-01-01,-66,-83,33,-12,-49,9
+CZ,Czechia,Vysočina Region,Havlíčkův Brod District,,CZ-631,,ChIJN4e1eClMDEcR1QMsOM45oXk,2022-01-01,-47,-81,,,-43,9
+CZ,Czechia,Vysočina Region,Jihlava District,,CZ-632,,ChIJge0r2xgYDUcRQKwUZg-vAAM,2022-01-01,-73,-85,-14,-23,-57,9
+CZ,Czechia,Vysočina Region,Pelhřimov District,,CZ-633,,ChIJ50XrewTmDEcRIKwUZg-vAAM,2022-01-01,-73,-82,,,-48,
+CZ,Czechia,Vysočina Region,Třebíč District,,CZ-634,,ChIJBTpYjopEDUcRUKwUZg-vAAM,2022-01-01,-68,-84,43,-34,-53,10
+CZ,Czechia,Vysočina Region,Žďár nad Sázavou District,,CZ-635,,ChIJ7fkXghh3DUcRYKwUZg-vAAM,2022-01-01,-54,-84,71,-8,-53,9
+CZ,Czechia,Zlín Region,,,CZ-72,,ChIJLWCw1F9xE0cR4KgUZg-vAAE,2022-01-01,-67,-86,44,-16,-58,10
+CZ,Czechia,Zlín Region,Kroměříž District,,CZ-721,,ChIJE1V9Rc4IE0cRQK0UZg-vAAM,2022-01-01,-68,-87,21,-15,-52,10
+CZ,Czechia,Zlín Region,Uherské Hradiště District,,CZ-722,,ChIJMxbg9OxqE0cRUK0UZg-vAAM,2022-01-01,-69,-87,34,-32,-60,10
+CZ,Czechia,Zlín Region,Vsetín District,,CZ-723,,ChIJ_w0S-6mGE0cRYK0UZg-vAAM,2022-01-01,-68,-85,-5,-34,-48,10
+CZ,Czechia,Zlín Region,Zlín District,,CZ-724,,ChIJmx9UMXtxE0cRMK0UZg-vAAM,2022-01-01,-66,-88,120,13,-64,9

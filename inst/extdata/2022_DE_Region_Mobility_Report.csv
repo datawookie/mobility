@@ -1,0 +1,18 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+DE,Germany,,,,,,ChIJa76xwh5ymkcRW-WRjmtd6HU,2022-01-01,-75,-92,44,-44,-54,10
+DE,Germany,Baden-Württemberg,,,DE-BW,,ChIJ3wZkgmIbkUcRYEgkDb9IjMY,2022-01-01,-75,-92,69,-48,-57,9
+DE,Germany,Bavaria,,,DE-BY,,ChIJqVPfD0wEn0cRYHk4CaQlHQE,2022-01-01,-74,-92,41,-46,-53,9
+DE,Germany,Berlin,,,DE-BE,,ChIJ8_KccStOqEcRhtFXjKWPuo0,2022-01-01,-72,-90,-2,-45,-48,9
+DE,Germany,Brandenburg,,,DE-BB,,ChIJmzZ86O1PqEcRjN9SNJwmIoE,2022-01-01,-76,-93,25,-37,-48,9
+DE,Germany,Bremen,,,DE-HB,,ChIJNePuDBAosUcRbkKsojcptUI,2022-01-01,-78,-91,33,-48,-51,10
+DE,Germany,Hamburg,,,DE-HH,,ChIJuRMYfoNhsUcR8HjYe_I9JgE,2022-01-01,-76,-91,29,-48,-52,10
+DE,Germany,Hessen,,,DE-HE,,ChIJCdXa3QzsvEcRZ2Vv2bH-Lus,2022-01-01,-75,-92,30,-42,-54,10
+DE,Germany,Lower Saxony,,,DE-NI,,ChIJZTST8-ORsEcRAHkCY3fPJgE,2022-01-01,-75,-93,57,-43,-55,10
+DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,ChIJNzjcO6xQrEcRsuXdZ-Tc2MY,2022-01-01,-63,-87,110,-6,-43,9
+DE,Germany,North Rhine-Westphalia,,,DE-NW,,ChIJoUhCjnwWuUcRX4_XT34yTC8,2022-01-01,-75,-91,70,-45,-56,11
+DE,Germany,Rhineland-Palatinate,,,DE-RP,,ChIJY4Hac2nMl0cR_M8OuHuSeBc,2022-01-01,-74,-93,59,-38,-57,11
+DE,Germany,Saarland,,,DE-SL,,ChIJMR-owu-klUcRcHncENXUIgE,2022-01-01,-76,-92,69,-52,-59,12
+DE,Germany,Saxony,,,DE-SN,,ChIJR0Kum3LeCUcRsHmIQsuxIQE,2022-01-01,-79,-91,12,-38,-49,9
+DE,Germany,Saxony-Anhalt,,,DE-ST,,ChIJgSRR6JnwpUcRdN4O6BbFHdE,2022-01-01,-75,-92,30,-26,-48,9
+DE,Germany,Schleswig-Holstein,,,DE-SH,,ChIJc3WJVkK7s0cR4HhaxmOJJAE,2022-01-01,-72,-91,91,-25,-54,11
+DE,Germany,Thuringia,,,DE-TH,,ChIJk_E62n8PpEcR0Hk0dMGOIAE,2022-01-01,-75,-92,18,-29,-51,8

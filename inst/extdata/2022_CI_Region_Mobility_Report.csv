@@ -1,0 +1,13 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CI,Côte d'Ivoire,,,,,,ChIJZ6BJsIcTlg8RQO65fGIe-QE,2022-01-01,17,65,12,12,-42,10
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,ChIJR0gb9_2UwQ8RiMwuqKxgDgY,2022-01-01,12,69,-6,18,-46,11
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,ChIJV032TdrLlw8R-DH04Ep5XPg,2022-01-01,,27,36,-34,-39,
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,ChIJuRY-ehCQww8Roxo17A8i8nk,2022-01-01,,32,-1,-31,-39,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,ChIJW1qhQL2ivw8RAK0YFrlvDVU,2022-01-01,,,,,-45,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,ChIJF_7w0_yUxw8RcaATC2uGfvs,2022-01-01,,,,,-29,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,ChIJHb5lrLZGwA8R_to8RXrArss,2022-01-01,,,,,-36,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,ChIJR6bqhQj4rw8RKKLmMg4QI68,2022-01-01,,,,,-24,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,ChIJUanYLhvfuw8R1DCyLn3ON1Q,2022-01-01,,27,,,-44,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,ChIJz0OqU8L0tA8RZMeTgs-MRpQ,2022-01-01,,28,,,-32,
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,ChIJ64S-loa4yQ8RWDoYxhSpr2c,2022-01-01,24,45,,-32,-23,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,ChIJdajZY-a9uA8RlrvAKtbTO_I,2022-01-01,,19,,-51,-36,

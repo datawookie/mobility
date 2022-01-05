@@ -1,0 +1,5 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+TG,Togo,,,,,,ChIJGVQYE8HhIxARYJPRGjBbrvo,2022-01-01,32,20,121,-17,-44,8
+TG,Togo,Kara Region,,,TG-K,,ChIJ4w5uoDm5KxARwKuo2t0Tp5k,2022-01-01,,,,,-33,
+TG,Togo,Maritime Region,,,TG-M,,ChIJ4Ygox3ECJBARUynQ6N9HCLA,2022-01-01,32,19,173,-21,-45,8
+TG,Togo,Plateaux Region,,,TG-P,,ChIJM-ARAnwFJhARo8SeORTmZaQ,2022-01-01,,,,,-42,

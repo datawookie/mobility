@@ -1,0 +1,13 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+OM,Oman,,,,,,ChIJv5vVqWaf1j0RF6ixZXZMBjo,2022-01-01,-2,13,-12,-12,-21,-4
+OM,Oman,Ad Dakhiliyah ‍Governorate,,,OM-DA,,ChIJizZZXpdljz4Rn3ROOx0o-oo,2022-01-01,10,27,1,,-24,-9
+OM,Oman,Ad Dhahirah Governorate,,,OM-ZA,,ChIJl1Yol5amiT4RXJ-YPdEosVk,2022-01-01,9,11,-12,,-32,-6
+OM,Oman,Al Batinah North Governorate,,,OM-BS,,ChIJ-Ywhaj4rjD4RokId6dkfWzs,2022-01-01,-14,14,-23,-29,-27,-8
+OM,Oman,Al Batinah South Governorate,,,OM-BJ,,ChIJQ4DUt-4rjD4Ryk7yaguCa3o,2022-01-01,9,12,-11,,-30,-10
+OM,Oman,Al Buraymi Governorate,,,OM-BU,,ChIJ-brPRbPGij4RTGnANgfCmRg,2022-01-01,3,4,,,-17,
+OM,Oman,Al Wusta Governorate,,,OM-WU,,ChIJ3Y5zvD9Ggz4Rbi19BHvx5Nw,2022-01-01,,,,,-25,
+OM,Oman,Ash Sharqiyah North Governorate,,,OM-SS,,ChIJ177_yJyinD4RuQbz4c2dlEg,2022-01-01,2,,-9,,-27,
+OM,Oman,Ash Sharqiyah South Governorate,,,OM-SJ,,ChIJT7UXoH8Lmz4RJhpjUdtTxLU,2022-01-01,-6,33,-4,,-28,-8
+OM,Oman,Dhofar Governorate,,,OM-ZU,,ChIJFYjRYj-GLDwROeZRgVhWk8U,2022-01-01,16,22,4,-17,-14,-3
+OM,Oman,Musandam Governorate,,,OM-MU,,ChIJ42mTJ-aI9j4RSLzktVjE0UU,2022-01-01,,,,,-28,
+OM,Oman,Muscat Governorate,,,OM-MA,,ChIJ0WK2tavykT4RYWFJzBe5lcY,2022-01-01,-6,9,-18,-30,-23,-1

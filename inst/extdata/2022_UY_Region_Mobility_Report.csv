@@ -1,0 +1,22 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+UY,Uruguay,,,,,,ChIJCd5f-zoHdZURSlIWYGGWVUo,2022-01-01,-64,-64,-32,-56,-61,9
+UY,Uruguay,,,Montevideo Metropolitan Area,,,ChIJqdLifsHUoZURqlHseU5wwtc,2022-01-01,-79,-81,-61,-66,-66,11
+UY,Uruguay,Artigas Department,,,UY-AR,,ChIJAQrGD-ALq5URGiJ4JwEwfHg,2022-01-01,-15,-32,-20,,-51,1
+UY,Uruguay,Canelones Department,,,UY-CA,,ChIJsfhxHBCSn5URykFCIfGFQno,2022-01-01,-64,-59,-39,-44,-65,10
+UY,Uruguay,Cerro Largo Department,,,UY-CL,,ChIJ1ajbONsmCZURfaNP1AXV6MI,2022-01-01,-40,-31,63,-53,-55,3
+UY,Uruguay,Colonia Department,,,UY-CO,,ChIJOXYdHPazpJURFB8kenSpdbA,2022-01-01,-50,-61,-21,-67,-53,4
+UY,Uruguay,Durazno Department,,,UY-DU,,ChIJd-vjFK7BppURqzdD1Y2Rcgk,2022-01-01,-37,-62,-27,,-56,
+UY,Uruguay,Flores Department,,,UY-FS,,ChIJC1-BgIqgppUR8Aa40TGLxFY,2022-01-01,,,-38,,-50,
+UY,Uruguay,Florida Department,,,UY-FD,,ChIJ_2f_hbzAoJURzlkiVuDLtGM,2022-01-01,-53,-57,-33,-70,-58,6
+UY,Uruguay,Lavalleja Department,,,UY-LA,,ChIJZxOLmie6CpURAktzUL_v_NU,2022-01-01,-53,-47,-42,-81,-54,
+UY,Uruguay,Maldonado Department,,,UY-MA,,ChIJmy_r7joHdZURKAxEmlmmpH0,2022-01-01,-39,-30,-27,-21,-53,9
+UY,Uruguay,Montevideo Department,,,UY-MO,,ChIJ0_c7xv-An5URZKZVcui9b2g,2022-01-01,-81,-85,-61,-74,-65,11
+UY,Uruguay,Paysandú Department,,,UY-PA,,ChIJ4SVCmDger5URu49wLO-7UNM,2022-01-01,-62,-25,1,-77,-60,7
+UY,Uruguay,Río Negro Department,,,UY-RN,,ChIJYTYkGrhNpZURyHdFlNFmd6Q,2022-01-01,-46,-57,28,-45,-54,7
+UY,Uruguay,Rivera Department,,,UY-RV,,ChIJGX5yn_ebB5URVDinSCrYVXc,2022-01-01,-61,-66,-14,,-56,4
+UY,Uruguay,Rocha Department,,,UY-RO,,ChIJffMb7ZqmDJUR8G5RiV1Y84c,2022-01-01,-28,-20,-2,-18,-48,6
+UY,Uruguay,Salto Department,,,UY-SA,,ChIJqYIp4ifdrZURPwLSqN75meQ,2022-01-01,-69,-67,-62,-68,-60,9
+UY,Uruguay,San José Department,,,UY-SJ,,ChIJR-EJTpdwoZURIYEwIBJtHwU,2022-01-01,-56,-62,-13,-50,-59,8
+UY,Uruguay,Soriano Department,,,UY-SO,,ChIJg08GaQ_8pJUR2YV-JSBJj2E,2022-01-01,-55,-15,-17,,-58,6
+UY,Uruguay,Tacuarembó Department,,,UY-TA,,ChIJtTam1oD2B5URXQz07SpL7h4,2022-01-01,-46,-43,-18,-66,-61,7
+UY,Uruguay,Treinta y Tres Department,,,UY-TT,,ChIJbW656ReYCZURkgxYn9LpVLA,2022-01-01,-28,,2,,-57,

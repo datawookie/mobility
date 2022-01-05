@@ -1,0 +1,8 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BW,Botswana,,,,,,ChIJESJF0SFDpB4Re68Vhyp8ZPE,2022-01-01,-17,13,58,6,-57,0
+BW,Botswana,Chobe,,,,,ChIJ3T_Kj_ZXUBkRc2HYcMH1Fws,2022-01-01,,,,-55,,
+BW,Botswana,Francistown,,,,,ChIJrwKekSBHtB4R69v2ZDVL9_0,2022-01-01,,,,,-39,
+BW,Botswana,Gaborone,,,,,ChIJnYO-dGZXux4RDDSdqa_hqrs,2022-01-01,-39,0,28,-42,-63,1
+BW,Botswana,Kgatleng,,,,,ChIJGdzUrjqoux4RRXV8A9SJXkw,2022-01-01,,,49,,,
+BW,Botswana,Ngamiland East,,,,,ChIJRfXcBfaVVRkR_DuRA7mXlpA,2022-01-01,,,,,-59,
+BW,Botswana,Serowe,,,,,ChIJ57BpFDWmsx4RVc8-4rnuoaI,2022-01-01,,,,,-50,

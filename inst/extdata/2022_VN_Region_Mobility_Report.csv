@@ -1,0 +1,65 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+VN,Vietnam,,,,,,ChIJXx5qc016FTERvmL-4smwO7A,2022-01-01,-18,12,-8,-40,,3
+VN,Vietnam,An Giang Province,,,VN-44,,ChIJjSriTooZCjERuojAUiywHNw,2022-01-01,-14,2,5,0,,-6
+VN,Vietnam,Ba Ria - Vung Tau,,,VN-43,,ChIJQ44uKJxsdTERUu3qQZlT48w,2022-01-01,20,52,85,2,,1
+VN,Vietnam,Bac Giang,,,VN-54,,ChIJ7c9Gs6kQNTERyFDrUFtMQjw,2022-01-01,1,41,44,-5,,-6
+VN,Vietnam,Bắc Kạn Province,,,VN-53,,ChIJTeuFSkjgyjYR0G5JK0iQA78,2022-01-01,-30,,-28,,,-7
+VN,Vietnam,Bac Lieu,,,VN-55,,ChIJDb3qxxupmDERT8bH4BD4NO8,2022-01-01,-49,-5,-24,-31,,-1
+VN,Vietnam,Bac Ninh Province,,,VN-56,,ChIJUXqvJl0KNTERcI9VxsAgWeU,2022-01-01,-14,53,0,-52,,5
+VN,Vietnam,Ben Tre,,,VN-50,,ChIJn6e8DFyoCjERQ3UxZ-VUPKo,2022-01-01,-25,-2,10,-44,,-5
+VN,Vietnam,Binh Dinh Province,,,VN-31,,ChIJvxtxbu8tbzERN_3lOgRMv0U,2022-01-01,-39,-25,-31,-57,,0
+VN,Vietnam,Binh Duong,,,VN-57,,ChIJeSj5jmq2dDERcxSNHInanzM,2022-01-01,1,32,10,-4,,8
+VN,Vietnam,Binh Phuoc,,,VN-58,,ChIJHyJ92y9oczEREUL4cg4bwJQ,2022-01-01,6,10,26,-12,,-8
+VN,Vietnam,Bình Thuận Province,,,VN-40,,ChIJoVmP1vLDdjERjsI0345CNyc,2022-01-01,-28,23,1,-43,,-5
+VN,Vietnam,Ca Mau,,,VN-59,,ChIJez-heqBJoTERs-aysVPn-a8,2022-01-01,-52,-6,-23,-44,,2
+VN,Vietnam,Cần Thơ,,,VN-CT,,ChIJzYJzkp9ioDERZ-wJEdljpHI,2022-01-01,-27,8,-16,-46,,3
+VN,Vietnam,Cao Bang,,,VN-04,,ChIJ52dYYbZcyjYRWFR2N_RyN2U,2022-01-01,-34,-28,-25,,,0
+VN,Vietnam,Da Nang,,,VN-DN,,ChIJEyolkscZQjERBn5yhkvL8B0,2022-01-01,-41,-23,-54,-74,,10
+VN,Vietnam,Đắk Lắk Province,,,VN-33,,ChIJV3Ew99r3cTERFTOI2ZR2-Y4,2022-01-01,-35,16,-26,-46,,-8
+VN,Vietnam,Dak Nong,,,VN-72,,ChIJJ6lE5uy1czERrYej9DDhMHU,2022-01-01,8,28,-16,-15,,-14
+VN,Vietnam,Dien Bien,,,VN-71,,ChIJ8_vR4A4fLTER9A7fYoWMcUg,2022-01-01,-16,,-12,-37,,-12
+VN,Vietnam,Dong Nai,,,VN-39,,ChIJJepKuFLZdDERVRZuS_HmSuA,2022-01-01,-8,27,24,0,,2
+VN,Vietnam,Đồng Tháp Province,,,VN-45,,ChIJHxIM1bNlCjERQG40rV7JoNw,2022-01-01,-21,-1,9,-10,,-7
+VN,Vietnam,Gia Lai,,,VN-30,,ChIJo4EvAoIfbDERDbVDgfa1Uow,2022-01-01,-14,4,-22,-46,,-5
+VN,Vietnam,Ha Giang,,,VN-03,,ChIJsXHT6sp5zDYRqIDLmrB4SIM,2022-01-01,-13,-4,-13,-3,,-5
+VN,Vietnam,Hà Nam,,,VN-63,,ChIJ4WQZGBHFNTERUmgyOw25qXQ,2022-01-01,10,79,67,-20,,-10
+VN,Vietnam,Ha Tinh,,,VN-23,,ChIJx8Pp7qEoODERaxB9uCZ7xxo,2022-01-01,-30,-12,-29,1,,-8
+VN,Vietnam,Hai Duong,,,VN-61,,ChIJNVLgSPR6SjERU5AdBNFX6YI,2022-01-01,-20,40,44,-34,,-2
+VN,Vietnam,Haiphong,,,VN-HP,,ChIJJzcV2WViSjERPPfF4sM-Mpk,2022-01-01,-17,25,-8,-41,,5
+VN,Vietnam,Hanoi,,,VN-HN,,ChIJKQqAE44ANTERDbkQYkF-mAI,2022-01-01,-37,-6,-28,-54,,11
+VN,Vietnam,Hau Giang,,,VN-73,,ChIJs2mi7ZHyoDER5dn-Lulyo3k,2022-01-01,-37,-15,-3,-62,,-4
+VN,Vietnam,Ho Chi Minh City,,,VN-SG,,ChIJI9kl2-8udTERFHIryt1Uz0s,2022-01-01,-30,-11,-33,-50,,11
+VN,Vietnam,Hoa Binh,,,VN-14,,ChIJb9jgnBgUNDERF_4UZiqEJag,2022-01-01,11,41,9,38,,-10
+VN,Vietnam,Hung Yen,,,VN-66,,ChIJXSYdMDWvNTERgtTWzxbqqac,2022-01-01,2,34,64,-23,,-1
+VN,Vietnam,Khanh Hoa Province,,,VN-34,,ChIJldPcqIwbcDERzggjMicIwmk,2022-01-01,-27,-9,-28,-54,,3
+VN,Vietnam,Kien Giang,,,VN-47,,ChIJzXUakhzaCTERevNfMyZB54c,2022-01-01,-16,12,-11,-20,,-5
+VN,Vietnam,Kon Tum Province,,,VN-28,,ChIJ39GqWCPnazERVIrYzKoRm2E,2022-01-01,15,-24,-30,-57,,-12
+VN,Vietnam,Lai Chau,,,VN-01,,ChIJUbTROSwyLTERLjxIkWCRKeI,2022-01-01,2,,16,,,-8
+VN,Vietnam,Lâm Đồng,,,VN-35,,ChIJfdvzWSYTcTERbPVUX9_SWrs,2022-01-01,2,48,37,-45,,-6
+VN,Vietnam,Lạng Sơn,,,VN-09,,ChIJbyVFtz5UtTYRWm6Chdo0Pfo,2022-01-01,-16,-12,-14,10,,-2
+VN,Vietnam,Lao Cai,,,VN-02,,ChIJBw5Mv4w7zTYRaJBG-7m2oiE,2022-01-01,-18,-13,49,19,,-3
+VN,Vietnam,Long An Province,,,VN-41,,ChIJeUgqlTy2CjERI0HFz5nt6ts,2022-01-01,8,42,6,42,,-3
+VN,Vietnam,Nam Dinh,,,VN-67,,ChIJ3xtSUSEMNjERYt8l_r-i68g,2022-01-01,0,40,7,11,,-5
+VN,Vietnam,Nghe An,,,VN-22,,ChIJrR1aC2TOOTERGaUZ13y_YVw,2022-01-01,-12,15,-25,-38,,-8
+VN,Vietnam,Ninh Bình Province,,,VN-18,,ChIJwcgQb6twNjERLQwTPE5T5W0,2022-01-01,-7,28,-3,-18,,-7
+VN,Vietnam,Ninh Thuan Province,,,VN-36,,ChIJrwn6F26VcDERRZ6Odp6S9fg,2022-01-01,-20,29,-25,-35,,-8
+VN,Vietnam,Phu Tho Province,,,VN-68,,ChIJ-zyQ3XmDNDERbmTIyOCN7DA,2022-01-01,4,36,31,9,,-13
+VN,Vietnam,Phú Yên Province,,,VN-32,,ChIJ_65MY79wbzERgBoXHBy-bv4,2022-01-01,-27,-17,-33,-46,,-5
+VN,Vietnam,Quang Binh Province,,,VN-24,,ChIJLW8pOPawODERj1kjYi6HH5A,2022-01-01,-12,-11,-14,-6,,-11
+VN,Vietnam,Quang Nam Province,,,VN-27,,ChIJezo14dQNQjEReXZ0ZrGrnOQ,2022-01-01,-19,2,-20,-44,,-3
+VN,Vietnam,Quang Ngai,,,VN-29,,ChIJcwkWqew-aDERse05Mm6NoU0,2022-01-01,-27,-22,-21,-35,,-5
+VN,Vietnam,Quảng Ninh,,,VN-13,,ChIJL4V4mtcBSzERaoal8PR5B-0,2022-01-01,-3,10,-12,-2,,0
+VN,Vietnam,Quảng Trị Province,,,VN-25,,ChIJKfEdqqvkQDERKE3VIOD6ceQ,2022-01-01,-36,-3,-30,-50,,-3
+VN,Vietnam,Soc Trang,,,VN-52,,ChIJIY5foglSoDERTgqWSmqWc9Y,2022-01-01,-37,15,4,-20,,-3
+VN,Vietnam,Son La,,,VN-05,,ChIJ1R093JBZMjERezgPalpkLVg,2022-01-01,-14,16,-16,-11,,-4
+VN,Vietnam,Tây Ninh Province,,,VN-37,,ChIJMXJO1JFCCzERzWzchde8giQ,2022-01-01,-8,25,-18,-38,,-4
+VN,Vietnam,Thai Binh,,,VN-20,,ChIJM3A59dPkNTERx1sdOPgF5Go,2022-01-01,16,63,34,5,,-11
+VN,Vietnam,Thai Nguyen,,,VN-69,,ChIJd3qgchjENDERW0_vaRA3qVc,2022-01-01,-19,34,19,-28,,-5
+VN,Vietnam,Thanh Hoa,,,VN-21,,ChIJmZJ2447GNjERT_urFvXeeAE,2022-01-01,-10,36,-14,-35,,-10
+VN,Vietnam,Thua Thien Hue,,,VN-26,,ChIJ95BkcoecQTERtYTL98oPHKs,2022-01-01,-38,-17,-48,-42,,4
+VN,Vietnam,Tien Giang,,,VN-46,,ChIJgSaoteuvCjERdWM3wQen4zw,2022-01-01,-30,-2,-9,-65,,-2
+VN,Vietnam,Tra Vinh,,,VN-51,,ChIJj-0MGk4XoDERE4o57BhuS7c,2022-01-01,-23,2,-9,-28,,-4
+VN,Vietnam,Tuyên Quang,,,VN-07,,ChIJ4R5JpfutNDERf3iEknEBVH8,2022-01-01,-5,18,6,,,-13
+VN,Vietnam,Vinh Long,,,VN-49,,ChIJE45EIbybCjERpXVcaT5qxlI,2022-01-01,-37,-3,16,-28,,-2
+VN,Vietnam,Vinh Phuc Province,,,VN-70,,ChIJuy3qgk3lNDERXxAb4T-O0MA,2022-01-01,4,37,88,-30,,-6
+VN,Vietnam,Yên Bái,,,VN-06,,ChIJGStwEvU5MzERteIKRp__AAU,2022-01-01,-5,12,-8,6,,-9

@@ -1,0 +1,7 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+NA,Namibia,,,,,,ChIJIXXTbn489RsRYbLsqKXludM,2022-01-01,-24,-13,34,-30,-43,-2
+NA,Namibia,Erongo Region,,,NA-ER,,ChIJUeRAkFZ1dhwRKGqYcDR9VVQ,2022-01-01,14,6,,,-43,-4
+NA,Namibia,Karas Region,,,NA-KA,,ChIJOXAYCPJOFBwReYfMOAG9Bcg,2022-01-01,,,,,-42,
+NA,Namibia,Khomas Region,,,NA-KH,,ChIJf8ozTv4NCxwRVM1-FtmyAyk,2022-01-01,-49,-35,-21,-43,-43,1
+NA,Namibia,Oshana Region,,,NA-ON,,ChIJ351td3tQkhsRSSlO9bvIDQA,2022-01-01,,,,,-49,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,ChIJ_7SqpVK99hsRJoAG7f5HMeY,2022-01-01,,,,,-51,

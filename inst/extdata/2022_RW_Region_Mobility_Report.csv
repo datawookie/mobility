@@ -1,0 +1,12 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+RW,Rwanda,,,,,,ChIJ40A451SWwhkRA6HMyyawkHQ,2022-01-01,-2,-21,42,-19,-43,21
+RW,Rwanda,Eastern Province,,,RW-02,,ChIJddMbZRiN2xkRPrFGq6lJRPY,2022-01-01,,,,,-30,
+RW,Rwanda,Kigali City,,,RW-01,,ChIJl-fYjiWk3BkRNAgf0zO1-zI,2022-01-01,-7,-26,42,-19,-47,24
+RW,Rwanda,Kigali City,Gasabo,,,,ChIJO303Vx6n3BkRDG8_07qYOc0,2022-01-01,-22,-13,109,-20,-47,24
+RW,Rwanda,Kigali City,Kicukiro,,,,ChIJUaP56mmo3BkRqzPnnqZ-zhs,2022-01-01,50,10,-42,-25,-45,31
+RW,Rwanda,Kigali City,Nyarugenge,,,,ChIJ3aXXh6Wl3BkRtjhbfa13IHM,2022-01-01,-6,-63,,-14,-51,26
+RW,Rwanda,Northern Province,Musanze,,,,ChIJF0FsQ-5R3BkRNFiODRCL-J4,2022-01-01,,,,,-20,
+RW,Rwanda,Southern Province,,,RW-05,,ChIJGx6PxyW73BkR9BK5YFta4dw,2022-01-01,,,,-27,-45,
+RW,Rwanda,Southern Province,Huye,,,,ChIJl6i1bVwOwxkRaSQEn5ELlxo,2022-01-01,,,,-61,-47,
+RW,Rwanda,Western Province,,,RW-04,,ChIJXYv3fhsd3RkR9XADsNpIi8A,2022-01-01,,,,,-34,
+RW,Rwanda,Western Province,Rubavu,,,,ChIJkbeI674d3RkRFSWtm19FECc,2022-01-01,,,,,-28,

@@ -1,0 +1,11 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+MU,Mauritius,,,,,,ChIJyXRE-U1QfCERMdBrEcLZA0I,2022-01-01,-36,-30,6,-44,-28,2
+MU,Mauritius,Flacq District,,,MU-FL,,ChIJC5jTde75fCERv5DDjvRAC94,2022-01-01,-37,-5,13,-44,-15,-2
+MU,Mauritius,Grand Port District,,,MU-GP,,ChIJv9VQljX1fCERoU08UWdklws,2022-01-01,-39,-14,-18,-36,-16,
+MU,Mauritius,Moka District,,,MU-MO,,ChIJ_Qmj8rtZfCERU1WPHJtp_vI,2022-01-01,-55,,,,-33,
+MU,Mauritius,Pamplemousses District,,,MU-PA,,ChIJs1L5hfhUfCERYCB68NLKU6c,2022-01-01,36,-20,-13,-22,-29,2
+MU,Mauritius,Plaines Wilhems District,,,MU-PW,,ChIJu1K82X1cfCERkucxHDozvFw,2022-01-01,-38,-37,,-55,-35,4
+MU,Mauritius,Port Louis District,,,MU-PL,,ChIJm_SWpANRfCER6ho4OZ6D_WU,2022-01-01,-47,-40,-49,-52,-35,6
+MU,Mauritius,Rivière du Rempart District,,,MU-RR,,ChIJA4R0fyAAfSERbsqBUmY8br0,2022-01-01,-25,-27,-3,,-25,-1
+MU,Mauritius,Rivière Noire District,,,MU-BL,,ChIJldY9RD5CfCERRIiSLvtrHgw,2022-01-01,-31,-12,-27,-8,-37,3
+MU,Mauritius,Savanne District,,,MU-SA,,ChIJWYYletdlfCERd3ZhqgQHJck,2022-01-01,,,,,-2,

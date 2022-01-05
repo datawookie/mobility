@@ -1,0 +1,31 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+EG,Egypt,,,,,,ChIJ6TZcw3aJNhQRRMTEJQmgRSw,2022-01-01,15,111,35,34,13,-1
+EG,Egypt,,,Alexandria Metropolitan Area,,,ChIJX2dmeFPc9RQRn7vTzC5HKm4,2022-01-01,24,102,51,9,19,2
+EG,Egypt,,,Cairo Metropolitan Area,,,ChIJ4bjBJpM5WBQR6rE1s1ZQN10,2022-01-01,16,96,24,65,13,1
+EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,ChIJRc1M4GNzWBQRTOP2Z4a2_yw,2022-01-01,27,156,142,170,20,-1
+EG,Egypt,Alexandria Governorate,,,EG-ALX,,ChIJWZ62TNvE9RQRg7c5SPRCLeQ,2022-01-01,22,98,48,5,18,2
+EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,ChIJ2-aE7UTw9xQRZSgcbsQ4Mmo,2022-01-01,35,140,78,-48,25,-7
+EG,Egypt,Assiut Governorate,,,EG-AST,,ChIJkciUDcXCRBQRTLWLRwWYl5E,2022-01-01,-5,97,,-38,-3,-5
+EG,Egypt,Aswan Governorate,,,EG-ASN,,ChIJQ2PXWVx7NhQRHYjDpZ_cj94,2022-01-01,4,78,-10,-20,11,-13
+EG,Egypt,Beni Suef Governorate,,,EG-BNS,,ChIJj614YJyAWRQRVAumRvOqy1U,2022-01-01,22,134,,-65,-1,-6
+EG,Egypt,Cairo Governorate,,,EG-C,,ChIJz6gXkZ0QWBQRuaJt4gI9myY,2022-01-01,11,83,13,47,10,2
+EG,Egypt,Dakahlia Governorate,,,EG-DK,,ChIJRzUFqbed9xQRNmEepNk-1Wk,2022-01-01,13,141,41,20,1,-5
+EG,Egypt,Damietta Governorate,,,EG-DT,,ChIJOYNFFvnm-RQRcs0NUo4nQcs,2022-01-01,35,128,18,,13,-7
+EG,Egypt,El Beheira Governorate,,,EG-BH,,ChIJg2TxDBff9RQR5Tw_nkZ21Fc,2022-01-01,34,178,166,-16,32,-7
+EG,Egypt,Faiyum Governorate,,,EG-FYM,,ChIJH6Fh8YBdWRQR7TezKkzqmjw,2022-01-01,19,124,-42,,12,-4
+EG,Egypt,Gharbia Governorate,,,EG-GH,,ChIJE9x_eFO29xQR3QnHBbdKuk4,2022-01-01,17,134,13,-55,5,-3
+EG,Egypt,Giza Governorate,,,EG-GZ,,ChIJwR6eLwRBWBQRJqwgD9dpxfs,2022-01-01,21,108,50,110,16,1
+EG,Egypt,Ismailia Governorate,,,EG-IS,,ChIJ-eAR0kOq-RQR7wn6y7BKQTg,2022-01-01,19,101,3,-43,11,-6
+EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,ChIJHRrDWQ1b9hQRJ6DyfF3kedE,2022-01-01,56,169,19,43,24,-7
+EG,Egypt,Luxor Governorate,,,EG-LX,,ChIJ2VSRmgAFSRQRDXK36XzO-go,2022-01-01,20,89,4,-26,5,-9
+EG,Egypt,Matrouh Governorate,,,EG-MT,,ChIJI6Xz6KyvehQR8p7b4KoGe0s,2022-01-01,57,140,-10,,23,-10
+EG,Egypt,Menia Governorate,,,EG-MN,,ChIJUxg_BFfDRBQRaIucRAwsTuY,2022-01-01,9,147,75,-69,-19,-5
+EG,Egypt,Menofia Governorate,,,EG-MNF,,ChIJBdZjQVrf9xQR_r82vRaMjW0,2022-01-01,8,183,,-1,2,-4
+EG,Egypt,New Valley Governorate,,,EG-WAD,,ChIJizo3_7NpRxQRv-B5djN7Zhw,2022-01-01,,,,,4,
+EG,Egypt,North Sinai Governorate,,,EG-SIN,,ChIJ9aeCoHNF-RQRKc7JLUamnXs,2022-01-01,,,,,9,
+EG,Egypt,Port Said Governorate,,,EG-PTS,,ChIJKSv9YJ8L-RQR_9lrvzYtM34,2022-01-01,19,91,27,27,2,0
+EG,Egypt,Qena Governorate,,,EG-KN,,ChIJH7eY2Tq2ThQRw9xZLWAzxsg,2022-01-01,7,122,,-77,6,-12
+EG,Egypt,Red Sea Governorate,,,EG-BA,,ChIJu0BOz2nESxQRcpmBbGaEHaA,2022-01-01,-15,64,27,4,4,-4
+EG,Egypt,Sohag Governorate,,,EG-SHG,,ChIJ0z3RsDCMRRQRry4sXtHrTus,2022-01-01,16,134,65,5,11,-11
+EG,Egypt,South Sinai Governorate,,,EG-JS,,ChIJnTDondsYVBQR99_a5OvAiw8,2022-01-01,-31,0,-6,13,12,-8
+EG,Egypt,Suez Governorate,,,EG-SUZ,,ChIJ7SqEpu8kVhQRn7V15aKr-og,2022-01-01,17,154,56,,13,-4

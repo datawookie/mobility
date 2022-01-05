@@ -1,0 +1,18 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+NZ,New Zealand,,,,,,ChIJh5Z3Fw4gLG0RM0dqdeIY1rE,2022-01-01,-27,-19,34,-50,-44,7
+NZ,New Zealand,Auckland,,,NZ-AUK,,ChIJ_cRwha_WDG0RFsRcbJNdG2E,2022-01-01,-38,-32,-4,-65,-53,8
+NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,ChIJZVO9teMdb20REOnhQ55OiPs,2022-01-01,-6,-7,36,-37,-35,7
+NZ,New Zealand,Canterbury,,,NZ-CAN,,ChIJA9l1eDPYLW0RgeJpMTBkdzM,2022-01-01,-27,-14,56,-43,-42,6
+NZ,New Zealand,Gisborne,,,NZ-GIS,,ChIJywobglO-ZW0RHvjoTHu-q8w,2022-01-01,-2,,,,-29,
+NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,ChIJwYEchkOzaW0RZyhYJpjiVAQ,2022-01-01,-19,-13,90,-44,-46,7
+NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,ChIJA9E1Od9eam0RVWqrT8HZJ1c,2022-01-01,-19,-5,65,-28,-32,6
+NZ,New Zealand,Marlborough,,,NZ-MBH,,ChIJDe95unrUO20ReTYDHp9blss,2022-01-01,-9,-4,13,8,-43,
+NZ,New Zealand,Nelson,,,NZ-NSN,,ChIJbZlQAuvtO20RYvlyW3Cn70k,2022-01-01,-24,-12,20,,-46,
+NZ,New Zealand,Northland,,,NZ-NTL,,ChIJSXUwhBupC20RTDf7LvIIKT0,2022-01-01,3,2,52,-3,-29,7
+NZ,New Zealand,Otago,,,NZ-OTA,,ChIJFe1jDnUQK6gRt_6SQX6lQmA,2022-01-01,-18,-12,17,-35,-41,8
+NZ,New Zealand,Southland,,,NZ-STL,,ChIJzbQ_BcVz1KkRIhhERwwn9VU,2022-01-01,-28,-13,34,,-48,6
+NZ,New Zealand,Taranaki,,,NZ-TKI,,ChIJKbaycjcEFW0R8b8kFBWuJPQ,2022-01-01,-15,4,21,,-38,7
+NZ,New Zealand,Tasman,,,NZ-TAS,,ChIJp4D0-_oSO20RxHRglie6KJk,2022-01-01,-11,,96,,-38,
+NZ,New Zealand,Waikato,,,NZ-WKO,,ChIJN3rOJv_-bG0RA14UknN3UgQ,2022-01-01,-10,-7,49,-40,-40,6
+NZ,New Zealand,Wellington,,,NZ-WGN,,ChIJV89DvQVSP20RwniAxOnjrfc,2022-01-01,-33,-26,35,-40,-47,6
+NZ,New Zealand,West Coast,,,NZ-WTC,,ChIJ2Yjvx8umJW0Romz7lRXnyOE,2022-01-01,7,,37,,-32,

@@ -1,0 +1,7 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2022-01-01,-36,-65,45,-39,-40,5
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2022-01-01,-39,-57,,-21,-45,6
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2022-01-01,,,87,,-41,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2022-01-01,,-63,,,-41,
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2022-01-01,-50,-76,-32,-63,-44,8
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2022-01-01,,,,,-40,

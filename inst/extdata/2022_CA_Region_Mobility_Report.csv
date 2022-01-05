@@ -1,0 +1,237 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CA,Canada,,,,,,ChIJ2WrMN9MDDUsRpY9Doiq3aJk,2022-01-01,-64,-63,-7,-61,-52,14
+CA,Canada,Alberta,,,CA-AB,,ChIJtRkkqIKyCVMRno6bQJpHqbA,2022-01-01,-51,-42,-20,-55,-46,12
+CA,Canada,Alberta,Division No. 1 - Medicine Hat,,,,ChIJbxFkS3-CclMRcWH0qv10M08,2022-01-01,-61,-34,,-59,-47,10
+CA,Canada,Alberta,Division No. 10 - Lloydminster,,,,ChIJURF4qeHDClMRk3Hf8CRp-Fg,2022-01-01,-49,-62,-54,,-42,10
+CA,Canada,Alberta,Division No. 11 - Edmonton,,,,ChIJ265WrRqcmFMRRgVwHuXHRhY,2022-01-01,-51,-42,-52,-61,-46,12
+CA,Canada,Alberta,Division No. 12 - Cold Lake,,,,ChIJRXXg7NK6o1MR8yfgLablu5Q,2022-01-01,-59,-60,,,-45,9
+CA,Canada,Alberta,Division No. 13 - Whitecourt,,,,ChIJQ8IEmDSEolMR2R0Hi87Mdhk,2022-01-01,-59,,,,-46,10
+CA,Canada,Alberta,Division No. 14 - Hinton,,,,ChIJ76LiGt4yvVMRcrQqd3xobA8,2022-01-01,-44,,,,-35,
+CA,Canada,Alberta,Division No. 15 - Canmore,,,,ChIJ_92MefaHdlMRCw2KKkm5wvI,2022-01-01,-31,-27,3,-72,-33,12
+CA,Canada,Alberta,Division No. 16 - Fort McMurray,,,,ChIJ7_excbsmvVMRyffwNUTW0aY,2022-01-01,-57,-45,-14,,-34,9
+CA,Canada,Alberta,Division No. 17 - Slave Lake,,,,ChIJ8_7ohcD7vFMRRwODFG2-QY4,2022-01-01,-67,,-49,,-50,
+CA,Canada,Alberta,Division No. 18 - Grande Cache,,,,ChIJ9bYkyKBpvVMRtB6i1OSbDlQ,2022-01-01,,,-59,,-34,
+CA,Canada,Alberta,Division No. 19 - Grande Prairie,,,,ChIJkUyRFsv2mFMRcTj-ca9yYlM,2022-01-01,-57,-48,,,-56,11
+CA,Canada,Alberta,Division No. 2 - Lethbridge,,,,ChIJhxFePMh-clMRwJYpVJYotuY,2022-01-01,-56,-47,-6,-48,-42,11
+CA,Canada,Alberta,Division No. 3 - Claresholm,,,,ChIJpX87ZE5-clMRGcFW9nBsTPQ,2022-01-01,-51,,,,-37,
+CA,Canada,Alberta,Division No. 5 - Strathmore,,,,ChIJz8RVF9sTc1MRDJBI9_W_fWM,2022-01-01,-53,-39,,,-47,
+CA,Canada,Alberta,Division No. 6 - Calgary,,,,ChIJS4TgXkDGoVMRdaqkTmCDZ84,2022-01-01,-49,-41,10,-48,-48,12
+CA,Canada,Alberta,Division No. 7 - Wainwright,,,,ChIJ_3JHbmrCClMRkPzthfn4a2Q,2022-01-01,-64,,,,-38,
+CA,Canada,Alberta,Division No. 8 - Red Deer,,,,ChIJBaLEkm18dlMRS6b5uLcwxDU,2022-01-01,-52,-38,26,-63,-48,10
+CA,Canada,Alberta,Division No. 9 - Rocky Mountain House,,,,ChIJa_9sm5WCmFMR8hxKnJBJGKs,2022-01-01,,,,,-51,
+CA,Canada,British Columbia,,,CA-BC,,ChIJr2prqsdmelMR-fHnN-lBG4g,2022-01-01,-50,-42,-17,-54,-52,14
+CA,Canada,British Columbia,Alberni-Clayoquot,,,,ChIJPXsKpoPGYlQR5q7qq5SLSKM,2022-01-01,-36,,-22,,-36,
+CA,Canada,British Columbia,Bulkley-Nechako,,,,ChIJSRlJhAOrjlMRTT5YqeRnr7U,2022-01-01,-56,,,,-53,
+CA,Canada,British Columbia,Capital,,,,ChIJBYFehXbIYlQRjao-xGuR1qk,2022-01-01,-52,-37,9,-50,-53,12
+CA,Canada,British Columbia,Cariboo,,,,ChIJo7D8n4HnflQRCPenGylaAcQ,2022-01-01,-45,-39,,,-58,11
+CA,Canada,British Columbia,Central Kootenay,,,,ChIJ0eaNybgfe1MR1FOXPED3jgo,2022-01-01,-64,-51,,,-52,11
+CA,Canada,British Columbia,Central Okanagan,,,,ChIJgeS1jNnOeFMRyfHiLhAmFt4,2022-01-01,-55,-44,-47,-39,-49,11
+CA,Canada,British Columbia,Columbia-Shuswap,,,,ChIJu60l2GtcmVMR_esFPz9sY8s,2022-01-01,-46,-56,-41,,-46,13
+CA,Canada,British Columbia,Comox Valley,,,,ChIJrabYGggViFQRdU2wkCBx1YQ,2022-01-01,-53,-51,-34,-69,-52,13
+CA,Canada,British Columbia,Cowichan Valley,,,,ChIJdVs1ujr8iFQR5ayj1Pw60Gc,2022-01-01,-43,-31,-17,-55,-47,12
+CA,Canada,British Columbia,East Kootenay,,,,ChIJ66y6QPmielMRW58O3sj8jS0,2022-01-01,-51,-46,-1,,-52,13
+CA,Canada,British Columbia,Fraser Valley,,,,ChIJyVo0wPdJY1QRjoU-kS_Wwf4,2022-01-01,-45,-33,-18,-44,-50,11
+CA,Canada,British Columbia,Fraser-Fort George,,,,ChIJj4SQJLiPjVMR3xYW8DGI8eY,2022-01-01,-62,-43,-19,-60,-52,11
+CA,Canada,British Columbia,Kitimat-Stikine,,,,ChIJI39Gw9jqjVMRmX8DmY73DcQ,2022-01-01,-66,,,,-50,
+CA,Canada,British Columbia,Kootenay Boundary,,,,ChIJ_WkG6vZufVMRnWkuKnI8jak,2022-01-01,-58,,,,-50,
+CA,Canada,British Columbia,Metro Vancouver,,,,ChIJpd_5BZDOYlQRpvz0npdsnM4,2022-01-01,-50,-39,-14,-54,-53,14
+CA,Canada,British Columbia,Nanaimo,,,,ChIJ4QybURv7iFQRUYSjcwL3PB0,2022-01-01,-52,-46,-29,-35,-46,13
+CA,Canada,British Columbia,North Coast,,,,ChIJZ7r_RI0sjFMRZQAbE0BvN8M,2022-01-01,,,,,-54,
+CA,Canada,British Columbia,North Okanagan,,,,ChIJN_HDEcZ6d1MRJzEUlLKdxxo,2022-01-01,-57,-51,-28,,-55,11
+CA,Canada,British Columbia,Okanagan-Similkameen,,,,ChIJh71WbW5wgVMRnQkQ1K17odM,2022-01-01,-47,-50,-8,,-46,11
+CA,Canada,British Columbia,Peace River,,,,ChIJN7FVEesrklMRkIh9Mb1GSeE,2022-01-01,-56,-44,-28,-40,-56,10
+CA,Canada,British Columbia,qathet Regional District,,,,ChIJ67zhQ4XOYlQRpmTeeJ0hCOE,2022-01-01,,,,,-49,
+CA,Canada,British Columbia,Squamish-Lillooet,,,,ChIJNRWsNGKzgFQRstYQXj-lrw4,2022-01-01,-44,-31,20,-51,-48,14
+CA,Canada,British Columbia,Strathcona,,,,ChIJbUumiM7nYlQR-BWLFTCrZH4,2022-01-01,-54,-54,-32,,-49,
+CA,Canada,British Columbia,Sunshine Coast Regional District,,,,ChIJgcgbobMsfVQRp2t86PDhTFY,2022-01-01,-51,,,-29,-58,
+CA,Canada,British Columbia,Thompson-Nicola,,,,ChIJ_SiQHppZmVMRU1GZA0M1YhU,2022-01-01,-52,-50,-35,-50,-47,10
+CA,Canada,Manitoba,,,CA-MB,,ChIJE7XnRW_gbVIRaMfBq_JVDxw,2022-01-01,-63,-62,-54,-65,-48,14
+CA,Canada,Manitoba,Division No. 11 - Winnipeg,,,,ChIJhz1UViN76lIR7-lbaRYSJr8,2022-01-01,-65,-61,-73,-65,-49,15
+CA,Canada,Manitoba,Division No. 12 - Oakbank,,,,ChIJb9n-S41D61IRLcY2rDQ4zrs,2022-01-01,,,,,-63,
+CA,Canada,Manitoba,Division No. 13 - Selkirk,,,,ChIJb9n-S41D61IRN2AtETeXtZc,2022-01-01,-57,-53,,,-54,
+CA,Canada,Manitoba,Division No. 15 - Neepawa,,,,ChIJLVvAhjEX6lIROywv77fu7_w,2022-01-01,,,,,-55,
+CA,Canada,Manitoba,Division No. 18 - Gimli,,,,ChIJS8IIjWe17lIRLN8s67U8DGI,2022-01-01,,,,,-47,
+CA,Canada,Manitoba,Division No. 2 - Steinbach,,,,ChIJqXx5NVkLwlIRl0MMbBCEb1c,2022-01-01,-60,-71,-76,,-59,12
+CA,Canada,Manitoba,Division No. 21 - The Pas,,,,ChIJA4royS5vAVMRWRP6lTm7wH4,2022-01-01,,,,,-20,
+CA,Canada,Manitoba,Division No. 22 - Thompson,,,,ChIJAyl3gCcnilIRXKYScfOgAyE,2022-01-01,-50,,,,-45,
+CA,Canada,Manitoba,Division No. 3 - Winkler,,,,ChIJFdaNLJtpwlIRuPFSlLZWfWo,2022-01-01,-64,-87,,,-52,
+CA,Canada,Manitoba,Division No. 7 - Brandon,,,,ChIJV9mIBDD051IRSg7aB0ApP40,2022-01-01,-63,-46,,-81,-42,13
+CA,Canada,Manitoba,Division No. 9 - Portage la Prairie,,,,ChIJPfiXnQyk6VIRxsVqsQaMLkg,2022-01-01,-50,,,,-41,
+CA,Canada,New Brunswick,,,CA-NB,,ChIJzQ41MtD9o0wRzAVoAlrJbeY,2022-01-01,-65,-69,3,-56,-49,12
+CA,Canada,New Brunswick,Albert County,,,,ChIJf_Jx_0pQp0wRhOBypyHTPqg,2022-01-01,,-66,,,-63,
+CA,Canada,New Brunswick,Carleton County,,,,ChIJ7fTHjUSEpEwR_rH80vjHR7U,2022-01-01,,,,,-55,
+CA,Canada,New Brunswick,Charlotte County,,,,ChIJ-yy2G2WHqEwRM1YabuhHBMU,2022-01-01,,,,,-48,
+CA,Canada,New Brunswick,Gloucester County,,,,ChIJz1OBj1XOmEwRX5V2UloGW50,2022-01-01,-63,-61,,,-46,12
+CA,Canada,New Brunswick,Kent County,,,,ChIJZQopqoS3oUwRfvPJUlTyH_4,2022-01-01,,,,,-60,
+CA,Canada,New Brunswick,Kings County,,,,ChIJORUNmYHhpkwRkozwo9kfedc,2022-01-01,-55,-73,,,-53,15
+CA,Canada,New Brunswick,Madawaska County,,,,ChIJpxEs0PaovUwRufA3SeQAt-M,2022-01-01,-53,,,,-32,
+CA,Canada,New Brunswick,Northumberland County,,,,ChIJqStJvsSKoUwR7tTpH5mopeE,2022-01-01,-59,-63,,,-40,
+CA,Canada,New Brunswick,Restigouche County,,,,ChIJ5eO951b-l0wRVXU4CVIdcUg,2022-01-01,-61,,,,-45,
+CA,Canada,New Brunswick,Saint John County,,,,ChIJ6UZe2l--p0wRofLqkSvoqEE,2022-01-01,-67,-69,-6,-64,-55,14
+CA,Canada,New Brunswick,Sunbury County,,,,ChIJDyvi1dSjpkwRipEEmne-UoM,2022-01-01,-61,-70,,,-52,
+CA,Canada,New Brunswick,Victoria County,,,,ChIJZwGbrTDookwR4FPDXFkZoTA,2022-01-01,,,,,-46,
+CA,Canada,New Brunswick,Westmorland County,,,,ChIJHR6q-d68oEwRRJkOUECUa6M,2022-01-01,-67,-74,15,-57,-56,12
+CA,Canada,New Brunswick,York County,,,,ChIJCdteaslvpEwR-Os82zY-YhU,2022-01-01,-74,-72,-17,-70,-53,13
+CA,Canada,Newfoundland and Labrador,,,CA-NL,,ChIJD_AvfcKjDEsRqDl21bOd7GQ,2022-01-01,-71,-74,59,-59,-47,10
+CA,Canada,Newfoundland and Labrador,Division No. 1 - St. John's,,,,ChIJaZfDbBZYDUsRThKER3Alhrw,2022-01-01,-71,-73,90,-66,-51,11
+CA,Canada,Newfoundland and Labrador,Division No. 10 - Happy Valley-Goose Bay,,,,ChIJ84RcrZrpZEwRJ0s5m7XG38Q,2022-01-01,,,,,-54,
+CA,Canada,Newfoundland and Labrador,Division No. 5 - Corner Brook,,,,ChIJqQjZfssSeUsRCua2XBmms9U,2022-01-01,-68,-63,,,-49,
+CA,Canada,Newfoundland and Labrador,Division No. 6 - Grand Falls-Windsor,,,,ChIJV5D3Q77KeUsR2bWeHILJGjI,2022-01-01,-75,,,,-41,
+CA,Canada,Newfoundland and Labrador,Division No. 7 -  Bonavista / Clarenville,,,,ChIJLV6uKJqKcksRLn_iYt8k4Q4,2022-01-01,-65,,,,-47,
+CA,Canada,Northwest Territories,,,CA-NT,,ChIJDcHTs_Q4EVERjVnGRNguMhk,2022-01-01,-83,,,-63,-54,
+CA,Canada,Nova Scotia,,,CA-NS,,ChIJRc8Y3pgSWUsRQAnP-B5YAgE,2022-01-01,-67,-72,44,-54,-52,13
+CA,Canada,Nova Scotia,Annapolis County,,,,ChIJRSR9Y7kEWEsRAtS_BfMBoxo,2022-01-01,,,,,-61,
+CA,Canada,Nova Scotia,Antigonish County,,,,ChIJMw41fOFRXEsR374vT8NT-Vs,2022-01-01,,,,,-57,
+CA,Canada,Nova Scotia,Cape Breton Regional Municipality,,,,ChIJASGIEMncaEsRZTcK3coll2A,2022-01-01,-64,-69,,-76,-52,13
+CA,Canada,Nova Scotia,Colchester County,,,,ChIJzVpHVDEXWUsRneWFJevg750,2022-01-01,-64,-66,,,-51,
+CA,Canada,Nova Scotia,Cumberland County,,,,ChIJ3YOVv-yeW0sRy7e3B9natHY,2022-01-01,-64,,,,-38,
+CA,Canada,Nova Scotia,Digby County,,,,ChIJSz6kI61HqEwR5-t6pd4OrXQ,2022-01-01,,,,,-56,
+CA,Canada,Nova Scotia,Halifax Regional Municipality,,,,ChIJxesm0LsTRUsRW2dKWg1nkM0,2022-01-01,-68,-73,49,-51,-54,13
+CA,Canada,Nova Scotia,Hants County,,,,ChIJ4UhydQZuWUsR2ff4rp449qY,2022-01-01,-57,-82,,,-52,
+CA,Canada,Nova Scotia,Kings County,,,,ChIJHfs4AhRFWEsRE9IHbZvNxvs,2022-01-01,-72,-78,,,-59,13
+CA,Canada,Nova Scotia,Lunenburg County,,,,ChIJyWplpiHET0sRi_TJKIOU2R4,2022-01-01,-65,-71,,,-61,
+CA,Canada,Nova Scotia,Pictou County,,,,ChIJjdUm5gRXXEsRJnAFCugR0S4,2022-01-01,-67,-68,,,-56,
+CA,Canada,Nova Scotia,Yarmouth County,,,,ChIJ659XI43sUEsRW5lcA5xkhe4,2022-01-01,-64,,,,-55,
+CA,Canada,Nunavut,,,CA-NU,,ChIJ7aUkKkkjCE0RtqnxTwVx0_8,2022-01-01,,,,,-45,
+CA,Canada,Nunavut,Qikiqtaaluk Region,,,,ChIJN4WhKgSLB04Rc0PDs_XhuNY,2022-01-01,,,,,-52,
+CA,Canada,Ontario,,,CA-ON,,ChIJrxNRX7IFzkwRCR5iKVZC-HA,2022-01-01,-65,-68,12,-60,-54,13
+CA,Canada,Ontario,Algoma District,,,,ChIJ67vaiOvYME0Ri9YhyYjDji0,2022-01-01,-70,-74,,-63,-42,10
+CA,Canada,Ontario,Brant County,,,,ChIJgdiLYIcJLIgRhtiAr3BfFHc,2022-01-01,-58,,,,-58,
+CA,Canada,Ontario,Brantford,,,,ChIJ3UT-GwhmLIgRGBakDwWRPug,2022-01-01,-70,-75,,,-59,12
+CA,Canada,Ontario,Bruce County,,,,ChIJ10IJTXYBKogRa_C4VCv1cs8,2022-01-01,-65,-87,,,-51,
+CA,Canada,Ontario,Chatham-Kent,,,,ChIJ93f_wtkcMIgRc37jmbx7h9U,2022-01-01,-67,-65,,-17,-54,13
+CA,Canada,Ontario,Cochrane District,,,,ChIJT533myXybk0RA_d5CcdLbIY,2022-01-01,-73,-75,,-57,-40,10
+CA,Canada,Ontario,Dufferin County,,,,ChIJmSdAo1tUKogRNyzwnWRPUjg,2022-01-01,-64,-87,,,-60,
+CA,Canada,Ontario,Elgin County,,,,ChIJzerUxPxDLogRzZVttjQ6Mck,2022-01-01,-67,-76,,-2,-61,14
+CA,Canada,Ontario,Essex County,,,,ChIJwyzNH-r_L4gR0R43_oww4gQ,2022-01-01,-70,-59,3,-69,-62,14
+CA,Canada,Ontario,Frontenac County,,,,ChIJcWwtxKLt0kwR3aEFiOCfnhc,2022-01-01,-72,-73,7,-56,-52,9
+CA,Canada,Ontario,Greater Sudbury,,,,ChIJQXcuAlWAOU0RaQt3JcX2ZW4,2022-01-01,-73,-77,-27,-66,-43,9
+CA,Canada,Ontario,Grey County,,,,ChIJUcLEdDF_1UwRvr2fO13-Lgg,2022-01-01,-56,-73,-19,,-57,12
+CA,Canada,Ontario,Haldimand County,,,,ChIJa3qiThdT04kRuIkd1SEwNVs,2022-01-01,-62,-73,,,-63,
+CA,Canada,Ontario,Haliburton County,,,,ChIJjWHSOFhL1EwRIew57nBmU24,2022-01-01,,,37,,-56,
+CA,Canada,Ontario,Hamilton,,,,ChIJj3feJ2yYLIgReGIXzikKReE,2022-01-01,-69,-75,-14,-67,-54,13
+CA,Canada,Ontario,Hastings County,,,,ChIJcym6LrdG00wRjPOR0joKjhg,2022-01-01,-57,-64,,6,-43,8
+CA,Canada,Ontario,Huron County,,,,ChIJlycYxw7WKIgRQJGZHXBe7cw,2022-01-01,-68,,,,-50,
+CA,Canada,Ontario,Kawartha Lakes,,,,ChIJQZpsj1U61UwRsZMz3pqLhbY,2022-01-01,-56,-58,,,-52,9
+CA,Canada,Ontario,Kenora District,,,,ChIJJ30D6SyXglIRuginOHwcinE,2022-01-01,-63,,-8,,-41,
+CA,Canada,Ontario,Lambton County,,,,ChIJY0D2UwR6L4gRXn7BpePeLnM,2022-01-01,-68,-70,,-76,-47,13
+CA,Canada,Ontario,Lanark County,,,,ChIJA6-CHY120kwRlFrPgbWU6Ik,2022-01-01,-63,-65,,,-48,
+CA,Canada,Ontario,Leeds and Grenville United Counties,,,,ChIJt6wEDmEn1okRYEnD7jwoRHY,2022-01-01,-61,-72,,54,-52,9
+CA,Canada,Ontario,Lennox and Addington County,,,,ChIJr66-_OGI00wRUYspik9Ps28,2022-01-01,-43,-49,,11,-50,
+CA,Canada,Ontario,Middlesex County,,,,ChIJv8s7RyYdLIgRQTOl7qAHfRw,2022-01-01,-71,-81,22,-72,-50,13
+CA,Canada,Ontario,Muskoka District Municipality,,,,ChIJ4WkxzVODKk0RguwczAvYKUI,2022-01-01,-69,-66,3,,-47,
+CA,Canada,Ontario,Nipissing District,,,,ChIJzxNo1blDJU0RztmoAHDK4-A,2022-01-01,-61,-70,15,-51,-50,9
+CA,Canada,Ontario,Norfolk County,,,,ChIJ4z-eIzCxLYgRhSceCq4vF-8,2022-01-01,-59,-79,,,-55,14
+CA,Canada,Ontario,Northumberland County,,,,ChIJMab1iLOv1EwRql-lGNPT2DA,2022-01-01,-57,-68,,21,-49,9
+CA,Canada,Ontario,Ottawa,,,,ChIJmcB2guBn0UwRr0RW_iic0LY,2022-01-01,-73,-73,10,-70,-48,12
+CA,Canada,Ontario,Oxford County,,,,ChIJCYMLZUEgLIgRx-KQUBEDlcI,2022-01-01,-70,-78,2,-9,-60,14
+CA,Canada,Ontario,Parry Sound District,,,,ChIJ2VqyZWWQJU0R5BtebZ3O9DY,2022-01-01,-51,,,,-37,
+CA,Canada,Ontario,Perth County,,,,ChIJY7W6HX1JKYgRGfO2kwJbIdk,2022-01-01,-72,-85,,,-60,13
+CA,Canada,Ontario,Peterborough County,,,,ChIJZ7oi9fO81EwRMBsqC_CJLqE,2022-01-01,-68,-71,40,-61,-54,9
+CA,Canada,Ontario,Prescott and Russell United Counties,,,,ChIJp_zmTCaJzkwRcHMNbg9yD6M,2022-01-01,-67,-73,,,-56,12
+CA,Canada,Ontario,Prince Edward County,,,,ChIJL4LUM-RF00wRHqKNXqg7mqA,2022-01-01,,,,,-50,
+CA,Canada,Ontario,Regional Municipality of Durham,,,,ChIJNWdhlINO1YkR3unhOZ62X88,2022-01-01,-67,-70,-6,-70,-54,13
+CA,Canada,Ontario,Regional Municipality of Halton,,,,ChIJz8mQnONoK4gRGbKpsIOFmnA,2022-01-01,-69,-74,47,-62,-59,14
+CA,Canada,Ontario,Regional Municipality of Niagara,,,,ChIJt96TyZ5M04kRliMZDZNGf-8,2022-01-01,-44,-60,43,-75,-52,14
+CA,Canada,Ontario,Regional Municipality of Peel,,,,ChIJq4fryTA8K4gRo-ZoPr8z7Ds,2022-01-01,-57,-62,-12,-53,-58,14
+CA,Canada,Ontario,Regional Municipality of York,,,,ChIJeabS5K7NKogRZIooarTPjRA,2022-01-01,-60,-61,46,-67,-55,15
+CA,Canada,Ontario,Renfrew County,,,,ChIJw-Wi8svm0EwR2snAMQ8mDnI,2022-01-01,-66,-69,,,-49,9
+CA,Canada,Ontario,Simcoe County,,,,ChIJtbFIMeQ61UwRiT6qJMoCDbs,2022-01-01,-65,-70,40,-52,-57,14
+CA,Canada,Ontario,"Stormont, Dundas and Glengarry United Counties",,,,ChIJtSpRbsq20UwRnZuWhLLGCvY,2022-01-01,-59,-71,,-21,-53,11
+CA,Canada,Ontario,Sudbury District,,,,ChIJ1whNviKVFU0RXS0AN46wZH4,2022-01-01,,,,,-39,
+CA,Canada,Ontario,Thunder Bay District,,,,ChIJSXfDfCPMH00R_X6R0F20j1I,2022-01-01,-74,-68,-14,-47,-46,12
+CA,Canada,Ontario,Timiskaming District,,,,ChIJ8eH_onimSU0Rbeq8HzhlJP4,2022-01-01,-70,,,,-49,
+CA,Canada,Ontario,Toronto,,,,ChIJ5b2RG4_L1IkRDtQ2gFEjLv4,2022-01-01,-66,-66,22,-60,-53,14
+CA,Canada,Ontario,Waterloo Regional Municipality,,,,ChIJzVW-r9J0LIgROw_vzdZHqoM,2022-01-01,-67,-75,-50,-72,-52,13
+CA,Canada,Ontario,Wellington County,,,,ChIJuTjl8B_BK4gRI_6Rd2EM7lk,2022-01-01,-72,-75,0,-40,-64,13
+CA,Canada,Prince Edward Island,,,CA-PE,,ChIJxYN_1N1SXksRhmaS9NXWaKk,2022-01-01,-72,-73,,,-49,13
+CA,Canada,Prince Edward Island,Prince County,,,,ChIJx5vAoWIPoEwR-hmaE9Cfz1E,2022-01-01,-68,-73,,,-50,
+CA,Canada,Prince Edward Island,Queens County,,,,ChIJRfIUmE_xXUsRG2k325foz18,2022-01-01,-76,-74,13,,-52,14
+CA,Canada,Quebec,,,CA-QC,,ChIJoajRnzS1WEwRIABNrq0MBAE,2022-01-01,-82,-75,-8,-68,-57,17
+CA,Canada,Quebec,Abitibi Regional County Municipality,,,,ChIJcVPqCwTeHU0RoFbeYSqNhKE,2022-01-01,,,,,-53,
+CA,Canada,Quebec,Abitibi-Ouest Regional County Municipality,,,,ChIJ-_UppJUSJ00RZjF_0mC-Kf4,2022-01-01,,,,,-31,
+CA,Canada,Quebec,Antoine-Labelle Regional County Municipality,,,,ChIJZyvQyc5_2kwRNsDgeMmXxtA,2022-01-01,-71,,39,,-48,
+CA,Canada,Quebec,Argenteuil Regional County Municipality,,,,ChIJ-UElKsDjzkwRxL-VW5gx09U,2022-01-01,-66,-82,,,-62,
+CA,Canada,Quebec,Arthabaska Regional County Municipality,,,,ChIJw91Ed7T3t0wRASlLUawr0-U,2022-01-01,-85,-83,,,-56,19
+CA,Canada,Quebec,Beauce-Sartigan Regional County Municipality,,,,ChIJZb7z0XTquUwRIZcN1ZdB9Vw,2022-01-01,-83,-82,,,-57,
+CA,Canada,Quebec,Beauharnois-Salaberry Regional County Municipality,,,,ChIJTUcPvXJDyUwR5mYy-Q6GBOo,2022-01-01,-74,-72,,,-52,16
+CA,Canada,Quebec,Bellechasse Regional County Municipality,,,,ChIJ7__1lKAcuUwRwlt8giNmoWE,2022-01-01,,,,,-53,
+CA,Canada,Quebec,Brome-Missisquoi Regional County Municipality,,,,ChIJt1om-0PbyUwR2PenV0w64MY,2022-01-01,-73,-78,,,-60,
+CA,Canada,Quebec,D'Autray Regional County Municipality,,,,ChIJq5Oc3BOnyEwRZ520xR1XAZE,2022-01-01,-68,-74,,,-56,
+CA,Canada,Quebec,Deux-Montagnes Regional County Municipality,,,,ChIJKwlUV03TzkwR5v_SPj1z9FU,2022-01-01,-85,-78,9,-52,-63,18
+CA,Canada,Quebec,Drummond Regional County Municipality,,,,ChIJIVigjSlryEwRF_bZt4KQs6c,2022-01-01,-82,-78,-13,,-60,17
+CA,Canada,Quebec,Francheville Regional County Municipality,,,,ChIJi9Hy6Smxx0wR6lHNmdHja1U,2022-01-01,-86,-75,-4,-70,-57,17
+CA,Canada,Quebec,Gatineau,,,,ChIJT-HvEowQzkwREBTG8Em0Yro,2022-01-01,-81,-76,-3,-69,-59,13
+CA,Canada,Quebec,Joliette Regional County Municipality,,,,ChIJs8U8rZTdx0wRZICiN4Mpxlo,2022-01-01,-84,-78,,,-52,16
+CA,Canada,Quebec,Kamouraska Regional County Municipality,,,,ChIJu2hxLHgXv0wRAl2_Cr-tzHQ,2022-01-01,,,,,-54,
+CA,Canada,Quebec,L'Assomption Regional County Municipality,,,,ChIJ206wDzfpyEwRQcHz5xFkPn0,2022-01-01,-81,-79,6,-70,-58,18
+CA,Canada,Quebec,L'Érable Regional County Municipality,,,,ChIJS5lvR64SuEwRBUQibwXv3h4,2022-01-01,,,,,-59,
+CA,Canada,Quebec,La Côte-de-Beaupré Regional County Municipality,,,,ChIJv92PkKKjwEwRkkjvM81nFkU,2022-01-01,,,,,-42,
+CA,Canada,Quebec,La Haute-Yamaska Regional County Municipality,,,,ChIJO5etFnXayUwRf0Y_bS8PbZo,2022-01-01,-84,-68,4,,-57,17
+CA,Canada,Quebec,La Jacques-Cartier Regional County Municipality,,,,ChIJc1PswIdZv0wRkb5B5jH6GQQ,2022-01-01,-80,-90,-54,,-54,
+CA,Canada,Quebec,La Matanie Regional County Municipality,,,,ChIJme4Zvv5DkUwRrMcZUwNQEnc,2022-01-01,,,,,-57,
+CA,Canada,Quebec,La Nouvelle-Beauce Regional County Municipality,,,,ChIJecdHuEgCuUwRkoz7eq0fcQI,2022-01-01,-80,-83,,,-62,
+CA,Canada,Quebec,La Rivière-du-Nord Regional County Municipality,,,,ChIJT9nO8Q-Oz0wR1HIbN0Z-Lzc,2022-01-01,-80,-75,-11,-44,-64,17
+CA,Canada,Quebec,La Vallée-de-l'Or Regional County Municipality,,,,ChIJwa2llDDv5kwRw2Q69rWx3VY,2022-01-01,-93,-78,,,-53,
+CA,Canada,Quebec,La Vallée-de-la-Gatineau Regional County Municipality,,,,ChIJzzM4kMHd2kwR_8Q5YgU2a9A,2022-01-01,,,,,-50,
+CA,Canada,Quebec,La Vallée-du-Richelieu Regional County Municipality,,,,ChIJXxDjL2kHyUwRxpBCIMF9Izk,2022-01-01,-89,-85,-40,-76,-69,18
+CA,Canada,Quebec,Lac-Saint-Jean-Est Regional County Municipality,,,,ChIJG9RJw3a56UwRq_0SUxM3enM,2022-01-01,-82,-74,,,-56,
+CA,Canada,Quebec,Laval,,,,ChIJa9rftAchyUwRk88rPgakdao,2022-01-01,-85,-78,7,-77,-64,18
+CA,Canada,Quebec,Le Domaine-du-Roy,,,,ChIJi5eqx2o_70wRe91Ou8nrGII,2022-01-01,-78,,,,-53,
+CA,Canada,Quebec,Le Fjord-du-Saguenay Regional County Municipality,,,,ChIJH51t4RF16UwRG6VrZxIRbk8,2022-01-01,-84,-77,21,-75,-56,15
+CA,Canada,Quebec,Le Haut-Richelieu Regional County Municipality,,,,ChIJG77IkL28yUwRadCKT1eDE7o,2022-01-01,-83,-82,,,-56,17
+CA,Canada,Quebec,Le Haut-Saint-François Regional County Municipality,,,,ChIJT6vNYpOpt0wRxCVKWrGtlts,2022-01-01,,,,,-44,
+CA,Canada,Quebec,Le Haut-Saint-Laurent Regional County Municipality,,,,ChIJB06MxhhXyUwRbTb9T6Or2Zo,2022-01-01,,,,,-41,
+CA,Canada,Quebec,Le Val-Saint-François Regional County Municipality,,,,ChIJkyx3BeXNt0wRgKxtiOzMe-E,2022-01-01,,,,,-60,
+CA,Canada,Quebec,Les Appalaches,,,,ChIJ21hugRkuuEwROHhDJ5IjcJs,2022-01-01,-89,-81,,,-59,
+CA,Canada,Quebec,Les Collines-de-l'Outaouais Regional County Municipality,,,,ChIJxwZBEkl_2kwRxkJlc5TOy-s,2022-01-01,-59,,-19,,-59,
+CA,Canada,Quebec,Les Jardins-de-Napierville Regional County Municipality,,,,ChIJN3PpuDZ0yUwRrjrhiyAYtWE,2022-01-01,,,,,-49,
+CA,Canada,Quebec,Les Laurentides Regional County Municipality,,,,ChIJ2czEaUWAz0wRJ7CT6TrQX6k,2022-01-01,-65,-57,-38,,-50,19
+CA,Canada,Quebec,Les Maskoutains Regional County Municipality,,,,ChIJ1RSyuNZHyEwRT5UB1bI7ARA,2022-01-01,-79,-68,-20,,-49,17
+CA,Canada,Quebec,Les Moulins Regional County Municipality,,,,ChIJn2SrXnrcyEwRTL3ghmdGW-I,2022-01-01,-85,-80,-10,-67,-56,19
+CA,Canada,Quebec,Les Pays-d'en-Haut Regional County Municipality,,,,ChIJvTF99AAWz0wRgQQ_dXkMEXA,2022-01-01,-73,-53,-4,,-63,
+CA,Canada,Quebec,Levis,,,,ChIJcUhp9BWOuEwR7-iQ6fCMDmg,2022-01-01,-85,-84,26,-67,-59,16
+CA,Canada,Quebec,Lotbinière Regional County Municipality,,,,ChIJM7BXO2F7uEwRs-X0FQiKONA,2022-01-01,-67,,,,-58,
+CA,Canada,Quebec,Manicouagan Regional County Municipality,,,,ChIJnQGhKqoEk0wRqF-bYdKj5U8,2022-01-01,-87,,,,-49,
+CA,Canada,Quebec,Marguerite-D'Youville Regional County Municipality,,,,ChIJue570bz6yEwRXX5vLGj3aw8,2022-01-01,-88,-86,13,-75,-62,19
+CA,Canada,Quebec,Maria-Chapdelaine,,,,ChIJK5tKOHE_70wRYxWLiv7unDQ,2022-01-01,,,,,-57,
+CA,Canada,Quebec,Maskinongé Regional County Municipality,,,,ChIJ0c40E3VAxkwR9pMQFMYXahw,2022-01-01,,,,-57,-57,
+CA,Canada,Quebec,Matawinie Regional County Municipality,,,,ChIJS5l_iyu4xUwR8F5zWvoWtPw,2022-01-01,-64,-62,-3,,-58,
+CA,Canada,Quebec,Memphrémagog Regional County Municipality,,,,ChIJccZ-kDk4tkwRrRx6_0a4fSo,2022-01-01,-86,-61,0,,-63,
+CA,Canada,Quebec,Mirabel,,,,ChIJrXIkQHMryUwRGGfJhGlAmK0,2022-01-01,-82,-80,-37,,-63,
+CA,Canada,Quebec,Montcalm Regional County Municipality,,,,ChIJB1Yxova3yEwRDZBpK2ecVvA,2022-01-01,-68,-72,,,-58,17
+CA,Canada,Quebec,Montmagny Regional County Municipality,,,,ChIJ31HdOS87uUwRydvSCwoAFQ4,2022-01-01,,,,,-63,
+CA,Canada,Quebec,Montreal,,,,ChIJl7TSQk3ex0wRM0QRpZ0sb30,2022-01-01,-81,-72,-18,-66,-59,16
+CA,Canada,Quebec,Nicolet-Yamaska Regional County Municipality,,,,ChIJRZTEJMh2yEwRZ6h-NhZC0xc,2022-01-01,,,,-31,-51,
+CA,Canada,Quebec,Nord-du-Québec,,,,ChIJdcpHraWh-EwR92llRjrK-s0,2022-01-01,,,,,-30,
+CA,Canada,Quebec,Papineau Regional County Municipality,,,,ChIJ-Su0KQpo0EwRxx2UsB9K3_M,2022-01-01,,,,,-53,
+CA,Canada,Quebec,Pierre-De Saurel Regional County Municipality,,,,ChIJ3UZWkQ1jyEwRPMhnm-0Dt-U,2022-01-01,-87,-76,,,-56,
+CA,Canada,Quebec,Portneuf Regional County Municipality,,,,ChIJxeK8cEDzw0wRW4sZM5flcqw,2022-01-01,-76,-85,-17,,-53,
+CA,Canada,Quebec,Quebec,,,,ChIJnXX5onqYuEwRXldkq7QS3Io,2022-01-01,-86,-82,-20,-77,-55,15
+CA,Canada,Quebec,Rimouski-Neigette,,,,ChIJe2Nt0VovnEwRBNc2Qkyf7UQ,2022-01-01,-86,-81,,,-62,
+CA,Canada,Quebec,Rivière-du-Loup Regional County Municipality,,,,ChIJyemJvQYYvkwRZxxLt2jbTkc,2022-01-01,-85,-84,,,-59,
+CA,Canada,Quebec,Roussillon Regional County Municipality,,,,ChIJQ5Omk5SUyEwRoWZNsZ8216s,2022-01-01,-83,-81,15,-68,-67,19
+CA,Canada,Quebec,Rouville Regional County Municipality,,,,ChIJ06rJvo2wyUwRfkgxpkJQQbY,2022-01-01,-69,-69,,,-68,
+CA,Canada,Quebec,Rouyn-Noranda,,,,ChIJIaCIKEXV4UwRllw32_M2mPc,2022-01-01,-85,-82,,,-54,
+CA,Canada,Quebec,Sept-Rivières—Caniapiscau,,,,ChIJjcBGj8rQWEwR4yjVsLAzpj8,2022-01-01,-74,,,,-48,
+CA,Canada,Quebec,Shawinigan,,,,ChIJzT4nkWtFxkwRSAYj77F6AsU,2022-01-01,-76,-72,8,,-52,16
+CA,Canada,Quebec,Sherbrooke,,,,ChIJueB5S89NtkwRzqqj5NtLNGg,2022-01-01,-84,-79,-16,-77,-62,15
+CA,Canada,Quebec,Thérèse-De Blainville Regional County Municipality,,,,ChIJR0aa9pDXyEwRIOn7cj-033E,2022-01-01,-88,-83,23,-64,-72,18
+CA,Canada,Quebec,Vaudreuil-Soulanges Regional County Municipality,,,,ChIJa8uxEPlKyUwRcQep4lk1UJw,2022-01-01,-80,-79,40,-53,-66,18
+CA,Canada,Saskatchewan,,,CA-SK,,ChIJL3ZlI7Fx-FIRK-HCklcrNBU,2022-01-01,-55,-56,-39,-46,-43,12
+CA,Canada,Saskatchewan,Division No. 1 - Estevan,,,,ChIJ2UO8BYJO5lIRsBApm3AJRtk,2022-01-01,,,,,-51,
+CA,Canada,Saskatchewan,Division No. 11 - Saskatoon,,,,ChIJQReOkf1TG1MRTbVpQISyTkM,2022-01-01,-55,-51,-49,-42,-43,12
+CA,Canada,Saskatchewan,Division No. 12 - Battleford,,,,ChIJu0PZPm94BVMRwadh8wE8rfM,2022-01-01,,,,,-51,
+CA,Canada,Saskatchewan,Division No. 13 - Kindersley,,,,ChIJtZdzL25wDFMRdyXRCw9edeM,2022-01-01,,,,,-49,
+CA,Canada,Saskatchewan,Division No. 14 - Melfort,,,,ChIJZcD8AympVFIRol37sK1OAfQ,2022-01-01,-64,,,,-42,
+CA,Canada,Saskatchewan,Division No. 15 - Prince Albert,,,,ChIJXw3aHM1ipVMRpGokHBFGqYc,2022-01-01,-51,-50,-41,,-42,11
+CA,Canada,Saskatchewan,Division No. 16 - North Battleford,,,,ChIJ9yVTzui_pVMRBjQHP183xF4,2022-01-01,-43,,,,-36,
+CA,Canada,Saskatchewan,Division No. 17 - Lloydminster,,,,ChIJJX5oP4sNoVMRr0SjRApdPfQ,2022-01-01,-62,,,,-40,
+CA,Canada,Saskatchewan,Division No. 18 - La Ronge,,,,ChIJU64b-pSIr1MRjKezmfgCgnM,2022-01-01,,,,,-22,
+CA,Canada,Saskatchewan,Division No. 2 - Weyburn,,,,ChIJJabO-k8RH1MRbWJ9wdH5ATQ,2022-01-01,,,,,-48,
+CA,Canada,Saskatchewan,Division No. 5 - Melville,,,,ChIJYeTipWkd4lIRDBTLcdv-xTI,2022-01-01,,,,,-47,
+CA,Canada,Saskatchewan,Division No. 6 - Regina,,,,ChIJGcWg4WwcHFMRZd-0XqyoJzo,2022-01-01,-58,-57,-55,-59,-44,12
+CA,Canada,Saskatchewan,Division No. 7 - Moose Jaw,,,,ChIJhWZ6M4M5G1MRU1aPqk71iq4,2022-01-01,-50,,,,-45,
+CA,Canada,Saskatchewan,Division No. 8 - Swift Current,,,,ChIJL9HiNWo4EFMR2bBjDcnvkI4,2022-01-01,-53,,,,-45,
+CA,Canada,Saskatchewan,Division No. 9 - Yorkton,,,,ChIJ2RqwoVzs4lIR2DJ1xomOc7s,2022-01-01,-61,,,,-43,
+CA,Canada,Yukon,,,CA-YT,,ChIJiYtStJiBF1ER6pbMYdWcFC4,2022-01-01,-70,,,,-54,

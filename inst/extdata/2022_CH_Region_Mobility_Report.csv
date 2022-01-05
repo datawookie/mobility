@@ -1,0 +1,27 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+CH,Switzerland,,,,,,ChIJYW1Zb-9kjEcRFXvLDxG1Vlw,2022-01-01,-69,-81,44,-33,-52,10
+CH,Switzerland,Aargau,,,CH-AG,,ChIJK32y9fMXkEcRfc5XB_gNGvg,2022-01-01,-77,-88,83,-47,-56,11
+CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,ChIJ979wCHEfm0cRD6-ER66wR4E,2022-01-01,,,,-8,-47,
+CH,Switzerland,Basel City,,,CH-BS,,ChIJZW5Lc163kUcR_qJqDx28q3Y,2022-01-01,-75,-78,28,-40,-48,7
+CH,Switzerland,Basel-Landschaft,,,CH-BL,,ChIJNQdrO_i1kUcRE3lb88jFOqw,2022-01-01,-70,-85,,-37,-49,10
+CH,Switzerland,Canton of Bern,,,CH-BE,,ChIJdxs61MA5jkcRoBDj6pdqoAg,2022-01-01,-67,-82,77,-30,-50,9
+CH,Switzerland,Canton of Zug,,,CH-ZG,,ChIJgR05O1mqmkcRovjNQ3_Mi_U,2022-01-01,-78,-87,,-42,-55,
+CH,Switzerland,Fribourg,,,CH-FR,,ChIJf_oOyunYjUcRAJfu1-gz8bg,2022-01-01,-74,-84,40,-36,-54,11
+CH,Switzerland,Geneva,,,CH-GE,,ChIJ5c1jUUNkjEcRgNgYQIj_AAE,2022-01-01,-75,-84,-3,-51,-54,10
+CH,Switzerland,Glarus,,,CH-GL,,ChIJG4ysI7EthUcRVROZoIdLIuw,2022-01-01,-67,-83,,-30,-55,
+CH,Switzerland,Grisons,,,CH-GR,,ChIJGwykPoKRhEcRENgYQIj_AAE,2022-01-01,-42,-58,30,-17,-41,8
+CH,Switzerland,Jura,,,CH-JU,,ChIJtV6GwMXkkUcRkNgYQIj_AAE,2022-01-01,-73,-87,,-35,-64,
+CH,Switzerland,Lucerne,,,CH-LU,,ChIJIQ3mFsjlj0cRINcYQIj_AAE,2022-01-01,-68,-79,18,-29,-55,9
+CH,Switzerland,Neuchâtel,,,CH-NE,,ChIJxargAWHmjUcR_VjopE8rdzw,2022-01-01,-81,-91,,-40,-64,10
+CH,Switzerland,Nidwalden,,,CH-NW,,ChIJ58I7cff1j0cRYNcYQIj_AAE,2022-01-01,-77,-83,,-53,-54,
+CH,Switzerland,Obwalden,,,CH-OW,,ChIJ7zEf3Ufyj0cRO9o02ufd0UM,2022-01-01,,,,-38,-51,
+CH,Switzerland,Schaffhausen,,,CH-SH,,ChIJj3-TjqF3kEcRhTthzBjvZsc,2022-01-01,-68,-84,,-31,-58,
+CH,Switzerland,Schwyz,,,CH-SZ,,ChIJNX_63JZLhUcRYFgHLO5Xzb0,2022-01-01,-67,-79,,-18,-58,9
+CH,Switzerland,Solothurn,,,CH-SO,,ChIJyQT15fgkjkcRNQMSD5syOis,2022-01-01,-75,-88,,-38,-58,10
+CH,Switzerland,St. Gallen,,,CH-SG,,ChIJoRAKiyTDmkcR6o3KFbp6rgs,2022-01-01,-67,-85,,-24,-54,9
+CH,Switzerland,Thurgau,,,CH-TG,,ChIJQXF3xLXrmkcR3143PnN4ED4,2022-01-01,-74,-92,60,-38,-52,11
+CH,Switzerland,Ticino,,,CH-TI,,ChIJg946LtqXhUcRuN5YORraPgw,2022-01-01,-63,-82,109,-27,-49,13
+CH,Switzerland,Uri,,,CH-UR,,ChIJh70oMINDhUcR16HLniPoKFA,2022-01-01,-54,,,-13,-55,
+CH,Switzerland,Valais,,,CH-VS,,ChIJF5p_6psij0cRYNgYQIj_AAE,2022-01-01,-54,-58,19,-22,-42,11
+CH,Switzerland,Vaud,,,CH-VD,,ChIJtZALbaItjEcRUNgYQIj_AAE,2022-01-01,-73,-84,18,-35,-60,11
+CH,Switzerland,Zurich,,,CH-ZH,,ChIJa_ltU3EKkEcRfy571124_mM,2022-01-01,-73,-82,96,-31,-48,8

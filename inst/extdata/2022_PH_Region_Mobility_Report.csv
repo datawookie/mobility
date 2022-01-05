@@ -1,0 +1,27 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+PH,Philippines,,,,,,ChIJY96HXyFTQDIRV9opeu-QR3g,2022-01-01,-39,-15,27,-48,-52,17
+PH,Philippines,,,Bacolod Metropolitan Area,,,ChIJP0GxCmvSrjMRMF16rgQBE78,2022-01-01,-39,-6,-7,-42,-53,18
+PH,Philippines,,,Baguio Metropolitan Area,,,ChIJ62aDyROhkTMR6_5yffZUEzM,2022-01-01,-47,-59,-31,-46,-57,16
+PH,Philippines,,,Cagayan de Oro Metropolitan Area,,,ChIJHZtqzkGM_zIRpU_oegD9jso,2022-01-01,-47,-33,8,-44,-60,19
+PH,Philippines,,,Cebu Metropolitan Area,,,ChIJnVBbLn-fqTMRPHWY015UhD0,2022-01-01,-55,-50,-47,-66,-68,-1
+PH,Philippines,,,Davao City Metropolitan Area,,,ChIJjWhSrqoI-TIRH_DqH63CKyA,2022-01-01,-48,-15,25,-44,-60,15
+PH,Philippines,,,Iloilo Metropolitan Area,,,ChIJSTamltfkrjMRDU3d2-nGdMI,2022-01-01,-53,-35,-9,-51,-56,19
+PH,Philippines,,,Manila Metropolitan Area,,,ChIJU1BwQO-2lzMRtq5GyEWTMT0,2022-01-01,-48,-21,-13,-57,-58,20
+PH,Philippines,,,Pampanga Metropolitan Area,,,ChIJDwCg7sC2ljMRkmd0bo71Tjo,2022-01-01,-20,6,49,-41,-50,12
+PH,Philippines,Autonomous Region in Muslim Mindanao,,,PH-14,,ChIJ49hGyFaSWjIRNbBw4T9eQeY,2022-01-01,-12,-1,51,-45,-34,9
+PH,Philippines,Bicol,,,PH-05,,ChIJWXhtda6MoTMRLuir4NcCUaY,2022-01-01,-21,21,101,-23,-33,17
+PH,Philippines,Cagayan Valley,,,PH-02,,ChIJd4zH4YCGhTMRnDIGET89QrE,2022-01-01,-24,-11,66,-46,-44,13
+PH,Philippines,Calabarzon,,,PH-40,,ChIJfTlj-wQCmDMRzJLM6XtvvTU,2022-01-01,-22,3,74,2,-46,18
+PH,Philippines,Caraga,,,PH-13,,ChIJoSl4oDSaATMRuL0izHPiV1s,2022-01-01,-38,-15,45,-56,-49,8
+PH,Philippines,Central Luzon,,,PH-03,,ChIJ4UqGC8MvlzMRNAh-R31d2qw,2022-01-01,-15,11,57,-16,-44,15
+PH,Philippines,Central Visayas,,,PH-07,,ChIJVc7VivHFqzMRAaGfJmRsBzs,2022-01-01,-54,-50,-31,-66,-63,2
+PH,Philippines,Cordillera Administrative Region,,,PH-15,,ChIJP_HeeWihkTMRL09E0vtNltU,2022-01-01,-47,-55,-1,-47,-52,15
+PH,Philippines,Davao Region,,,PH-11,,ChIJM7RB5XuJ-TIRzHI3okcr4PM,2022-01-01,-43,-13,54,-41,-57,14
+PH,Philippines,Eastern Visayas,,,PH-08,,ChIJDUs8_P7bCTMRWsKGBxUGoVY,2022-01-01,-46,-34,36,-42,-41,17
+PH,Philippines,Ilocos Region,,,PH-01,,ChIJi_RPNjrJjjMRzYB5Jl1fMTI,2022-01-01,-11,-2,61,-36,-38,12
+PH,Philippines,MIMAROPA,,,PH-41,,ChIJ15tKmiSnvDMRgqZLXnp65v0,2022-01-01,-26,-17,32,-52,-40,11
+PH,Philippines,National Capital Region,,,PH-00,,ChIJbTgmYNLIlzMR0HiSrNoj7V8,2022-01-01,-53,-29,-30,-63,-60,20
+PH,Philippines,Northern Mindanao,,,PH-10,,ChIJjWvt7eRkADMR5MfVbPLs2mM,2022-01-01,-39,-11,48,-40,-52,16
+PH,Philippines,SOCCSKSARGEN,,,PH-12,,ChIJi5rGCnMU-DIR59ey-3ltPlI,2022-01-01,-20,1,65,-29,-45,13
+PH,Philippines,Western Visayas,,,PH-06,,ChIJ0d8NVSkRrDMREkWBAgvaxSI,2022-01-01,-47,-29,4,-49,-50,17
+PH,Philippines,Zamboanga Peninsula,,,PH-09,,ChIJ7XVqWKfhUzIR4kPY7diFOuY,2022-01-01,-38,-5,69,-33,-49,12

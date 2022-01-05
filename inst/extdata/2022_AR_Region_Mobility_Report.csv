@@ -1,0 +1,435 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+AR,Argentina,,,,,,ChIJZ8b99fXKvJURqA_wKpl3Lz0,2022-01-01,-55,-57,-32,-49,-55,7
+AR,Argentina,Buenos Aires,,,AR-C,,ChIJu39FBT3KvJURF8D35_z0YOE,2022-01-01,-75,-74,-40,-60,-65,9
+AR,Argentina,Buenos Aires,Comuna 1,,,,ChIJuQQBxzE1o5URe4mzo2cEmTc,2022-01-01,-69,-69,-40,-60,-61,8
+AR,Argentina,Buenos Aires,Comuna 10,,,,ChIJif2PN8nJvJURdmM8-GjGdMs,2022-01-01,-82,-79,-14,-67,-71,10
+AR,Argentina,Buenos Aires,Comuna 11,,,,ChIJ9fAAUSS2vJUR1sOIFvvX2XU,2022-01-01,-75,-72,-51,-63,-72,10
+AR,Argentina,Buenos Aires,Comuna 12,,,,ChIJX3MKLfS2vJURrrZUmIOQI-0,2022-01-01,-80,-76,-30,-66,-66,10
+AR,Argentina,Buenos Aires,Comuna 13,,,,ChIJ1xHQhS20vJURuGiIQEy6qLk,2022-01-01,-76,-78,-70,-70,-61,10
+AR,Argentina,Buenos Aires,Comuna 14,,,,ChIJy9bjmp61vJUR1kFz4gnyucs,2022-01-01,-71,-82,-40,-35,-54,9
+AR,Argentina,Buenos Aires,Comuna 15,,,,ChIJJ2FHGQi2vJURwDLt3Or-hBA,2022-01-01,-79,-69,-32,-67,-67,9
+AR,Argentina,Buenos Aires,Comuna 2,,,,ChIJDWsSDp_KvJUR9QfscYcpGOU,2022-01-01,-76,-74,-42,-69,-49,9
+AR,Argentina,Buenos Aires,Comuna 3,,,,ChIJfYHTguXKvJURoZj4BULLfqM,2022-01-01,-83,-87,-52,-72,-66,8
+AR,Argentina,Buenos Aires,Comuna 4,,,,ChIJ9_j8amvLvJURXE6r-8YAdB8,2022-01-01,-69,-73,-53,-57,-67,10
+AR,Argentina,Buenos Aires,Comuna 5,,,,ChIJA7bs4VnKvJUR8YI31twWxkg,2022-01-01,-75,-68,-49,-63,-65,8
+AR,Argentina,Buenos Aires,Comuna 6,,,,ChIJIR9pFD7KvJURPaMYFhbLY48,2022-01-01,-71,-73,2,-71,-64,6
+AR,Argentina,Buenos Aires,Comuna 7,,,,ChIJs7AojjLKvJURJNFcnyOteb0,2022-01-01,-84,-67,-18,-65,-69,10
+AR,Argentina,Buenos Aires,Comuna 8,,,,ChIJmZurhlXJvJUR4nMVILqKWx4,2022-01-01,-64,-74,-20,-51,-66,12
+AR,Argentina,Buenos Aires,Comuna 9,,,,ChIJK4_D6QjJvJURJsjRJpB3mVg,2022-01-01,-75,-77,-1,-60,-70,7
+AR,Argentina,Buenos Aires Province,,,AR-B,,ChIJ2YFSWbe87ZURRKHw3PwJ00o,2022-01-01,-59,-60,-39,-60,-59,10
+AR,Argentina,Buenos Aires Province,9 de Julio,,,,ChIJpUEEf510v5URNF0TiKcA9l8,2022-01-01,-33,-42,-29,-47,-50,1
+AR,Argentina,Buenos Aires Province,Adolfo Alsina Partido,,,,ChIJeV8qz0eJ6ZURfDKn85AdGVM,2022-01-01,-9,,-3,,-28,
+AR,Argentina,Buenos Aires Province,Adolfo Gonzáles Chaves Partido,,,,ChIJ9_JGTs1KkpURZMNZ85RK7Rs,2022-01-01,,,,,-9,
+AR,Argentina,Buenos Aires Province,Alberti Partido,,,,ChIJmxAZ-CrBvpUR-_yT4e55w8Y,2022-01-01,,,-18,,-48,
+AR,Argentina,Buenos Aires Province,Almirante Brown Partido,,,,ChIJI5GNLh4to5URpkUocyVBASA,2022-01-01,-72,-68,-44,-56,-62,11
+AR,Argentina,Buenos Aires Province,Arrecifes Partido,,,,ChIJE37ekTiDuZURCcne59JxJIQ,2022-01-01,-57,-39,-50,,-53,7
+AR,Argentina,Buenos Aires Province,Avellaneda Partido,,,,ChIJ14EM2bzMvJURkaCAfSuL7F4,2022-01-01,-77,-81,-46,-58,-62,11
+AR,Argentina,Buenos Aires Province,Ayacucho Partido,,,,ChIJeYxXgkemkJURKIjrLcBtoFU,2022-01-01,-28,,-17,,-35,
+AR,Argentina,Buenos Aires Province,Azul Partido,,,,ChIJz3n0ZQ6YlpURt550cSZY9-g,2022-01-01,-10,-54,13,-40,-50,1
+AR,Argentina,Buenos Aires Province,Bahía Blanca,,,,ChIJ_Qg5eS-v7ZURkJ8Tr_dW7oQ,2022-01-01,-62,-70,-15,-25,-55,0
+AR,Argentina,Buenos Aires Province,Balcarce Partido,,,,ChIJLxbK7wakmpURN2h1gzE7-44,2022-01-01,-62,-45,-23,,-57,10
+AR,Argentina,Buenos Aires Province,Baradero Partido,,,,ChIJA_UDCqZKupURtAN6M3WexwM,2022-01-01,3,-53,-52,,-49,5
+AR,Argentina,Buenos Aires Province,Benito Juárez Partido,,,,ChIJIW8f20ffk5URfo3Bh_5R4D4,2022-01-01,-16,-23,-14,,-29,
+AR,Argentina,Buenos Aires Province,Berazategui Partido,,,,ChIJceyBPlzXopURu-lEZftn2oc,2022-01-01,-67,-73,-47,-59,-62,11
+AR,Argentina,Buenos Aires Province,Berisso Partido,,,,ChIJ64RatgPwopURONNDc1C43Ik,2022-01-01,-56,-47,-4,,-52,7
+AR,Argentina,Buenos Aires Province,Bolívar Partido,,,,ChIJfYPr56Xiv5URGAeMsqC0bNM,2022-01-01,3,-54,-4,-61,-50,1
+AR,Argentina,Buenos Aires Province,Bragado Partido,,,,ChIJpfk56g4ov5URP5xEDqX6Mts,2022-01-01,-30,-42,-32,,-52,3
+AR,Argentina,Buenos Aires Province,Brandsen Partido,,,,ChIJmT7W97W5opURcoex71ISGKk,2022-01-01,-52,,-24,-77,-55,3
+AR,Argentina,Buenos Aires Province,Campana Partido,,,,ChIJketB0tltu5URcmDrSeeSOP0,2022-01-01,-54,-73,-45,-59,-59,9
+AR,Argentina,Buenos Aires Province,Cañuelas Partido,,,,ChIJRfEmgzE9vZURYJMDGB1vpTo,2022-01-01,-55,-43,-40,-61,-58,11
+AR,Argentina,Buenos Aires Province,Capitán Sarmiento Partido,,,,ChIJodRwwZt9uZURRZXOPQSLeog,2022-01-01,,,-64,,-36,
+AR,Argentina,Buenos Aires Province,Carlos Casares Partido,,,,ChIJAXS1Dil-wJURe5-X2GeTySU,2022-01-01,-47,-26,-35,,-41,9
+AR,Argentina,Buenos Aires Province,Carlos Tejedor Partido,,,,ChIJDWx8_DM0wZURFe17s90SIXI,2022-01-01,,,-15,,-35,
+AR,Argentina,Buenos Aires Province,Carmen de Areco Partido,,,,ChIJ47GhMZNeuZURsYLvs7YPasQ,2022-01-01,,,-47,,-44,
+AR,Argentina,Buenos Aires Province,Castelli Partido,,,,ChIJX6SuiVQHmZURWCQpduufbmk,2022-01-01,-49,,-35,,-24,
+AR,Argentina,Buenos Aires Province,Chacabuco Partido,,,,ChIJ6Sjrcws6uZUR9sKA-20puno,2022-01-01,-31,-52,-43,,-56,6
+AR,Argentina,Buenos Aires Province,Chascomús Partido,,,,ChIJkS543-xpmJURdodW1r4j6Y4,2022-01-01,-33,-60,-34,-62,-49,5
+AR,Argentina,Buenos Aires Province,Chivilcoy Partido,,,,ChIJvypI1EekvpURNtgk7edqy98,2022-01-01,-49,-54,-45,,-59,4
+AR,Argentina,Buenos Aires Province,Colón Partido,,,,ChIJCzI78HQauJURucdsngH5-1s,2022-01-01,-36,,-42,-47,-49,8
+AR,Argentina,Buenos Aires Province,Coronel de Marina Leonardo Rosales,,,,ChIJ8w7S3m1v7ZURQiImH2UDwo4,2022-01-01,-50,-31,39,-35,-40,0
+AR,Argentina,Buenos Aires Province,Coronel Dorrego Partido,,,,ChIJ__hqdsq6kpURruIRSscfH3U,2022-01-01,,,-9,,-49,
+AR,Argentina,Buenos Aires Province,Coronel Pringles Partido,,,,ChIJ-YX6aysqk5URLVHoso-xMtI,2022-01-01,,,34,,-53,
+AR,Argentina,Buenos Aires Province,Coronel Suárez,,,,ChIJ08T46YFx65URLOIqlrOG8OM,2022-01-01,-30,-26,-35,,-42,-3
+AR,Argentina,Buenos Aires Province,Daireaux Partido,,,,ChIJLRjOiema6pURbjsOUZvcT7U,2022-01-01,,,-20,,-38,
+AR,Argentina,Buenos Aires Province,Dolores Partido,,,,ChIJ_ezxVzOdmZURG99T8S_8DH4,2022-01-01,-56,-44,1,-29,-35,2
+AR,Argentina,Buenos Aires Province,Ensenada Partido,,,,ChIJ0VvSuMHgopUR3IgXiGbwEPE,2022-01-01,-32,-23,-43,,-55,10
+AR,Argentina,Buenos Aires Province,Escobar Partido,,,,ChIJy4LsgVJgu5UR6Pk6q85G84o,2022-01-01,-68,-77,-59,-70,-65,13
+AR,Argentina,Buenos Aires Province,Esteban Echeverría Partido,,,,ChIJ3Qji2j3OvJURVvBpTjYF-pM,2022-01-01,-57,-71,-59,-63,-62,11
+AR,Argentina,Buenos Aires Province,Exaltación de la Cruz,,,,ChIJURf5StScu5URhEPFmXscMAQ,2022-01-01,-62,-54,-38,-55,-61,10
+AR,Argentina,Buenos Aires Province,Ezeiza Partido,,,,ChIJl8p7znTQvJURS00xtaxOckE,2022-01-01,-59,-52,-52,-52,-51,11
+AR,Argentina,Buenos Aires Province,Florencio Varela Partido,,,,ChIJ2Tpp55Uro5URSyaBCEblwqc,2022-01-01,-60,-61,-12,-60,-59,13
+AR,Argentina,Buenos Aires Province,Florentino Ameghino,,,,ChIJadRI4yXsxpURF8MQQz8NMAg,2022-01-01,,,,,-27,
+AR,Argentina,Buenos Aires Province,General Alvarado Partido,,,,ChIJcafxFbFBhZURpYTVVH9CZg4,2022-01-01,-23,-23,-32,-46,-41,9
+AR,Argentina,Buenos Aires Province,General Alvear Partido,,,,ChIJ868VDg32lZURGTPyquWUank,2022-01-01,,,,,-32,
+AR,Argentina,Buenos Aires Province,General Arenales Partido,,,,ChIJ52I0N4F3uJURxVG2Vxizosk,2022-01-01,,,-35,,-25,
+AR,Argentina,Buenos Aires Province,General Belgrano Partido,,,,ChIJ26s5Vu7pl5URrQ89bH39ngs,2022-01-01,-31,-21,-41,,-37,
+AR,Argentina,Buenos Aires Province,General Juan Madariaga,,,,ChIJfx211mpzm5UReIEM3P7eGJY,2022-01-01,-18,-76,-14,,-38,3
+AR,Argentina,Buenos Aires Province,General La Madrid Partido,,,,ChIJG8gzWiSzlJURjK_7I204_Nw,2022-01-01,,,,,-28,
+AR,Argentina,Buenos Aires Province,General Las Heras,,,,ChIJp989DK_wvJURCqZ2cLjPeLY,2022-01-01,,,,-50,-52,
+AR,Argentina,Buenos Aires Province,General Paz Partido,,,,ChIJHzmtSctUvZURSPik-DwdAx0,2022-01-01,-36,,,,-36,
+AR,Argentina,Buenos Aires Province,General Pinto,,,,ChIJXyaJTcMDx5URjyIIiRAjzNI,2022-01-01,,,-36,,-14,
+AR,Argentina,Buenos Aires Province,General Pueyrredón,,,,ChIJic_Q_54vhZURLXNx6QUNbtI,2022-01-01,-49,-61,-46,-44,-63,17
+AR,Argentina,Buenos Aires Province,General Rodríguez Partido,,,,ChIJu0S0ztaOvJURP96rBRPL_hk,2022-01-01,-49,-48,-50,-66,-57,17
+AR,Argentina,Buenos Aires Province,General San Martín Partido,,,,ChIJu8qd6wW6vJURQte4RqKfiaI,2022-01-01,-76,-76,-56,-64,-72,12
+AR,Argentina,Buenos Aires Province,General Viamonte Partido,,,,ChIJy1WmED6zuJURofyrAuNtVuw,2022-01-01,-43,,-31,,-50,
+AR,Argentina,Buenos Aires Province,General Villegas Partido,,,,ChIJPaXWAOMpxJUREw5jMR30lf0,2022-01-01,-28,-40,-16,,-43,5
+AR,Argentina,Buenos Aires Province,Guaminí Partido,,,,ChIJV4ZmquJq6pUREjLUkntnqNY,2022-01-01,,,6,,-35,
+AR,Argentina,Buenos Aires Province,Hipólito Yrigoyen Partido,,,,ChIJWTVNLIQXwJUR3Y6qWunN2yU,2022-01-01,,,,,-36,
+AR,Argentina,Buenos Aires Province,Hurlingham Partido,,,,ChIJsUVV10m5vJURzuwfg_6y0i0,2022-01-01,-58,-62,-67,-65,-65,11
+AR,Argentina,Buenos Aires Province,Ituzaingó Partido,,,,ChIJi3cwCni_vJURGgCvOcXbONY,2022-01-01,-76,-78,-65,-67,-67,11
+AR,Argentina,Buenos Aires Province,José C. Paz Partido,,,,ChIJU9hbrEiYvJURUjoh1M6g1Eg,2022-01-01,-70,-67,-66,-63,-63,13
+AR,Argentina,Buenos Aires Province,Junín Partido,,,,ChIJw1D5SaaTuJURMPlOqIC2qQ8,2022-01-01,-54,-60,-52,-33,-60,7
+AR,Argentina,Buenos Aires Province,La Costa Partido,,,,ChIJ3XYbww1ynJURSwO4QU6A2Ig,2022-01-01,-28,0,-9,-65,-45,9
+AR,Argentina,Buenos Aires Province,La Matanza Partido,,,,ChIJyb-rO9nHvJURFBKUaNO8aXA,2022-01-01,-68,-67,-46,-63,-66,11
+AR,Argentina,Buenos Aires Province,La Plata Partido,,,,ChIJ4y8KScLeopURniKCiwyf1mw,2022-01-01,-62,-57,-53,-60,-55,8
+AR,Argentina,Buenos Aires Province,Lanús Partido,,,,ChIJ59YjjIbMvJURHyohbfG4alU,2022-01-01,-73,-71,-41,-60,-62,10
+AR,Argentina,Buenos Aires Province,Laprida Partido,,,,ChIJG17U3dd8k5URgLKnEjWF38I,2022-01-01,,,-13,,-16,
+AR,Argentina,Buenos Aires Province,Las Flores Partido,,,,ChIJYX7Xars2lpUR6EE8Ny_pHLE,2022-01-01,-31,,-32,,-42,
+AR,Argentina,Buenos Aires Province,Leandro N. Alem Partido,,,,ChIJiYd2MYt1x5URmz-hiDnBUgI,2022-01-01,-21,,-40,,-21,
+AR,Argentina,Buenos Aires Province,Lincoln Partido,,,,ChIJURxRm_c1x5URF7c1spCEofM,2022-01-01,-33,-51,-35,-52,-48,3
+AR,Argentina,Buenos Aires Province,Lobería,,,,ChIJt4XSrQ8fkJURW7uWCmXpNGo,2022-01-01,,,-13,,-26,
+AR,Argentina,Buenos Aires Province,Lobos Partido,,,,ChIJe0MOy_qrvZURwh5lW99X5ic,2022-01-01,-33,-30,-40,-51,-57,5
+AR,Argentina,Buenos Aires Province,Lomas de Zamora Partido,,,,ChIJCeaxaTfMvJURRnkO7LbleqI,2022-01-01,-76,-76,-38,-59,-67,11
+AR,Argentina,Buenos Aires Province,Luján Partido,,,,ChIJjcnQflN8vJURT_bGp9i6OIM,2022-01-01,-60,-67,-47,-56,-62,10
+AR,Argentina,Buenos Aires Province,Magdalena Partido,,,,ChIJD_t_nruBmJURvjjzjzUxm2c,2022-01-01,-33,-8,38,-30,-20,-1
+AR,Argentina,Buenos Aires Province,Maipú Partido,,,,ChIJU_WErKi1m5URmgJ051XS-7k,2022-01-01,,,,-58,-16,
+AR,Argentina,Buenos Aires Province,Malvinas Argentinas Partido,,,,ChIJzyXgo7O8vJUREJHkTeC0SNs,2022-01-01,-79,-75,-55,-60,-68,12
+AR,Argentina,Buenos Aires Province,Mar Chiquita,,,,ChIJ5QbzKInfmpUReWIAP1HlNXc,2022-01-01,-43,-35,-42,-59,-43,11
+AR,Argentina,Buenos Aires Province,Marcos Paz Partido,,,,ChIJzRRK8_PuvJUR8F2ljsJTaug,2022-01-01,-50,-65,-49,-33,-56,9
+AR,Argentina,Buenos Aires Province,Mercedes Partido,,,,ChIJidWHsupyvJUR_oJxXoyWJW0,2022-01-01,-51,-50,-43,-44,-52,5
+AR,Argentina,Buenos Aires Province,Merlo Partido,,,,ChIJZXAdYkyVvJUROftpTNdHaIQ,2022-01-01,-64,-67,-56,-60,-61,12
+AR,Argentina,Buenos Aires Province,Monte Hermoso Partido,,,,ChIJhYOKpVFSjZURL8Rl1T7S-Nw,2022-01-01,-11,-13,-39,23,-21,
+AR,Argentina,Buenos Aires Province,Monte Partido,,,,ChIJI2O3GCJmvZUR0OncRXVc0tQ,2022-01-01,-24,-37,-9,-74,-43,2
+AR,Argentina,Buenos Aires Province,Moreno Partido,,,,ChIJbxnks0iXvJUR6BH1PLohwyA,2022-01-01,-70,-69,-54,-61,-63,14
+AR,Argentina,Buenos Aires Province,Morón Partido,,,,ChIJPXwBM_u4vJUReOvH6Iong-I,2022-01-01,-77,-83,-50,-64,-64,10
+AR,Argentina,Buenos Aires Province,Navarro Partido,,,,ChIJs__sMetHvJURTohlwaf-u4E,2022-01-01,-48,,-58,,-43,
+AR,Argentina,Buenos Aires Province,Necochea Partido,,,,ChIJE4nvwn3UkZURFAOLNknhvCQ,2022-01-01,-30,-41,-29,-61,-53,9
+AR,Argentina,Buenos Aires Province,Olavarría Partido,,,,ChIJs5XxzKv9lJURLczjVKZ2zSc,2022-01-01,-42,-53,9,-52,-47,-1
+AR,Argentina,Buenos Aires Province,Patagones Partido,,,,ChIJjx0qgPvg85URpJYbTaaqxtE,2022-01-01,-11,-38,53,,-35,0
+AR,Argentina,Buenos Aires Province,Pehuajó Partido,,,,ChIJc3aMY_1WwJURlxZXAVlziFY,2022-01-01,-34,-44,-40,-41,-50,3
+AR,Argentina,Buenos Aires Province,Pergamino Partido,,,,ChIJmz4RU_DKuZURv4eHXbzoTWg,2022-01-01,-62,-57,-28,-57,-59,14
+AR,Argentina,Buenos Aires Province,Pilar Partido,,,,ChIJjR4CAOCcvJUR4NNtqoZsR7c,2022-01-01,-69,-72,-60,-49,-65,13
+AR,Argentina,Buenos Aires Province,Pinamar Partido,,,,ChIJ6_XsEticnJURd8efcPEIJUk,2022-01-01,-23,-13,-13,-59,-38,11
+AR,Argentina,Buenos Aires Province,Presidente Perón,,,,ChIJWYVwsFArvZURQI-0mzWEf7c,2022-01-01,-57,-39,-58,-53,-53,11
+AR,Argentina,Buenos Aires Province,Puan Partido,,,,ChIJVc5getyt7pURDxbdZk-n-Xw,2022-01-01,-7,,,,-25,
+AR,Argentina,Buenos Aires Province,Quilmes Partido,,,,ChIJgSytIYUto5URUb5SLUHdF6s,2022-01-01,-77,-77,-16,-62,-66,12
+AR,Argentina,Buenos Aires Province,Ramallo Partido,,,,ChIJVZ6awXvluZURhBWZ7g7dwv0,2022-01-01,-58,-38,-44,,-47,11
+AR,Argentina,Buenos Aires Province,Rauch Partido,,,,ChIJ6bkWfZQXl5UR9WU_8rLd6Ss,2022-01-01,,,47,,-37,
+AR,Argentina,Buenos Aires Province,Rivadavia Department,,,,ChIJv8Kh53L6w5URxDC73ijBzdU,2022-01-01,-29,,-50,,-57,
+AR,Argentina,Buenos Aires Province,Rojas Partido,,,,ChIJ78aYqotZuJURX6_aa4z1964,2022-01-01,-12,,-49,,-49,4
+AR,Argentina,Buenos Aires Province,Roque Pérez Partido,,,,ChIJGzavzZyVvZURsYGI7HfnE18,2022-01-01,-30,,-49,,-44,
+AR,Argentina,Buenos Aires Province,Saavedra Partido,,,,ChIJB1-jHkPt65URbfi4wxwKjfQ,2022-01-01,-18,-18,65,,-38,-4
+AR,Argentina,Buenos Aires Province,Saladillo,,,,ChIJdQPZ5jLkvZUR4ajL7F6cSRw,2022-01-01,-28,-26,-27,-58,-50,-2
+AR,Argentina,Buenos Aires Province,Salliqueló Partido,,,,ChIJXRZ_cxEPwpURBPqB4o0iIEc,2022-01-01,,,,,-37,
+AR,Argentina,Buenos Aires Province,Salto Partido,,,,ChIJMT-k0EYMuZUReWkkzWMVShg,2022-01-01,-52,-46,-20,,-59,9
+AR,Argentina,Buenos Aires Province,San Andrés de Giles Partido,,,,ChIJ_TaLsrnyu5UR8WkQr3d7t4I,2022-01-01,-45,,-44,,-54,
+AR,Argentina,Buenos Aires Province,San Antonio de Areco Partido,,,,ChIJmUTAxBrBu5URrWDJLLQYvhU,2022-01-01,-50,-69,-30,,-57,6
+AR,Argentina,Buenos Aires Province,San Fernando Partido,,,,ChIJmXemZFGlvJURFVsyd692nGo,2022-01-01,-73,-83,-50,-64,-63,12
+AR,Argentina,Buenos Aires Province,San Isidro Partido,,,,ChIJ1bcpY1awvJURG5iHsEdQXL8,2022-01-01,-81,-81,-64,-63,-67,13
+AR,Argentina,Buenos Aires Province,San Miguel Partido,,,,ChIJy0i_EYe8vJURCEKEJuMmLV4,2022-01-01,-74,-69,-68,-59,-65,11
+AR,Argentina,Buenos Aires Province,San Nicolás Partido,,,,ChIJfb_HXC9it5URbxJcmBQmv_0,2022-01-01,-63,-65,-33,-69,-55,9
+AR,Argentina,Buenos Aires Province,San Pedro Partido,,,,ChIJfcUjgu8mupURgW6SuT0B-ok,2022-01-01,-59,-42,-57,,-55,10
+AR,Argentina,Buenos Aires Province,San Vicente Partido,,,,ChIJ-YqC62AyvZURy3zb_-RT2SU,2022-01-01,-54,-64,-10,-52,-52,9
+AR,Argentina,Buenos Aires Province,Suipacha Partido,,,,ChIJXfNzIlIEvJURsN4fum3z3GM,2022-01-01,,,-6,,-48,
+AR,Argentina,Buenos Aires Province,Tandil Partido,,,,ChIJ1339sFQfkZURcZCB11QQa50,2022-01-01,-52,-63,11,-45,-59,2
+AR,Argentina,Buenos Aires Province,Tapalqué,,,,ChIJR5xzQsjBlZURuHRnIn20Dpw,2022-01-01,,,-10,,-5,
+AR,Argentina,Buenos Aires Province,Tigre Partido,,,,ChIJwZXXiJilvJURhrmoV2BagBA,2022-01-01,-72,-78,-53,-63,-68,13
+AR,Argentina,Buenos Aires Province,Tornquist Partido,,,,ChIJFamBxIRE7JURemlTdxrUcNc,2022-01-01,-26,-26,-2,,-44,
+AR,Argentina,Buenos Aires Province,Trenque Lauquen Partido,,,,ChIJVWm14TSdwZURfGR_z6AjeVs,2022-01-01,-23,-44,-26,-68,-53,2
+AR,Argentina,Buenos Aires Province,Tres Arroyos Partido,,,,ChIJq-uYbGcLkpURYen7wBTB5XE,2022-01-01,-23,-18,-21,-39,-38,0
+AR,Argentina,Buenos Aires Province,Tres de Febrero Partido,,,,ChIJTdjr1MS7vJUR0hJ8j7luADc,2022-01-01,-74,-77,-53,-60,-68,11
+AR,Argentina,Buenos Aires Province,Tres Lomas Partido,,,,ChIJ2VwSQ2MewpUR6YLLb-1d0N8,2022-01-01,,,,-48,-9,
+AR,Argentina,Buenos Aires Province,Veinticinco de Mayo Partido,,,,ChIJNTpy39xnvpURzWh5D-aZMEs,2022-01-01,-31,-8,-14,,-41,-1
+AR,Argentina,Buenos Aires Province,Vicente López Partido,,,,ChIJO3vyXa22vJUR0voAU6R5GbM,2022-01-01,-69,-78,-13,-71,-66,11
+AR,Argentina,Buenos Aires Province,Villa Gesell Partido,,,,ChIJseHax5Jcm5URqhYtGpPMI00,2022-01-01,-42,-16,-3,,-38,9
+AR,Argentina,Buenos Aires Province,Villarino Partido,,,,ChIJnyKnvhL57ZUR54AvOca7bgg,2022-01-01,-5,-19,35,,-29,-2
+AR,Argentina,Buenos Aires Province,Zárate Partido,,,,ChIJRfz1EjsIu5URBtk9iTLWN10,2022-01-01,-61,-67,-40,-66,-56,9
+AR,Argentina,Catamarca Province,,,AR-K,,ChIJvdQKAsVdIJQR3MJsfSPDVzI,2022-01-01,-36,-29,-24,-49,-44,3
+AR,Argentina,Catamarca Province,Andalgalá Department,,,,ChIJb0P73Q0UIZQR4FaASpNwFPI,2022-01-01,-37,,-32,,-36,
+AR,Argentina,Catamarca Province,Belén Department,,,,ChIJOc4afvo7IJQRnTv9gqS9Doo,2022-01-01,,,3,,-38,
+AR,Argentina,Catamarca Province,Capital Department,,,,ChIJQVdv5bQgJJQR25wKottdXY4,2022-01-01,-51,-47,-51,-62,-52,4
+AR,Argentina,Catamarca Province,La Paz Department,,,,ChIJDctJY4t5L5QRNfRQH8L76oo,2022-01-01,,,-15,,-49,
+AR,Argentina,Catamarca Province,Santa María Department,,,,ChIJoUt1d-XdIZQRc7RumC1ZGNw,2022-01-01,-45,,39,,-34,
+AR,Argentina,Catamarca Province,Tinogasta Department,,,,ChIJCVTSUoayn5YR1kUoq1afx1o,2022-01-01,,,30,,-38,
+AR,Argentina,Catamarca Province,Valle Viejo Department,,,,ChIJ-Wv-mTwtJJQRr3PcJkf1mlk,2022-01-01,-20,,-11,,-49,4
+AR,Argentina,Chaco Province,,,AR-H,,ChIJR3LI4_rvQJQRleyel8CWr04,2022-01-01,-28,-26,-20,-59,-40,-2
+AR,Argentina,Chaco Province,1° de Mayo,,,,ChIJg1MWP4oCRZQRC5yPlIerJl8,2022-01-01,,,,,-31,
+AR,Argentina,Chaco Province,12 de Octubre,,,,ChIJYfdUxsKgOJQRU3UUX17hVlc,2022-01-01,-19,,-55,,-39,
+AR,Argentina,Chaco Province,25 de Mayo,,,,ChIJv6pHdkCyRpQRzoTbuWTAW3Y,2022-01-01,-12,,-73,,-13,
+AR,Argentina,Chaco Province,Almirante Brown Department,,,,ChIJbyfUCFKAFZQRnNdwY0mYMYk,2022-01-01,18,,-17,,-27,
+AR,Argentina,Chaco Province,Bermejo Department,,,,ChIJUYWu4afeRJQR0r1-JMcO2P4,2022-01-01,,,,,-40,
+AR,Argentina,Chaco Province,Chacabuco Department,,,,ChIJCyV_djJUR5QRPsJqozJWCFk,2022-01-01,-39,-32,-55,,-54,-7
+AR,Argentina,Chaco Province,Comandante Fernández Department,,,,ChIJ7Zgz4ossQZQRu9EK87yvGUg,2022-01-01,-35,-39,22,-56,-39,-1
+AR,Argentina,Chaco Province,General Donovan Department,,,,ChIJoakt03ZORJQRDFjcKtJ0WHw,2022-01-01,,,,,-18,
+AR,Argentina,Chaco Province,General Güemes Department,,,,ChIJjxTJ2XAuFZQR3sI_neCRScw,2022-01-01,45,13,-16,,-30,-11
+AR,Argentina,Chaco Province,Independencia Department,,,,ChIJWUgvBBzQQJQRm5isdWfrISA,2022-01-01,,,,,-20,
+AR,Argentina,Chaco Province,Libertad Department,,,,ChIJJ-T5if-tRZQR-JKCKAgewJ0,2022-01-01,,,166,,-32,
+AR,Argentina,Chaco Province,Libertador General San Martín Department,,,,ChIJ978WS5WVQ5QRzHn4LQrE8Ww,2022-01-01,15,-11,97,,-26,-6
+AR,Argentina,Chaco Province,Maipú Department,,,,ChIJT59NUcQbQZQR4hm_9q7AphM,2022-01-01,,,,,-37,
+AR,Argentina,Chaco Province,Mayor Luis Jorge Fontana Department,,,,ChIJf_0w9Z-tR5QRpv9r-bO03hE,2022-01-01,-17,-28,-49,-53,-50,-13
+AR,Argentina,Chaco Province,Nueve de Julio Department,,,,ChIJbzlkdiyrQJQRZp7zqCyGEBs,2022-01-01,,-15,,,-46,
+AR,Argentina,Chaco Province,O'Higgins Department,,,,ChIJM4gdwYgiR5QR_0pUMNnOERI,2022-01-01,,,,,-34,
+AR,Argentina,Chaco Province,Presidencia de la Plaza Department,,,,ChIJm0rMOb8fRJQRue9Z24_tJUw,2022-01-01,,,,,-32,
+AR,Argentina,Chaco Province,Quitilipi Department,,,,ChIJkQWZvPM1QZQRiepAYcnoHtM,2022-01-01,,,-77,,-34,
+AR,Argentina,Chaco Province,San Fernando Department,,,,ChIJr49LVWSdRZQRMkdnk0Wauh8,2022-01-01,-47,-46,-46,-63,-49,2
+AR,Argentina,Chaco Province,San Lorenzo Department,,,,ChIJZ8ktW47wRpQRHXUBwpm1Z5Q,2022-01-01,,,-54,,-22,
+AR,Argentina,Chaco Province,Sargento Cabral Department,,,,ChIJm6sOEIQNRJQReG50u3oVPmY,2022-01-01,,,,,-10,
+AR,Argentina,Chubut Province,,,AR-U,,ChIJR3BXosaj4r0RKKImS45F1No,2022-01-01,-53,-57,-34,-56,-52,4
+AR,Argentina,Chubut Province,Biedma Department,,,,ChIJD9oiv630Ar4R2ooQpmlo4Zs,2022-01-01,-42,-56,7,-59,-52,3
+AR,Argentina,Chubut Province,Cushamen Department,,,,ChIJ5_9nlm_AHJYROI1-qHvL5Uo,2022-01-01,-60,,-52,,-37,
+AR,Argentina,Chubut Province,Escalante Department,,,,ChIJ3zRRFzy65L0Rta0Ef7BhylI,2022-01-01,-63,-62,-60,-69,-54,8
+AR,Argentina,Chubut Province,Futaleufú Department,,,,ChIJvSfSBuWkHZYR6Tf8N3exSSM,2022-01-01,-48,-50,-63,-56,-47,9
+AR,Argentina,Chubut Province,Gaiman Department,,,,ChIJLd-k0kTpAL4RxbQ2tXWltsc,2022-01-01,,,-10,,-33,
+AR,Argentina,Chubut Province,Rawson Department,,,,ChIJJ36gx1v5A74RvJG-fkXPZTk,2022-01-01,-53,-54,-32,-49,-60,0
+AR,Argentina,Chubut Province,Sarmiento Department,,,,ChIJc5gbKhYG8L0R4-WlG-k2EJo,2022-01-01,-26,,,,-39,
+AR,Argentina,Cordoba,,,AR-X,,ChIJNcbaCaHULJQRnokOgQ8wLec,2022-01-01,-54,-57,-31,-35,-55,9
+AR,Argentina,Cordoba,Calamuchita Department,,,,ChIJU2LwLkeW0pURwhLYEOJ7_wE,2022-01-01,-37,-33,-20,-46,-45,8
+AR,Argentina,Cordoba,Capital Department,,,,ChIJo3_QtIOiMpQRtYt-_DpfqH8,2022-01-01,-70,-74,-48,-22,-61,11
+AR,Argentina,Cordoba,Colón Department,,,,ChIJlfkzx2GPMpQRGNTKhhVg1Ls,2022-01-01,-47,-61,-26,-30,-59,11
+AR,Argentina,Cordoba,Cruz del Eje Department,,,,ChIJCQo1X-csLJQRAVbLYvofQNw,2022-01-01,-17,-44,-18,-51,-40,3
+AR,Argentina,Cordoba,General Roca Department,,,,ChIJc14Wj91VxZURfbJAnDtN1Sg,2022-01-01,-10,,-53,-45,-41,1
+AR,Argentina,Cordoba,General San Martín Department,,,,ChIJcSJJWug_zJURaAtWxRrDAy4,2022-01-01,-59,-48,-23,-50,-57,5
+AR,Argentina,Cordoba,Ischilín Department,,,,ChIJn0XJHiMJLpQRPAYmyJE4g_Y,2022-01-01,-42,,-36,,-54,4
+AR,Argentina,Cordoba,Juárez Celman Department,,,,ChIJS4MhTXmKzpURKr-vQKFuzGM,2022-01-01,-36,-33,-14,-20,-47,4
+AR,Argentina,Cordoba,Marcos Juárez Department,,,,ChIJxbHgEDptyZURTzTFKxj58bM,2022-01-01,-25,-46,-4,-39,-35,5
+AR,Argentina,Cordoba,Presidente Roque Sáenz Peña Department,,,,ChIJ-bx-TFpjz5URyJVwW4AnUoQ,2022-01-01,-32,-36,-50,-52,-54,9
+AR,Argentina,Cordoba,Punilla Department,,,,ChIJcfidhHx2LZQRraL1izKn_-Q,2022-01-01,-42,-42,-36,-44,-56,11
+AR,Argentina,Cordoba,Río Cuarto Department,,,,ChIJm7Krqfj50ZURRucmh-8GNNs,2022-01-01,-44,-61,-23,-62,-54,5
+AR,Argentina,Cordoba,Río Primero Department,,,,ChIJYeznrH4FM5QRJAoC4Ndwzs4,2022-01-01,-42,-28,-60,-65,-50,7
+AR,Argentina,Cordoba,Río Segundo Department,,,,ChIJ20Rx0p7RzJURV4o-98bOwjI,2022-01-01,-42,-46,-12,-62,-50,5
+AR,Argentina,Cordoba,San Alberto Department,,,,ChIJ8dwwYhrdLJQRm7Rmat80y80,2022-01-01,-45,-39,-17,-49,-48,8
+AR,Argentina,Cordoba,San Javier Department,,,,ChIJ68o-sj8u05URLbmFFIAT7Bw,2022-01-01,-39,-24,-54,61,-56,1
+AR,Argentina,Cordoba,San Justo Department,,,,ChIJ9wbIeTu6NJQRlUlTD4yiTIY,2022-01-01,-40,-42,-3,-58,-51,6
+AR,Argentina,Cordoba,Santa María Department,,,,ChIJ74w6XydXLZQRpXMfRVaMZso,2022-01-01,-49,-51,-5,-78,-56,10
+AR,Argentina,Cordoba,Tercero Arriba Department,,,,ChIJM-l3vXGpzZURZR4o6MIS4Bk,2022-01-01,-44,-51,-7,-54,-47,5
+AR,Argentina,Cordoba,Totoral Department,,,,ChIJdeVoPj1rMpQRTwxTq40edrw,2022-01-01,-29,,-16,,-51,
+AR,Argentina,Cordoba,Tulumba Department,,,,ChIJE9ubA0WbMZQRIbnFR2FcwDc,2022-01-01,,,35,,-39,
+AR,Argentina,Cordoba,Unión Department,,,,ChIJN6MGwGtSyZURnuH0rgSphmM,2022-01-01,-46,-39,-15,-18,-43,6
+AR,Argentina,Corrientes,,,AR-W,,ChIJs6lQkqyLTJQRDX3jVziDc4s,2022-01-01,-36,-39,-12,-23,-45,4
+AR,Argentina,Corrientes,Bella Vista Department,,,,ChIJH3U8sVFNTpQRzYPlRB9zNZM,2022-01-01,-46,-21,1,-41,-41,8
+AR,Argentina,Corrientes,Capital Department,,,,ChIJD7luDxlqRZQRdJ5m5nAO2LA,2022-01-01,-45,-55,-34,-42,-52,6
+AR,Argentina,Corrientes,Concepción Department,,,,ChIJL6mv1D3JUZQRmDXw4pKzBfU,2022-01-01,,,-7,,-30,
+AR,Argentina,Corrientes,Curuzú Cuatiá Department,,,,ChIJSfscpaaGUpQR-hL_oTfQ1_g,2022-01-01,-32,-27,2,,-44,1
+AR,Argentina,Corrientes,Empedrado Department,,,,ChIJd6hoYG_yT5QRJF7-Dx0Od08,2022-01-01,,,-11,,-26,
+AR,Argentina,Corrientes,Esquina Department,,,,ChIJFYZaq9j4TJQR_4LCFsTASbg,2022-01-01,,-42,-31,,-54,-1
+AR,Argentina,Corrientes,Goya Department,,,,ChIJS8DRTVE2TJQR8Ihhh0no-_c,2022-01-01,-51,-49,-27,-77,-49,8
+AR,Argentina,Corrientes,Ituzaingó Department,,,,ChIJmSOlg5DXVpQRBKp1xLd45-4,2022-01-01,-5,-37,12,,-46,3
+AR,Argentina,Corrientes,Lavalle Department,,,,ChIJeak1C6J6TpQRI9AuIZNbMks,2022-01-01,,,,,-38,
+AR,Argentina,Corrientes,Mercedes Department,,,,ChIJv9PEl8E7UpQRZjF1BBPrVQg,2022-01-01,-40,-24,18,,-52,5
+AR,Argentina,Corrientes,Monte Caseros Department,,,,ChIJHVGXfPcxrZURsDBJjOKebJI,2022-01-01,-25,-55,5,-54,-49,1
+AR,Argentina,Corrientes,Paso de los Libres Department,,,,ChIJ46-AGSwVU5QR6FWEwGGDiIg,2022-01-01,-24,-47,,-58,-51,6
+AR,Argentina,Corrientes,Saladas Department,,,,ChIJvTjHwBHGT5QR5C_dtigcHAw,2022-01-01,,,-1,,-45,
+AR,Argentina,Corrientes,San Cosme Department,,,,ChIJyepwastJRZQRVz45oUKrxgw,2022-01-01,-1,-24,29,,-27,
+AR,Argentina,Corrientes,San Luis del Palmar Department,,,,ChIJbb6tshQHUJQR6tmzrqr7smI,2022-01-01,,,,,-28,
+AR,Argentina,Corrientes,San Martín Department,,,,ChIJHfUsKufwU5QRvnPoOTaRgtE,2022-01-01,,,6,,-19,
+AR,Argentina,Corrientes,San Roque Department,,,,ChIJS9ZsbwQ8TpQRS0YsAJUucIw,2022-01-01,,,-14,,-14,
+AR,Argentina,Corrientes,Santo Tomé Department,,,,ChIJ61CgzluGVpQRkxmBnG0sRQk,2022-01-01,-15,-27,26,-51,-45,1
+AR,Argentina,Entre Rios,,,AR-E,,ChIJvy9Iut1RpZURgmPU3PBLKGk,2022-01-01,-43,-43,-36,-45,-47,3
+AR,Argentina,Entre Rios,Colón Department,,,,ChIJ4WNNVvwQrpURD_wNgvsetDY,2022-01-01,-35,-30,-31,,-56,-1
+AR,Argentina,Entre Rios,Concordia Department,,,,ChIJp23d8uSMrZUR7f_lLYcNtqE,2022-01-01,-50,-54,-26,,-58,5
+AR,Argentina,Entre Rios,Diamante Department,,,,ChIJ_a5YbmeCtpURO0_JxHRyXvg,2022-01-01,-15,-31,-33,,-35,2
+AR,Argentina,Entre Rios,Federación Department,,,,ChIJVevFKWdvrZUR4sGVdatLn2s,2022-01-01,-50,-38,-30,-30,-49,1
+AR,Argentina,Entre Rios,Federal Department,,,,ChIJO5Fh8LPxspURMStLYBWyfCk,2022-01-01,,,-23,,-32,
+AR,Argentina,Entre Rios,Gualeguay Department,,,,ChIJtyiOX86xsJURzCWzQm9Vv_0,2022-01-01,-48,-55,-14,,-51,8
+AR,Argentina,Entre Rios,Gualeguaychú Department,,,,ChIJmYtNuIYMsJURNmkh84s3QlQ,2022-01-01,-34,-37,-59,,-46,6
+AR,Argentina,Entre Rios,Islas del Ibicuy Department,,,,ChIJ5Zrp1NX2upUR6jB1mbSqqC0,2022-01-01,,,-39,,-10,
+AR,Argentina,Entre Rios,"La Paz Department, Entre Ríos",,,,ChIJ7TJULGQ_s5UR0MtGSDaRlMM,2022-01-01,-12,-28,12,,-42,2
+AR,Argentina,Entre Rios,Nogoyá Department,,,,ChIJ1R3hO59NsZURTQ9AcTXlfGE,2022-01-01,-16,-25,-43,,-40,1
+AR,Argentina,Entre Rios,Paraná Department,,,,ChIJ5UTNsJNltJURDfdsOprPVTc,2022-01-01,-51,-55,-47,-62,-53,5
+AR,Argentina,Entre Rios,San José de Feliciano Department,,,,ChIJ6Y1iZpVKTZQRmuJMf7arf5Q,2022-01-01,,,-54,,-6,
+AR,Argentina,Entre Rios,Tala Department,,,,ChIJe5O6WnISsZURP0Ys19AxsdQ,2022-01-01,1,-1,-46,,-30,
+AR,Argentina,Entre Rios,Uruguay Department,,,,ChIJB0DuXasxsJURXW663p8Oxts,2022-01-01,-38,-42,-17,-26,-49,4
+AR,Argentina,Entre Rios,Victoria Department,,,,ChIJr9YVJC7ntpURxcSw6wbquzg,2022-01-01,-48,-31,-24,-57,-37,4
+AR,Argentina,Entre Rios,Villaguay Department,,,,ChIJY5N9O9YzspURmHB-i1cSeA4,2022-01-01,-32,-37,18,-28,-43,-1
+AR,Argentina,Formosa Province,,,AR-P,,ChIJpwz0Xr4sapQRRF1cxa5GtKA,2022-01-01,-21,-26,-3,,-37,1
+AR,Argentina,Formosa Province,Formosa Department,,,,ChIJL0uKS7TKXJQR_cKU6fcCEfQ,2022-01-01,-37,-48,-18,-56,-43,2
+AR,Argentina,Formosa Province,Laishí Department,,,,ChIJ7Zg1wwylRJQRQ_3pnOl5gMY,2022-01-01,,,,,-22,
+AR,Argentina,Formosa Province,Patiño Department,,,,ChIJH0Cs4uUZapQR37KUjn0_oVY,2022-01-01,49,39,,,-22,-3
+AR,Argentina,Formosa Province,Pilcomayo Department,,,,ChIJr2K8aRE8XZQRVleqsRtTBWs,2022-01-01,2,-21,32,,-39,1
+AR,Argentina,Formosa Province,Pirané Department,,,,ChIJP2V5O5pVQpQRsZc_jPzK6zc,2022-01-01,36,49,-38,,-33,-4
+AR,Argentina,Jujuy,,,AR-Y,,ChIJhwBc5_ahBJQReU7OMLKRXoE,2022-01-01,-38,-31,-2,-11,-41,1
+AR,Argentina,Jujuy,Doctor Manuel Belgrano Department,,,,ChIJIz0mMLgTG5QRymHR3coJccI,2022-01-01,-50,-54,-28,5,-50,3
+AR,Argentina,Jujuy,El Carmen Department,,,,ChIJ4WTMwTRNGpQRQwNegQgFYn0,2022-01-01,-23,-2,18,30,-35,-1
+AR,Argentina,Jujuy,Humahuaca Department,,,,ChIJl-q1-r3xBJQRs8803pB6ftM,2022-01-01,,,-27,-26,-17,
+AR,Argentina,Jujuy,Ledesma,,,,ChIJh-D1P4rDGpQR-IRnRZmsIBU,2022-01-01,-18,-9,9,-55,-28,0
+AR,Argentina,Jujuy,Palpalá Department,,,,ChIJOXeOT5YBG5QRVSpEVYIcfKE,2022-01-01,-10,,-14,,-48,2
+AR,Argentina,Jujuy,"San Antonio Department, Jujuy",,,,ChIJSRlq4uSgG5QR8095rvVuerQ,2022-01-01,,,,,-47,
+AR,Argentina,Jujuy,"San Pedro Department, Jujuy",,,,ChIJ-c6-AD1cGpQRG9fWDpNC9VU,2022-01-01,7,-20,-21,-56,-39,-1
+AR,Argentina,Jujuy,Tilcara Department,,,,ChIJ4yMFPW7NBJQRcB1C6TdkRiY,2022-01-01,-47,,157,,-20,
+AR,Argentina,Jujuy,Yavi Department,,,,ChIJS9TWYdcbBJQRGjm53-E3-Gg,2022-01-01,,,0,-45,-12,
+AR,Argentina,La Pampa,,,AR-L,,ChIJ6TZppA1t3JURyFjyX753Fqw,2022-01-01,-33,-51,-17,4,-43,-2
+AR,Argentina,La Pampa,Atreuco Department,,,,ChIJD-pe9_wl6JUR-ksyPJzgkMg,2022-01-01,,,-42,,-35,
+AR,Argentina,La Pampa,Catriló Department,,,,ChIJRTttq6L0wpURAUCkLg7IFX0,2022-01-01,,,,,-21,
+AR,Argentina,La Pampa,Chapaleufú Department,,,,ChIJAaOhA6j2xJURmsTojr-sa7g,2022-01-01,,,-26,,-38,
+AR,Argentina,La Pampa,Conhelo department,,,,ChIJUcCeaoew3JURppx_YtA9SRQ,2022-01-01,-24,,-8,,-38,
+AR,Argentina,La Pampa,Curacó Department,,,,ChIJ7QmNdncc4ZURLW2oaTDKGYk,2022-01-01,,,26,,,
+AR,Argentina,La Pampa,Department Capital,,,,ChIJa1cqpaHRwpURXnVZUakdTy4,2022-01-01,-56,-72,-36,,-51,0
+AR,Argentina,La Pampa,Guatraché Department,,,,ChIJH4KhW3Ja6JURc51hjO_a4WA,2022-01-01,,,,,-29,
+AR,Argentina,La Pampa,Hucal Department,,,,ChIJgeVgsXvA6JUR-vXtD058d6k,2022-01-01,,,,,-17,
+AR,Argentina,La Pampa,Loventué Department,,,,ChIJtSMKih053JURxv5XgTin-SM,2022-01-01,,,,,-8,
+AR,Argentina,La Pampa,Maracó Department,,,,ChIJsTeKkI9-w5UR_zTKMnouIOE,2022-01-01,-34,-67,-19,,-58,0
+AR,Argentina,La Pampa,Puelén,,,,ChIJS8h6PShEdZYRwnOuisQAouw,2022-01-01,,,,-44,-43,
+AR,Argentina,La Pampa,Quemú Quemú Department,,,,ChIJ-eLOkhEGw5URrx2A928fHL8,2022-01-01,,,,,-31,
+AR,Argentina,La Pampa,Rancul Department,,,,ChIJmRLSk1gX25UR-l5n2KXoggA,2022-01-01,,,-16,,-25,
+AR,Argentina,La Pampa,Realicó Department,,,,ChIJfb5PQAnRxJUREiN0Okg07vk,2022-01-01,8,,13,,-44,
+AR,Argentina,La Pampa,Toay Department,,,,ChIJ9X8RCock3ZURigcZu1IjNLU,2022-01-01,,,-35,,-55,
+AR,Argentina,La Pampa,Utracán Department,,,,ChIJ5c8DBCCC55URgdndS9leLt8,2022-01-01,-18,,19,,-41,
+AR,Argentina,La Rioja Province,,,AR-F,,ChIJm_z9wv8FKJQRYHNdBKV3wbc,2022-01-01,-22,-24,-14,-29,-36,-3
+AR,Argentina,La Rioja Province,Arauco Department,,,,ChIJUUuqbkccJ5QRlUgzEX6z-kw,2022-01-01,,,-1,,-37,
+AR,Argentina,La Rioja Province,"Capital Department, La Rioja",,,,ChIJOeNU9W6eKJQRaiYh04NzKag,2022-01-01,-27,-37,-13,,-43,-1
+AR,Argentina,La Rioja Province,Chamical Department,,,,ChIJ8Te9V5suKZQRWj4dlYbP3P4,2022-01-01,,,23,,-23,
+AR,Argentina,La Rioja Province,Chilecito Department,,,,ChIJWYRDdldYnZYRykKEaNRnMFM,2022-01-01,-33,3,-22,,-43,-3
+AR,Argentina,La Rioja Province,Coronel Felipe Varela Department,,,,ChIJPcsfeyXdnJYR3YYZxNi03W4,2022-01-01,,,,,-32,
+AR,Argentina,La Rioja Province,Rosario Vera Peñaloza Department,,,,ChIJhd_C4rJTKpQR21gXFYrwoHU,2022-01-01,,,,,-8,
+AR,Argentina,Mendoza Province,,,AR-M,,ChIJ_f_VXVt0eZYRJHgEHW9YAgk,2022-01-01,-48,-58,-8,-25,-56,1
+AR,Argentina,Mendoza Province,Capital Department,,,,ChIJKXNSmTAIfpYRYV4I2D27QQs,2022-01-01,-72,-80,-27,-62,-60,1
+AR,Argentina,Mendoza Province,General Alvear Department,,,,ChIJ3aaOFb4Q2JURDLW1OhYRqS8,2022-01-01,-15,-39,-33,,-50,-6
+AR,Argentina,Mendoza Province,Godoy Cruz Department,,,,ChIJpTbffIsJfpYR9fI4Ne3h2D4,2022-01-01,-57,-73,-32,-31,-60,2
+AR,Argentina,Mendoza Province,Guaymallén Department,,,,ChIJi6tg0BgOfpYRGwvRtJm2dpY,2022-01-01,-61,-70,7,-18,-62,3
+AR,Argentina,Mendoza Province,Junín Department,,,,ChIJtzqG_thcfpYRWuCEqWULzA0,2022-01-01,-45,-57,-7,-59,-51,-3
+AR,Argentina,Mendoza Province,La Paz Department,,,,ChIJ6Scf6WH71ZURFi4W4_HNyng,2022-01-01,,,-3,,,
+AR,Argentina,Mendoza Province,Las Heras Department,,,,ChIJ-5NGZ3pph5YRWzTMp3K9km0,2022-01-01,-41,-61,7,-11,-60,4
+AR,Argentina,Mendoza Province,Lavalle Department,,,,ChIJcV5uK1HXf5YRF5ozkzpnQfQ,2022-01-01,-43,,14,,-42,
+AR,Argentina,Mendoza Province,Luján de Cuyo Department,,,,ChIJozxKYvOTfZYRumTdRxsNypA,2022-01-01,-34,-49,35,1,-61,3
+AR,Argentina,Mendoza Province,Maipú Department,,,,ChIJ6zW06iUTfpYRqcazzLyjmfo,2022-01-01,-43,-55,-24,-11,-58,2
+AR,Argentina,Mendoza Province,Malargüe Department,,,,ChIJAxDJKbXjcJYRAb9c0Jy7naU,2022-01-01,-53,-50,-23,-73,-41,-4
+AR,Argentina,Mendoza Province,Rivadavia Department,,,,ChIJuTduTO2OfpYRLq-mk9P9Dd8,2022-01-01,5,-37,20,-38,-41,-3
+AR,Argentina,Mendoza Province,San Carlos Department,,,,ChIJi1m8FCQIfJYRqn6Djt9InNY,2022-01-01,-19,,42,,-37,
+AR,Argentina,Mendoza Province,San Martín Department,,,,ChIJmQ4o4QlJfpYRwbuZZybtulM,2022-01-01,35,-42,11,,-51,-2
+AR,Argentina,Mendoza Province,San Rafael Department,,,,ChIJo9xPorrBeZYRVtV317tb_g8,2022-01-01,-41,-41,21,,-56,-5
+AR,Argentina,Mendoza Province,Santa Rosa Department,,,,ChIJ2XHyC_YXf5YRdabK7QLs9lE,2022-01-01,,,31,,,
+AR,Argentina,Mendoza Province,Tunuyán Department,,,,ChIJz_pPzb1PfJYRAE3_j_8Uqb4,2022-01-01,-16,-53,41,-35,-50,-5
+AR,Argentina,Mendoza Province,Tupungato Department,,,,ChIJrxupw-K3fZYRjdg46jgn9dU,2022-01-01,-39,-36,-31,,-45,
+AR,Argentina,Misiones Province,,,AR-N,,ChIJM-NMXSQR-JQRHVqx6381Xfs,2022-01-01,-23,-38,11,-31,-45,-2
+AR,Argentina,Misiones Province,Apóstoles Department,,,,ChIJkVKGQtU8VpQRC9K3cDz95_s,2022-01-01,-28,,-28,-37,-46,-7
+AR,Argentina,Misiones Province,Cainguás Department,,,,ChIJ610Qn89M-JQRKfQzcyQiIZk,2022-01-01,,,55,21,-40,-8
+AR,Argentina,Misiones Province,Candelaria Department,,,,ChIJudXE4Q3XV5QRacuPSxKFWz8,2022-01-01,,,48,,-18,
+AR,Argentina,Misiones Province,"Capital Department, Misiones",,,,ChIJoyODwTLIV5QR5GZiwFe2FL8,2022-01-01,-31,-52,-10,-31,-54,0
+AR,Argentina,Misiones Province,Eldorado Department,,,,ChIJuSZT4i1A95QR3NH-POu-vZI,2022-01-01,-15,-39,5,-43,-52,1
+AR,Argentina,Misiones Province,General Manuel Belgrano Department,,,,ChIJiSsDngLQ8JQRQKteJLCFpSI,2022-01-01,,,47,,-44,
+AR,Argentina,Misiones Province,Guaraní Department,,,,ChIJkc5Vj_GP-ZQRLyvBCkeS-g0,2022-01-01,20,-39,,,-42,-12
+AR,Argentina,Misiones Province,Iguazú Department,,,,ChIJhSXhYerd9pQR4aEQs7tJT4o,2022-01-01,-35,-36,-27,-32,-40,1
+AR,Argentina,Misiones Province,Leandro N. Alem,,,,ChIJ3cZZQE-B-JQRqEkGugAzFfM,2022-01-01,4,,,,-51,-10
+AR,Argentina,Misiones Province,"Libertador General San Martín Department, Misiones",,,,ChIJwWX-Xggv-JQRnFjEIRi_vQ0,2022-01-01,-40,,131,-55,-42,-8
+AR,Argentina,Misiones Province,Montecarlo Department,,,,ChIJs717VzbZ-ZQRXmYGXTe_Mhk,2022-01-01,32,,94,,-35,
+AR,Argentina,Misiones Province,Oberá Department,,,,ChIJLyeGeWX1-JQRLvvJeZbeCoM,2022-01-01,-40,-46,42,,-50,-5
+AR,Argentina,Misiones Province,"San Ignacio Department, Misiones",,,,ChIJ_btISv4M-JQRt7dOYJmiw9Y,2022-01-01,-13,-13,32,,-29,-6
+AR,Argentina,Misiones Province,"San Javier Department, Misiones",,,,ChIJi978Bx2V-JQRTGZQebDKrJ0,2022-01-01,,,,,-20,
+AR,Argentina,Misiones Province,San Pedro Department,,,,ChIJUwFLihEZ-pQRJD6XSSGwezA,2022-01-01,,,24,,-31,
+AR,Argentina,Misiones Province,"Veinticinco de Mayo Department, Misiones",,,,ChIJO2cwah4G-ZQRpHTLFA2H4s8,2022-01-01,,,,,-32,
+AR,Argentina,Neuquen,,,AR-Q,,ChIJiRjkWq1rDZYRL9Kzu9ExMIw,2022-01-01,-58,-61,-45,-32,-49,10
+AR,Argentina,Neuquen,Aluminé Department,,,,ChIJk02q7thWEpYRQOwT23jkbmI,2022-01-01,,,-19,,,
+AR,Argentina,Neuquen,Añelo Department,,,,ChIJh3XO87-vDJYRROf27COxyHk,2022-01-01,,,,,-33,
+AR,Argentina,Neuquen,Chos Malal Department,,,,ChIJZRlsI1TlcZYRS6mnbweZz8E,2022-01-01,,,-23,,-34,
+AR,Argentina,Neuquen,Confluencia Department,,,,ChIJ41n6CMmOC5YR8KrEt80Exoc,2022-01-01,-64,-69,-49,-7,-55,10
+AR,Argentina,Neuquen,Huiliches Department,,,,ChIJawpSRYp-EZYRXJ11D6EwlLw,2022-01-01,,,-46,,-28,
+AR,Argentina,Neuquen,Lácar Department,,,,ChIJWZ1l6H6qEZYRm3fqMg4RmuU,2022-01-01,-43,-61,-51,-8,-51,20
+AR,Argentina,Neuquen,Los Lagos Department,,,,ChIJVf-RSx2TEJYRPu89kLy8eR0,2022-01-01,-55,-50,-62,-89,-48,
+AR,Argentina,Neuquen,Pehuenches Department,,,,ChIJdVKns16Rc5YRQdHTyApleqI,2022-01-01,,,-26,,-55,5
+AR,Argentina,Neuquen,Zapala Department,,,,ChIJcXGppBinDZYR6XaoC5S5B2c,2022-01-01,-40,-54,-50,-56,-38,5
+AR,Argentina,Río Negro,,,AR-R,,ChIJC1OmsMSC4pUR266wM__G38I,2022-01-01,-44,-55,-36,-14,-46,6
+AR,Argentina,Río Negro,Adolfo Alsina Department,,,,ChIJGVEwysEu95URWabX1ylmaQc,2022-01-01,-43,-46,-19,-59,-28,0
+AR,Argentina,Río Negro,Avellaneda Department,,,,ChIJ9eC6NBW045URaVSL7BpW0DA,2022-01-01,-39,-28,-12,,-37,-2
+AR,Argentina,Río Negro,Bariloche Department,,,,ChIJWzdkYSlGGpYRRUN89OMjSPY,2022-01-01,-53,-72,-70,-27,-48,16
+AR,Argentina,Río Negro,El Cuy Department,,,,ChIJHd5xsywACZYR6GQ9DsAGciM,2022-01-01,,,-28,,,
+AR,Argentina,Río Negro,"General Roca Department, Río Negro",,,,ChIJ14YSAu2ACpYRfp4AX6aAs6g,2022-01-01,-55,-61,-26,-57,-52,6
+AR,Argentina,Río Negro,Pichi Mahuida Department,,,,ChIJ93fqonX175URSkKBjfBPCIU,2022-01-01,,,18,,-42,
+AR,Argentina,Río Negro,Pilcaniyeu Department,,,,ChIJ2SnJfcocEJYRU03MUrYBV7Q,2022-01-01,,,-50,,-35,
+AR,Argentina,Río Negro,San Antonio Department,,,,ChIJC6xfA6zW-5URQN82t9C6G5s,2022-01-01,-15,-10,0,7,-36,-1
+AR,Argentina,Río Negro,"Veinticinco de Mayo Department, Río Negro",,,,ChIJi9tLAfHEBZYRHakmsCpQb9I,2022-01-01,,,,,-5,
+AR,Argentina,Salta Province,,,AR-A,,ChIJx9DqOCkNG5QRmHnD9tEbSos,2022-01-01,-35,-46,-16,53,-44,1
+AR,Argentina,Salta Province,Anta Department,,,,ChIJifnEzNY3F5QR9dlE1P3fI-Q,2022-01-01,-1,,-23,,-28,-5
+AR,Argentina,Salta Province,Cachi Department,,,,ChIJNZpTP2IYHJQR7FPRyxBV2oM,2022-01-01,,,-35,,,
+AR,Argentina,Salta Province,Cafayate Department,,,,ChIJPW9EEOw0H5QRPzacI1LcdZM,2022-01-01,-67,,-21,,-38,
+AR,Argentina,Salta Province,Capital Department,,,,ChIJoX0e-DTYG5QRNrGQNbyjIuE,2022-01-01,-49,-65,-36,66,-57,1
+AR,Argentina,Salta Province,Cerrillos Department,,,,ChIJVS6sG03fG5QRvILK68B-lSM,2022-01-01,16,-14,-42,95,-53,3
+AR,Argentina,Salta Province,Chicoana Department,,,,ChIJ6eEin4tbGZQRkO1fKzqggn0,2022-01-01,15,,12,,-17,
+AR,Argentina,Salta Province,"General Güemes Department, Salta",,,,ChIJ8WcAP28uGpQRzfoaQLTOhvI,2022-01-01,-4,,17,,-32,-2
+AR,Argentina,Salta Province,General José de San Martín,,,,ChIJ2-U1OS2wD5QRWXurHw3U2E0,2022-01-01,26,-7,11,-17,-38,-1
+AR,Argentina,Salta Province,La Caldera Department,,,,ChIJq73r3KO9G5QRYtU-Erv9-Ew,2022-01-01,-25,,224,111,-48,
+AR,Argentina,Salta Province,Metán Department,,,,ChIJgbEK84vPGZQRs0vBUKJMvhI,2022-01-01,-21,-25,39,-62,-32,-3
+AR,Argentina,Salta Province,Orán Department,,,,ChIJ49CEMXL8D5QRREK3CYyJCJw,2022-01-01,-15,-25,-8,-43,-35,5
+AR,Argentina,Salta Province,Rosario de la Frontera Department,,,,ChIJ_3qUfMRAGJQRtePoAdoYWQ8,2022-01-01,-20,,-23,-47,-47,-3
+AR,Argentina,Salta Province,Rosario de Lerma Department,,,,ChIJ_0GvfYWHG5QRK5Rlu27oALc,2022-01-01,17,,18,,-26,5
+AR,Argentina,San Juan Province,,,AR-J,,ChIJl9Q8oylAgZYR37HjZ-P_UjU,2022-01-01,-46,-43,-28,-56,-48,2
+AR,Argentina,San Juan Province,9 de Julio,,,,ChIJ7ddKsqYRgZYRAzzQdZ6UD3E,2022-01-01,,,,,-32,
+AR,Argentina,San Juan Province,Albardón Department,,,,ChIJaztieoTfg5YRn60laAI56aU,2022-01-01,,,-11,,-29,
+AR,Argentina,San Juan Province,Capital Department,,,,ChIJT5TMe9BBgZYRgylAPmzR6Co,2022-01-01,-71,-72,-57,-68,-58,3
+AR,Argentina,San Juan Province,Caucete Department,,,,ChIJxViIaV3dgZYRFaj0-b5pyUc,2022-01-01,-23,,-31,,-44,
+AR,Argentina,San Juan Province,Chimbas Department,,,,ChIJi9d-HglCgZYRFvdgHmqCu2Y,2022-01-01,-25,-22,5,,-46,4
+AR,Argentina,San Juan Province,Iglesia Department,,,,ChIJ1R_C_3UXm5YRnG5jZX4jvko,2022-01-01,,,-23,,,
+AR,Argentina,San Juan Province,Jáchal Department,,,,ChIJ3zlRSywbg5YRJiz0-xuru6U,2022-01-01,,,-2,,-20,
+AR,Argentina,San Juan Province,Pocito Department,,,,ChIJ7TUuhRs9gZYRr4M3hwgboy0,2022-01-01,7,-15,-3,,-52,0
+AR,Argentina,San Juan Province,Rawson Department,,,,ChIJ11cSXkQWgZYRbMAdVfNtJAY,2022-01-01,-40,-51,-45,,-54,3
+AR,Argentina,San Juan Province,Rivadavia Department,,,,ChIJ-RIgW9RGgZYRUjJv9Pvy-mY,2022-01-01,-45,-47,-20,,-53,3
+AR,Argentina,San Juan Province,Santa Lucía Department,,,,ChIJ2U2O1wtrgZYRiloWn8IRGL0,2022-01-01,-26,,16,,-65,6
+AR,Argentina,San Juan Province,Sarmiento Department,,,,ChIJE7s0xGTagJYRoaWvXLGFrYA,2022-01-01,,,-26,,-38,
+AR,Argentina,San Luis Province,,,AR-D,,ChIJPdeaUuQ71JURRryKvYMe7l0,2022-01-01,-36,-40,-7,-36,-43,-3
+AR,Argentina,San Luis Province,Ayacucho Department,,,,ChIJ6WSb2mvU1JURaxmc3G1m1e8,2022-01-01,,,48,-1,-25,
+AR,Argentina,San Luis Province,Chacabuco Department,,,,ChIJvz5E-CCp05URa1Hwr_-L6MM,2022-01-01,,,-17,,-35,
+AR,Argentina,San Luis Province,Coronel Pringles Department,,,,ChIJfbAwue501JURXemdLBDck_U,2022-01-01,-15,,7,,-41,
+AR,Argentina,San Luis Province,General Pedernera Department,,,,ChIJG_hX7AA80ZUR3l4BgNWDChk,2022-01-01,-38,-43,8,-53,-43,-2
+AR,Argentina,San Luis Province,Gobernador Dupuy Department,,,,ChIJFxV3MsqH2ZURx2tOIamAj_U,2022-01-01,,,,,1,
+AR,Argentina,San Luis Province,Juan Martín de Pueyrredón Department,,,,ChIJ9zJgmvlh1pURKhHhZMrUm1w,2022-01-01,-48,-49,-16,-41,-48,-2
+AR,Argentina,San Luis Province,Junín Department,,,,ChIJrYmcrcM605UROWldQwA8-GM,2022-01-01,-27,-48,-20,-43,-48,2
+AR,Argentina,Santa Cruz Province,,,AR-Z,,ChIJX1N_w_37tr0RfCPI_XcNueQ,2022-01-01,-54,-54,-42,-44,-38,6
+AR,Argentina,Santa Cruz Province,Corpen Aike Department,,,,ChIJcZuNSmF7x70Reu7YZvJMRuI,2022-01-01,,,,-57,-30,
+AR,Argentina,Santa Cruz Province,Deseado Department,,,,ChIJOZrAedZl6L0RZCBSoSxzoR4,2022-01-01,-51,-57,-65,-60,-35,6
+AR,Argentina,Santa Cruz Province,Güer Aike Department,,,,ChIJt5nIC0LOsL0RP1xsngPJ-Rc,2022-01-01,-66,-58,-44,-38,-51,7
+AR,Argentina,Santa Cruz Province,Lago Argentino Department,,,,ChIJP9NeusxqvL0RgB52YnL4o_I,2022-01-01,-49,-55,-30,-46,-43,9
+AR,Argentina,Santa Cruz Province,Lago Buenos Aires Department,,,,ChIJA9ohwd5g670Rk-5mxZYAPXA,2022-01-01,,,,,-8,
+AR,Argentina,Santa Cruz Province,Magallanes Department,,,,ChIJ-WJDvlN7wb0RoiPInB0LuWk,2022-01-01,,,-36,,-32,
+AR,Argentina,Santa Fe Province,,,AR-S,,ChIJbxhssh7ASpQRvDtaZyBOPo4,2022-01-01,-59,-62,-44,47,-54,6
+AR,Argentina,Santa Fe Province,Belgrano Department,,,,ChIJc2SMtmWNyZURnYSlyAcxzqk,2022-01-01,-28,-44,-3,,-45,2
+AR,Argentina,Santa Fe Province,Caseros Department,,,,ChIJeb0lX30zyJURAQXiI5bGt5w,2022-01-01,-40,-35,-48,49,-40,4
+AR,Argentina,Santa Fe Province,Castellanos Department,,,,ChIJs8qVKZe1ypURmVJf260XOVI,2022-01-01,-53,-64,-50,-36,-56,7
+AR,Argentina,Santa Fe Province,Constitución Department,,,,ChIJGWkZX8aNt5UR345vc77CXvo,2022-01-01,-55,-51,-66,109,-51,8
+AR,Argentina,Santa Fe Province,Garay Department,,,,ChIJO9-nOa69tJURwyPiHmnI-ag,2022-01-01,,,-11,,-20,
+AR,Argentina,Santa Fe Province,General López Department,,,,ChIJtwUx1h9_yJURyx1wl6P1RXE,2022-01-01,-41,-48,-32,-6,-52,3
+AR,Argentina,Santa Fe Province,General Obligado Department,,,,ChIJ29bN_YzdTpQRf-o4wxEpO4Y,2022-01-01,-30,-44,-32,-24,-54,0
+AR,Argentina,Santa Fe Province,Iriondo Department,,,,ChIJrw9juXEftpURtq0jff9lLPk,2022-01-01,-45,-43,-31,2,-51,5
+AR,Argentina,Santa Fe Province,La Capital Department,,,,ChIJWZwrAr0DtZURvi01tqap4bU,2022-01-01,-58,-70,-29,76,-51,6
+AR,Argentina,Santa Fe Province,Las Colonias Department,,,,ChIJ1-V88pFatZURXdsNOxUKs6s,2022-01-01,-32,-56,-26,,-42,3
+AR,Argentina,Santa Fe Province,Nueve de Julio Department,,,,ChIJyXQj8R4oSJQRE9a0XP-f2W4,2022-01-01,-25,,-20,,-31,-7
+AR,Argentina,Santa Fe Province,Rosario Department,,,,ChIJEXDth6-ot5UR2_OukieewYs,2022-01-01,-70,-72,-59,56,-62,9
+AR,Argentina,Santa Fe Province,San Cristóbal Department,,,,ChIJi83rG0yKNZQRqaH15I3G1TE,2022-01-01,-32,-35,-57,,-46,4
+AR,Argentina,Santa Fe Province,San Javier Department,,,,ChIJucUJBaSDS5QRudHydlNQV2k,2022-01-01,,,22,,-36,
+AR,Argentina,Santa Fe Province,San Jerónimo Department,,,,ChIJmQCywvLutZUR7y3e2DRduA0,2022-01-01,-32,-37,4,,-40,4
+AR,Argentina,Santa Fe Province,San Justo Department,,,,ChIJi53iR1cfS5QRStSJNDKrt-w,2022-01-01,-40,-51,-22,,-53,3
+AR,Argentina,Santa Fe Province,San Lorenzo Department,,,,ChIJXWKBVA9KtpUR-RHsQFr_1k4,2022-01-01,-62,-60,-53,52,-54,7
+AR,Argentina,Santa Fe Province,San Martín Department,,,,ChIJSx7z0Y9bypURHf7O0wmJ9wk,2022-01-01,-52,-38,-5,,-41,6
+AR,Argentina,Santa Fe Province,Vera Department,,,,ChIJO6aai0gOSZQRn21yPWAEMeg,2022-01-01,-32,12,-12,,-38,-2
+AR,Argentina,Santiago del Estero Province,,,AR-G,,ChIJzxmuSU-oJZQRpZuk02QcO-I,2022-01-01,-39,-39,-39,-49,-45,3
+AR,Argentina,Santiago del Estero Province,Atamisqui Department,,,,ChIJ3fAvOT-UOpQRdaaQBQd0vzc,2022-01-01,,,-15,,,
+AR,Argentina,Santiago del Estero Province,"Belgrano Department, Santiago del Estero",,,,ChIJd20KFygbN5QRmkM7961FUQA,2022-01-01,,,,,-40,
+AR,Argentina,Santiago del Estero Province,"Capital Department, Santiago del Estero",,,,ChIJ-b0oCfuzJJQRREsamkddhnM,2022-01-01,-47,-54,-58,,-54,4
+AR,Argentina,Santiago del Estero Province,Choya Department,,,,ChIJtVKT_RNsJZQRt-exWupcj7o,2022-01-01,-28,-29,-35,,-44,2
+AR,Argentina,Santiago del Estero Province,Copo Department,,,,ChIJqzde3QMAFpQRphz6fofZck8,2022-01-01,,,,,-18,
+AR,Argentina,Santiago del Estero Province,General Taboada Department,,,,ChIJCcbCzdffOZQRfzGehCumkac,2022-01-01,-22,,32,,-49,
+AR,Argentina,Santiago del Estero Province,La Banda,,,,ChIJI6_QCT6yPJQRK9hI0nUGHr4,2022-01-01,-50,-54,-58,-72,-49,4
+AR,Argentina,Santiago del Estero Province,Loreto Department,,,,ChIJCZhgiXjJOpQRgHqdwfHo9Qc,2022-01-01,,,-42,-65,-36,
+AR,Argentina,Santiago del Estero Province,Moreno Department,,,,ChIJAbRU2lVKOZQRhNAoK9V2Z90,2022-01-01,,,-29,,-39,
+AR,Argentina,Santiago del Estero Province,Pellegrini Department,,,,ChIJyTl4dPhYPZQRI30FOXqklz8,2022-01-01,,,42,,-22,
+AR,Argentina,Santiago del Estero Province,Río Hondo Department,,,,ChIJ7-b89BVqI5QRo3iKiTORMMg,2022-01-01,-45,,-55,,-44,7
+AR,Argentina,Santiago del Estero Province,Robles Department,,,,ChIJY3xa4HhqO5QRwO3GhUgyuR8,2022-01-01,-7,,-63,,-48,
+AR,Argentina,Tierra del Fuego Province,,,AR-V,,ChIJISlD2c8iTLwRjdjwjDVU7oA,2022-01-01,-55,-56,-35,-24,-48,5
+AR,Argentina,Tierra del Fuego Province,Río Grande Department,,,,ChIJRS0x8anYSrwR_Z3CeOvCht4,2022-01-01,-47,-45,-39,-38,-41,3
+AR,Argentina,Tierra del Fuego Province,Ushuaia Department,,,,ChIJ7yFVLABkSbwR51h0N_h7OO0,2022-01-01,-61,-60,-34,-20,-52,8
+AR,Argentina,Tucumán,,,AR-T,,ChIJWUwJqOlFIpQR_QxdHCqFwuk,2022-01-01,-54,-55,-37,-65,-52,4
+AR,Argentina,Tucumán,Burruyacú Department,,,,ChIJK1yu6uqQIpQRd6WR8HBMo6E,2022-01-01,,,,,-50,
+AR,Argentina,Tucumán,Capital Department,,,,ChIJv2rA8IlbIpQRA8gUaOBk6tc,2022-01-01,-71,-71,-60,-73,-58,5
+AR,Argentina,Tucumán,Chicligasta Department,,,,ChIJHwNST97UI5QRoF703frljHg,2022-01-01,-41,-64,-19,,-49,1
+AR,Argentina,Tucumán,Cruz Alta Department,,,,ChIJH8DufRn6IpQRX0KQMynOMu0,2022-01-01,-26,-39,-37,4,-55,5
+AR,Argentina,Tucumán,Famaillá Department,,,,ChIJ_YudFgE4IpQRK_HNRWXVhLM,2022-01-01,-5,,-12,,-51,
+AR,Argentina,Tucumán,Graneros Department,,,,ChIJ4abemdqFI5QRtaY8QgAUoB4,2022-01-01,,,-18,,,
+AR,Argentina,Tucumán,Juan Bautista Alberdi,,,,ChIJAyAquLDmI5QR5wTgRgRmd94,2022-01-01,-28,,,-63,-33,
+AR,Argentina,Tucumán,La Cocha Department,,,,ChIJ7RWQmkrxI5QR0bVJSpveeNc,2022-01-01,,,-45,,-32,
+AR,Argentina,Tucumán,Leales Department,,,,ChIJ2zqTQ-GpI5QRrRahQ8lyh_Y,2022-01-01,,,-10,,-34,2
+AR,Argentina,Tucumán,Lules Department,,,,ChIJ9cRRcNpAIpQRSkbul6WiSfE,2022-01-01,-11,-19,17,,-54,5
+AR,Argentina,Tucumán,Monteros Department,,,,ChIJd1FlWh4uIpQRNpYPYYk1bX4,2022-01-01,-5,-16,4,-41,-31,2
+AR,Argentina,Tucumán,Río Chico Department,,,,ChIJFfMKndTbI5QRlFUo220aWKk,2022-01-01,-6,-59,-40,,-46,0
+AR,Argentina,Tucumán,Simoca Department,,,,ChIJNxJj47ykI5QRStsqFKSLsGo,2022-01-01,,,-5,,-34,
+AR,Argentina,Tucumán,Tafí del Valle Department,,,,ChIJp3ed9vD4IZQRNN0r4DNt0U4,2022-01-01,-45,-35,-42,-76,-35,
+AR,Argentina,Tucumán,Tafí Viejo Department,,,,ChIJ8XCI9yJtIpQRpAF4bDQ0vRY,2022-01-01,-34,-37,24,,-59,4
+AR,Argentina,Tucumán,Trancas Department,,,,ChIJpxzyUAqcGJQRL9DjNx_hxSo,2022-01-01,-42,,-38,,-28,
+AR,Argentina,Tucumán,Yerba Buena Department,,,,ChIJV8nJu3BCIpQRv6clokbuEko,2022-01-01,-52,-69,-42,,-65,6

@@ -1,0 +1,128 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+IT,Italy,,,,,,ChIJA9KNRIL-1BIRb15jJFz1LOI,2022-01-01,-65,-80,21,-49,-69,13
+IT,Italy,Abruzzo,,,IT-65,,ChIJI6qUuHc1MBMR8Hw4sppPCQE,2022-01-01,-59,-77,108,-24,-71,14
+IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,ChIJe3oxLH_wMBMRsIE4sppPCQM,2022-01-01,-67,-79,98,-27,-71,15
+IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,ChIJ_9T_BbAmMBMRgIE4sppPCQM,2022-01-01,-37,-67,188,-10,-65,12
+IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,ChIJZXEVSqpMMBMRoIE4sppPCQM,2022-01-01,-64,-79,38,-39,-72,14
+IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,ChIJ56KoqR7oMRMRkIE4sppPCQM,2022-01-01,-60,-81,76,-38,-73,16
+IT,Italy,Aosta,,,IT-23,,ChIJp_WvxdbeiEcRm9WceXyYJVY,2022-01-01,-16,-33,129,-23,-52,13
+IT,Italy,Apulia,,,IT-75,,ChIJ3ZO5jSvkNhMRj3wk-HC6bzk,2022-01-01,-55,-72,21,-37,-64,11
+IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,ChIJWfVWqlbzRxMR4IGMgKRyCgM,2022-01-01,-61,-74,23,-44,-66,11
+IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,ChIJB3tkk4cWOBMRsH-OgKRyCgM,2022-01-01,-48,-70,1,-44,-67,9
+IT,Italy,Apulia,Province of Brindisi,,IT-BR,,ChIJmcq-KDlnRhMRAIKMgKRyCgM,2022-01-01,-54,-71,7,-34,-56,14
+IT,Italy,Apulia,Province of Foggia,,IT-FG,,ChIJyb5U5V9lNxMR0IGMgKRyCgM,2022-01-01,-53,-72,6,-41,-65,10
+IT,Italy,Apulia,Province of Lecce,,IT-LE,,ChIJ1_0MwlQfRBMREIKMgKRyCgM,2022-01-01,-47,-70,26,-14,-61,14
+IT,Italy,Apulia,Province of Taranto,,IT-TA,,ChIJ61gxWpkBRxMR8IGMgKRyCgM,2022-01-01,-56,-74,31,-32,-62,10
+IT,Italy,Basilicata,,,IT-77,,ChIJgyyNBTHqOBMRjbbjVk3MQQI,2022-01-01,-48,-71,74,-32,-62,13
+IT,Italy,Basilicata,Province of Matera,,IT-MT,,ChIJe4sqA_KYOBMRMIKMgKRyCgM,2022-01-01,-41,-67,110,-3,-59,12
+IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,ChIJ9UfbRLbgOBMRIIKMgKRyCgM,2022-01-01,-53,-75,52,-47,-64,14
+IT,Italy,Calabria,,,IT-78,,ChIJCxVihNKQPxMRcSMmPSQdpJE,2022-01-01,-57,-74,20,-23,-68,14
+IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,ChIJrc9Fzbz_PxMRUILgTq6VCwM,2022-01-01,-63,-79,-12,-23,-66,15
+IT,Italy,Calabria,Province of Cosenza,,IT-CS,,ChIJ_eee0fx6PxMRQILgTq6VCwM,2022-01-01,-56,-72,9,-41,-67,15
+IT,Italy,Calabria,Province of Crotone,,IT-KR,,ChIJb380HitoQBMRsIPgTq6VCwM,2022-01-01,-47,-64,57,-35,-66,13
+IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,ChIJdeW23v4eFRMRYILgTq6VCwM,2022-01-01,-56,-75,36,-14,-69,15
+IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,ChIJi-Li2JVpFRMRwIPgTq6VCwM,2022-01-01,-56,-70,30,,-63,15
+IT,Italy,Campania,,,IT-72,,ChIJ35Zq01gTOxMRzUO1VBRFAs0,2022-01-01,-61,-71,-1,-43,-68,14
+IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,ChIJa4mNMjwKOxMRUIFimR_hCQM,2022-01-01,-63,-71,-10,-47,-70,13
+IT,Italy,Campania,Province of Avellino,,IT-AV,,ChIJW3l40s-AORMRYIFimR_hCQM,2022-01-01,-58,-72,-14,-56,-67,17
+IT,Italy,Campania,Province of Benevento,,IT-BN,,ChIJ0X_53-Y-OhMRQIFimR_hCQM,2022-01-01,-62,-80,31,-49,-70,15
+IT,Italy,Campania,Province of Caserta,,IT-CE,,ChIJIWlzFYDwOhMRMIFimR_hCQM,2022-01-01,-65,-74,-32,-53,-68,15
+IT,Italy,Campania,Province of Salerno,,IT-SA,,ChIJp5F5zslQORMRcIFimR_hCQM,2022-01-01,-55,-66,60,-29,-66,15
+IT,Italy,Emilia-Romagna,,,IT-45,,ChIJ3YXzRny1KhMRoHy6_AubBwE,2022-01-01,-70,-84,-4,-52,-72,16
+IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,ChIJIYCpTkrVKhMRsH-6_AubBwM,2022-01-01,-73,-84,-25,-48,-70,15
+IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,ChIJ7y4rEyxCfkcRwH-6_AubBwM,2022-01-01,-72,-86,15,-62,-69,17
+IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,ChIJ8_OFtDlgKxMR4H-6_AubBwM,2022-01-01,-65,-87,50,-63,-73,16
+IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,ChIJ6xl03Vvhf0cRoH-6_AubBwM,2022-01-01,-73,-85,-7,-45,-75,16
+IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,ChIJGR1fmj99gEcRgH-6_AubBwM,2022-01-01,-74,-87,-16,-62,-75,15
+IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,ChIJ83RosoWVgEcRcH-6_AubBwM,2022-01-01,-72,-83,40,-48,-72,16
+IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,ChIJV0qldjdTKxMR0H-6_AubBwM,2022-01-01,-66,-83,1,-54,-69,18
+IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,ChIJ4QUAlUoEgEcRkH-6_AubBwM,2022-01-01,-75,-87,-26,-62,-77,18
+IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,ChIJy1nElfLpLBMRkIO6_AubBwM,2022-01-01,-54,-74,50,-48,-68,16
+IT,Italy,Friuli-Venezia Giulia,,,IT-36,,ChIJ67q-XqQzekcRgHyQFYcJBwE,2022-01-01,-70,-87,17,-48,-70,15
+IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,ChIJ8fqbHOKle0cRUH-QFYcJBwM,2022-01-01,-76,-88,32,-41,-68,14
+IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,ChIJgduUkj14eUcRMIOQFYcJBwM,2022-01-01,-74,-89,32,-50,-75,17
+IT,Italy,Friuli-Venezia Giulia,Province of Trieste,,IT-TS,,ChIJq6UCCDgTe0cRYH-QFYcJBwM,2022-01-01,-73,-85,-3,-54,-69,12
+IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,ChIJPYN0eygyekcRQH-QFYcJBwM,2022-01-01,-65,-86,30,-50,-69,15
+IT,Italy,Lazio,,,IT-62,,ChIJNWU6NebuJBMRKYWj8WSQSm8,2022-01-01,-66,-80,32,-53,-66,11
+IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,ChIJw0rXGxGKJRMRAIE4sppPCQM,2022-01-01,-68,-80,21,-53,-66,10
+IT,Italy,Lazio,Province of Frosinone,,IT-FR,,ChIJ0TefmORSJRMRIIE4sppPCQM,2022-01-01,-56,-80,17,-71,-64,13
+IT,Italy,Lazio,Province of Latina,,IT-LT,,ChIJjy2bPjEiJRMREIE4sppPCQM,2022-01-01,-66,-80,73,-63,-72,15
+IT,Italy,Lazio,Province of Rieti,,IT-RI,,ChIJsb0Lru2sLxMR8IA4sppPCQM,2022-01-01,-49,-80,129,-46,-65,13
+IT,Italy,Lazio,Province of Viterbo,,IT-VT,,ChIJ079A0CbUKBMR4IA4sppPCQM,2022-01-01,-56,-79,48,-34,-63,12
+IT,Italy,Liguria,,,IT-42,,ChIJtU8s2GUS0xIRkHw8R33mBQE,2022-01-01,-60,-68,46,-40,-65,14
+IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,ChIJiz7_SbFb0xIRAH48R33mBQM,2022-01-01,-71,-72,10,-51,-67,14
+IT,Italy,Liguria,Province of Imperia,,IT-IM,,ChIJNQ2hirx30hIR4H08R33mBQM,2022-01-01,-41,-62,110,-40,-58,15
+IT,Italy,Liguria,Province of La Spezia,,IT-SP,,ChIJn_6BMPbm1BIREH48R33mBQM,2022-01-01,-66,-80,36,-22,-69,16
+IT,Italy,Liguria,Province of Savona,,IT-SV,,ChIJ2yz67bv60hIR8H08R33mBQM,2022-01-01,-35,-51,103,15,-61,15
+IT,Italy,Lombardy,,,IT-25,,ChIJf4M-GsNEgUcR1JMVKCIm8qY,2022-01-01,-74,-85,6,-56,-73,16
+IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,ChIJlduiODLChkcRUH5mLgJ4BgM,2022-01-01,-78,-86,-32,-65,-72,15
+IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,ChIJi0JKlzFfgUcRYH5mLgJ4BgM,2022-01-01,-67,-82,73,-44,-76,15
+IT,Italy,Lombardy,Province of Brescia,,IT-BS,,ChIJ15ACESorgkcRcH5mLgJ4BgM,2022-01-01,-68,-82,39,-52,-76,16
+IT,Italy,Lombardy,Province of Como,,IT-CO,,ChIJ5xiBf5QjhEcRMH5mLgJ4BgM,2022-01-01,-70,-85,60,-12,-75,16
+IT,Italy,Lombardy,Province of Cremona,,IT-CR,,ChIJUSbfsOgDgUcRkH5mLgJ4BgM,2022-01-01,-77,-89,-51,-64,-72,17
+IT,Italy,Lombardy,Province of Lecco,,IT-LC,,ChIJ5bxA6mEbhEcRcINmLgJ4BgM,2022-01-01,-61,-84,59,-40,-75,15
+IT,Italy,Lombardy,Province of Lodi,,IT-LO,,ChIJ18oFuRImgUcRgINmLgJ4BgM,2022-01-01,-79,-90,-59,-56,-75,18
+IT,Italy,Lombardy,Province of Mantua,,IT-MN,,ChIJhwO4Bh3WgUcRoH5mLgJ4BgM,2022-01-01,-74,-87,-32,-65,-74,17
+IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,ChIJi4eot6e7hkcR0H9oLgJ4BgM,2022-01-01,-81,-89,-4,-68,-76,16
+IT,Italy,Lombardy,Province of Pavia,,IT-PV,,ChIJb2g0uWo8h0cRgH5mLgJ4BgM,2022-01-01,-77,-87,-46,-68,-69,17
+IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,ChIJeZtztFGDg0cRQH5mLgJ4BgM,2022-01-01,-29,-44,139,-54,-59,14
+IT,Italy,Lombardy,Province of Varese,,IT-VA,,ChIJvUYMaLZ_hkcRIH5mLgJ4BgM,2022-01-01,-76,-88,3,-47,-75,16
+IT,Italy,Marche,,,IT-57,,ChIJPX4ilLt_LRMR0WA6TId0Fks,2022-01-01,-64,-82,38,-42,-71,14
+IT,Italy,Marche,Province of Ancona,,IT-AN,,ChIJxbNI7omXLRMRAIDk45AsCAM,2022-01-01,-70,-84,17,-48,-73,14
+IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,ChIJF-QnnwUAMhMRIIDk45AsCAM,2022-01-01,-62,-79,105,-38,-70,13
+IT,Italy,Marche,Province of Fermo,,IT-FM,,ChIJOwGnnIX4LRMRwH_m45AsCAM,2022-01-01,-62,-84,38,-31,-72,14
+IT,Italy,Marche,Province of Macerata,,IT-MC,,ChIJy5hfguvlLRMREIDk45AsCAM,2022-01-01,-55,-78,102,-42,-73,14
+IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,ChIJNdnoR-NXLBMR8H_k45AsCAM,2022-01-01,-65,-84,9,-54,-69,15
+IT,Italy,Molise,,,IT-67,,ChIJU9hGRqSQMBMRn54iK3OMYRw,2022-01-01,-64,-78,30,-42,-66,16
+IT,Italy,Molise,Province of Campobasso,,IT-CB,,ChIJ36dKJ4ykMBMRwIE4sppPCQM,2022-01-01,-66,-81,57,-49,-68,16
+IT,Italy,Molise,Province of Isernia,,IT-IS,,ChIJm1gcwM6BOhMRQIM4sppPCQM,2022-01-01,-60,-75,2,-28,-66,18
+IT,Italy,Piedmont,,,IT-21,,ChIJZ7GdATt0h0cR_zsS8u24x7w,2022-01-01,-70,-83,3,-54,-70,13
+IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,ChIJ_8Ubk5VFiEcRcH08R33mBQM,2022-01-01,-72,-84,-13,-59,-70,12
+IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,ChIJD07L2Ytwh0cRwH08R33mBQM,2022-01-01,-74,-87,1,-64,-71,18
+IT,Italy,Piedmont,Province of Asti,,IT-AT,,ChIJ9ZIOjhqNh0cRsH08R33mBQM,2022-01-01,-71,-84,-18,-48,-67,15
+IT,Italy,Piedmont,Province of Biella,,IT-BI,,ChIJza00X2IhhkcRYIM8R33mBQM,2022-01-01,-73,-85,56,-44,-72,13
+IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,ChIJedLPEntCzRIRoH08R33mBQM,2022-01-01,-60,-80,63,-28,-71,13
+IT,Italy,Piedmont,Province of Novara,,IT-NO,,ChIJ2xgl4f5nhkcRkH08R33mBQM,2022-01-01,-74,-85,27,-56,-71,15
+IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,ChIJz-0lPxTxhUcR0IM8R33mBQM,2022-01-01,-57,-76,90,0,-66,15
+IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,ChIJ70WczOs8hkcRgH08R33mBQM,2022-01-01,-68,-81,111,-52,-65,14
+IT,Italy,Sardinia,,,IT-88,,ChIJHeK-0hzF3RIRYH0OyxW-CAE,2022-01-01,-71,-80,-4,-50,-64,11
+IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,ChIJz3xg8GtM5xIRIIMOyxW-CAM,2022-01-01,-78,-83,-34,-62,-68,10
+IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,ChIJl3taidh_3hIREIMOyxW-CAM,2022-01-01,-60,-65,44,-49,-59,14
+IT,Italy,Sardinia,Province of Oristano,,IT-OR,,ChIJtdWdhEm83RIRUIMOyxW-CAM,2022-01-01,-60,-80,0,-48,-60,14
+IT,Italy,Sardinia,Province of Sassari,,IT-SS,,ChIJMV17Ditp3BIRAIMOyxW-CAM,2022-01-01,-68,-80,-1,-42,-60,13
+IT,Italy,Sardinia,South Sardinia,,IT-SD,,ChIJmS9F6yRX5xIRilD_HZL1dto,2022-01-01,-65,-78,23,-43,-59,11
+IT,Italy,Sicily,,,IT-82,,ChIJs1lT0GhiEBMRUH22ZykECwE,2022-01-01,-59,-74,15,-41,-63,10
+IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,ChIJg7x0w3KYERMR4IK2ZykECwM,2022-01-01,-51,-68,117,-52,-65,11
+IT,Italy,Sicily,Free municipal consortium of Trapani,,IT-TP,,ChIJ6cp9hEGjGxMRcIK2ZykECwM,2022-01-01,-58,-77,29,-49,-63,12
+IT,Italy,Sicily,Province of Agrigento,,IT-AG,,ChIJn_vQ8Yi1GhMRoIK2ZykECwM,2022-01-01,-53,-72,32,-55,-62,10
+IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,ChIJeewQkyTvEBMRsIK2ZykECwM,2022-01-01,-61,-75,65,-42,-60,10
+IT,Italy,Sicily,Province of Catania,,IT-CT,,ChIJnfxi9wFFERMR0IK2ZykECwM,2022-01-01,-61,-75,-9,-33,-65,11
+IT,Italy,Sicily,Province of Enna,,IT-EN,,ChIJk0ciMmQlERMRwIK2ZykECwM,2022-01-01,-64,-71,31,-64,-53,10
+IT,Italy,Sicily,Province of Messina,,IT-ME,,ChIJXW6bmsGGFhMRkIK2ZykECwM,2022-01-01,-52,-74,24,-13,-61,10
+IT,Italy,Sicily,Province of Palermo,,IT-PA,,ChIJycXunOpeFxMRgIK2ZykECwM,2022-01-01,-64,-75,-8,-49,-64,10
+IT,Italy,Sicily,Province of Syracuse,,IT-SR,,ChIJTewPt0DVExMR8IK2ZykECwM,2022-01-01,-55,-76,26,-24,-62,11
+IT,Italy,Trentino-South Tyrol,,,IT-32,,ChIJ5bTpZ5F5eEcRYHyQFYcJBwE,2022-01-01,-38,-62,94,-8,-53,10
+IT,Italy,Trentino-South Tyrol,Autonomous Province of Bolzano – South Tyrol,,IT-BZ,,ChIJEU-M0jingkcRsH6QFYcJBwM,2022-01-01,-45,-64,59,-4,-48,11
+IT,Italy,Trentino-South Tyrol,Autonomous Province of Trento,,IT-TN,,ChIJAT3_SpR3gkcRwH6QFYcJBwM,2022-01-01,-33,-60,124,-9,-55,10
+IT,Italy,Tuscany,,,IT-52,,ChIJezSAEFMr1BIRq1kgW7rDxro,2022-01-01,-65,-80,47,-46,-70,16
+IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,ChIJY3a9eKD4KhMRYIDk45AsCAM,2022-01-01,-71,-82,23,-53,-71,17
+IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,ChIJTSEs636SKxMRkIDk45AsCAM,2022-01-01,-64,-80,57,-38,-72,16
+IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,ChIJ9aUAhUipKRMRsIDk45AsCAM,2022-01-01,-46,-69,81,-21,-64,13
+IT,Italy,Tuscany,Province of Livorno,,IT-LI,,ChIJN4QggAU_1hIRcIDk45AsCAM,2022-01-01,-61,-78,68,-30,-66,15
+IT,Italy,Tuscany,Province of Lucca,,IT-LU,,ChIJG8kJnXV61RIRQIDk45AsCAM,2022-01-01,-55,-76,28,-35,-71,18
+IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,ChIJmTlARt4e1RIRMIDk45AsCAM,2022-01-01,-66,-82,5,-53,-67,18
+IT,Italy,Tuscany,Province of Pisa,,IT-PI,,ChIJp2_X9TsIKhMRgIDk45AsCAM,2022-01-01,-71,-84,45,-53,-71,17
+IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,ChIJtUMya9-OKhMRUIDk45AsCAM,2022-01-01,-65,-81,-16,-61,-73,18
+IT,Italy,Tuscany,Province of Prato,,IT-PO,,ChIJkSWKskzxKhMRoIPk45AsCAM,2022-01-01,-71,-84,-7,-59,-75,17
+IT,Italy,Tuscany,Province of Siena,,IT-SI,,ChIJddJ5yjp8KRMRoIDk45AsCAM,2022-01-01,-56,-78,73,-50,-60,15
+IT,Italy,Umbria,,,IT-55,,ChIJff2Ab86ZLhMRgmK_suBHCJw,2022-01-01,-62,-81,109,-36,-69,16
+IT,Italy,Umbria,Province of Perugia,,IT-PG,,ChIJIdWpjZAnLBMRwIDk45AsCAM,2022-01-01,-63,-81,121,-43,-69,17
+IT,Italy,Umbria,Province of Terni,,IT-TR,,ChIJ0Qfn7irdLhMR0IDk45AsCAM,2022-01-01,-58,-80,76,-15,-70,16
+IT,Italy,Veneto,,,IT-34,,ChIJd7cEzPHXeEcRcHyQFYcJBwE,2022-01-01,-68,-87,6,-49,-71,15
+IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,ChIJKUgTyxaqfkcREH-QFYcJBwM,2022-01-01,-68,-88,0,-42,-67,16
+IT,Italy,Veneto,Province of Belluno,,IT-BL,,ChIJq889rimseUcR8H6QFYcJBwM,2022-01-01,-24,-63,113,-9,-58,14
+IT,Italy,Veneto,Province of Padua,,IT-PD,,ChIJxxEwwRnZfkcRIH-QFYcJBwM,2022-01-01,-77,-90,-36,-66,-74,15
+IT,Italy,Veneto,Province of Rovigo,,IT-RO,,ChIJQ6UXx1BffkcRMH-QFYcJBwM,2022-01-01,-72,-89,-14,-65,-71,17
+IT,Italy,Veneto,Province of Treviso,,IT-TV,,ChIJvRNRE5k-eUcRAH-QFYcJBwM,2022-01-01,-72,-90,0,-54,-76,16
+IT,Italy,Veneto,Province of Verona,,IT-VR,,ChIJW1z-R7Nef0cR0H6QFYcJBwM,2022-01-01,-65,-86,42,-52,-71,14
+IT,Italy,Veneto,Province of Vicenza,,IT-VI,,ChIJ6bkyp9bKeEcR4H6QFYcJBwM,2022-01-01,-68,-85,49,-50,-73,14

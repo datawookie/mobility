@@ -1,0 +1,670 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+IN,India,,,,,,ChIJkbeSa_BfYzARphNChaFPjNc,2022-01-01,-3,37,20,7,-7,8
+IN,India,Andaman and Nicobar Islands,,,IN-AN,,ChIJ8w9lKw-gZDARLMv8SFYFgM4,2022-01-01,101,,75,91,26,8
+IN,India,Andaman and Nicobar Islands,South Andaman,,,,ChIJEU2QUeUOjzAR9ynzlt7zsYk,2022-01-01,104,,67,82,18,9
+IN,India,Andhra Pradesh,,,IN-AP,,ChIJf9STrvhGNToRg82tlb670TM,2022-01-01,4,44,19,3,-11,8
+IN,India,Andhra Pradesh,Anantapuram,,,,ChIJ7UI4G8ZKsTsRi2DdoCb6SF4,2022-01-01,-7,85,48,7,-14,13
+IN,India,Andhra Pradesh,Chittoor,,,,ChIJWcp9dxxcrTsRCqBG4peLZeI,2022-01-01,0,54,13,-9,-14,13
+IN,India,Andhra Pradesh,East Godavari,,,,ChIJ97RZr90nODoRK6G-vlm6C2I,2022-01-01,21,51,3,6,-9,7
+IN,India,Andhra Pradesh,Guntur,,,,ChIJ2Wpw6UF1SjoRgZj3iYRe7Hs,2022-01-01,3,34,-2,-3,-11,9
+IN,India,Andhra Pradesh,Krishna,,,,ChIJexlhXsfnSToRU53Xk-bUArY,2022-01-01,-6,30,15,-9,-17,10
+IN,India,Andhra Pradesh,Kurnool,,,,ChIJyca3BvXdtTsRI1JeNeoIrhw,2022-01-01,7,50,16,3,-10,13
+IN,India,Andhra Pradesh,Prakasam,,,,ChIJA2w2EBwBSzoRe5EpbIjZyps,2022-01-01,10,67,34,-3,-5,11
+IN,India,Andhra Pradesh,Sri Potti Sriramulu Nellore District,,,,ChIJcYeVDsqMTDoRJdNt82jcdng,2022-01-01,7,78,15,1,-9,11
+IN,India,Andhra Pradesh,Srikakulam,,,,ChIJIXNz8Q4VPDoR2yc9bZpmWQ8,2022-01-01,13,32,23,-7,6,9
+IN,India,Andhra Pradesh,Vishakhapatnam,,,,ChIJP5fmiRNDOToR1NTArS3KuGQ,2022-01-01,11,29,11,9,-12,9
+IN,India,Andhra Pradesh,Vizianagaram,,,,ChIJH1EwyVrlOzoRaMvTlgVjmrc,2022-01-01,7,67,-4,-7,-8,8
+IN,India,Andhra Pradesh,West Godavari,,,,ChIJXy9h_84UNjoRfQJ4j3qLbDg,2022-01-01,5,51,38,-7,-7,8
+IN,India,Andhra Pradesh,YSR District,,,,ChIJ7zZ8LxdyszsRfhv8ssqGNK4,2022-01-01,0,47,54,13,-8,10
+IN,India,Arunachal Pradesh,,,IN-AR,,ChIJJ3IcakZDQDcR8pKaL1VutXY,2022-01-01,-36,-5,44,-35,-48,7
+IN,India,Arunachal Pradesh,East Kameng,,,,ChIJNWsUNzOCQzcRv_gfLHeMmx4,2022-01-01,,,3,,-39,
+IN,India,Arunachal Pradesh,East Siang,,,,ChIJrYemDOOWPzcR_1B76V6Fijs,2022-01-01,-57,-21,,,-54,
+IN,India,Arunachal Pradesh,Papum Pare,,,,ChIJLcEx94L5QzcR-ySP4rl_CW0,2022-01-01,-40,31,22,-26,-53,11
+IN,India,Arunachal Pradesh,Tawang,,,,ChIJLcfOrvH0XDcRjIcPZkeY604,2022-01-01,,,,,-46,
+IN,India,Arunachal Pradesh,West Kameng,,,,ChIJ4_PAHnWsXDcRLsFXZatbr2k,2022-01-01,-27,,,,-44,
+IN,India,Assam,,,IN-AS,,ChIJYy0xTMkWRTcR-xlnc7tzGtE,2022-01-01,-8,18,40,0,-12,12
+IN,India,Assam,Baksa,,,,ChIJa9T3O7nYWzcRMy5AAhEpKwE,2022-01-01,13,29,24,-19,-19,12
+IN,India,Assam,Barpeta,,,,ChIJGXI6EYubWTcRHKHGqOEoggY,2022-01-01,16,47,60,0,26,9
+IN,India,Assam,Bongaigaon,,,,ChIJSUIQFlb-WDcRREoPgL-lO8Q,2022-01-01,1,48,147,24,7,7
+IN,India,Assam,Cachar,,,,ChIJa1jJlXhKTjcR6Nk1p8A1HZI,2022-01-01,4,23,63,12,0,10
+IN,India,Assam,Chirang,,,,ChIJ8ZS4KvEcWTcRkQTmbGNt7WQ,2022-01-01,-11,27,24,-4,-14,9
+IN,India,Assam,Darrang,,,,ChIJtXc4yqEdWzcRWAAUVnm4lwQ,2022-01-01,38,72,230,39,-22,16
+IN,India,Assam,Dhemaji,,,,ChIJoeXcgCLoQDcR6bxEl076TJ8,2022-01-01,13,3,59,-13,-29,11
+IN,India,Assam,Dhubri,,,,ChIJWZ4vUFgMWDcRE707l4Dy0b4,2022-01-01,31,54,73,28,20,11
+IN,India,Assam,Dibrugarh,,,,ChIJT9RL3xOYQDcRFmLzFJA5uT8,2022-01-01,0,12,37,-15,-22,14
+IN,India,Assam,Dima Hasao,,,,ChIJK93JDWqhTzcREIct6fqAcLE,2022-01-01,1,,57,56,-27,9
+IN,India,Assam,Goalpara,,,,ChIJQWeMoh6zWTcR_7dsKmsJBUc,2022-01-01,6,65,97,11,-8,9
+IN,India,Assam,Golaghat,,,,ChIJY-aE-GCORjcRZwyN9Y2UkfU,2022-01-01,-32,-27,39,-35,-40,11
+IN,India,Assam,Hailakandi,,,,ChIJoRXqJKIlTjcROMRkHD8llGw,2022-01-01,31,7,22,-23,23,11
+IN,India,Assam,Jorhat,,,,ChIJoYtR7pTCRjcRysdVLROylIQ,2022-01-01,-13,11,47,-17,-17,12
+IN,India,Assam,Kamrup,,,,ChIJ_zORfyhaWjcRVtvu9t1bEkI,2022-01-01,-6,16,39,12,-15,11
+IN,India,Assam,Kamrup Metropolitan,,,,ChIJKQvFYfZbWjcRZyoDLrT-9BY,2022-01-01,-16,-4,15,21,-21,12
+IN,India,Assam,Karbi Anglong,,,,ChIJhZnadggLRTcRmBgspn-ELFU,2022-01-01,-22,-2,38,-19,-42,11
+IN,India,Assam,Karimganj,,,,ChIJ_SDkLG3TUTcRqGhA9_T43Sc,2022-01-01,6,32,210,-3,5,12
+IN,India,Assam,Kokrajhar,,,,ChIJs0gR_NJhWDcRx7bobFRtmEw,2022-01-01,6,30,11,-43,-3,16
+IN,India,Assam,Lakhimpur,,,,ChIJtR5vmFg2QTcR4Q0zkq61M3k,2022-01-01,-9,-17,28,-24,-30,13
+IN,India,Assam,Morigaon,,,,ChIJdRMjEiPaWjcRSgUk_JrKQQA,2022-01-01,-15,24,-2,87,-8,8
+IN,India,Assam,Nagaon,,,,ChIJL0zM9yknRTcRi4twxKHvJBY,2022-01-01,11,27,71,-9,1,11
+IN,India,Assam,Nalbari,,,,ChIJr-dIZo7MWzcRwnZVohTKzZs,2022-01-01,7,48,120,10,-9,11
+IN,India,Assam,Sivasagar,,,,ChIJ90iB2kYxRzcRNljZssTGIuA,2022-01-01,-9,20,9,-35,-32,10
+IN,India,Assam,Sonitpur,,,,ChIJaTo_A1hfWjcRTY7l0F9dGA8,2022-01-01,1,49,54,-17,3,12
+IN,India,Assam,Tinsukia,,,,ChIJ57-8OPxqPzcRdEu7SCtXdtI,2022-01-01,-17,75,19,-41,-25,11
+IN,India,Assam,Udalguri,,,,ChIJ5UyPwa8NWzcRmXe15YHHOSU,2022-01-01,2,-10,28,-25,-25,13
+IN,India,Bihar,,,IN-BR,,ChIJA2m78ERY7TkRJeO6G-0_rVc,2022-01-01,-8,29,20,5,-20,13
+IN,India,Bihar,Araria,,,,ChIJp4y277yJ7zkRen055n3H3gY,2022-01-01,3,52,1,5,-21,12
+IN,India,Bihar,Arwal,,,,ChIJ91oCn_k9jTkRlqjDQ1AvFTo,2022-01-01,-27,,83,16,-18,16
+IN,India,Bihar,Aurangabad,,,,ChIJUWiwX0r8jDkROJmxx8S1Rz8,2022-01-01,-9,10,37,9,-19,16
+IN,India,Bihar,Banka,,,,ChIJuYrOLFpV8DkRlcwBfR_fZBs,2022-01-01,14,115,27,68,-7,13
+IN,India,Bihar,Begusarai,,,,ChIJPVAc188a8jkRyqGbfF-97Ms,2022-01-01,1,84,48,6,-10,10
+IN,India,Bihar,Bhagalpur,,,,ChIJx_sQmfdJ8DkRdUywP2ynHdk,2022-01-01,-8,24,-2,-20,-24,15
+IN,India,Bihar,Bhojpur,,,,ChIJGQxF_11fjTkR_doBJrJRHTI,2022-01-01,17,28,-24,-12,-18,17
+IN,India,Bihar,Buxar,,,,ChIJIadkVZh1kjkRpMMVfkfbxgQ,2022-01-01,-4,44,73,14,-20,13
+IN,India,Bihar,Darbhanga,,,,ChIJsc1KQzW47TkRof2F_exw-7U,2022-01-01,4,19,74,20,-19,15
+IN,India,Bihar,Gaya,,,,ChIJHzwbCkQq8zkR4Uyt74GjSSA,2022-01-01,-7,42,24,2,-27,18
+IN,India,Bihar,Gopalganj,,,,ChIJK760OM4akzkROUFOfblIfgc,2022-01-01,-6,58,43,15,-4,11
+IN,India,Bihar,Jamui,,,,ChIJI0qnwksq8jkREDcR8gziYmU,2022-01-01,-8,19,6,22,-17,16
+IN,India,Bihar,Jehanabad,,,,ChIJrWwHaXi18jkR_-FZth1FMso,2022-01-01,-4,-14,266,-1,-19,18
+IN,India,Bihar,Kaimur,,,,ChIJR-xMGbjYjTkR4h9L6mUmCDQ,2022-01-01,7,78,77,46,0,16
+IN,India,Bihar,Katihar,,,,ChIJabwVOI6p-jkR-24wXCBSFEE,2022-01-01,-5,32,63,2,-20,13
+IN,India,Bihar,Khagaria,,,,ChIJbTe_x4rk8TkRm_1iGEe-XY8,2022-01-01,-9,,-10,0,-6,13
+IN,India,Bihar,Kishanganj,,,,ChIJR_BK72kJ5TkRcdkH9bTUSMY,2022-01-01,-17,23,43,-7,-24,11
+IN,India,Bihar,Lakhisarai,,,,ChIJLZVlYzoj8jkRyNeDyg5mdZk,2022-01-01,2,-16,54,-27,-18,13
+IN,India,Bihar,Madhepura,,,,ChIJi5IdlNM27jkRna85V32ixcY,2022-01-01,-12,60,41,0,-18,13
+IN,India,Bihar,Madhubani,,,,ChIJR10dvDDN7TkRYFJhIqKEJpQ,2022-01-01,-10,17,159,15,-13,10
+IN,India,Bihar,Munger,,,,ChIJQXW7D-Pu8TkRwOLo-w8-d_s,2022-01-01,18,26,83,17,-15,11
+IN,India,Bihar,Muzaffarpur,,,,ChIJKVUXo-gQ7TkRNzUt1PRXKbI,2022-01-01,-2,27,27,-5,-16,15
+IN,India,Bihar,Nalanda,,,,ChIJWzXTxKX08jkRBvmewGrDf4c,2022-01-01,-8,18,59,9,-18,18
+IN,India,Bihar,Nawada,,,,ChIJL_sSCF3-8jkRtAFOp233Qqw,2022-01-01,-21,27,59,6,-26,18
+IN,India,Bihar,Pashchim Champaran,,,,ChIJ_bfXUrxukzkRZcjDfNOUVcQ,2022-01-01,-5,72,4,5,-22,17
+IN,India,Bihar,Patna,,,,ChIJhcUL3FxY7TkR12odS4Hj43E,2022-01-01,-16,21,-29,-1,-33,16
+IN,India,Bihar,Purnia,,,,ChIJy7yqeXL57zkROn6J6tWyX9I,2022-01-01,0,28,49,-4,-17,14
+IN,India,Bihar,Purvi Champaran,,,,ChIJaYFAhvc0kzkRHD_HzG-yZMU,2022-01-01,-15,30,12,-3,-18,14
+IN,India,Bihar,Rohtas,,,,ChIJWQAhmDS3jTkRFXfL93QeK5w,2022-01-01,1,8,-5,3,-19,15
+IN,India,Bihar,Saharsa,,,,ChIJz9uMt5s97jkRWKpMYNuptBA,2022-01-01,0,15,79,33,-11,13
+IN,India,Bihar,Samastipur,,,,ChIJ3b1C-5CQ7TkR82Q2q88Ercw,2022-01-01,6,8,72,13,-11,12
+IN,India,Bihar,Saran,,,,ChIJMUm2Xia7kjkRcjw9CoDga7s,2022-01-01,-5,25,49,-2,-17,14
+IN,India,Bihar,Sheikhpura,,,,ChIJrQPEWlZB8jkR6y4TUcXvzxs,2022-01-01,-32,54,-12,11,-12,18
+IN,India,Bihar,Sheohar,,,,ChIJgYy68MTn7DkRU7audhdx9qU,2022-01-01,,55,,38,-15,9
+IN,India,Bihar,Siwan,,,,ChIJg4njZgH8kjkRA07zOt7FcAo,2022-01-01,-10,16,45,-1,-9,12
+IN,India,Bihar,Supaul,,,,ChIJ88TegQ1C7jkR2vakkBwplnI,2022-01-01,7,79,67,19,-26,13
+IN,India,Bihar,Vaishali,,,,ChIJ8dCRW6de7TkRtXPjiCk9e58,2022-01-01,-5,14,44,6,-14,15
+IN,India,Chandigarh,,,IN-CH,,ChIJf5Mz8cTsDzkRKtEAg3O5yAc,2022-01-01,-5,9,-14,45,-12,5
+IN,India,Chhattisgarh,,,IN-CT,,ChIJrYt6xhYfJjoRlZ0X-xL0I1w,2022-01-01,7,48,60,17,5,7
+IN,India,Chhattisgarh,Balod,,,,ChIJGzzPtabJLjoRnvdc_WGqRRs,2022-01-01,28,26,88,46,31,4
+IN,India,Chhattisgarh,Baloda Bazar,,,,ChIJCamYnep9KDoR41pSSGeRSJI,2022-01-01,11,69,79,13,15,6
+IN,India,Chhattisgarh,Balrampur,,,,ChIJMbG1BwBfiTkR1MV1z0_DGwI,2022-01-01,-35,-5,78,-8,-30,8
+IN,India,Chhattisgarh,Bastar,,,,ChIJOxlAc186MDoR8J6-0vKMqaw,2022-01-01,11,25,1,77,-13,12
+IN,India,Chhattisgarh,Bemetara,,,,ChIJt0pUyI1UKDoRje0LERsSXa4,2022-01-01,23,63,54,,10,4
+IN,India,Chhattisgarh,Bijapur,,,,ChIJjf4wf2EhMjoR547bGsp-YVE,2022-01-01,,,-9,,-2,
+IN,India,Chhattisgarh,Bilaspur,,,,ChIJe_p7JxILKDoRgZxoe7kf7ms,2022-01-01,17,41,32,19,10,10
+IN,India,Chhattisgarh,Dantewada,,,,ChIJ5bXrP7KwMToRMvEFFLHjZV0,2022-01-01,10,,87,6,-3,0
+IN,India,Chhattisgarh,Dhamtari,,,,ChIJoRK51YYoLzoRC4WQ0euL3aE,2022-01-01,23,20,79,59,11,6
+IN,India,Chhattisgarh,Durg,,,,ChIJO7ggu1w8KToRnJ-xdkjkU-A,2022-01-01,17,53,47,-6,1,7
+IN,India,Chhattisgarh,Gariaband,,,,ChIJaQlhcJdZLzoRJYl5NaRdE2I,2022-01-01,,,,,-2,4
+IN,India,Chhattisgarh,Janjgir-Champa,,,,ChIJQ1RXBny_JzoRDqd22heMJ_E,2022-01-01,10,72,113,10,5,5
+IN,India,Chhattisgarh,Jashpur,,,,ChIJg28gU3ZnijkRkdv1a2ccmu0,2022-01-01,-15,32,32,8,-11,6
+IN,India,Chhattisgarh,Kanker,,,,ChIJReFPDnb9LjoRLXyCvdHOqAU,2022-01-01,4,2,65,16,21,3
+IN,India,Chhattisgarh,Kawardha,,,,ChIJn-alMqTAKToRl8UeTqLe4FY,2022-01-01,41,,21,2,9,5
+IN,India,Chhattisgarh,Kondagaon,,,,ChIJI6wfJ20SMDoRYs-nBulaFkY,2022-01-01,-7,,26,50,9,8
+IN,India,Chhattisgarh,Korba,,,,ChIJ_WWcajuPJzoRfsR1AezKnVk,2022-01-01,22,56,56,27,18,9
+IN,India,Chhattisgarh,Koriya,,,,ChIJq7RTFM3HiDkRGN_BYovr-dE,2022-01-01,0,46,102,14,2,5
+IN,India,Chhattisgarh,Mahasamund,,,,ChIJhw4WJ4-lKDoRGYxtZdzJcnw,2022-01-01,-5,71,76,24,-3,5
+IN,India,Chhattisgarh,Mungeli,,,,ChIJUa8IeaY2KDoRGJuXQ_i1zo8,2022-01-01,5,-31,,94,15,7
+IN,India,Chhattisgarh,Narayanpur,,,,ChIJ90hILj4XLjoRHxcrPBJG1UA,2022-01-01,,,,55,1,
+IN,India,Chhattisgarh,Raigarh,,,,ChIJ2w2LLWYlJzoRcgSZAST15Eg,2022-01-01,6,42,50,12,5,8
+IN,India,Chhattisgarh,Raipur,,,,ChIJqVHMY6bdKDoRnEyVO9Iq8bo,2022-01-01,1,58,61,0,1,7
+IN,India,Chhattisgarh,Rajnandgaon,,,,ChIJZeN2HrdFKToRrlMgqQLdw9A,2022-01-01,10,90,93,23,12,6
+IN,India,Chhattisgarh,Sukma,,,,ChIJz63vyXEdMToRu6yJx45vAGE,2022-01-01,,,,3,-16,
+IN,India,Chhattisgarh,Surajpur,,,,ChIJxWv2QuMciTkRBy0r-ogsE30,2022-01-01,0,38,56,52,1,11
+IN,India,Chhattisgarh,Surguja,,,,ChIJ9Yy5ZsijiTkRdEZjpa-_zPk,2022-01-01,13,54,142,36,1,8
+IN,India,Dadra and Nagar Haveli,,,IN-DN,,,2022-01-01,1,54,37,,3,8
+IN,India,Dadra and Nagar Haveli,Dadra and Nagar Haveli,,,,ChIJ-aMVMULL4DsRm4NbagV3U18,2022-01-01,2,56,60,7,1,10
+IN,India,Daman and Diu,,,IN-DD,,,2022-01-01,5,51,127,89,-7,10
+IN,India,Daman and Diu,Daman,,,,ChIJM2lXqJ3Q4DsR_HeN_bh5LEs,2022-01-01,3,76,155,90,-12,13
+IN,India,Daman and Diu,Diu,,,,ChIJO2gu0sQc4zsRQxQjphTAtd4,2022-01-01,-23,,93,59,-21,
+IN,India,Delhi,,,IN-DL,,ChIJLbZ-NFv9DDkRQJY4FbcFcgM,2022-01-01,-23,6,-25,-13,-22,9
+IN,India,Delhi,Central Delhi,,,,ChIJiT9nOFj9DDkRkoyq8FS5wxo,2022-01-01,-31,-7,-28,-18,-20,9
+IN,India,Delhi,East Delhi,,,,ChIJBaSrsbLkDDkRYbIDpVCvNZg,2022-01-01,-16,22,-26,-18,-32,9
+IN,India,Delhi,New Delhi,,,,ChIJV4lOJ7DiDDkRGETtqH1nMOk,2022-01-01,-37,-17,-32,-24,-25,9
+IN,India,Delhi,North Delhi,,,,ChIJGUxW3-P9DDkRoYvP_3M9upo,2022-01-01,-16,52,-4,1,-17,10
+IN,India,Delhi,North East Delhi,,,,ChIJ519BUAT8DDkR2ycYpRgtz-M,2022-01-01,6,64,-41,25,-12,10
+IN,India,Delhi,North West Delhi,,,,ChIJRajyO0MHDTkRy7Q1JATepCE,2022-01-01,-16,19,-14,-6,-19,9
+IN,India,Delhi,Shahdara,,,,ChIJwfu9D5z7DDkRIVHVjuQMso0,2022-01-01,-5,17,-33,-13,-17,9
+IN,India,Delhi,South Delhi,,,,ChIJqX7ja73hDDkRRA9T2LXUAJg,2022-01-01,-29,18,-23,-4,-30,10
+IN,India,Delhi,South East Delhi,,,,ChIJS4hIU-HjDDkRXIlXK_BYZAs,2022-01-01,-18,2,-26,-18,-28,10
+IN,India,Delhi,South West Delhi,,,,ChIJxbsO85oaDTkRGDJ4ocUr_Qw,2022-01-01,-13,22,-29,-7,-25,11
+IN,India,Delhi,West Delhi,,,,ChIJpzxpCVcEDTkRJ6lFFSLbnkM,2022-01-01,-23,9,-26,-10,-19,9
+IN,India,Goa,,,IN-GA,,ChIJQbc2YxC6vzsRkkDzYv-H-Oo,2022-01-01,17,41,43,26,-19,8
+IN,India,Goa,North Goa,,,,ChIJMaD6Uu3AvzsR0E3VfowKzRs,2022-01-01,18,51,52,40,-18,10
+IN,India,Goa,South Goa,,,,ChIJixLkOu6zvzsRgGFikAr04_w,2022-01-01,20,31,31,15,-20,9
+IN,India,Gujarat,,,IN-GJ,,ChIJlfcOXx8FWTkRLlJU7YfYG4Y,2022-01-01,-3,36,1,13,9,6
+IN,India,Gujarat,Ahmedabad,,,,ChIJIxcnN0CEXjkRobQIMyNYLpI,2022-01-01,-14,24,-20,8,-2,7
+IN,India,Gujarat,Amreli,,,,ChIJZ7oDM8eAWDkRlHo887NJuLs,2022-01-01,-9,25,-44,15,20,6
+IN,India,Gujarat,Anand,,,,ChIJGc1nqIVOXjkRO-fwkwEhoWQ,2022-01-01,0,38,8,-2,18,7
+IN,India,Gujarat,Aravalli,,,,ChIJTQp-Pdn2XTkRyART6b72SBg,2022-01-01,22,6,48,27,13,7
+IN,India,Gujarat,Banaskantha,,,,ChIJiTGoOkPpXDkRZ5ScxWXN7aQ,2022-01-01,15,46,36,18,33,11
+IN,India,Gujarat,Bharuch,,,,ChIJefreu--OXzkRDLCp-RRkaM0,2022-01-01,18,83,49,8,23,6
+IN,India,Gujarat,Bhavnagar,,,,ChIJ4axZ6H9aXzkR15SeV_Y7q0w,2022-01-01,10,45,4,26,18,9
+IN,India,Gujarat,Botad,,,,ChIJWV9VvZ3BWDkRhC00J6CRIAM,2022-01-01,22,66,37,14,34,6
+IN,India,Gujarat,Chhota Udaipur,,,,ChIJlwFwSANAYDkRos4iMvLccCY,2022-01-01,16,,25,-12,33,2
+IN,India,Gujarat,Dahod,,,,ChIJkRqQVK8dYTkR4PC5P9Cp0_k,2022-01-01,26,35,-13,4,12,6
+IN,India,Gujarat,Dang,,,,ChIJLWa4dOw83jsRKeHnMRCDCaM,2022-01-01,,,34,-34,16,
+IN,India,Gujarat,Devbhoomi Dwarka,,,,ChIJzY9_C536VjkR4zN1BGPlqPg,2022-01-01,6,61,131,40,35,7
+IN,India,Gujarat,Gandhinagar,,,,ChIJq2dkq0csXDkR2UOTXdkjccQ,2022-01-01,4,59,-9,18,9,7
+IN,India,Gujarat,Gir Somnath,,,,ChIJHWY1Rm7D4jsRC7W1F0rqCbg,2022-01-01,22,24,40,25,15,5
+IN,India,Gujarat,Jamnagar,,,,ChIJvSTBbvpqVzkRFognCZXxOFk,2022-01-01,-10,28,20,-11,8,6
+IN,India,Gujarat,Junagadh,,,,ChIJV-533pIBWDkR02v1UqTrXys,2022-01-01,-2,47,19,22,8,9
+IN,India,Gujarat,Kheda,,,,ChIJDdxyUaL1XjkR9-3AP7O6K3E,2022-01-01,17,93,70,-11,4,8
+IN,India,Gujarat,Kutch,,,,ChIJiUTbUAceUTkRiOpdwo6_SSA,2022-01-01,8,32,-1,14,10,5
+IN,India,Gujarat,Mahisagar,,,,ChIJ32fzV7KvYDkRhWR6mTQqUp4,2022-01-01,-6,,63,5,10,5
+IN,India,Gujarat,Mehsana,,,,ChIJA-Vp4NdDXDkRni-uywd-c1o,2022-01-01,8,48,-41,14,18,10
+IN,India,Gujarat,Morbi,,,,ChIJXwMEGY-OWTkRKQ7IIv5MCW8,2022-01-01,8,5,37,-2,10,11
+IN,India,Gujarat,Narmada,,,,ChIJg-Rkoy0HYDkRD7H2F1FMFjU,2022-01-01,149,,10,39,35,11
+IN,India,Gujarat,Navsari,,,,ChIJdyybkJX34DsRB6g37cLsEPE,2022-01-01,15,30,4,-8,18,6
+IN,India,Gujarat,Panchmahal,,,,ChIJj4D53v6aYDkRRTf-L7SmcyM,2022-01-01,23,53,30,20,26,7
+IN,India,Gujarat,Patan,,,,ChIJN-FHyvOHXDkRf0ZlyNNNB_I,2022-01-01,5,93,14,10,22,8
+IN,India,Gujarat,Porbandar,,,,ChIJ5fjCUVA0VjkRhb0U5G2db9g,2022-01-01,-7,68,-21,9,10,11
+IN,India,Gujarat,Rajkot,,,,ChIJ7cCSM3PKWTkRwiBgzA1vD50,2022-01-01,-12,45,-7,21,9,8
+IN,India,Gujarat,Sabarkatha,,,,ChIJOSjsP-y4XTkR8y61xl5GUHk,2022-01-01,16,28,22,19,30,7
+IN,India,Gujarat,Surat,,,,ChIJBSupQeZD4DsRrX6wckP2g20,2022-01-01,-3,31,-3,25,8,4
+IN,India,Gujarat,Surendranagar,,,,ChIJVcxCfgFBWTkRbgZwa_hfrAY,2022-01-01,-2,27,52,-3,5,9
+IN,India,Gujarat,Tapi,,,,ChIJb_wnkqbJ3zsRKf_O-XIjwg0,2022-01-01,21,47,65,11,17,10
+IN,India,Gujarat,Vadodara,,,,ChIJ2Zj8v5XFXzkRz_cujNn9aiw,2022-01-01,-7,16,-12,16,2,6
+IN,India,Gujarat,Valsad,,,,ChIJz6ZJgiDo4DsR8At-ikXYJOs,2022-01-01,20,66,54,4,9,11
+IN,India,Haryana,,,IN-HR,,ChIJC0BwhguwDTkRQ8GmqrSqLnM,2022-01-01,3,28,-6,-2,-9,8
+IN,India,Haryana,Ambala,,,,ChIJi7k7zSW2DzkRf7gBbcsvukk,2022-01-01,10,11,-5,-12,3,9
+IN,India,Haryana,Bhiwani,,,,ChIJD7NvXCthEjkR4YodLjsetWA,2022-01-01,10,33,29,20,15,6
+IN,India,Haryana,Faridabad,,,,ChIJY7YMLjzcDDkR-U8e_tn5z6Q,2022-01-01,1,45,6,-4,-19,10
+IN,India,Haryana,Fatehabad,,,,ChIJXYbs4cFlETkR5dswbNFwz2A,2022-01-01,-5,33,28,5,11,5
+IN,India,Haryana,Gurgaon,,,,ChIJlYyNFyQYDTkRQzFwSRfgzY4,2022-01-01,-6,16,-24,-18,-32,10
+IN,India,Haryana,Hisar,,,,ChIJYQZaySszEjkRKCHpeM3vEpE,2022-01-01,13,-11,-2,-11,10,7
+IN,India,Haryana,Jhajjar,,,,ChIJJ-1KP25wDTkRKRNM8w8ztWE,2022-01-01,17,10,34,6,2,8
+IN,India,Haryana,Jind,,,,ChIJxw80W_0EEjkRRyboVO776OM,2022-01-01,6,83,-15,-3,10,8
+IN,India,Haryana,Kaithal,,,,ChIJU9EUl_LgETkR5IVnqe8lENw,2022-01-01,19,30,-3,-23,13,8
+IN,India,Haryana,Karnal,,,,ChIJzV-fiCNwDjkRSprkGbYozDI,2022-01-01,3,5,-8,5,7,8
+IN,India,Haryana,Kurukshetra,,,,ChIJg019aVlHDjkRxo4iHu_H2Ss,2022-01-01,8,29,2,-6,10,10
+IN,India,Haryana,Mahendragarh,,,,ChIJ8T7Oeem1EjkRskj5GvS9u5A,2022-01-01,-3,39,-8,15,10,8
+IN,India,Haryana,Mewat,,,,ChIJa148Do0tDTkRsjdfMLSKyYk,2022-01-01,27,92,30,72,-6,3
+IN,India,Haryana,Palwal,,,,ChIJl4m4xWktczkRfbChtL95kFY,2022-01-01,21,49,24,17,-21,10
+IN,India,Haryana,Panchkula,,,,ChIJD2a7d07vDzkRJbPT291BZ7w,2022-01-01,1,25,-6,33,-6,7
+IN,India,Haryana,Panipat,,,,ChIJZcQ2q1PaDTkRFl1uEgECufA,2022-01-01,22,65,-6,-8,23,5
+IN,India,Haryana,Rewari,,,,ChIJUXXjmnFQDTkRoV2yZWmOajE,2022-01-01,7,60,-25,0,-19,12
+IN,India,Haryana,Rohtak,,,,ChIJwa347KiFDTkR8rpkJLwEG6c,2022-01-01,2,24,2,8,2,8
+IN,India,Haryana,Sirsa,,,,ChIJPXI9ibBNETkRXmmIPDdjZGE,2022-01-01,14,55,4,-1,24,5
+IN,India,Haryana,Sonepat,,,,ChIJC0BwhguwDTkRA6EeFcZxPAA,2022-01-01,18,23,-24,9,0,9
+IN,India,Haryana,Yamuna Nagar,,,,ChIJq8E8eCv6DjkRzV3Inme1jNI,2022-01-01,21,15,-9,9,10,8
+IN,India,Himachal Pradesh,,,IN-HP,,ChIJ9wH5Z8NTBDkRJXdLVsUE_nw,2022-01-01,37,39,100,49,27,7
+IN,India,Himachal Pradesh,Bilaspur,,,,ChIJNVTpNm0_BTkRZa-rH88ASt8,2022-01-01,14,,40,77,40,11
+IN,India,Himachal Pradesh,Chamba,,,,ChIJyXkrHcy9HDkRxP_Fn1nzfVU,2022-01-01,26,,106,45,34,10
+IN,India,Himachal Pradesh,Hamirpur,,,,ChIJbRBiiqEpBTkRZeTzs_11nK4,2022-01-01,-8,-14,69,45,72,6
+IN,India,Himachal Pradesh,Kangra,,,,ChIJaVXT0yFRGzkRhOCCT_HFaxU,2022-01-01,47,57,101,36,39,8
+IN,India,Himachal Pradesh,Kinnaur,,,,ChIJUUr49b5DBjkRVPPTASun_t0,2022-01-01,,,36,68,20,
+IN,India,Himachal Pradesh,Kullu,,,,ChIJ2z5nXKn2BDkRvx4G2hViwJs,2022-01-01,140,28,213,137,33,11
+IN,India,Himachal Pradesh,Mandi,,,,ChIJkaSOyDjiBDkRPNLpnU-vJxs,2022-01-01,16,21,83,30,37,7
+IN,India,Himachal Pradesh,Shimla,,,,ChIJ95KU7_XyBTkRQoWLom4gLlU,2022-01-01,53,55,93,88,17,12
+IN,India,Himachal Pradesh,Sirmaur,,,,ChIJmwzYUwgMDzkREyMNx5_B7-U,2022-01-01,37,57,20,38,20,7
+IN,India,Himachal Pradesh,Solan,,,,ChIJJay-HTmBDzkRHp0wIrgk5ho,2022-01-01,22,25,48,35,10,10
+IN,India,Himachal Pradesh,Una,,,,ChIJXfnPvFPQGjkRg5J2X7v4lQc,2022-01-01,-4,-10,44,21,15,7
+IN,India,Jammu and Kashmir,,,IN-JK,,ChIJnaj_mSQJ4TgR8eeXRm16VgY,2022-01-01,449,677,550,623,257,6
+IN,India,Jharkhand,,,IN-JH,,ChIJVwhI34YjizkRBJDi7gm4xWI,2022-01-01,-15,26,47,3,-29,13
+IN,India,Jharkhand,Bokaro,,,,ChIJO7nlcUYU9DkRv9oZrtlyjOw,2022-01-01,-15,56,97,1,-25,15
+IN,India,Jharkhand,Chatra,,,,ChIJm0oBlzKsjDkRD4a5i5WqrsI,2022-01-01,-22,,71,31,-30,16
+IN,India,Jharkhand,Deoghar,,,,ChIJu5GnU9EX8TkRhhi9d2-CVso,2022-01-01,23,154,153,30,-29,18
+IN,India,Jharkhand,Dhanbad,,,,ChIJYVdGROu89jkR3xZgyEfpcTE,2022-01-01,-11,39,39,2,-20,14
+IN,India,Jharkhand,Dumka,,,,ChIJZYAp3qm38DkRMJRYJdomYZE,2022-01-01,-17,34,69,66,-36,15
+IN,India,Jharkhand,East Singhbhum,,,,ChIJawSW3hsd9jkREfiZG3uAZnY,2022-01-01,-4,23,32,-1,-23,11
+IN,India,Jharkhand,Garhwa,,,,ChIJsaKlEVEOjDkRpbPBXdk0vN4,2022-01-01,-13,118,,2,-32,12
+IN,India,Jharkhand,Giridih,,,,ChIJ52abqR5U8TkRGifB8-y_H04,2022-01-01,-15,91,145,4,-28,18
+IN,India,Jharkhand,Godda,,,,ChIJK9OOENT08DkRP4wfZDh_Hu8,2022-01-01,13,111,19,4,-27,12
+IN,India,Jharkhand,Gumla,,,,ChIJB9nwKhvpijkRrRzL9ih6V0A,2022-01-01,-10,,88,-6,-50,9
+IN,India,Jharkhand,Hazaribagh,,,,ChIJd3LXUHeD9DkR3J4Y1AJtW7g,2022-01-01,-21,-7,24,12,-42,18
+IN,India,Jharkhand,Jamtara,,,,ChIJgz3jZ_vW9jkRUU6nFi7YkTo,2022-01-01,-10,8,,-1,-32,17
+IN,India,Jharkhand,Khunti,,,,ChIJBWX3Y19H9TkRS22jQ2jl2Jk,2022-01-01,-35,,,73,-51,13
+IN,India,Jharkhand,Koderma,,,,ChIJkWNiZqoK8zkRL17-dZw_x4w,2022-01-01,-23,113,32,-22,-30,17
+IN,India,Jharkhand,Latehar,,,,ChIJC-VDQWxyizkRn1zhQAwYD1I,2022-01-01,-38,,91,-11,-37,10
+IN,India,Jharkhand,Lohardaga,,,,ChIJE-3xaHgkizkRh6d36S1nxdE,2022-01-01,1,,94,-20,-43,13
+IN,India,Jharkhand,Pakur,,,,ChIJuc7u1eFp-jkR5m6JkyQO1LE,2022-01-01,-13,21,38,21,-29,12
+IN,India,Jharkhand,Palamu,,,,ChIJ71Q_j9x3jDkR4_-viN824SE,2022-01-01,-17,17,70,1,-31,13
+IN,India,Jharkhand,Ramgarh,,,,ChIJdUuVnZmM9DkRQCwmRwf__OU,2022-01-01,-4,-13,126,0,-25,16
+IN,India,Jharkhand,Ranchi,,,,ChIJAZc9fnzh9DkRiwGjCfIhYAY,2022-01-01,-27,2,-7,-14,-38,16
+IN,India,Jharkhand,Sahibganj,,,,ChIJLTKd1ZWY-jkR5pq9UfcGy3A,2022-01-01,11,88,233,20,-31,11
+IN,India,Jharkhand,Seraikela Kharsawan,,,,ChIJzf531M_q9TkRzEL3IiK4YT8,2022-01-01,7,77,125,-19,-13,14
+IN,India,Jharkhand,Simdega,,,,ChIJ10IzBMWdijkR_BXlnUtVEBw,2022-01-01,19,,,-8,-48,10
+IN,India,Jharkhand,West Singhbhum,,,,ChIJ8QKBzHEnHjoRjnuD6lFqo5Q,2022-01-01,-10,20,60,2,-23,13
+IN,India,Karnataka,,,IN-KA,,ChIJj0i_N0xaozsR1Xx10YzS8UE,2022-01-01,-10,26,1,7,-7,6
+IN,India,Karnataka,Bagalkot,,,,ChIJrcgn8IaCxzsREsW7euo_pD0,2022-01-01,15,93,33,23,20,12
+IN,India,Karnataka,Bangalore Rural,,,,ChIJb8QRgVEMrjsR4zW3_bcdk_c,2022-01-01,25,93,44,-13,3,13
+IN,India,Karnataka,Bangalore Urban,,,,ChIJ_Q7NCkQWrjsRn2yP7O-T8Fg,2022-01-01,-20,7,-33,-5,-20,6
+IN,India,Karnataka,Belagavi,,,,ChIJmY_CdVNnvzsRy59jy2vQQSM,2022-01-01,8,81,4,38,19,11
+IN,India,Karnataka,Bellary,,,,ChIJHYod3-ETtzsRI61FgGaJVfw,2022-01-01,6,63,21,17,-3,11
+IN,India,Karnataka,Bidar,,,,ChIJyxda2PLDzjsRwTF-15YT4DE,2022-01-01,-5,114,61,7,-4,8
+IN,India,Karnataka,Bijapur,,,,ChIJGQVjNWBUxjsRf_tdMpevfE0,2022-01-01,1,96,-7,28,16,13
+IN,India,Karnataka,Chamarajanagar,,,,ChIJXTNIPeYwrzsRs_Ju73naN7s,2022-01-01,20,169,105,47,-1,8
+IN,India,Karnataka,Chikballapur,,,,ChIJsTSmYOWKsTsRGAjL_HXjzas,2022-01-01,10,75,-22,41,19,13
+IN,India,Karnataka,Chikkamagaluru,,,,ChIJr5iDf0LXujsRBUd7YL_dp98,2022-01-01,33,73,59,30,13,10
+IN,India,Karnataka,Chitradurga,,,,ChIJC6a3uFd0ujsRBE7CBdRS1AM,2022-01-01,21,176,27,13,1,11
+IN,India,Karnataka,Dakshina Kannada,,,,ChIJvxb9K01aozsRXPsrJAvQjS8,2022-01-01,-1,46,75,12,12,9
+IN,India,Karnataka,Davanagere,,,,ChIJ-7JWt2wlujsROyBCahpguL8,2022-01-01,17,53,-5,25,6,10
+IN,India,Karnataka,Dharwad,,,,ChIJnaPwL2TXuDsRu93NlJQPZ1w,2022-01-01,1,72,-34,8,3,13
+IN,India,Karnataka,Gadag,,,,ChIJuWuGH0L5uDsRCGNYEzjISUI,2022-01-01,22,48,42,21,3,10
+IN,India,Karnataka,Gulbarga,,,,ChIJNS689lLHyDsRdYhzt9tB0Uc,2022-01-01,-6,79,3,15,5,9
+IN,India,Karnataka,Hassan,,,,ChIJ8dpGhhhIpTsR95ov9bX-53Y,2022-01-01,30,57,56,-7,5,13
+IN,India,Karnataka,Haveri,,,,ChIJ5znmaqE_uTsRhIFbdWyJHLE,2022-01-01,14,82,23,28,21,7
+IN,India,Karnataka,Kodagu,,,,ChIJa-ELPqKqpTsRcKOeNYIf_VA,2022-01-01,35,114,21,30,10,8
+IN,India,Karnataka,Kolar,,,,ChIJswtPHOnqrTsRYjVK5fGED8c,2022-01-01,19,135,19,14,-8,13
+IN,India,Karnataka,Koppal,,,,ChIJR_8qGjnLuTsRFtKFZHxPZLA,2022-01-01,12,79,54,24,-1,9
+IN,India,Karnataka,Mandya,,,,ChIJ4xw2mMSgrzsRYT-m12fYI7k,2022-01-01,-1,53,36,1,-1,11
+IN,India,Karnataka,Mysuru,,,,ChIJ5XOPmBBwrzsRCe4TG2b7kns,2022-01-01,-1,23,44,20,-4,8
+IN,India,Karnataka,Raichur,,,,ChIJZ8QldZ_XyTsRlGblxl2OJdE,2022-01-01,9,92,-24,10,6,9
+IN,India,Karnataka,Ramanagara,,,,ChIJvfBTgRlarjsR57bS9GSdngY,2022-01-01,26,120,63,26,3,13
+IN,India,Karnataka,Shimoga,,,,ChIJK7SL-yOpuzsR7jLSHm1ArRY,2022-01-01,2,116,106,9,21,10
+IN,India,Karnataka,Tumkur,,,,ChIJn0KCXB4ssDsR3tZtSY_rf58,2022-01-01,17,45,19,26,11,14
+IN,India,Karnataka,Udupi,,,,ChIJjZ4yiGm7vDsR3O3HfamQz98,2022-01-01,5,52,26,10,16,10
+IN,India,Karnataka,Uttara Kannada,,,,ChIJCzPf_NBgvjsRdCEEh2lzVk4,2022-01-01,49,50,42,43,23,6
+IN,India,Karnataka,Yadgir,,,,ChIJZXh1MZlDyDsRl9_JE1UoIuw,2022-01-01,29,77,65,11,5,6
+IN,India,Kerala,,,IN-KL,,ChIJW_Wc1P8SCDsRmXw47fuQvWQ,2022-01-01,4,64,44,5,19,9
+IN,India,Kerala,Alappuzha,,,,ChIJd7gN4_CECDsRZ7QW-3bwXco,2022-01-01,14,96,46,19,20,13
+IN,India,Kerala,Ernakulam,,,,ChIJH9ar3hXkBzsRb_fT7icSkWs,2022-01-01,-6,50,35,0,1,11
+IN,India,Kerala,Idukki,,,,ChIJ9YWGgYy6BzsR8unMyUxJHO0,2022-01-01,19,74,19,36,27,8
+IN,India,Kerala,Kannur,,,,ChIJsXmrTL8ipDsRklBs-OsIAtw,2022-01-01,5,79,60,0,24,11
+IN,India,Kerala,Kasaragod,,,,ChIJtw4G3z2CpDsR1Oi0ZFeQBVs,2022-01-01,4,47,86,12,23,9
+IN,India,Kerala,Kollam,,,,ChIJ826oI2H8BTsRvD786CK0rGw,2022-01-01,16,85,32,-4,24,11
+IN,India,Kerala,Kottayam,,,,ChIJlSDP5ZgrBjsRxniVU2PgDCQ,2022-01-01,1,68,41,1,14,12
+IN,India,Kerala,Kozhikode,,,,ChIJlwP0Sj9ZpjsR0csxrBB66WM,2022-01-01,9,72,69,-1,23,11
+IN,India,Kerala,Mahe,,,,ChIJyZcvLwAopDsRU1Qih4E4CpQ,2022-01-01,,,-45,19,36,
+IN,India,Kerala,Malappuram,,,,ChIJJR2HaWJKpjsRbjAwRzPg4b0,2022-01-01,22,112,65,13,41,10
+IN,India,Kerala,Palakkad,,,,ChIJWQs2Ju9tqDsRmbA67dugBGc,2022-01-01,6,94,76,5,27,10
+IN,India,Kerala,Pathanamthitta,,,,ChIJZarSEQYVBjsRL7yss1PBLg4,2022-01-01,14,80,46,-4,32,10
+IN,India,Kerala,Thiruvananthapuram,,,,ChIJw77PTLe7BTsRxb5fAyuMlRc,2022-01-01,-4,19,9,6,14,8
+IN,India,Kerala,Thrissur,,,,ChIJLUm8UTHupzsRIbHNVwmEKvw,2022-01-01,5,61,30,-8,23,11
+IN,India,Kerala,Wayanad,,,,ChIJDV-cGvkMpjsRb-TT4aJN3XE,2022-01-01,11,170,22,11,27,11
+IN,India,Lakshadweep,,,IN-LD,,ChIJPZfkymXNnzsRqukshBZ0vRc,2022-01-01,,,72,,-14,
+IN,India,Lakshadweep,Lakshadweep,,,,ChIJIeibH4OvCjsRnHVoCI03Ank,2022-01-01,,,77,,-18,
+IN,India,Madhya Pradesh,,,IN-MP,,ChIJBepa04FzZjkRHhxwTg1rEOA,2022-01-01,7,40,33,20,-5,9
+IN,India,Madhya Pradesh,Agar,,,,ChIJwc46ly6VZDkRnG_Sce9WGeE,2022-01-01,10,94,123,39,15,4
+IN,India,Madhya Pradesh,Alirajpur,,,,ChIJkdgj_wa3YTkRKNjJ-69J4y0,2022-01-01,12,,-53,-23,-9,9
+IN,India,Madhya Pradesh,Anuppur,,,,ChIJRdjxSHCyhzkRbpYonYlOACE,2022-01-01,34,,108,11,-4,7
+IN,India,Madhya Pradesh,Ashoknagar,,,,ChIJz5rC1DswejkRW6kukwhxQTs,2022-01-01,18,,32,33,-8,9
+IN,India,Madhya Pradesh,Balaghat,,,,ChIJU_ljLglaKjoRRJVnh82I5kg,2022-01-01,18,26,65,26,7,11
+IN,India,Madhya Pradesh,Barwani,,,,ChIJM30w3OZW3zsRwzs4gOfH52c,2022-01-01,39,118,-51,22,8,5
+IN,India,Madhya Pradesh,Betul,,,,ChIJ9WH4T-IJ1jsRc0xfyDeMAs4,2022-01-01,17,10,101,19,11,10
+IN,India,Madhya Pradesh,Bhind,,,,ChIJ_8wNGth6djkRQR_Bz79PG6k,2022-01-01,5,20,28,17,-7,4
+IN,India,Madhya Pradesh,Bhopal,,,,ChIJ7wvsJVRCfDkR0kysbXq8OZc,2022-01-01,-5,29,22,2,-14,10
+IN,India,Madhya Pradesh,Burhanpur,,,,ChIJ1_xoR8Uy2DsRSUyKzThSHkg,2022-01-01,39,113,33,47,6,9
+IN,India,Madhya Pradesh,Chhatarpur,,,,ChIJC7UnsTeWgjkRZBj0NfBVj60,2022-01-01,35,47,77,30,-18,9
+IN,India,Madhya Pradesh,Chhindwara,,,,ChIJAZYZzZFo1TsRYKdAnsKfYQQ,2022-01-01,22,116,71,11,4,10
+IN,India,Madhya Pradesh,Damoh,,,,ChIJXaa2NioCgjkRzH4RLZvRhZE,2022-01-01,28,47,21,44,0,8
+IN,India,Madhya Pradesh,Datia,,,,ChIJkcducxISdzkRTdfyMao88f4,2022-01-01,28,,-9,48,-13,12
+IN,India,Madhya Pradesh,Dewas,,,,ChIJ4R9p4iYYYzkRRPFMV1bYsSk,2022-01-01,27,31,53,-26,10,12
+IN,India,Madhya Pradesh,Dhar,,,,ChIJ42Xu6GY2YjkRfAtHeje7hXw,2022-01-01,1,44,52,61,7,9
+IN,India,Madhya Pradesh,Dindori,,,,ChIJB8yR4LE8hzkRoseJXeVOcz0,2022-01-01,29,,28,18,-19,2
+IN,India,Madhya Pradesh,Guna,,,,ChIJqwPJrZxbejkRUvZaH4QdBNc,2022-01-01,11,98,51,56,-12,8
+IN,India,Madhya Pradesh,Gwalior,,,,ChIJlSENL6jGdjkRMy0T_KTJCvw,2022-01-01,10,24,13,-9,-6,8
+IN,India,Madhya Pradesh,Harda,,,,ChIJv1qAMNpwfTkREHVOAW5aJGU,2022-01-01,-11,36,69,26,7,9
+IN,India,Madhya Pradesh,Hoshangabad,,,,ChIJV-bYDevPfTkR9VXztfRZ2AI,2022-01-01,24,76,126,-8,-2,10
+IN,India,Madhya Pradesh,Indore,,,,ChIJhe-mRuD8YjkRgSDYAjlQ9BY,2022-01-01,0,24,-18,44,-10,9
+IN,India,Madhya Pradesh,Jabalpur,,,,ChIJPSHZ0tatgTkRVWpSGDN6Z8E,2022-01-01,16,12,22,31,-8,10
+IN,India,Madhya Pradesh,Jhabua,,,,ChIJ2Ysbq4xmYTkReE3APo_QM7c,2022-01-01,15,,,22,12,4
+IN,India,Madhya Pradesh,Katni,,,,ChIJoz57cLdhgTkRzRtgvuTT280,2022-01-01,18,23,38,-16,-13,7
+IN,India,Madhya Pradesh,Khandwa,,,,ChIJH98ecp8b2DsRDdGFaqX0Y1o,2022-01-01,22,18,58,16,-1,16
+IN,India,Madhya Pradesh,Khargone,,,,ChIJKZUHb1uP2DsRNmqcH3gwhik,2022-01-01,-1,127,91,30,1,8
+IN,India,Madhya Pradesh,Mandla,,,,ChIJJRlbGByXgDkR3khcSB6YNM4,2022-01-01,8,75,102,6,-1,8
+IN,India,Madhya Pradesh,Mandsaur,,,,ChIJoananI8uZDkRxhI_LRd3QfY,2022-01-01,23,59,11,27,15,8
+IN,India,Madhya Pradesh,Morena,,,,ChIJi8pLsfOtdjkRHTKhBvr80Uo,2022-01-01,23,18,0,12,-6,5
+IN,India,Madhya Pradesh,Narsinghpur,,,,ChIJ2ez-906DfzkRHdc1B7BQP5w,2022-01-01,23,-21,61,10,-13,8
+IN,India,Madhya Pradesh,Neemuch,,,,ChIJNYsOiA50ZjkR-otSM_akE28,2022-01-01,61,93,3,21,12,7
+IN,India,Madhya Pradesh,Panna,,,,ChIJyfXbqRUEgzkRvtFOhNSrEQE,2022-01-01,-10,,64,51,-11,8
+IN,India,Madhya Pradesh,Raisen,,,,ChIJFxXJHFwYfDkRSiyou78F1k0,2022-01-01,37,39,59,-4,-10,8
+IN,India,Madhya Pradesh,Rajgarh,,,,ChIJCXgy8zI5ezkRXE90aLymruM,2022-01-01,8,66,68,35,13,8
+IN,India,Madhya Pradesh,Ratlam,,,,ChIJixYZHP77YzkRhMB0K_MxRzY,2022-01-01,27,23,77,6,15,10
+IN,India,Madhya Pradesh,Rewa,,,,ChIJLTKakV1ahDkR4s4ZbOxBg0A,2022-01-01,14,75,31,53,-7,10
+IN,India,Madhya Pradesh,Sagar,,,,ChIJ-ZkjLlnReDkR5m6O-ZGltLo,2022-01-01,10,45,15,9,-7,10
+IN,India,Madhya Pradesh,Satna,,,,ChIJI6MYSt9-hDkR5uqWws2Or3I,2022-01-01,14,74,126,29,-11,10
+IN,India,Madhya Pradesh,Sehore,,,,ChIJF4MppmnzfDkRiW81dKWdC-4,2022-01-01,42,71,91,7,-7,10
+IN,India,Madhya Pradesh,Seoni,,,,ChIJE9PsaKa6KjoRv8y5PFlQtfI,2022-01-01,9,67,236,38,-10,8
+IN,India,Madhya Pradesh,Shahdol,,,,ChIJ5dLt2KT7hjkRKrI86TUD7Yo,2022-01-01,24,50,68,4,-3,12
+IN,India,Madhya Pradesh,Shajapur,,,,ChIJTdtuQPhQYzkROZIZ-gKpVBA,2022-01-01,26,82,269,8,1,9
+IN,India,Madhya Pradesh,Sheopur,,,,ChIJGbA6kuQwcDkRTCRuiBTIpLs,2022-01-01,38,,-23,-29,-17,3
+IN,India,Madhya Pradesh,Shivpuri,,,,ChIJC7cxAZS7cDkRDXeliXOZCUY,2022-01-01,23,60,174,27,-9,9
+IN,India,Madhya Pradesh,Sidhi,,,,ChIJe7qkmMWVhTkRTjmfJcrpqAU,2022-01-01,30,,135,35,0,11
+IN,India,Madhya Pradesh,Singrauli,,,,ChIJWUFIsVdijzkRmsSZTlvkarM,2022-01-01,19,8,14,41,-2,11
+IN,India,Madhya Pradesh,Tikamgarh,,,,ChIJh2Qn9HpPeDkRrzXv877SpJs,2022-01-01,11,47,172,36,-24,7
+IN,India,Madhya Pradesh,Ujjain,,,,ChIJ7fZbi3x0YzkR7jFQmUfcmIY,2022-01-01,29,92,45,26,1,10
+IN,India,Madhya Pradesh,Umaria,,,,ChIJmcsaVRC1hjkRiJsi1zNGEnA,2022-01-01,34,,28,25,-13,9
+IN,India,Madhya Pradesh,Vidisha,,,,ChIJH4ECQYoEfDkRsUsTkLrNjJ0,2022-01-01,2,109,31,8,-12,10
+IN,India,Maharashtra,,,IN-MH,,ChIJ-dacnB7EzzsRtk_gS5IiLxs,2022-01-01,-15,40,6,6,-11,9
+IN,India,Maharashtra,Ahmednagar,,,,ChIJcUPGfdKx3DsRJKnYI7miG2A,2022-01-01,6,54,47,19,19,14
+IN,India,Maharashtra,Akola,,,,ChIJxxFIGwYu1zsREVasGgiaeyU,2022-01-01,10,124,79,2,15,14
+IN,India,Maharashtra,Amravati,,,,ChIJyY0pLZ2k1jsRxEs-ckeYwsU,2022-01-01,-1,46,21,4,1,13
+IN,India,Maharashtra,Aurangabad,,,,ChIJOV9BNoai2zsRtocWKbhGxs8,2022-01-01,2,49,-13,24,-6,13
+IN,India,Maharashtra,Beed,,,,ChIJU5EudB8rxTsRu3BtvViyu94,2022-01-01,7,65,71,21,33,12
+IN,India,Maharashtra,Bhandara,,,,ChIJw8RsDWA_KzoRWw-15SxxVjI,2022-01-01,18,59,10,1,24,13
+IN,India,Maharashtra,Buldhana,,,,ChIJuw1xmZwd2jsRzHnAurJ6Gso,2022-01-01,6,70,0,-2,18,11
+IN,India,Maharashtra,Chandrapur,,,,ChIJmcDZdVPU0jsRL3u7ZTr2xsc,2022-01-01,5,99,40,-6,10,11
+IN,India,Maharashtra,Dhule,,,,ChIJJ-e-iVLP3jsRxVfwuJusSuw,2022-01-01,5,100,31,9,15,13
+IN,India,Maharashtra,Gadchiroli,,,,ChIJj5_HGnj5LDoRbL38aHF3g4k,2022-01-01,14,-9,-3,1,6,9
+IN,India,Maharashtra,Gondia,,,,ChIJwVpN_1CuKzoRp32EyOisBO4,2022-01-01,4,37,42,-8,3,8
+IN,India,Maharashtra,Hingoli,,,,ChIJqwx2F1VS0DsRHbm3F0u0rDw,2022-01-01,24,51,-4,4,15,11
+IN,India,Maharashtra,Jalgaon,,,,ChIJERGAWgwP2TsRrdWkpPWh0oI,2022-01-01,-4,23,1,-2,13,13
+IN,India,Maharashtra,Jalna,,,,ChIJ84QLjWdX2jsRyvARZCMruLs,2022-01-01,5,61,74,11,10,12
+IN,India,Maharashtra,Kolhapur,,,,ChIJC0Mk_Nn_wDsRUt1CMoygchk,2022-01-01,13,78,56,33,25,11
+IN,India,Maharashtra,Latur,,,,ChIJWXmVp6eDzzsR1AytFeMWvRI,2022-01-01,12,44,45,25,14,14
+IN,India,Maharashtra,Mumbai,,,,ChIJByoLeDvQ5zsRTiSNVFIfa6E,2022-01-01,-32,17,-39,-17,-26,9
+IN,India,Maharashtra,Mumbai Suburban,,,,ChIJH2Gxth_I5zsR86Dfa9s-C3w,2022-01-01,-34,15,-22,-14,-30,9
+IN,India,Maharashtra,Nagpur,,,,ChIJ691n-cTA1DsRh3HGEikxZ2E,2022-01-01,-13,44,-8,42,-7,11
+IN,India,Maharashtra,Nanded,,,,ChIJudFJrRTW0TsRboawi8qRSHY,2022-01-01,8,49,46,9,21,14
+IN,India,Maharashtra,Nandurbar,,,,ChIJdUTG1b0J3zsRTPs-w4ejG8U,2022-01-01,21,44,37,-1,20,10
+IN,India,Maharashtra,Nashik,,,,ChIJC9_dVQjr3TsRHdDxBOZK0Mg,2022-01-01,4,50,-4,16,5,15
+IN,India,Maharashtra,Osmanabad,,,,ChIJ-U10O62jxTsRyB45mUFurjk,2022-01-01,24,155,82,45,18,10
+IN,India,Maharashtra,Palghar,,,,ChIJL7j6aiwW5zsRy4qb7oHdBWI,2022-01-01,-5,92,47,7,-20,13
+IN,India,Maharashtra,Parbhani,,,,ChIJJSzG97QZ0DsRT4TZQ7tVe88,2022-01-01,2,107,9,13,13,11
+IN,India,Maharashtra,Pune,,,,ChIJQ97RPE_AwjsR5zbDDbo3wHI,2022-01-01,-17,20,4,11,-18,9
+IN,India,Maharashtra,Raigad,,,,ChIJjfO02zt66DsRn3LsnNeC5nk,2022-01-01,7,64,31,4,-8,9
+IN,India,Maharashtra,Ratnagiri,,,,ChIJS0LIAUEN6jsRSC0JalcuZi4,2022-01-01,32,72,95,13,12,12
+IN,India,Maharashtra,Sangli,,,,ChIJxevBvWgYwTsRANy9Lizy3U4,2022-01-01,10,52,21,35,24,12
+IN,India,Maharashtra,Satara,,,,ChIJV_xV0Ow5wjsR_StWf6tNOaM,2022-01-01,19,82,68,25,25,16
+IN,India,Maharashtra,Sindhudurg,,,,ChIJF3NiYEkbwDsRkU83vP9Io70,2022-01-01,53,115,89,18,26,11
+IN,India,Maharashtra,Solapur,,,,ChIJDa_XSxvaxTsRyPG13wj6qy0,2022-01-01,8,66,32,20,23,12
+IN,India,Maharashtra,Thane,,,,ChIJyaX6-h655zsRoZzluqznr7E,2022-01-01,-18,45,-10,0,-22,9
+IN,India,Maharashtra,Wardha,,,,ChIJt5cbA-1_1DsR6uTlrEWtX2w,2022-01-01,12,34,7,-25,6,12
+IN,India,Maharashtra,Washim,,,,ChIJ7fCEpgfj0DsRgu9sylvno0k,2022-01-01,-7,107,113,29,22,10
+IN,India,Maharashtra,Yavatmal,,,,ChIJBa-NzzLv0zsRzAGaOdMTdv0,2022-01-01,6,114,40,16,15,10
+IN,India,Manipur,,,IN-MN,,ChIJ25Bj8VsmSTcRrymo4BppwYw,2022-01-01,-27,-22,27,-31,-52,11
+IN,India,Manipur,Bishnupur,,,,ChIJ33cwA-YySTcRlFX6uvoeSfc,2022-01-01,-22,20,56,,-46,7
+IN,India,Manipur,Chandel,,,,ChIJM_N3pWJdSTcRuPV_4Z03D6o,2022-01-01,,,-24,,-48,
+IN,India,Manipur,Churachandpur,,,,ChIJQ4jyCgazTjcRYTrgIJz9Z3o,2022-01-01,-21,15,179,-83,-45,19
+IN,India,Manipur,Imphal East,,,,ChIJ5aqSJVkmSTcRabrQDJAAw84,2022-01-01,-29,1,-7,-19,-59,13
+IN,India,Manipur,Imphal West,,,,ChIJYZNdHsknSTcRA4Ea6hlYAlw,2022-01-01,-54,-46,24,-17,-61,11
+IN,India,Manipur,Senapati,,,,ChIJhTV7tNSVSDcRDvIW0fMLgXQ,2022-01-01,-44,,83,,-40,13
+IN,India,Manipur,Tamenglong,,,,ChIJMVF2fNolTzcRPbCEiH_QoL8,2022-01-01,,,-15,,-17,
+IN,India,Manipur,Thoubal,,,,ChIJl6W4q-g8STcRLjQ-Lgdbbkg,2022-01-01,3,-19,1,-31,-40,7
+IN,India,Manipur,Ukhrul,,,,ChIJqxmcJ0T2SDcRi9XBKvzgZIQ,2022-01-01,,,,,-39,
+IN,India,Meghalaya,,,IN-ML,,ChIJfyC9NI9-UDcRbm1JfxH2Xg8,2022-01-01,-27,-31,70,-15,-47,13
+IN,India,Meghalaya,East Garo Hills,,,,ChIJdfq3fBHUWTcRa4pgzX7k5Qo,2022-01-01,,,,,-50,
+IN,India,Meghalaya,East Jaintia Hills,,,,ChIJZ9wg9CbeTzcRSASWgamXT20,2022-01-01,-28,,-17,,-26,
+IN,India,Meghalaya,East Khasi Hills,,,,ChIJke6xu5x-UDcRtBIP5B6pZwg,2022-01-01,-32,-36,73,-8,-52,15
+IN,India,Meghalaya,North Garo Hills,,,,ChIJLUBhD4DSWTcRaBEEyP4_fG8,2022-01-01,,,71,51,-56,
+IN,India,Meghalaya,Ri-Bhoi,,,,ChIJSTTzu8RiWjcRlEus0U-DuZY,2022-01-01,6,,60,-39,-43,
+IN,India,Meghalaya,South Garo Hills,,,,ChIJcRhr7i4KVzcR_QeDbnFtljc,2022-01-01,,,72,,,
+IN,India,Meghalaya,West Garo Hills,,,,ChIJjaam0y_yVzcRdeSsy_f8OvQ,2022-01-01,-37,-45,118,-31,-40,12
+IN,India,Meghalaya,West Jaintia Hills,,,,ChIJ1yLW6BQSUDcRIjsSk2HY4Jk,2022-01-01,-10,,,,-55,5
+IN,India,Meghalaya,West Khasi Hills,,,,ChIJW2zjNLitUDcRK7eysztSCCk,2022-01-01,,,,,-69,
+IN,India,Mizoram,,,IN-MZ,,ChIJ9zY_n9ELTTcRdOTVo5Im9rE,2022-01-01,-58,-56,17,-48,-49,12
+IN,India,Mizoram,Aizawl,,,,ChIJAUILc_SUTTcRySF-Ss3OZas,2022-01-01,-64,-60,13,-46,-55,13
+IN,India,Mizoram,Champhai,,,,ChIJy08lz_FPTDcR4s59amPLycA,2022-01-01,,,,,-36,
+IN,India,Mizoram,Kolasib,,,,ChIJ6aqn6xwMTjcRv8wkwi2ZKmE,2022-01-01,-60,,,-61,-42,
+IN,India,Mizoram,Lawngtlai,,,,ChIJ-z_A6bPNsjARFOWp2cs_DqY,2022-01-01,,,,,-34,
+IN,India,Mizoram,Lunglei,,,,ChIJa_85a9RGTTcRTYxTXHw6Jf4,2022-01-01,-45,,,,-52,15
+IN,India,Mizoram,Mamit,,,,ChIJhfoj44v3TTcRkoSBA6AZCT4,2022-01-01,,,,16,-26,
+IN,India,Mizoram,Saiha,,,,ChIJZciv_ZnRsjARnMR4dG7Omxc,2022-01-01,,,,,-37,
+IN,India,Mizoram,Serchhip,,,,ChIJI8cSRsgLTTcRTdiDY2zYNqQ,2022-01-01,,,,,-33,
+IN,India,Nagaland,,,IN-NL,,ChIJMT3GNAkhRjcR_T7MiTrzLR8,2022-01-01,-51,-67,-6,-10,-52,11
+IN,India,Nagaland,Dimapur,,,,ChIJAQLIBAcKRjcRwoJg9y40CKM,2022-01-01,-48,-69,18,16,-59,11
+IN,India,Nagaland,Kohima,,,,ChIJIVWQiw8hRjcR0374-CzA1QQ,2022-01-01,-71,-74,-57,-48,-52,15
+IN,India,Nagaland,Mokokchung,,,,ChIJTyDcQa-pRzcREPryOJgAxcA,2022-01-01,-49,,-32,-66,-50,18
+IN,India,Nagaland,Mon,,,,ChIJGY6WcgigODcR0c4gmPzMzg8,2022-01-01,,,,,-42,
+IN,India,Nagaland,Peren,,,,ChIJc0TZZkFWTzcROHxl6rM_Tac,2022-01-01,,,,,-51,
+IN,India,Nagaland,Phek,,,,ChIJhU66AZXWRzcRt18g0rtzIA8,2022-01-01,,,,,-41,
+IN,India,Nagaland,Tuensang,,,,ChIJ1Vl7pEacRzcRmazy2h8YHbA,2022-01-01,,,,,-42,
+IN,India,Nagaland,Wokha,,,,ChIJ14u9PB9PRjcRBql858bYLrs,2022-01-01,,,,,-33,
+IN,India,Nagaland,Zunheboto,,,,ChIJ8yqDQ9PJRzcRAs8yYj8cBVc,2022-01-01,,,,,-53,
+IN,India,Odisha,,,IN-OR,,ChIJ_Tuv6exqIjoRH6jOqcolNhM,2022-01-01,2,33,58,-4,-2,10
+IN,India,Odisha,Angul,,,,ChIJnTUYW1OlGDoR_EmZB9m3Khs,2022-01-01,8,32,90,3,16,10
+IN,India,Odisha,Balangir,,,,ChIJT9qhIsoOJDoRlqLNaF7pb1o,2022-01-01,-3,15,60,-10,-17,14
+IN,India,Odisha,Balasore,,,,ChIJoZuSIOz0HDoRJnHG9co7rsA,2022-01-01,17,56,105,5,12,10
+IN,India,Odisha,Bargarh,,,,ChIJfwOiiuZKIToRTG-zCwXKSHU,2022-01-01,-7,25,97,19,-10,11
+IN,India,Odisha,Bhadrak,,,,ChIJjRcIN5n1GzoRpyp1wyvcSA4,2022-01-01,19,19,148,24,1,11
+IN,India,Odisha,Boudh,,,,ChIJdyS2uZQtIjoRf6v3fXLxSoc,2022-01-01,,,,,-3,8
+IN,India,Odisha,Cuttack,,,,ChIJF1ej3Z4NGToRk6U4ieEN2AY,2022-01-01,13,35,19,-22,3,10
+IN,India,Odisha,Deogarh,,,,ChIJBeQXa_fEIToR5lPOb9q-d2M,2022-01-01,,,42,12,-20,
+IN,India,Odisha,Dhenkanal,,,,ChIJM0DbC-YfGToR23QEbbMFEVs,2022-01-01,-6,20,71,-8,-7,12
+IN,India,Odisha,Gajapati,,,,ChIJa89WfxfbPDoRMtMCOYAVFaE,2022-01-01,1,,96,15,-11,14
+IN,India,Odisha,Ganjam,,,,ChIJ-5fA8vn8FzoRbso43I2Tto0,2022-01-01,-7,14,58,9,3,13
+IN,India,Odisha,Jagatsinghpur,,,,ChIJI76hBz7NGzoRwBU0UNhL8O0,2022-01-01,21,41,64,43,3,7
+IN,India,Odisha,Jajpur,,,,ChIJUaF__olRGToRytdUUMxasS0,2022-01-01,18,20,75,15,0,12
+IN,India,Odisha,Jharsuguda,,,,ChIJd9_gesXfIDoRXdCpVQqxWro,2022-01-01,8,27,16,-5,-13,12
+IN,India,Odisha,Kalahandi,,,,ChIJ7xbC1uTrJDoRZ18kqdKQEic,2022-01-01,31,19,50,-1,-26,13
+IN,India,Odisha,Kandhamal,,,,ChIJxWuXpv6yIzoRqvUPP1LalSE,2022-01-01,45,68,40,60,2,1
+IN,India,Odisha,Kendrapara,,,,ChIJfYAZ8VzFGzoR6PfSFxBKgLw,2022-01-01,38,73,69,41,27,7
+IN,India,Odisha,Kendujhar,,,,ChIJ4859LLICHzoRuy4FWsxacn0,2022-01-01,-2,30,77,26,6,10
+IN,India,Odisha,Khordha,,,,ChIJEaZ6FMqgGToRzjy8dizX-H4,2022-01-01,-7,19,8,-40,-8,11
+IN,India,Odisha,Koraput,,,,ChIJWUsglo3wOjoRHAGSUOB-0Bc,2022-01-01,24,103,40,9,-6,7
+IN,India,Odisha,Malkangiri,,,,ChIJV3ZTiF2hMDoR5sV95HGdr4k,2022-01-01,38,,,48,6,7
+IN,India,Odisha,Mayurbhanj,,,,ChIJIX3LueSxHToRTAiCSItmkOY,2022-01-01,20,48,54,17,4,10
+IN,India,Odisha,Nabarangpur,,,,ChIJcU1l0lAyJToRbFPkjyT8stY,2022-01-01,-1,19,39,33,-6,13
+IN,India,Odisha,Nayagarh,,,,ChIJ5-Mxzip8GDoR7gfdx9ai6t0,2022-01-01,28,76,21,-26,-13,8
+IN,India,Odisha,Nuapada,,,,ChIJgSE1q9LJJToRARgKL33agcY,2022-01-01,-2,1,17,49,-32,17
+IN,India,Odisha,Puri,,,,ChIJ9W3ZRgjEGToRUB1boqh0EXA,2022-01-01,42,99,92,25,4,16
+IN,India,Odisha,Rayagada,,,,ChIJpdidF0lDOzoRugTgefReqg0,2022-01-01,15,36,167,-3,-24,13
+IN,India,Odisha,Sambalpur,,,,ChIJIex6hy4UIToRkltMAols3rE,2022-01-01,2,44,33,-13,-8,13
+IN,India,Odisha,Subarnapur,,,,ChIJR6fErdvgIzoRjjUOWFu_xn8,2022-01-01,11,48,57,7,-19,11
+IN,India,Odisha,Sundargarh,,,,ChIJOfQWKsHsIDoRrLoufeBMkf0,2022-01-01,10,32,44,-4,-9,11
+IN,India,Puducherry,,,IN-PY,,ChIJlUfE5URgUzoR00k9CrLLEOg,2022-01-01,7,37,23,6,-21,10
+IN,India,Puducherry,Karaikal,,,,ChIJTVzQ_DYRVToRL1Gagrk9DqM,2022-01-01,-9,56,-20,5,-10,15
+IN,India,Puducherry,Pondicherry,,,,ChIJAT6uzCxiUzoRUHwQtwY0nxQ,2022-01-01,11,41,101,15,-24,11
+IN,India,Punjab,,,IN-PB,,ChIJVXOeVqpkGTkRYYijAzEmvY8,2022-01-01,-1,28,9,-1,-3,3
+IN,India,Punjab,Amritsar,,,,ChIJVXOeVqpkGTkRmwBhHRh_9K4,2022-01-01,-2,40,16,6,1,4
+IN,India,Punjab,Barnala,,,,ChIJ5USstxryEDkRNmGQ5Rd21oQ,2022-01-01,11,2,28,10,9,4
+IN,India,Punjab,Bathinda,,,,ChIJj0DqOJ4yFzkRPgCGQtZ_D3k,2022-01-01,7,54,11,-7,1,2
+IN,India,Punjab,Faridkot,,,,ChIJvWm3uLdZFzkRoQSHmUPkPc8,2022-01-01,6,19,25,-12,0,2
+IN,India,Punjab,Fatehgarh Sahib,,,,ChIJqf6CHWocEDkR4EljDGd5be8,2022-01-01,15,3,17,10,-2,2
+IN,India,Punjab,Fazilka,,,,ChIJQfhiodWdFzkRu8QWGdxv-t4,2022-01-01,-4,28,5,2,-7,2
+IN,India,Punjab,Ferozepur,,,,ChIJ68XA0zfoGTkRreI6o5qjFd4,2022-01-01,-4,68,-25,4,6,5
+IN,India,Punjab,Gurdaspur,,,,ChIJbW6vtG2SGzkRDfo2CYSMSEo,2022-01-01,3,22,9,-6,-1,6
+IN,India,Punjab,Hoshiarpur,,,,ChIJg3M4UNjiGjkR_h2lHkoVp-I,2022-01-01,6,33,-3,-10,7,2
+IN,India,Punjab,Jalandhar,,,,ChIJkeupR1daGjkR1vowwkrjQ5Q,2022-01-01,0,22,-9,-4,-8,3
+IN,India,Punjab,Kapurthala,,,,ChIJK-qq3FRIGjkR5_UIt30Pyy0,2022-01-01,-5,20,-2,-17,-25,3
+IN,India,Punjab,Ludhiana,,,,ChIJM5i5EKSDGjkRvZRxHPibtAY,2022-01-01,-3,19,-12,1,-6,3
+IN,India,Punjab,Mansa,,,,ChIJVzUJtvcaETkRJCspu_jMnIc,2022-01-01,4,94,11,-5,8,4
+IN,India,Punjab,Moga,,,,ChIJyYl0DWIIGjkRmR4pMrsaRSs,2022-01-01,-9,-9,7,-8,7,2
+IN,India,Punjab,Pathankot,,,,ChIJrfgop0Z5HDkR3yfnCEeq21o,2022-01-01,-10,66,26,1,0,5
+IN,India,Punjab,Patiala,,,,ChIJj8CWU-IoEDkReWJWGW29S_0,2022-01-01,1,12,5,13,-2,3
+IN,India,Punjab,Rupnagar,,,,ChIJVd2gkAFVBTkRIyQjKLvi1AI,2022-01-01,21,58,74,6,1,6
+IN,India,Punjab,Sahibzada Ajit Singh Nagar,,,,ChIJOyhuuFPlDzkRzrRj0bvdZPw,2022-01-01,1,41,-9,14,-4,6
+IN,India,Punjab,Sangrur,,,,ChIJ3dZP6w1REDkRf-hdNGXMFFI,2022-01-01,-6,42,17,-18,-5,2
+IN,India,Punjab,Shaheed Bhagat Singh Nagar,,,,ChIJlxPE28m9GjkRawoZPbLFZGE,2022-01-01,1,46,32,-14,6,0
+IN,India,Punjab,Sri Muktsar Sahib,,,,ChIJi_5gLt9oFzkR8teZUDDsiPg,2022-01-01,-9,18,-3,11,3,3
+IN,India,Punjab,Tarn Taran,,,,ChIJ2y3hu5eEGTkRhX0UzLzsTxE,2022-01-01,-4,69,-50,-11,-9,4
+IN,India,Rajasthan,,,IN-RJ,,ChIJNw7j9_o-ajkR5YjABkWbK7U,2022-01-01,6,40,22,26,3,9
+IN,India,Rajasthan,Ajmer,,,,ChIJCTMR1SbnazkR6OalbSwmFqI,2022-01-01,26,47,28,22,6,9
+IN,India,Rajasthan,Alwar,,,,ChIJ813mp4-ZcjkRlOm-Pcla8Is,2022-01-01,7,32,21,6,-3,13
+IN,India,Rajasthan,Banswara,,,,ChIJmwzY8ofPZjkRmkxr0f8HuGM,2022-01-01,24,47,32,3,17,10
+IN,India,Rajasthan,Baran,,,,ChIJnbSc9gMBcDkRApgxFSEXdYk,2022-01-01,31,26,36,0,7,5
+IN,India,Rajasthan,Barmer,,,,ChIJv7xv5qE6RDkRFyGBmud_ywA,2022-01-01,19,25,13,23,11,12
+IN,India,Rajasthan,Bharatpur,,,,ChIJGf84YnSjczkR9g4snJwu_kg,2022-01-01,21,76,30,26,7,12
+IN,India,Rajasthan,Bhilwara,,,,ChIJPx0ATkrCaDkRl9iJro4UpJk,2022-01-01,2,62,24,23,14,11
+IN,India,Rajasthan,Bikaner,,,,ChIJibsL2XvdPzkR1JDwVUODMaU,2022-01-01,4,55,8,11,6,7
+IN,India,Rajasthan,Bundi,,,,ChIJKWqyY0QJbzkR4ND1i0JH-mw,2022-01-01,37,113,28,29,9,10
+IN,India,Rajasthan,Chittaurgarh,,,,ChIJmbw1Yl6gaDkRHM-dp2uZAa4,2022-01-01,30,98,23,38,17,11
+IN,India,Rajasthan,Churu,,,,ChIJ7b8NXf-dFDkRG5Q5rB81UgE,2022-01-01,6,53,21,19,12,7
+IN,India,Rajasthan,Dausa,,,,ChIJvZtcI8mMbTkRDoQ_7KuxKaI,2022-01-01,7,26,37,28,17,12
+IN,India,Rajasthan,Dhaulpur,,,,ChIJy2TCClP-czkRC9FseUKUHSE,2022-01-01,26,27,57,12,17,12
+IN,India,Rajasthan,Dungarpur,,,,ChIJWchBUyduZzkR2YeALAwIZ0g,2022-01-01,21,44,63,56,6,9
+IN,India,Rajasthan,Hanumangarh,,,,ChIJs3SeN430FjkRIZ802UWQ1Xw,2022-01-01,14,29,13,35,7,9
+IN,India,Rajasthan,Jaipur,,,,ChIJKf5VgBy0bTkRHPupZ20H8oQ,2022-01-01,-2,36,17,27,-8,9
+IN,India,Rajasthan,Jaisalmer,,,,ChIJQ61ySLqSRzkRYhyfGtLXrHI,2022-01-01,54,54,81,165,2,13
+IN,India,Rajasthan,Jalore,,,,ChIJ2wNrQFbdRDkRmMOF__zRMO8,2022-01-01,21,48,40,24,13,9
+IN,India,Rajasthan,Jhalawar,,,,ChIJB6_PU94-ZTkRZErfEE79q64,2022-01-01,48,131,92,22,17,11
+IN,India,Rajasthan,Jhunjhunu,,,,ChIJTXvxgwU5EzkRp0jYGBqYlFY,2022-01-01,6,53,-12,23,4,11
+IN,India,Rajasthan,Jodhpur,,,,ChIJucwGqk6MQTkROY3_fyPoWus,2022-01-01,4,27,23,42,1,9
+IN,India,Rajasthan,Karauli,,,,ChIJWQJdAA2GcTkRrioWtjyT8h4,2022-01-01,5,34,59,50,-4,10
+IN,India,Rajasthan,Kota,,,,ChIJh545xzCbbzkRD49WC5Cp2cU,2022-01-01,-7,42,-8,11,0,13
+IN,India,Rajasthan,Nagaur,,,,ChIJ854tmHeRajkRXN4AUthHNIw,2022-01-01,23,45,5,8,20,7
+IN,India,Rajasthan,Pali,,,,ChIJf478NlVyQjkRqhzsYEjMsJ0,2022-01-01,19,6,9,30,12,8
+IN,India,Rajasthan,Pratapgarh,,,,ChIJDWB2lSWPZjkR3W7mbGYvBU8,2022-01-01,35,64,29,33,0,7
+IN,India,Rajasthan,Rajsamand,,,,ChIJIzvVnXtraDkRZ_h-73J7QcI,2022-01-01,30,26,49,14,14,7
+IN,India,Rajasthan,Sawai Madhopur,,,,ChIJh8eTzz4kbjkRgPGqYWzDUQE,2022-01-01,-2,19,47,17,7,11
+IN,India,Rajasthan,Sikar,,,,ChIJn2swv7ikbDkR4T4hDtDQagc,2022-01-01,30,47,57,49,12,15
+IN,India,Rajasthan,Sirohi,,,,ChIJ9bkv9lTaQjkRmJq4pFiKw5I,2022-01-01,24,90,38,17,6,8
+IN,India,Rajasthan,Sri Ganganagar,,,,ChIJo2lvu221FzkRNQEc2cvkCsg,2022-01-01,-9,41,-17,14,2,11
+IN,India,Rajasthan,Tonk,,,,ChIJvYvtdUNhbjkRvy6pg9waJj0,2022-01-01,25,43,24,19,-4,12
+IN,India,Rajasthan,Udaipur,,,,ChIJS7hRgYfvZzkRqIBNSSK_3AM,2022-01-01,8,34,28,33,5,10
+IN,India,Sikkim,,,IN-SK,,ChIJ--oFWGql5jkRBFqbw1e4xKQ,2022-01-01,77,48,56,96,-22,11
+IN,India,Sikkim,East Sikkim,,,,ChIJ--oFWGql5jkRXRvThQnE99c,2022-01-01,141,103,33,125,-18,12
+IN,India,Sikkim,North Sikkim,,,,ChIJkXhJCAq_5jkRRqHr5NOBIX0,2022-01-01,,,99,,-38,
+IN,India,Sikkim,South Sikkim,,,,ChIJGQLMDRWa5jkRPsqdJxu9qOI,2022-01-01,23,,75,,-31,17
+IN,India,Sikkim,West Sikkim,,,,ChIJrTqp122I5jkRDQVDWfFx9Yk,2022-01-01,55,,18,,-28,
+IN,India,Tamil Nadu,,,IN-TN,,ChIJM5YYsYLFADsR8GEzRsx1lFU,2022-01-01,-2,43,14,6,-21,10
+IN,India,Tamil Nadu,Ariyalur,,,,ChIJa_dpUcwpqzsRhW3RCABlhzQ,2022-01-01,5,64,59,10,-4,21
+IN,India,Tamil Nadu,Chennai,,,,ChIJ7015dmlmUjoRAqlpl1kIAxs,2022-01-01,-21,26,-40,-19,-43,10
+IN,India,Tamil Nadu,Coimbatore,,,,ChIJtRyXL69ZqDsRl3v5ZMPoVUA,2022-01-01,-1,44,-1,-1,-20,11
+IN,India,Tamil Nadu,Cuddalore,,,,ChIJSUNPR_WYVDoRsTflG4Y54Xw,2022-01-01,12,75,50,9,-4,15
+IN,India,Tamil Nadu,Dharmapuri,,,,ChIJ22RxI_sWrDsRVsILcu33iN0,2022-01-01,17,55,15,-16,-11,13
+IN,India,Tamil Nadu,Dindigul,,,,ChIJ44FIpVeqADsR8anIafkWsQA,2022-01-01,29,90,64,30,-3,15
+IN,India,Tamil Nadu,Erode,,,,ChIJYbe0LGhvqTsRryzMV9WiPXk,2022-01-01,10,62,3,15,-6,13
+IN,India,Tamil Nadu,Kanchipuram,,,,ChIJcRiwW__CUjoRfi4JMP80EwQ,2022-01-01,-8,32,-14,-7,-38,11
+IN,India,Tamil Nadu,Kanyakumari,,,,ChIJ2edSlSLxBDsRl_DshMyFcn8,2022-01-01,12,71,1,19,-5,13
+IN,India,Tamil Nadu,Karur,,,,ChIJ83hA6LsvqjsRW6nD7eijHjE,2022-01-01,8,23,38,7,-1,12
+IN,India,Tamil Nadu,Krishnagiri,,,,ChIJO9JtalbRrTsRkmaY4X27_a4,2022-01-01,18,38,7,8,-15,12
+IN,India,Tamil Nadu,Madurai,,,,ChIJM5YYsYLFADsRzAXvhjjxuM4,2022-01-01,2,47,26,23,-13,10
+IN,India,Tamil Nadu,Nagapattinam,,,,ChIJC9EEw5ZsVToRWmkkMMbdivw,2022-01-01,-9,86,19,-13,-17,21
+IN,India,Tamil Nadu,Namakkal,,,,ChIJ3YSc3_LOqzsRT6F6rl78p_4,2022-01-01,15,97,18,3,-9,12
+IN,India,Tamil Nadu,Nilgiris,,,,ChIJjdfztYS9qDsRiK5wDWn_tlo,2022-01-01,26,100,30,46,-2,13
+IN,India,Tamil Nadu,Perambalur,,,,ChIJlwE1-GkbqzsRCL5t1es3qW8,2022-01-01,-13,,40,0,-20,22
+IN,India,Tamil Nadu,Pudukkottai,,,,ChIJeZYCJS14ADsR9kGQhrd3JwY,2022-01-01,-5,28,37,1,-4,15
+IN,India,Tamil Nadu,Ramanathapuram,,,,ChIJA8EqmfiXATsRQJSBFp1_UN4,2022-01-01,17,85,46,10,-12,13
+IN,India,Tamil Nadu,Salem,,,,ChIJUcDLb83xqzsRVpmsooXOftc,2022-01-01,15,65,60,13,-7,11
+IN,India,Tamil Nadu,Sivaganga,,,,ChIJuc2IQNH6ADsRiJf5HpkSMCY,2022-01-01,19,82,29,-11,-10,12
+IN,India,Tamil Nadu,Thanjavur,,,,ChIJOTBF6py4qjsREQ6rE7ggML0,2022-01-01,-9,33,10,-1,-10,19
+IN,India,Tamil Nadu,Theni,,,,ChIJ-doaaL0UBzsRB8L4VAtX6nw,2022-01-01,-1,38,102,48,-2,10
+IN,India,Tamil Nadu,Thiruvarur,,,,ChIJh0B7mjFHVToRXix3frjJEi4,2022-01-01,-12,21,58,-5,-11,21
+IN,India,Tamil Nadu,Thoothukudi,,,,ChIJ79PWqqLvAzsRkJn8BA9v3vQ,2022-01-01,28,63,32,29,-6,10
+IN,India,Tamil Nadu,Tiruchirappalli,,,,ChIJxcabUBz1qjsReNP3EsbCCNI,2022-01-01,-6,6,-10,8,-20,16
+IN,India,Tamil Nadu,Tirunelveli,,,,ChIJGcVTUGIRBDsRhbb3X0xa8TE,2022-01-01,21,92,36,24,-3,10
+IN,India,Tamil Nadu,Tiruppur,,,,ChIJQfqnD4y6qTsRdkFjChP397w,2022-01-01,12,67,70,36,1,10
+IN,India,Tamil Nadu,Tiruvallur,,,,ChIJdQx5zBCQUjoR-L9nLEtv1I0,2022-01-01,-8,38,-22,-2,-39,15
+IN,India,Tamil Nadu,Tiruvannamalai,,,,ChIJzdbTLIXArDsRm5daz6oUs2M,2022-01-01,22,104,87,22,-14,16
+IN,India,Tamil Nadu,Vellore,,,,ChIJ-4-mH-Y4rTsR8aj_XAFVu2Q,2022-01-01,12,49,49,0,-25,13
+IN,India,Tamil Nadu,Villupuram,,,,ChIJt51E1OtWUzoRqRFfv6B2auA,2022-01-01,21,80,43,20,-2,15
+IN,India,Tamil Nadu,Virudhunagar,,,,ChIJx_LX3JMsATsRC0Cj35pdl8Q,2022-01-01,22,58,48,19,-4,10
+IN,India,Telangana,,,IN-TG,,ChIJQ-0plNtQMzoRWUBZQad772M,2022-01-01,-9,26,4,-1,-25,9
+IN,India,Telangana,Adilabad,,,,ChIJESvha3Vc0jsR6bPLhjTbUPE,2022-01-01,-2,26,1,2,-10,12
+IN,India,Telangana,Hyderabad,,,,ChIJx9Lr6tqZyzsRMyOXJZHL34s,2022-01-01,-16,11,-7,-7,-28,7
+IN,India,Telangana,Karimnagar,,,,ChIJMYn0vBDZzDsRwyI0ZMCNGYU,2022-01-01,-11,32,16,-8,-13,12
+IN,India,Telangana,Khammam,,,,ChIJjXPP1dBZNDoReXj6c7dtHPk,2022-01-01,-9,13,46,-8,-20,13
+IN,India,Telangana,Mahabubnagar,,,,ChIJN62X_CUmyjsR91DmbDrB_s0,2022-01-01,-4,66,14,-13,-24,14
+IN,India,Telangana,Medak,,,,ChIJwx0a9Mf5yzsRIk9RDYKXAeU,2022-01-01,8,28,4,5,-21,12
+IN,India,Telangana,Nalgonda,,,,ChIJ-ZvSrgopyzsRtj3MRVee4f4,2022-01-01,-5,29,25,-7,-19,14
+IN,India,Telangana,Nizamabad,,,,ChIJRZCoqSfbzTsRDJ0GdX29Ow4,2022-01-01,-2,57,38,0,-13,11
+IN,India,Telangana,Ranga Reddy,,,,ChIJx9Lr6tqZyzsRQZtu9ErRBAs,2022-01-01,-9,30,-14,5,-29,10
+IN,India,Telangana,Warangal,,,,ChIJ50te1wtFMzoRCWuh8QzXUZw,2022-01-01,-14,52,11,-18,-23,15
+IN,India,Tripura,,,IN-TR,,ChIJhaLB9ma1UzcRdP8_Red63RQ,2022-01-01,-1,44,42,3,2,6
+IN,India,Tripura,Dhalai,,,,ChIJLVWO9KIyUjcREQieLQKs8Bo,2022-01-01,2,,-2,43,-6,5
+IN,India,Tripura,Gomati,,,,ChIJG4iMpiulUzcR55ac85n5oXQ,2022-01-01,2,33,48,50,2,8
+IN,India,Tripura,Khowai,,,,ChIJx0zefl7ZUzcRXK9bKqwheUs,2022-01-01,-22,,63,17,-11,6
+IN,India,Tripura,North Tripura,,,,ChIJfzvBsDqQUTcR2PSlrymaKvA,2022-01-01,-6,58,51,-11,13,5
+IN,India,Tripura,Sipahijala,,,,ChIJwTWBVMuOUzcRlckRgPN0EcY,2022-01-01,0,50,51,46,1,4
+IN,India,Tripura,South Tripura,,,,ChIJ98fF3EyYUzcRKKYOY65VDm8,2022-01-01,16,64,200,65,-6,9
+IN,India,Tripura,Unakoti,,,,ChIJ3xcSd4uOUTcREMf-8WEv2ck,2022-01-01,,,-19,116,9,-2
+IN,India,Tripura,West Tripura,,,,ChIJ-_qVchP0UzcRHKwroj1Ylds,2022-01-01,-3,37,24,-25,-4,7
+IN,India,Uttar Pradesh,,,IN-UP,,ChIJ0wlKe59OmTkRnSQXNm1HpfY,2022-01-01,14,59,46,15,2,10
+IN,India,Uttar Pradesh,Agra,,,,ChIJ7xNGlCh3dDkR8Cm159xP_fw,2022-01-01,13,33,18,26,0,8
+IN,India,Uttar Pradesh,Aligarh,,,,ChIJj7LCHYukdDkRu-2l2hQf3Kw,2022-01-01,10,48,37,13,3,9
+IN,India,Uttar Pradesh,Ambedkar Nagar,,,,ChIJtaUWMpSSkDkRheOifwdzjog,2022-01-01,24,98,21,57,30,9
+IN,India,Uttar Pradesh,Amethi,,,,ChIJz-ohf4pcmjkRVQN_EfCL4Hg,2022-01-01,16,77,23,17,22,6
+IN,India,Uttar Pradesh,Amroha,,,,ChIJ_RFtWg4ICzkR4fMcxD8ohQQ,2022-01-01,28,132,65,24,22,6
+IN,India,Uttar Pradesh,Auraiya,,,,ChIJb7YcGa_znTkRxnetQoJLzz4,2022-01-01,14,19,51,26,14,11
+IN,India,Uttar Pradesh,Azamgarh,,,,ChIJOfRcdra8kTkREikYymoA2u0,2022-01-01,30,72,69,50,24,15
+IN,India,Uttar Pradesh,Badaun,,,,ChIJJw5tJ-ZFdTkRemWyU72JBZY,2022-01-01,17,67,36,44,36,7
+IN,India,Uttar Pradesh,Bagpat,,,,ChIJBa4sw9hSDDkRWbQ_Qhxn9ew,2022-01-01,39,194,63,-20,3,7
+IN,India,Uttar Pradesh,Bahraich,,,,ChIJZR1fAFepmTkRrT9ITFXEca0,2022-01-01,13,66,127,29,7,10
+IN,India,Uttar Pradesh,Ballia,,,,ChIJ33nw5mxlkjkRlmddK1ycQZM,2022-01-01,15,86,124,-4,9,16
+IN,India,Uttar Pradesh,Balrampur,,,,ChIJWbMeB9LYmTkR-fjDYdnSssY,2022-01-01,14,63,-3,57,13,12
+IN,India,Uttar Pradesh,Banda,,,,ChIJ_xT24e_OnDkRMnKpC0AG9Mc,2022-01-01,25,176,149,18,16,11
+IN,India,Uttar Pradesh,Barabanki,,,,ChIJexm07jlgmTkRQXYqIfUkbVg,2022-01-01,38,95,40,-8,11,9
+IN,India,Uttar Pradesh,Bareilly,,,,ChIJjZkCTTMHoDkRBJ1R43WY1Xg,2022-01-01,23,80,33,-4,9,10
+IN,India,Uttar Pradesh,Basti,,,,ChIJtW4lIKnakDkR-zP8wEDkzzM,2022-01-01,35,70,41,12,26,11
+IN,India,Uttar Pradesh,Bijnor,,,,ChIJ-ZAziWruCzkRp21iE3wf5tU,2022-01-01,32,92,43,13,19,7
+IN,India,Uttar Pradesh,Bulandshahar,,,,ChIJsRMpYrKmDDkRc4o-qAf9UDw,2022-01-01,32,82,49,15,12,11
+IN,India,Uttar Pradesh,Chandauli,,,,ChIJFx0HADQWjjkR4xu8_SVM97E,2022-01-01,16,56,435,28,24,16
+IN,India,Uttar Pradesh,Chitrakoot,,,,ChIJn5tEqvKwhDkRToY6r8QCOEk,2022-01-01,47,133,62,62,9,11
+IN,India,Uttar Pradesh,Deoria,,,,ChIJVfmdDp7OkzkRM-Udkpr_JGQ,2022-01-01,22,32,61,21,10,14
+IN,India,Uttar Pradesh,Etah,,,,ChIJKbkjXPn9dDkRNtRrSJmuiAo,2022-01-01,16,82,27,19,-3,12
+IN,India,Uttar Pradesh,Etawah,,,,ChIJGWLPhNjfdTkR2eLm5enHOLU,2022-01-01,40,9,112,1,19,13
+IN,India,Uttar Pradesh,Faizabad,,,,ChIJk4MlqRAGmjkRsbIcxcNLe8E,2022-01-01,47,114,38,76,15,12
+IN,India,Uttar Pradesh,Farrukhabad,,,,ChIJC1SIC7wwnjkRdjni2QE1a-Y,2022-01-01,31,65,6,7,-3,13
+IN,India,Uttar Pradesh,Fatehpur,,,,ChIJ4ePVmKhimzkR5x9YqIJMsLU,2022-01-01,20,89,75,6,15,14
+IN,India,Uttar Pradesh,Firozabad,,,,ChIJzZriRa5GdDkR0UoiwHvBWxM,2022-01-01,23,80,91,46,15,9
+IN,India,Uttar Pradesh,Gautam Buddh Nagar,,,,ChIJZc0VBFPkDDkRaCE3BhJhWPQ,2022-01-01,-2,25,0,-13,-27,11
+IN,India,Uttar Pradesh,Ghaziabad,,,,ChIJBcaGTMvxDDkRJ-8yMq3zM3s,2022-01-01,-6,40,-21,-9,-17,9
+IN,India,Uttar Pradesh,Ghazipur,,,,ChIJn2qjbEbhkTkRSst2iDQo1HM,2022-01-01,14,97,74,32,15,15
+IN,India,Uttar Pradesh,Gonda,,,,ChIJjV_xQvzxmTkR1WooOyW6ma8,2022-01-01,23,73,40,-9,19,11
+IN,India,Uttar Pradesh,Gorakhpur,,,,ChIJDywtZGpEkTkRNGDjYraKLKU,2022-01-01,21,60,57,25,10,13
+IN,India,Uttar Pradesh,Hamirpur,,,,ChIJ8bh0j038nDkRCaBdf7I1IsU,2022-01-01,17,48,10,-2,12,8
+IN,India,Uttar Pradesh,Hapur,,,,ChIJB8o3hhCFDDkRJj7WL7BBOeI,2022-01-01,30,126,4,-25,7,9
+IN,India,Uttar Pradesh,Hardoi,,,,ChIJjV-iFyX4njkRyPgM6eG74uw,2022-01-01,27,67,58,-1,17,10
+IN,India,Uttar Pradesh,Hathras,,,,ChIJNXnCJjKbdDkRC58NQtFut-Y,2022-01-01,31,52,109,36,1,9
+IN,India,Uttar Pradesh,Jalaun,,,,ChIJM7Z5Ed9-nTkRtL0f2vButbg,2022-01-01,11,129,81,19,25,11
+IN,India,Uttar Pradesh,Jaunpur,,,,ChIJgc2kbmI5kDkRL8meE-jpu2k,2022-01-01,23,100,57,13,33,15
+IN,India,Uttar Pradesh,Jhansi,,,,ChIJe6Em1Sx3dzkRrM1B51g-QBA,2022-01-01,7,121,67,29,1,12
+IN,India,Uttar Pradesh,Kannauj,,,,ChIJO4raOX1vnjkRhZrpzpy-48Y,2022-01-01,5,105,99,21,13,12
+IN,India,Uttar Pradesh,Kanpur Dehat,,,,ChIJ82d-QHW6nTkRBIDn8ED7cU4,2022-01-01,0,29,44,28,17,12
+IN,India,Uttar Pradesh,Kanpur Nagar,,,,ChIJ83uYGoNHnDkR1vj5zkJN31M,2022-01-01,13,10,3,21,-1,9
+IN,India,Uttar Pradesh,Kanshi Ram Nagar,,,,ChIJvbIRsvgYdTkRQfZSKWmVoIE,2022-01-01,19,69,36,-19,10,8
+IN,India,Uttar Pradesh,Kaushambi,,,,ChIJJbujcsTThDkRX6072Sm3zxs,2022-01-01,-6,114,,-9,12,14
+IN,India,Uttar Pradesh,Kushinagar,,,,ChIJU6S0ZauNkzkRc5uSA1_thdc,2022-01-01,44,90,75,28,15,10
+IN,India,Uttar Pradesh,Lakhimpur Kheri,,,,ChIJF1iGSKY0nzkRP81gqljpp0U,2022-01-01,19,56,129,20,19,11
+IN,India,Uttar Pradesh,Lalitpur,,,,ChIJb7Gh5ae7eTkRW_oY56y-Xgw,2022-01-01,20,65,-8,21,-1,12
+IN,India,Uttar Pradesh,Lucknow,,,,ChIJ-QbZc8f9mzkRozphKbAosSU,2022-01-01,6,50,32,20,-4,8
+IN,India,Uttar Pradesh,Maharajganj,,,,ChIJTdeFJI2pljkRfcN8F_px6nw,2022-01-01,35,70,39,33,27,8
+IN,India,Uttar Pradesh,Mahoba,,,,ChIJewC419_MgjkRC36qX1UwB5I,2022-01-01,16,30,200,12,7,7
+IN,India,Uttar Pradesh,Mainpuri,,,,ChIJI09VeRmWdTkRNcDJmML0q2k,2022-01-01,23,90,54,43,13,11
+IN,India,Uttar Pradesh,Mathura,,,,ChIJBVJNPRZxczkRa-9cgKMUByg,2022-01-01,58,142,77,142,2,12
+IN,India,Uttar Pradesh,Mau,,,,ChIJ6b20FveKkTkRWDtgq5VW0s4,2022-01-01,26,62,83,15,25,13
+IN,India,Uttar Pradesh,Meerut,,,,ChIJU0LUvwFlDDkRE0tkrILTnhE,2022-01-01,17,80,-7,-5,12,8
+IN,India,Uttar Pradesh,Mirzapur,,,,ChIJ4yLbl9XBjzkRJH3nEZ5Qwe0,2022-01-01,35,71,138,47,13,13
+IN,India,Uttar Pradesh,Moradabad,,,,ChIJyUZWL-r7CjkR1xtgTeFSZbY,2022-01-01,14,166,-21,5,14,6
+IN,India,Uttar Pradesh,Muzaffarnagar,,,,ChIJZ9F6NaAbDDkRk4mOzTwUDOg,2022-01-01,30,55,36,6,19,7
+IN,India,Uttar Pradesh,Pilibhit,,,,ChIJAyDOiRM_oDkRr06idAKcmpA,2022-01-01,17,65,102,53,-8,9
+IN,India,Uttar Pradesh,Pratapgarh,,,,ChIJg0f4wxyUmjkRUlulOJtaCxE,2022-01-01,54,124,149,39,36,12
+IN,India,Uttar Pradesh,Prayagraj,,,,ChIJb8HYNtHKmjkRdKzIYxdOXts,2022-01-01,4,89,54,6,3,15
+IN,India,Uttar Pradesh,Rae Bareli,,,,ChIJ0VX2ZkGhmzkRg3bUyoeE-ac,2022-01-01,34,93,55,9,14,12
+IN,India,Uttar Pradesh,Rampur,,,,ChIJFTGBV7XyCjkR6JR8g650LUs,2022-01-01,22,96,27,16,11,8
+IN,India,Uttar Pradesh,Saharanpur,,,,ChIJRR-EH5LqDjkRUixhU938njM,2022-01-01,12,30,30,27,20,7
+IN,India,Uttar Pradesh,Sambhal,,,,ChIJP79UFrAYCzkRwx_81Z7VGA0,2022-01-01,28,105,5,26,36,6
+IN,India,Uttar Pradesh,Sant Kabir Nagar,,,,ChIJEx2S_SolkTkR9OzpsxFN6cs,2022-01-01,18,42,-13,24,28,7
+IN,India,Uttar Pradesh,Sant Ravidas Nagar,,,,ChIJQ9KrlCLkjzkRbvsKvWjgAKw,2022-01-01,23,79,,67,25,9
+IN,India,Uttar Pradesh,Shahjahanpur,,,,ChIJHUEeQte8nzkRK06B7mjeiS8,2022-01-01,32,81,101,-5,5,9
+IN,India,Uttar Pradesh,Shamli,,,,ChIJ5avtQjIvDDkRCh1RPQQFo_E,2022-01-01,22,80,154,7,21,7
+IN,India,Uttar Pradesh,Shrawasti,,,,ChIJRVBFRPJKmDkRf_YAd84e5Pk,2022-01-01,-7,16,-24,6,8,11
+IN,India,Uttar Pradesh,Siddharthnagar,,,,ChIJyRDyaq7EljkRcwWgtZ1Eg5k,2022-01-01,6,94,71,25,15,10
+IN,India,Uttar Pradesh,Sitapur,,,,ChIJ1_WQYa3XnjkRPbArMsy_xuU,2022-01-01,35,83,84,-2,28,9
+IN,India,Uttar Pradesh,Sonbhadra,,,,ChIJqRqTp8X5jjkRpSAHlu6X5yI,2022-01-01,5,49,16,33,6,11
+IN,India,Uttar Pradesh,Sultanpur,,,,ChIJmXQdw-R8mjkRLyUEqjTY7io,2022-01-01,50,62,109,-25,32,12
+IN,India,Uttar Pradesh,Unnao,,,,ChIJ74l6VLgVnDkRE7JSaosqOYI,2022-01-01,20,125,26,-20,9,12
+IN,India,Uttar Pradesh,Varanasi,,,,ChIJn5OHWWcyjjkRKsCcrmohorc,2022-01-01,30,66,71,39,-3,10
+IN,India,Uttarakhand,,,IN-UT,,ChIJCZwnAsLcCTkRBcCcaGM7xAc,2022-01-01,34,61,71,67,1,8
+IN,India,Uttarakhand,Almora,,,,ChIJH9gQiTK3oDkRHbBGBfIKefQ,2022-01-01,66,48,82,58,28,14
+IN,India,Uttarakhand,Bageshwar,,,,ChIJdaGJZOQ1pzkRYCWrPOGBKZk,2022-01-01,,,41,,9,13
+IN,India,Uttarakhand,Chamoli,,,,ChIJl4de_xadpzkR4y_z2Z2szIo,2022-01-01,30,,21,19,-6,11
+IN,India,Uttarakhand,Champawat,,,,ChIJu_jUHaPkoDkRppoFxK3mTQg,2022-01-01,42,,,157,15,5
+IN,India,Uttarakhand,Dehradun,,,,ChIJzZKoP7gkCTkR4sTANjukDKw,2022-01-01,33,48,80,93,-1,9
+IN,India,Uttarakhand,Haridwar,,,,ChIJl7rSfHdHCTkR6GHsVfIzX2s,2022-01-01,17,80,3,53,-3,9
+IN,India,Uttarakhand,Nainital,,,,ChIJYZ39KLyhoDkRJNt2ENLDpeA,2022-01-01,72,61,66,100,9,10
+IN,India,Uttarakhand,Pauri Garhwal,,,,ChIJgaXJw2-kCTkRdQcB1sffn8I,2022-01-01,90,40,99,10,7,7
+IN,India,Uttarakhand,Pithoragarh,,,,ChIJ53Q6vXTToDkRkwXr4y2wLEs,2022-01-01,35,,12,4,16,8
+IN,India,Uttarakhand,Rudraprayag,,,,ChIJNa6clug0CDkRTQKMs0M-UAY,2022-01-01,22,,83,73,-13,12
+IN,India,Uttarakhand,Tehri Garhwal,,,,ChIJYXq3NKYCCTkRh6EVeymxqOI,2022-01-01,93,,276,136,18,14
+IN,India,Uttarakhand,Udham Singh Nagar,,,,ChIJVVowuS-koDkR_zx-poOMg_4,2022-01-01,17,89,68,29,-10,7
+IN,India,Uttarakhand,Uttarkashi,,,,ChIJPa8M5DjtCDkRwCo5n15mJkc,2022-01-01,9,,87,65,21,14
+IN,India,West Bengal,,,IN-WB,,ChIJh-iXE_8W-jkRCqLnwz06VHE,2022-01-01,-2,31,32,8,-8,7
+IN,India,West Bengal,Alipurduar,,,,ChIJ1Q-uG9BM4jkRAvcSX6OSR90,2022-01-01,35,97,30,16,5,9
+IN,India,West Bengal,Bankura,,,,ChIJ_R0uuJOl9zkRNzdIHoITkR0,2022-01-01,11,78,99,26,2,9
+IN,India,West Bengal,Bardhaman,,,,ChIJF7Dsd8lJ-DkRzu8NVkb9CLg,2022-01-01,16,42,37,8,-2,9
+IN,India,West Bengal,Birbhum,,,,ChIJIzDqkITi-TkRnr-CLDENvJM,2022-01-01,6,61,41,12,-4,9
+IN,India,West Bengal,Cooch Behar,,,,ChIJCeetjwP84jkRsALLSVQ1hzM,2022-01-01,18,48,38,22,8,9
+IN,India,West Bengal,Dakshin Dinajpur,,,,ChIJ_XT48s1h-zkRx7rTo_QCXQY,2022-01-01,5,26,52,12,-5,9
+IN,India,West Bengal,Darjeeling,,,,ChIJFepSeu0u5DkRtcFuz3rwJWw,2022-01-01,34,28,77,20,-17,8
+IN,India,West Bengal,Hooghly,,,,ChIJN9hSE6mW-DkRTQBriGz_BNU,2022-01-01,14,49,52,6,-12,9
+IN,India,West Bengal,Howrah,,,,ChIJh98bGpB3AjoRy1jkPReplps,2022-01-01,0,28,-8,1,-14,7
+IN,India,West Bengal,Jalpaiguri,,,,ChIJSw-3QEl55DkRzvHpSvcgwww,2022-01-01,13,43,52,34,-4,8
+IN,India,West Bengal,Kolkata,,,,ChIJyxufaAB3AjoRzhRx7JWHIFw,2022-01-01,-22,-4,-25,-5,-24,7
+IN,India,West Bengal,Malda,,,,ChIJ2xiK4tTi-jkR8tV9l5i_iX0,2022-01-01,12,16,46,30,3,7
+IN,India,West Bengal,Murshidabad,,,,ChIJQ4BOodN9-TkR7efebqYJFXA,2022-01-01,14,59,72,29,2,5
+IN,India,West Bengal,Nadia,,,,ChIJ-yLO0Vwg-TkRrUTJdP3vaUQ,2022-01-01,10,46,33,24,2,7
+IN,India,West Bengal,North 24 Parganas,,,,ChIJv975mQSi-DkRI4iUx-rgj0Q,2022-01-01,-8,25,44,3,-13,7
+IN,India,West Bengal,Purba Medinipur,,,,ChIJHaOIs5LCAjoRm0DvboG831s,2022-01-01,18,53,73,38,12,8
+IN,India,West Bengal,Purulia,,,,ChIJ94YWiIR99jkRKKSctO8iPhY,2022-01-01,13,84,81,14,-6,10
+IN,India,West Bengal,South 24 Parganas,,,,ChIJNz5o8O9NAjoRQF9QwN-X0ZY,2022-01-01,0,43,41,22,-5,9
+IN,India,West Bengal,Uttar Dinajpur,,,,ChIJT6xItgLV-jkRI2f_ykueuNU,2022-01-01,19,66,68,14,-1,10
+IN,India,West Bengal,West Medinipur,,,,ChIJJXVMlY9CHToR4mlOVIq_xDQ,2022-01-01,12,42,75,9,9,10

@@ -1,0 +1,9 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+KW,Kuwait,,,,,,ChIJoVHqvj82xT8R0u3Yks1rcnQ,2022-01-01,-12,-5,-17,-16,-42,8
+KW,Kuwait,,,Kuwait City Metropolitan Area,,,ChIJOWmmJq2Qzz8RNA2xf3QpbNo,2022-01-01,-12,-6,-29,-18,-42,8
+KW,Kuwait,Al Ahmadi Governorate,,,KW-AH,,ChIJm7GOze2nzz8RPDjGMoytp6c,2022-01-01,-9,-8,-29,-4,-50,11
+KW,Kuwait,Al Asimah Governate,,,KW-KU,,ChIJvY9dS9mNzz8RNv9jCvsjXeY,2022-01-01,-9,-17,4,-9,-35,5
+KW,Kuwait,Al Farwaniyah Governorate,,,KW-FA,,ChIJXUiYX6Gazz8R4R7AzvKiGrg,2022-01-01,-18,-4,-46,-36,-43,11
+KW,Kuwait,Al Jahra Governorate,,,KW-JA,,ChIJmxzDjW4zxT8RHSyOnKJvDrY,2022-01-01,-6,-5,57,-17,-34,4
+KW,Kuwait,Hawalli Governorate,,,KW-HA,,ChIJ9y4wzsydzz8RRjWrvMeem-w,2022-01-01,-10,2,-21,-20,-41,6
+KW,Kuwait,Mubarak Al-Kabeer Governorate,,,KW-MU,,ChIJJ1QEgyOgzz8RtTKks8QASlQ,2022-01-01,-11,-21,-34,-45,-29,5

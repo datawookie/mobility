@@ -1,0 +1,418 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+GB,United Kingdom,,,,,,ChIJqZHHQhE7WgIReiWIMkOg-MQ,2022-01-01,-63,-54,3,-59,-49,11
+GB,United Kingdom,Aberdeen City,,,GB-ABE,,ChIJs6qVe2kRhEgRkLBCBhpoDAM,2022-01-01,-83,-69,3,-80,-60,13
+GB,United Kingdom,Aberdeenshire,,,GB-ABD,,ChIJ1deuZ9h_g0gRB-LNSfT9NVA,2022-01-01,-80,-70,21,-72,-56,11
+GB,United Kingdom,Angus Council,,,GB-ANS,,ChIJG0UKe3kqhEgRsxEd27rxlSg,2022-01-01,-76,-74,2,-68,-58,12
+GB,United Kingdom,Antrim and Newtownabbey,,,GB-ANN,,ChIJ-QsErn2rYUgR-WEb8k5G8Bw,2022-01-01,-60,-45,,-53,-45,12
+GB,United Kingdom,Ards and North Down,,,GB-AND,,ChIJZUDzJ452YUgRrifX_btxxMY,2022-01-01,-53,-36,29,,-46,12
+GB,United Kingdom,Argyll and Bute Council,,,GB-AGB,,ChIJ_14lA-YtikgRsLBCBhpoDAM,2022-01-01,-68,-66,18,-43,-53,
+GB,United Kingdom,"Armagh City, Banbridge and Craigavon",,,GB-ABC,,ChIJRW_g5EzvYEgR0_NWY2pfPB4,2022-01-01,-65,-53,3,,-55,12
+GB,United Kingdom,Bath and North East Somerset,,,GB-BAS,,ChIJNczQRnmIcUgREKCZ1COLDQM,2022-01-01,-62,-60,-20,-66,-48,10
+GB,United Kingdom,Bedford,,,GB-BDF,,ChIJpQ1uuWG3d0gREKjDu6gcDgM,2022-01-01,-66,-59,-15,-65,-48,11
+GB,United Kingdom,Belfast,,,GB-BFS,,ChIJfTP03VUIYUgRgBotirI_DwM,2022-01-01,-64,-48,-7,-66,-41,11
+GB,United Kingdom,Blackburn with Darwen,,,GB-BBD,,ChIJrb426zyge0gRgKBv7Z75DAM,2022-01-01,-60,-55,,-57,-47,9
+GB,United Kingdom,Blackpool,,,GB-BPL,,ChIJcyRdsZxDe0gRcKBv7Z75DAM,2022-01-01,-37,-43,65,-33,-37,9
+GB,United Kingdom,Blaenau Gwent,,,GB-BGW,,ChIJaas2DhEmbkgRIbLKMOJN2wQ,2022-01-01,-65,-65,,,-49,
+GB,United Kingdom,Borough of Halton,,,GB-HAL,,ChIJ3wUNUpviekgRUKBv7Z75DAM,2022-01-01,-71,-61,5,-70,-54,11
+GB,United Kingdom,Bracknell Forest,,,GB-BRC,,ChIJzX-3DTl-dkgRMEztoi2uDgQ,2022-01-01,-63,-52,-20,-64,-50,10
+GB,United Kingdom,Bridgend County Borough,,,GB-BGE,,ChIJucvfFVtpbkgRIKKZ1COLDQM,2022-01-01,-50,-51,4,-67,-52,12
+GB,United Kingdom,Brighton and Hove,,,GB-BNH,,ChIJfRLCXYeFdUgRsJ7toi2uDgM,2022-01-01,-50,-51,-22,-58,-39,10
+GB,United Kingdom,Bristol City,,,GB-BST,,ChIJXWE9EuyNcUgRYKOZ1COLDQQ,2022-01-01,-68,-55,-2,-66,-45,10
+GB,United Kingdom,Buckinghamshire,,,GB-BKM,,ChIJ19VEWZxCdkgRnWdk0LjhNAU,2022-01-01,-62,-55,-31,-57,-47,10
+GB,United Kingdom,Buckinghamshire,Aylesbury Vale,,,,ChIJ1eHzLg35dkgR4ObCu6gcDgQ,2022-01-01,-61,-54,-19,-64,-49,11
+GB,United Kingdom,Buckinghamshire,Chiltern District,,,,ChIJs7sDtWNndkgRsGnsoi2uDgQ,2022-01-01,-62,-55,-3,-66,-50,10
+GB,United Kingdom,Buckinghamshire,South Bucks District,,,,ChIJoynJR59ldkgRwGnsoi2uDgQ,2022-01-01,-56,-47,-41,-42,-47,11
+GB,United Kingdom,Buckinghamshire,Wycombe District,,,,ChIJ-2lzwCCLdkgRIOfCu6gcDgQ,2022-01-01,-64,-58,-35,-65,-46,10
+GB,United Kingdom,Caerphilly County Borough,,,GB-CAY,,ChIJK_pEmTsZbkgRkQUcE8Sl2sQ,2022-01-01,-63,-54,-19,-75,-49,12
+GB,United Kingdom,Cambridgeshire,,,GB-CAM,,ChIJofUImRD210cR-iJr8SWphk4,2022-01-01,-67,-55,7,-62,-47,11
+GB,United Kingdom,Cambridgeshire,Cambridge,,,,ChIJs4un4Ztw2EcRMOPBu6gcDgQ,2022-01-01,-73,-56,-2,-72,-32,9
+GB,United Kingdom,Cambridgeshire,East Cambridgeshire District,,,,ChIJR-OwyJZs2EcRQOPBu6gcDgQ,2022-01-01,-59,-50,23,-60,-53,11
+GB,United Kingdom,Cambridgeshire,Fenland District,,,,ChIJ5diBRpcH2EcRUOPBu6gcDgQ,2022-01-01,-68,-57,-31,-75,-58,11
+GB,United Kingdom,Cambridgeshire,Huntingdonshire District,,,,ChIJRetcqCTod0gRYOPBu6gcDgQ,2022-01-01,-64,-57,21,-50,-53,11
+GB,United Kingdom,Cambridgeshire,South Cambridgeshire District,,,,ChIJ3T9odvd52EcRgOPBu6gcDgQ,2022-01-01,-44,-53,13,-50,-36,10
+GB,United Kingdom,Cardiff,,,GB-CRF,,ChIJIcabGbIEbkgRAKKZ1COLDQM,2022-01-01,-69,-59,-37,-75,-47,11
+GB,United Kingdom,Carmarthenshire,,,GB-CMN,,ChIJgzFDhgnVaEgRpXZPqENoWyQ,2022-01-01,-64,-47,12,-69,-52,13
+GB,United Kingdom,Causeway Coast and Glens,,,GB-CCG,,ChIJry1VbDM6YEgRpC9fY13q-mI,2022-01-01,-46,-46,52,-27,-45,12
+GB,United Kingdom,Central Bedfordshire,,,GB-CBF,,ChIJtzQxDOdKdkgRMKjDu6gcDgM,2022-01-01,-59,-52,14,-44,-50,11
+GB,United Kingdom,Ceredigion,,,GB-CGN,,ChIJcYOiuisEb0gR1zA-l2ZepU0,2022-01-01,-52,-44,8,,-58,
+GB,United Kingdom,Cheshire East,,,GB-CHE,,ChIJaxGOo5ZZekgR0KdrWLxiEAM,2022-01-01,-64,-54,26,-46,-50,11
+GB,United Kingdom,Cheshire West and Chester,,,GB-CHW,,ChIJjZkTmD_vekgRsKdrWLxiEAM,2022-01-01,-59,-58,2,-61,-48,11
+GB,United Kingdom,Clackmannanshire,,,GB-CLK,,ChIJCdhYbl4phkgRkMnSV9rb_1o,2022-01-01,-85,-66,,-74,-52,
+GB,United Kingdom,Conwy Principal Area,,,GB-CWY,,ChIJVVNNSZIXZUgRcKGZ1COLDQM,2022-01-01,-56,-47,36,-52,-41,11
+GB,United Kingdom,Cornwall,,,GB-CON,,ChIJyQ4nv_C3akgRcUVL2YU8Qm4,2022-01-01,-48,-46,41,-41,-46,10
+GB,United Kingdom,Cornwall,Penryn,,,,ChIJsywQHkYja0gR5MFanJ7_h5Y,2022-01-01,,-58,,,-52,
+GB,United Kingdom,County Durham,,,GB-DUR,,ChIJreC1xuErfEgRwLZs7Z75DAM,2022-01-01,-55,-55,20,-63,-46,11
+GB,United Kingdom,Cumbria,,,GB-CMA,,ChIJxec9obAqY0gRmoFEBVuS4RY,2022-01-01,-58,-53,29,-46,-51,11
+GB,United Kingdom,Cumbria,Allerdale District,,,,ChIJ-WTtmJfXfEgR0LZs7Z75DAQ,2022-01-01,-55,-52,32,-37,-50,11
+GB,United Kingdom,Cumbria,Barrow-in-Furness District,,,,ChIJ5aGbLDOvfEgR4LZs7Z75DAQ,2022-01-01,-64,-55,,-70,-55,12
+GB,United Kingdom,Cumbria,City of Carlisle,,,,ChIJa7-8TS8OfUgR8LY-cTfRDwQ,2022-01-01,-74,-63,1,-60,-60,11
+GB,United Kingdom,Cumbria,Copeland District,,,,ChIJ-3-AUX_KfEgRALds7Z75DAQ,2022-01-01,-63,-62,42,-48,-45,12
+GB,United Kingdom,Cumbria,Eden District,,,,ChIJ_eRbnkn4fEgRELds7Z75DAQ,2022-01-01,-45,-44,14,-30,-51,11
+GB,United Kingdom,Cumbria,South Lakeland District,,,,ChIJk887wMqRfEgRILds7Z75DAQ,2022-01-01,-41,-36,44,-26,-48,10
+GB,United Kingdom,Darlington,,,GB-DAL,,ChIJ52hV6ribfkgRkKBv7Z75DAM,2022-01-01,-70,-61,4,-68,-59,11
+GB,United Kingdom,Denbighshire,,,GB-DEN,,ChIJlSIGxCgUZUgRMcwM21BVBIk,2022-01-01,-55,-48,3,-60,-48,11
+GB,United Kingdom,Derby,,,GB-DER,,ChIJQzd25xvxeUgR0J_Du6gcDgM,2022-01-01,-69,-50,28,-71,-53,11
+GB,United Kingdom,Derbyshire,,,GB-DBY,,ChIJTRhgylBVd0gRYxzUrCNcT7w,2022-01-01,-59,-56,22,-56,-55,12
+GB,United Kingdom,Derbyshire,Amber Valley,,,,ChIJM06czCnzeUgREOXCu6gcDgQ,2022-01-01,-65,-64,21,-68,-60,12
+GB,United Kingdom,Derbyshire,Bolsover District,,,,ChIJwUhNunGXeUgRIOXCu6gcDgQ,2022-01-01,-50,-64,9,-34,-56,12
+GB,United Kingdom,Derbyshire,Chesterfield District,,,,ChIJMU4y1SGbeUgRMOXCu6gcDgQ,2022-01-01,-64,-50,29,-63,-48,11
+GB,United Kingdom,Derbyshire,Derbyshire Dales District,,,,ChIJIbg1_q8mekgRQOXCu6gcDgQ,2022-01-01,-37,-40,-30,-39,-52,11
+GB,United Kingdom,Derbyshire,Erewash District,,,,ChIJe6yTQmTueUgRUOXCu6gcDgQ,2022-01-01,-67,-55,28,-68,-56,12
+GB,United Kingdom,Derbyshire,High Peak District,,,,ChIJZcTVz6gyekgRYOXCu6gcDgQ,2022-01-01,-61,-57,171,-53,-56,12
+GB,United Kingdom,Derbyshire,North East Derbyshire District,,,,ChIJp3fcikKFeUgRcOXCu6gcDgQ,2022-01-01,-54,-58,19,-63,-58,12
+GB,United Kingdom,Derbyshire,South Derbyshire District,,,,ChIJRdNQ76f5eUgRgOXCu6gcDgQ,2022-01-01,-62,-53,51,-73,-60,12
+GB,United Kingdom,Derry and Strabane,,,GB-DRS,,ChIJL4CPotneX0gRWjvhs1YZdDE,2022-01-01,-70,-53,-36,-66,-51,13
+GB,United Kingdom,Devon,,,GB-DEV,,ChIJRwLA2qv4a0gR_Vicygy6xhI,2022-01-01,-55,-49,25,-49,-49,10
+GB,United Kingdom,Devon,East Devon District,,,,ChIJuYdJoB-bbUgRwHLsoi2uDgQ,2022-01-01,-48,-50,28,-56,-45,11
+GB,United Kingdom,Devon,Exeter,,,,ChIJ_ehP1ASkbUgR0HLsoi2uDgQ,2022-01-01,-59,-59,3,-54,-55,11
+GB,United Kingdom,Devon,Mid Devon District,,,,ChIJIRjQReS7bUgR4HLsoi2uDgQ,2022-01-01,-60,-54,20,-32,-53,10
+GB,United Kingdom,Devon,North Devon District,,,,ChIJo5GV_oA7bEgR8HLsoi2uDgQ,2022-01-01,-54,-53,74,-56,-55,10
+GB,United Kingdom,Devon,South Hams District,,,,ChIJZ_2DiwPkbEgREHPsoi2uDgQ,2022-01-01,-40,-49,26,-43,-52,10
+GB,United Kingdom,Devon,Teignbridge,,,,ChIJt3oXMGYHbUgRIHPsoi2uDgQ,2022-01-01,-59,-45,10,-42,-53,10
+GB,United Kingdom,Devon,Torridge District,,,,ChIJv5ZO5QVqbEgRQHPsoi2uDgQ,2022-01-01,-43,-25,35,-55,-50,9
+GB,United Kingdom,Devon,West Devon District,,,,ChIJQ1UgMgBZbEgRUHPsoi2uDgQ,2022-01-01,-52,-52,27,-60,-44,
+GB,United Kingdom,Dorset,,,GB-DOR,,ChIJd_Gr7aqAbUgRX23auoH0oTM,2022-01-01,-56,-47,46,-54,-49,11
+GB,United Kingdom,Dorset,"Bournemouth, Christchurch and Poole",,,,ChIJ9_FAV3-hc0gRC-v3ThgZk2Q,2022-01-01,-56,-48,72,-63,-45,11
+GB,United Kingdom,Dorset,Dorset,,,,ChIJe8R6aQNTckgRl1hkmK2N-1g,2022-01-01,-51,-44,26,-37,-52,11
+GB,United Kingdom,Dumfries and Galloway,,,GB-DGY,,ChIJNb41SxLKYkgRqoCDQGd-en0,2022-01-01,-74,-66,16,-40,-56,12
+GB,United Kingdom,Dundee City Council,,,GB-DND,,ChIJGczMc-pchkgRze8pUD174xw,2022-01-01,-81,-70,12,-79,-57,11
+GB,United Kingdom,East Ayrshire Council,,,GB-EAY,,ChIJi4UFQGYoiEgRULNCBhpoDAM,2022-01-01,-84,-70,,-78,-56,13
+GB,United Kingdom,East Dunbartonshire Council,,,GB-EDU,,ChIJDczc769ciEgRYLNCBhpoDAM,2022-01-01,-81,-69,,-78,-57,
+GB,United Kingdom,East Lothian Council,,,GB-ELN,,ChIJk1bJ2F0Fh0gRvKbv-SJd00o,2022-01-01,-66,-59,54,-53,-55,12
+GB,United Kingdom,East Renfrewshire Council,,,GB-ERW,,ChIJN1Yy_zQ2iEgRMLNCBhpoDAM,2022-01-01,-79,-67,,-70,-54,
+GB,United Kingdom,East Riding of Yorkshire,,,GB-ERY,,ChIJWTdj-_Qf1kcRnEEJetNXhnE,2022-01-01,-50,-53,86,-55,-53,11
+GB,United Kingdom,East Sussex,,,GB-ESX,,ChIJuVE1OiXg3kcRcGvgEoRu2pQ,2022-01-01,-52,-43,30,-53,-44,10
+GB,United Kingdom,East Sussex,Eastbourne,,,,ChIJVwujCFhx30cR8Eztoi2uDgQ,2022-01-01,-54,-46,48,-54,-45,10
+GB,United Kingdom,East Sussex,Hastings District,,,,ChIJA4Hsq-sa30cRAE3toi2uDgQ,2022-01-01,-49,-42,61,-54,-48,10
+GB,United Kingdom,East Sussex,Lewes District,,,,ChIJc6rOIoVi30cRIE2_JsaFEQQ,2022-01-01,-54,-44,62,-48,-41,10
+GB,United Kingdom,East Sussex,Rother District,,,,ChIJTeBJz6MZ30cRME3toi2uDgQ,2022-01-01,-43,-31,14,-46,-45,10
+GB,United Kingdom,East Sussex,Wealden District,,,,ChIJKTW1hrho30cRQE3toi2uDgQ,2022-01-01,-56,-49,19,-58,-49,11
+GB,United Kingdom,Edinburgh,,,GB-EDH,,ChIJUXnOUJTGh0gRwLNCBhpoDAM,2022-01-01,-74,-63,-17,-70,-47,12
+GB,United Kingdom,Essex,,,GB-ESS,,ChIJ0w2H_idW2EcReVDuRzjLV0I,2022-01-01,-61,-52,6,-61,-52,11
+GB,United Kingdom,Essex,Basildon District,,,,ChIJzcNwzKnG2EcR4Gjsoi2uDgQ,2022-01-01,-61,-57,-36,-67,-53,11
+GB,United Kingdom,Essex,Borough of Colchester,,,,ChIJYbOxH2AD2UcRAOLBu6gcDgQ,2022-01-01,-62,-56,-19,-66,-53,10
+GB,United Kingdom,Essex,Braintree District,,,,ChIJPzciCQz62EcRAOTBu6gcDgQ,2022-01-01,-60,-53,19,-64,-50,11
+GB,United Kingdom,Essex,Brentwood District,,,,ChIJ1wJ0Z32-2EcR4OHroi2uDgQ,2022-01-01,-68,-43,-8,-65,-59,11
+GB,United Kingdom,Essex,Castle Point District,,,,ChIJye24RPfa2EcRoOHBu6gcDgQ,2022-01-01,-58,-51,,-70,-56,12
+GB,United Kingdom,Essex,Chelmsford,,,,ChIJ6UT-UW7p2EcR8OHBu6gcDgQ,2022-01-01,-64,-52,34,-62,-45,11
+GB,United Kingdom,Essex,Epping Forest District,,,,ChIJ3VEoRkaY2EcREOK9JsaFEQQ,2022-01-01,-62,-58,116,-57,-52,12
+GB,United Kingdom,Essex,Harlow District,,,,ChIJ86Wp6ViZ2EcRsOHBu6gcDgQ,2022-01-01,-67,-47,6,-61,-54,12
+GB,United Kingdom,Essex,Maldon District,,,,ChIJGag32jQe2UcRIOLBu6gcDgQ,2022-01-01,-51,-49,56,-59,-55,11
+GB,United Kingdom,Essex,Rochford District,,,,ChIJ5bJtoSYn2UcRMOLBu6gcDgQ,2022-01-01,-66,-32,-4,-75,-48,12
+GB,United Kingdom,Essex,Tendring District,,,,ChIJo37dzXMN2UcRQOLBu6gcDgQ,2022-01-01,-46,-44,-6,-37,-49,11
+GB,United Kingdom,Essex,Uttlesford,,,,ChIJH4NhEwSM2EcREOTBu6gcDgQ,2022-01-01,-61,-67,-13,-60,-62,10
+GB,United Kingdom,Falkirk,,,GB-FAL,,ChIJw-xIZyJ6iEgRM9AQrv2dHr0,2022-01-01,-83,-75,8,-77,-57,13
+GB,United Kingdom,Fermanagh and Omagh,,,GB-FMO,,ChIJ2xfPteg1XkgRLw3XwmauMac,2022-01-01,-70,-50,13,-59,-58,12
+GB,United Kingdom,Fife,,,GB-FIF,,ChIJGfnLttUwhkgRPBsRigOAVnY,2022-01-01,-77,-67,15,-78,-51,12
+GB,United Kingdom,Flintshire,,,GB-FLN,,ChIJa62Y31DVZEgRAGq22Ew29rU,2022-01-01,-63,-63,34,-75,-54,12
+GB,United Kingdom,Glasgow City,,,GB-GLG,,ChIJ368eA69GiEgRELNCBhpoDAM,2022-01-01,-84,-70,-39,-91,-53,13
+GB,United Kingdom,Gloucestershire,,,GB-GLS,,ChIJvWBKlTVTcEgRYidBWWOI7Dc,2022-01-01,-60,-54,-1,-55,-49,10
+GB,United Kingdom,Gloucestershire,Cheltenham,,,,ChIJgc80HpgbcUgRoImX1COLDQQ,2022-01-01,-62,-53,35,-62,-53,9
+GB,United Kingdom,Gloucestershire,Cotswold District,,,,ChIJFx3_wSQYcUgRsImX1COLDQQ,2022-01-01,-51,-57,-10,-65,-57,12
+GB,United Kingdom,Gloucestershire,Forest of Dean District,,,,ChIJ2aI0QJ6lcUgRwIqX1COLDQQ,2022-01-01,-61,-54,27,-63,-51,11
+GB,United Kingdom,Gloucestershire,Gloucester District,,,,ChIJPSDtUQkGcUgRwImX1COLDQQ,2022-01-01,-63,-55,-26,-71,-52,10
+GB,United Kingdom,Gloucestershire,Stroud District,,,,ChIJwZpCDWwKcUgR0ImX1COLDQQ,2022-01-01,-53,-52,1,-29,-51,10
+GB,United Kingdom,Gloucestershire,Tewkesbury Borough,,,,ChIJ83tTzmgccUgR4ImX1COLDQQ,2022-01-01,-56,-54,-6,-58,-44,10
+GB,United Kingdom,Greater London,,,,,ChIJb-IaoQug2EcRi-m4hONz8S8,2022-01-01,-61,-51,-19,-54,-48,11
+GB,United Kingdom,Greater London,City of London,,GB-LND,,ChIJ4Y3fTlUDdkgR0Gbsoi2uDgQ,2022-01-01,-79,-79,-62,-55,,
+GB,United Kingdom,Greater London,City of Westminster,,GB-WSM,,ChIJxwN8mDUFdkgRoGfsoi2uDgQ,2022-01-01,-63,-46,-17,-45,-40,9
+GB,United Kingdom,Greater London,London Borough of Barking and Dagenham,,GB-BDG,,ChIJkcYYXrKl2EcR0Ge-JsaFEQQ,2022-01-01,-58,-53,17,-52,-56,12
+GB,United Kingdom,Greater London,London Borough of Barnet,,GB-BNE,,ChIJT29HcDkXdkgR4Gfsoi2uDgQ,2022-01-01,-66,-51,2,-53,-52,11
+GB,United Kingdom,Greater London,London Borough of Bexley,,GB-BEX,,ChIJIfhvfFqu2EcR8Ge-JsaFEQQ,2022-01-01,-65,-50,15,-63,-51,11
+GB,United Kingdom,Greater London,London Borough of Brent,,GB-BEN,,ChIJq7AET3IRdkgRoH-R0ciFEQo,2022-01-01,-48,-47,5,-53,-50,11
+GB,United Kingdom,Greater London,London Borough of Bromley,,GB-BRY,,ChIJUYUsD96q2EcRcGnsoi2uDgQ,2022-01-01,-62,-50,-1,-58,-44,10
+GB,United Kingdom,Greater London,London Borough of Camden,,GB-CMD,,ChIJPZprGOwadkgR4Ga-JsaFEQQ,2022-01-01,-69,-59,-19,-47,-33,9
+GB,United Kingdom,Greater London,London Borough of Croydon,,GB-CRY,,ChIJW_bCdKUAdkgREGjsoi2uDgQ,2022-01-01,-52,-48,13,-57,-48,11
+GB,United Kingdom,Greater London,London Borough of Ealing,,GB-EAL,,ChIJD2fuc4gSdkgRIGjsoi2uDgQ,2022-01-01,-57,-46,1,-54,-51,11
+GB,United Kingdom,Greater London,London Borough of Enfield,,GB-ENF,,ChIJ7Y9uo9MYdkgRgGnsoi2uDgQ,2022-01-01,-61,-52,4,-62,-55,12
+GB,United Kingdom,Greater London,London Borough of Hackney,,GB-HCK,,ChIJBYyO7-8cdkgRLG8Z2Fn7scU,2022-01-01,-65,-48,-20,-52,-48,10
+GB,United Kingdom,Greater London,London Borough of Hammersmith and Fulham,,GB-HMF,,ChIJwzfTXMEPdkgRAGfsoi2uDgQ,2022-01-01,-67,-58,-10,-62,-47,10
+GB,United Kingdom,Greater London,London Borough of Haringey,,GB-HRY,,ChIJZ1JpkPAbdkgREGfsoi2uDgQ,2022-01-01,-59,-53,-7,-50,-57,10
+GB,United Kingdom,Greater London,London Borough of Harrow,,GB-HRW,,ChIJsdjk2n0TdkgRQGjsoi2uDgQ,2022-01-01,-58,-44,51,-49,-46,11
+GB,United Kingdom,Greater London,London Borough of Havering,,GB-HAV,,ChIJ1bfreqq72EcRUGjsoi2uDgQ,2022-01-01,-62,-54,-7,-51,-50,12
+GB,United Kingdom,Greater London,London Borough of Hillingdon,,GB-HIL,,ChIJzWR_V5NtdkgRkf7edrEjoRI,2022-01-01,-56,-53,17,-48,-47,10
+GB,United Kingdom,Greater London,London Borough of Hounslow,,GB-HNS,,ChIJNeMxAOgMdkgRWPTlACaTBHQ,2022-01-01,-54,-45,-17,-46,-42,10
+GB,United Kingdom,Greater London,London Borough of Islington,,GB-ISL,,ChIJ5Tvr7V0bdkgRyWXsGMuF8FQ,2022-01-01,-52,-52,-15,-62,-44,10
+GB,United Kingdom,Greater London,London Borough of Lambeth,,GB-LBH,,ChIJt1zJSGgEdkgRsEAeRjCuDgo,2022-01-01,-65,-52,23,-46,-43,10
+GB,United Kingdom,Greater London,London Borough of Lewisham,,GB-LEW,,ChIJmT6ce2sCdkgR4EAeRjCuDgo,2022-01-01,-58,-49,11,-52,-50,11
+GB,United Kingdom,Greater London,London Borough of Merton,,GB-MRT,,ChIJbRcY2h0GdkgRQonYqyp5Fx8,2022-01-01,-61,-54,-18,-55,-50,11
+GB,United Kingdom,Greater London,London Borough of Newham,,GB-NWM,,ChIJfRGCus6n2EcRYGfsoi2uDgQ,2022-01-01,-60,-49,46,-53,-42,9
+GB,United Kingdom,Greater London,London Borough of Redbridge,,GB-RDB,,ChIJcWrvVrqm2EcRoGjsoi2uDgQ,2022-01-01,-56,-46,-13,-57,-53,10
+GB,United Kingdom,Greater London,London Borough of Richmond upon Thames,,GB-RIC,,ChIJlwfWmnIMdkgRrCdnqjiWZjo,2022-01-01,-49,-48,10,-58,-49,10
+GB,United Kingdom,Greater London,London Borough of Southwark,,GB-SWK,,ChIJ3ydEeZgDdkgRcGe-JsaFEQQ,2022-01-01,-64,-59,-13,-46,-40,10
+GB,United Kingdom,Greater London,London Borough of Sutton,,GB-STN,,ChIJEZ61rPwHdkgRwGjsoi2uDgQ,2022-01-01,-65,-53,-1,-63,-51,10
+GB,United Kingdom,Greater London,London Borough of Tower Hamlets,,GB-TWH,,ChIJqdKqVc0CdkgRgGe-JsaFEQQ,2022-01-01,-52,-44,-13,-54,-36,7
+GB,United Kingdom,Greater London,London Borough of Waltham Forest,,GB-WFT,,ChIJkRAw9uEddkgR0Gjsoi2uDgQ,2022-01-01,-59,-52,-28,-57,-55,11
+GB,United Kingdom,Greater London,London Borough of Wandsworth,,GB-WND,,ChIJg-qP_4kFdkgR0mhvpZwsJTc,2022-01-01,-65,-57,-19,-61,-39,10
+GB,United Kingdom,Greater London,Royal Borough of Greenwich,,GB-GRE,,ChIJJc-4yymo2EcRwqZo5HwjGEk,2022-01-01,-56,-44,-15,-45,-47,11
+GB,United Kingdom,Greater London,Royal Borough of Kensington and Chelsea,,GB-KEC,,ChIJQzlq8vcPdkgRMGfsoi2uDgQ,2022-01-01,-68,-55,-46,-66,-45,10
+GB,United Kingdom,Greater London,Royal Borough of Kingston upon Thames,,GB-KTT,,ChIJ0ycUEikKdkgR6r_eW1XvlAQ,2022-01-01,-65,-57,22,-57,-44,11
+GB,United Kingdom,Greater Manchester,,,,,ChIJsS6I01Sme0gRgYDGISLYxyw,2022-01-01,-64,-56,-17,-63,-50,11
+GB,United Kingdom,Greater Manchester,Bolton District,,GB-BOL,,ChIJZdGoSH6ne0gRADRt7Z75DAQ,2022-01-01,-61,-57,5,-66,-53,11
+GB,United Kingdom,Greater Manchester,Borough of Tameside,,GB-TAM,,ChIJv6P8Nhi2e0gR0DNt7Z75DAQ,2022-01-01,-71,-61,7,-69,-54,12
+GB,United Kingdom,Greater Manchester,Bury District,,GB-BUR,,ChIJuZg1jOOke0gRkDNt7Z75DAQ,2022-01-01,-67,-63,27,-67,-53,11
+GB,United Kingdom,Greater Manchester,Manchester,,GB-MAN,,ChIJoceAoT2ye0gREDRt7Z75DAQ,2022-01-01,-64,-56,-25,-60,-43,9
+GB,United Kingdom,Greater Manchester,Metropolitan Borough of Stockport,,GB-SKP,,ChIJ27zTK8K0e0gRwDNt7Z75DAQ,2022-01-01,-68,-55,15,-73,-53,11
+GB,United Kingdom,Greater Manchester,Metropolitan Borough of Wigan,,GB-WGN,,ChIJ5yOKLQUGe0gRQDRt7Z75DAQ,2022-01-01,-69,-57,23,-72,-55,12
+GB,United Kingdom,Greater Manchester,Oldham District,,GB-OLD,,ChIJFXrfHPDHe0gRIDRpWLxiEAQ,2022-01-01,-64,-54,15,-67,-51,11
+GB,United Kingdom,Greater Manchester,Rochdale District,,GB-RCH,,ChIJIwIpQmi5e0gRoDNt7Z75DAQ,2022-01-01,-59,-54,30,-57,-43,11
+GB,United Kingdom,Greater Manchester,Salford District,,GB-SLF,,ChIJP5NeEsuue0gRsDNpWLxiEAQ,2022-01-01,-56,-55,7,-66,-52,11
+GB,United Kingdom,Greater Manchester,Trafford,,GB-TRF,,ChIJKwmZm4ere0gRMDRt7Z75DAQ,2022-01-01,-62,-60,-32,-68,-50,10
+GB,United Kingdom,Gwynedd,,,GB-GWN,,ChIJ7Q8cbLY0ZEgR_OasFAMbzuw,2022-01-01,-55,-48,-6,-39,-47,13
+GB,United Kingdom,Hampshire,,,GB-HAM,,ChIJCY_IX6x4c0gRjTozj4I7b1E,2022-01-01,-63,-50,1,-52,-44,11
+GB,United Kingdom,Hampshire,Basingstoke and Deane District,,,,ChIJkRVzkKwedEgRwEvtoi2uDgQ,2022-01-01,-67,-50,-7,-61,-38,10
+GB,United Kingdom,Hampshire,City of Winchester,,,,ChIJWSAjjT0TdEgRcE7toi2uDgQ,2022-01-01,-59,-48,-6,-50,-37,10
+GB,United Kingdom,Hampshire,East Hampshire,,,,ChIJ0fKHVy84dEgRME7toi2uDgQ,2022-01-01,-63,-53,-1,-45,-44,11
+GB,United Kingdom,Hampshire,Eastleigh District,,,,ChIJWcDYPyBydEgRQE7toi2uDgQ,2022-01-01,-65,-53,22,-44,-43,11
+GB,United Kingdom,Hampshire,Fareham District,,,,ChIJtXl8HExvdEgR4E3toi2uDgQ,2022-01-01,-70,-53,18,-71,-45,11
+GB,United Kingdom,Hampshire,Gosport,,,,ChIJ5W3J-1JmdEgR8E3toi2uDgQ,2022-01-01,-49,-38,-34,-60,-44,11
+GB,United Kingdom,Hampshire,Hart District,,,,ChIJrSRrcCMpdEgR0Evtoi2uDgQ,2022-01-01,-63,-49,5,-47,-47,10
+GB,United Kingdom,Hampshire,Havant,,,,ChIJly3pvzRbdEgRAE7toi2uDgQ,2022-01-01,-59,-55,32,-58,-39,11
+GB,United Kingdom,Hampshire,New Forest District,,,,ChIJ0a0L-QqPc0gRUE7toi2uDgQ,2022-01-01,-52,-46,27,-61,-42,11
+GB,United Kingdom,Hampshire,Rushmoor District,,,,ChIJWemt80MrdEgRgEvtoi2uDgQ,2022-01-01,-66,-48,6,-60,-50,10
+GB,United Kingdom,Hampshire,Test Valley District,,,,ChIJTciGD9b3c0gRYE7toi2uDgQ,2022-01-01,-62,-50,-23,-40,-49,11
+GB,United Kingdom,Hartlepool,,,GB-HPL,,ChIJD8OlTU_zfkgRoKBv7Z75DAM,2022-01-01,-55,-59,,-54,-46,11
+GB,United Kingdom,Herefordshire,,,GB-HEF,,ChIJp-c_qiXUb0gRFpdyo5QQfHY,2022-01-01,-63,-57,6,-66,-56,11
+GB,United Kingdom,Hertfordshire,,,GB-HRT,,ChIJ2QVt7Kd42EcR7vE0JPBfxEM,2022-01-01,-63,-53,-12,-59,-49,11
+GB,United Kingdom,Hertfordshire,Broxbourne District,,,,ChIJNyc8hwEhdkgRAGnsoi2uDgQ,2022-01-01,-63,-46,-7,-58,-57,12
+GB,United Kingdom,Hertfordshire,Dacorum District,,,,ChIJx4Xsl1VbdkgRAGrsoi2uDgQ,2022-01-01,-61,-57,-8,-66,-42,11
+GB,United Kingdom,Hertfordshire,East Hertfordshire District,,,,ChIJXyBuKqSC2EcRcObCu6gcDgQ,2022-01-01,-60,-60,-15,-45,-54,11
+GB,United Kingdom,Hertfordshire,Hertsmere District,,,,ChIJKxLc-AIWdkgREGrsoi2uDgQ,2022-01-01,-66,-54,-8,-44,-58,11
+GB,United Kingdom,Hertfordshire,North Hertfordshire District,,,,ChIJW4KqFsAtdkgRkObCu6gcDgQ,2022-01-01,-67,-59,-12,-47,-56,10
+GB,United Kingdom,Hertfordshire,Saint Albans District,,,,ChIJH0mmGNM4dkgRIGq-JsaFEQQ,2022-01-01,-60,-48,19,-68,-50,10
+GB,United Kingdom,Hertfordshire,Stevenage District,,,,ChIJC6uT4ikudkgRUObCu6gcDgQ,2022-01-01,-67,-55,-18,-64,-50,11
+GB,United Kingdom,Hertfordshire,Three Rivers District,,,,ChIJV0CmzxJqdkgRMGrsoi2uDgQ,2022-01-01,-53,-49,-42,-65,-53,11
+GB,United Kingdom,Hertfordshire,Watford District,,,,ChIJo4O2SpZqdkgREGnsoi2uDgQ,2022-01-01,-62,-55,0,-61,-48,10
+GB,United Kingdom,Hertfordshire,Welwyn Hatfield,,,,ChIJj0gY9qskdkgRQGrsoi2uDgQ,2022-01-01,-61,-60,-5,-54,-43,11
+GB,United Kingdom,Highland Council,,,GB-HLD,,ChIJpQfhl1Nxj0gRON4nZCLq93M,2022-01-01,-75,-66,27,-71,-57,12
+GB,United Kingdom,Inverclyde,,,GB-IVC,,ChIJH9joE7CxiUgRcLNCBhpoDAM,2022-01-01,-83,-74,,-72,-59,
+GB,United Kingdom,Isle of Anglesey,,,GB-AGY,,ChIJ7Q8cbLY0ZEgRW9OLuxStLpA,2022-01-01,-56,-47,24,-51,-49,
+GB,United Kingdom,Isle of Wight,,,GB-IOW,,ChIJCY_IX6x4c0gRMh_bnC8V9F4,2022-01-01,-42,-39,10,-37,-42,10
+GB,United Kingdom,Kent,,,GB-KEN,,ChIJl4Kx4hWo2EcRWRUgdmTnUZI,2022-01-01,-56,-49,11,-61,-43,10
+GB,United Kingdom,Kent,Ashford District,,,,ChIJRYbtSwnZ3kcRcEztoi2uDgQ,2022-01-01,-61,-53,-17,-58,-44,9
+GB,United Kingdom,Kent,Borough of Swale,,,,ChIJg0cns9HU3kcRsEztoi2uDgQ,2022-01-01,-59,-51,8,-58,-45,10
+GB,United Kingdom,Kent,City of Canterbury,,,,ChIJuWrfDkjK3kcRgEztoi2uDgQ,2022-01-01,-58,-48,38,-69,-41,11
+GB,United Kingdom,Kent,Dartford District,,,,ChIJu76lN2Ox2EcRUGrsoi2uDgQ,2022-01-01,-53,-39,22,-56,-48,10
+GB,United Kingdom,Kent,Dover District,,,,ChIJMbMKSaux3kcRkEztoi2uDgQ,2022-01-01,-46,-42,16,-69,-41,11
+GB,United Kingdom,Kent,Folkestone & Hythe District,,,,ChIJT9MTHbfD3kcRoEztoi2uDgQ,2022-01-01,-33,-45,31,-55,-42,10
+GB,United Kingdom,Kent,Gravesham District,,,,ChIJ3TNIF13K2EcREE_toi2uDgQ,2022-01-01,-66,-50,-30,-51,-50,11
+GB,United Kingdom,Kent,Maidstone District,,,,ChIJz2gKJ0Eu30cRIE_toi2uDgQ,2022-01-01,-60,-50,0,-62,-35,10
+GB,United Kingdom,Kent,Sevenoaks District,,,,ChIJDxDJofdN30cRYGrsoi2uDgQ,2022-01-01,-55,-57,49,-55,-51,11
+GB,United Kingdom,Kent,Thanet District,,,,ChIJh9GgOaRS2UcRwEztoi2uDgQ,2022-01-01,-51,-50,49,-62,-46,10
+GB,United Kingdom,Kent,Tonbridge and Malling District,,,,ChIJYS6pFgVK30cRUE_toi2uDgQ,2022-01-01,-62,-53,12,-58,-55,10
+GB,United Kingdom,Kent,Tunbridge Wells District,,,,ChIJR6wYG8k430cR0Eztoi2uDgQ,2022-01-01,-56,-51,-10,-63,-38,10
+GB,United Kingdom,Kingston upon Hull,,,GB-KHL,,ChIJR48330G-eEgR8KBv7Z75DAM,2022-01-01,-73,-57,-21,-70,-52,11
+GB,United Kingdom,Lancashire,,,GB-LAN,,ChIJ2_UmUkxNekgRZRtGDNF9SbU,2022-01-01,-61,-55,40,-61,-50,11
+GB,United Kingdom,Lancashire,Borough of Burnley,,,,ChIJv1qBROSWe0gRAOJs7Z75DAQ,2022-01-01,-64,-59,,-67,-47,11
+GB,United Kingdom,Lancashire,Borough of Fylde,,,,ChIJZ87bof5pe0gR4DRt7Z75DAQ,2022-01-01,-51,-44,93,-46,-50,10
+GB,United Kingdom,Lancashire,Chorley District,,,,ChIJB1ZNog8Ne0gR0DRpWLxiEAQ,2022-01-01,-56,-57,41,-39,-55,11
+GB,United Kingdom,Lancashire,City of Preston,,,,ChIJE27fCdtxe0gREDVt7Z75DAQ,2022-01-01,-62,-51,33,-71,-43,9
+GB,United Kingdom,Lancashire,Hyndburn,,,,ChIJGW_7lSuZe0gR8DRt7Z75DAQ,2022-01-01,-62,-63,,-60,-52,10
+GB,United Kingdom,Lancashire,Lancaster District,,,,ChIJ02uPtcGCfEgRADVpWLxiEAQ,2022-01-01,-68,-49,11,-54,-56,10
+GB,United Kingdom,Lancashire,Pendle District,,,,ChIJH5d2OR2Se0gRwOJs7Z75DAQ,2022-01-01,-59,-57,43,-68,-44,9
+GB,United Kingdom,Lancashire,Ribble Valley District,,,,ChIJwXBRfVuDe0gR0OJs7Z75DAQ,2022-01-01,-57,-56,117,-66,-54,11
+GB,United Kingdom,Lancashire,Rossendale,,,,ChIJ_yvcWTK9e0gREOJs7Z75DAQ,2022-01-01,-63,-58,,-71,-55,11
+GB,United Kingdom,Lancashire,South Ribble District,,,,ChIJeQ5UMqBye0gRMDVt7Z75DAQ,2022-01-01,-56,-55,57,-70,-55,11
+GB,United Kingdom,Lancashire,West Lancashire District,,,,ChIJhRumTgsWe0gRQDVt7Z75DAQ,2022-01-01,-65,-64,58,-71,-55,12
+GB,United Kingdom,Lancashire,Wyre District,,,,ChIJF2Sj6HJme0gRUDVt7Z75DAQ,2022-01-01,-54,-53,14,-54,-52,11
+GB,United Kingdom,Leicester,,,GB-LCE,,ChIJoezi2B5hd0gRsJ_Du6gcDgM,2022-01-01,-66,-54,-3,-68,-42,10
+GB,United Kingdom,Leicestershire,,,GB-LEC,,ChIJs3uVVC1Ad0gRK6-E8nGBOYQ,2022-01-01,-62,-56,7,-63,-53,11
+GB,United Kingdom,Leicestershire,Blaby District,,,,ChIJIQI7h5pdd0gRQOTCu6gcDgQ,2022-01-01,-45,-43,,-48,-50,12
+GB,United Kingdom,Leicestershire,Charnwood,,,,ChIJK3eqparfeUgRUOTCu6gcDgQ,2022-01-01,-64,-59,22,-66,-52,11
+GB,United Kingdom,Leicestershire,Harborough District,,,,ChIJ7VRfc2hld0gRYOTCu6gcDgQ,2022-01-01,-65,-63,4,-70,-52,11
+GB,United Kingdom,Leicestershire,Hinckley and Bosworth District,,,,ChIJWSYpoapQd0gRcOTCu6gcDgQ,2022-01-01,-62,-59,-3,-66,-53,11
+GB,United Kingdom,Leicestershire,Melton District,,,,ChIJ-SOYrLzTeUgRMOfCu6gcDgQ,2022-01-01,-63,-63,,-62,-60,11
+GB,United Kingdom,Leicestershire,North West Leicestershire District,,,,ChIJ3S_nyZn8eUgRgOTCu6gcDgQ,2022-01-01,-63,-56,-4,-72,-57,12
+GB,United Kingdom,Leicestershire,Oadby and Wigston District,,,,ChIJg5NsEplmd0gRIOTCu6gcDgQ,2022-01-01,-64,-57,,-69,-49,11
+GB,United Kingdom,Lincolnshire,,,GB-LIN,,ChIJJ70edCUo1kcRADi1k4LEkXs,2022-01-01,-62,-56,35,-62,-48,11
+GB,United Kingdom,Lincolnshire,Boston District,,,,ChIJCZ3cZAkKeEgRYOLBu6gcDgQ,2022-01-01,-63,-60,1,-57,-52,12
+GB,United Kingdom,Lincolnshire,East Lindsey District,,,,ChIJ75VA3TbW10cRcOLBu6gcDgQ,2022-01-01,-46,-39,73,-59,-40,10
+GB,United Kingdom,Lincolnshire,Lincoln District,,,,ChIJnwmVidNaeEgRUOLBu6gcDgQ,2022-01-01,-66,-62,17,-77,-49,10
+GB,United Kingdom,Lincolnshire,North Kesteven District,,,,ChIJk15rzcNAeEgRgOLBu6gcDgQ,2022-01-01,-53,-57,1,-61,-47,11
+GB,United Kingdom,Lincolnshire,South Holland District,,,,ChIJt8tHvWkHeEgRkOLBu6gcDgQ,2022-01-01,-68,-56,2,-60,-54,11
+GB,United Kingdom,Lincolnshire,South Kesteven District,,,,ChIJb91hlJckeEgRoOLBu6gcDgQ,2022-01-01,-64,-58,27,-42,-53,11
+GB,United Kingdom,Lincolnshire,West Lindsey District,,,,ChIJSdjX_4z1eEgRsOLBu6gcDgQ,2022-01-01,-56,-62,30,-65,-48,11
+GB,United Kingdom,Lisburn and Castlereagh,,,GB-LBC,,ChIJQZTUJSwFYUgRv_t7DVlGEwc,2022-01-01,-62,-45,,,-47,11
+GB,United Kingdom,Luton,,,GB-LUT,,ChIJK97LqVVIdkgRAJ_Du6gcDgM,2022-01-01,-53,-44,,-57,-39,9
+GB,United Kingdom,Medway,,,GB-MDW,,ChIJU_bgGgnS2EcRQJ_toi2uDgM,2022-01-01,-67,-50,-13,-54,-50,11
+GB,United Kingdom,Merseyside,,,,,ChIJc2fVfoPXekgRApLOHfrVYYY,2022-01-01,-64,-58,-2,-64,-50,11
+GB,United Kingdom,Merseyside,Liverpool,,GB-LIV,,ChIJrQ6lI0oge0gR4DNt7Z75DAQ,2022-01-01,-66,-62,-30,-63,-49,11
+GB,United Kingdom,Merseyside,Metropolitan Borough of Knowsley,,GB-KWL,,ChIJlfP9L9wee0gRUDRt7Z75DAQ,2022-01-01,-70,-49,-29,-73,-45,12
+GB,United Kingdom,Merseyside,Metropolitan Borough of Sefton,,GB-SFT,,ChIJZ-cIQIA7e0gRcDRt7Z75DAQ,2022-01-01,-56,-54,50,-66,-54,12
+GB,United Kingdom,Merseyside,Metropolitan Borough of St Helens,,GB-SHN,,ChIJmZ_1I0Ube0gRYDRpWLxiEAQ,2022-01-01,-68,-67,42,-68,-55,12
+GB,United Kingdom,Merseyside,Wirral,,GB-WRL,,ChIJxT7h0-4ne0gR8DNt7Z75DAQ,2022-01-01,-58,-54,36,-63,-49,12
+GB,United Kingdom,Merthyr Tydfil County Borough,,,GB-MTY,,ChIJy3jMkAc7bkgRZwxpOYVo_M0,2022-01-01,-67,-66,,,-58,
+GB,United Kingdom,Mid and East Antrim,,,GB-MEA,,ChIJrXNHHSKzYUgR1MZ2Fi03uzo,2022-01-01,-67,-46,,-63,-50,12
+GB,United Kingdom,Mid Ulster,,,GB-MUL,,ChIJoaVNT6lhYEgRhD4lwDmJNtw,2022-01-01,-69,-62,,-67,-59,13
+GB,United Kingdom,Middlesbrough,,,GB-MDB,,ChIJ7WjKLlrsfkgRwKBv7Z75DAM,2022-01-01,-69,-58,-1,-77,-45,10
+GB,United Kingdom,Midlothian,,,GB-MLN,,ChIJZ7buTdWUh0gRMR4ePyT9MbY,2022-01-01,-84,-67,5,-69,-52,12
+GB,United Kingdom,Milton Keynes,,,GB-MIK,,ChIJPbtYnTiqd0gRgJ_Du6gcDgM,2022-01-01,-60,-57,-18,-58,-43,10
+GB,United Kingdom,Monmouthshire,,,GB-MON,,ChIJlUugHBMebkgROLnkYuEj4DI,2022-01-01,-63,-65,-12,-44,-54,
+GB,United Kingdom,Moray,,,GB-MRY,,ChIJYchqHiUMhUgRiqJTVJBl-eU,2022-01-01,-83,-72,14,-74,-62,
+GB,United Kingdom,Na h-Eileanan an Iar,,,,,ChIJZWkCw-twjUgRWd7FND7XoSI,2022-01-01,,,,-57,-66,
+GB,United Kingdom,Neath Port Talbot Principle Area,,,GB-NTL,,ChIJM5XY-eBcbkgRMKKZ1COLDQM,2022-01-01,-58,-49,-9,-72,-42,12
+GB,United Kingdom,Newport,,,GB-NWP,,ChIJ5YhihIXmcUgRwKGZ1COLDQM,2022-01-01,-66,-53,-15,-64,-47,12
+GB,United Kingdom,"Newry, Mourne and Down",,,GB-NMD,,ChIJz4eCb5YmYUgRHl-FT4Lt9kA,2022-01-01,-62,-45,35,-51,-54,13
+GB,United Kingdom,Norfolk,,,GB-NFK,,ChIJ39UebIqp0EcRHxKMavHIeTU,2022-01-01,-57,-51,28,-66,-49,10
+GB,United Kingdom,Norfolk,Breckland District,,,,ChIJBdY1pxPT2UcR0OLBu6gcDgQ,2022-01-01,-58,-57,10,-67,-51,11
+GB,United Kingdom,Norfolk,Broadland District,,,,ChIJp-3VIH_i2UcR4OLBu6gcDgQ,2022-01-01,-49,-56,-3,-54,-52,10
+GB,United Kingdom,Norfolk,Great Yarmouth District,,,,ChIJhXCJzA4B2kcR8OLBu6gcDgQ,2022-01-01,-48,-45,11,-52,-56,11
+GB,United Kingdom,Norfolk,King's Lynn and West Norfolk District,,,,ChIJM29quByK10cRAOPBu6gcDgQ,2022-01-01,-52,-56,25,-64,-49,12
+GB,United Kingdom,Norfolk,North Norfolk District,,,,ChIJIdKngYhn10cREOPBu6gcDgQ,2022-01-01,-5,-39,96,-17,-44,9
+GB,United Kingdom,Norfolk,Norwich,,,,ChIJ_dJhnG_h2UcRwOLBu6gcDgQ,2022-01-01,-72,-54,27,-79,-44,9
+GB,United Kingdom,Norfolk,South Norfolk District,,,,ChIJASqpVmTv2UcRIOPBu6gcDgQ,2022-01-01,-60,-49,-8,-63,-53,10
+GB,United Kingdom,North Ayrshire Council,,,GB-NAY,,ChIJp_JHoX3BiUgRgLNCBhpoDAM,2022-01-01,-79,-63,18,-70,-52,13
+GB,United Kingdom,North East Lincolnshire,,,GB-NEL,,ChIJJ28lguuEeEgR4KBv7Z75DAM,2022-01-01,-62,-57,17,-43,-50,11
+GB,United Kingdom,North Lanarkshire,,,GB-NLK,,ChIJXYIxhgFsiEgRU5MEdnHLRng,2022-01-01,-84,-69,,-80,-54,13
+GB,United Kingdom,North Lincolnshire,,,GB-NLN,,ChIJIUNmHbvveEgRgKJv7Z75DAM,2022-01-01,-64,-57,-11,-66,-55,11
+GB,United Kingdom,North Somerset,,,GB-NSM,,ChIJddC0Ns3wcUgR4J-Z1COLDQM,2022-01-01,-56,-47,36,-56,-44,11
+GB,United Kingdom,North Yorkshire,,,GB-NYK,,ChIJ8WWY4UDDeEgRt5-VyBki4MM,2022-01-01,-49,-50,25,-45,-57,11
+GB,United Kingdom,North Yorkshire,Borough of Harrogate,,,,ChIJDXSBD0urfkgRAONs7Z75DAQ,2022-01-01,-58,-54,8,-47,-56,11
+GB,United Kingdom,North Yorkshire,Craven District,,,,ChIJQ5VMGRCKe0gR4OJs7Z75DAQ,2022-01-01,-41,-47,41,-36,-64,11
+GB,United Kingdom,North Yorkshire,Hambleton District,,,,ChIJWZU53V-3fkgRfH779stbRnY,2022-01-01,-62,-57,-9,-64,-59,10
+GB,United Kingdom,North Yorkshire,Richmondshire District,,,,ChIJXRouQGYXfEgREONs7Z75DAQ,2022-01-01,-47,-48,27,14,-59,
+GB,United Kingdom,North Yorkshire,Ryedale District,,,,ChIJeQmbNyTWfkgRIONs7Z75DAQ,2022-01-01,-42,-53,0,-51,-65,11
+GB,United Kingdom,North Yorkshire,Scarborough District,,,,ChIJSdScrlcjf0gRMONs7Z75DAQ,2022-01-01,-31,-42,75,-50,-48,10
+GB,United Kingdom,North Yorkshire,Selby,,,,ChIJRzjbpCs8eUgRQONs7Z75DAQ,2022-01-01,-59,-55,29,-64,-62,11
+GB,United Kingdom,Northamptonshire,,,GB-NTH,,ChIJBUaqzH0H2EcR9rx5rVrxKP4,2022-01-01,-65,-58,-41,-60,-49,11
+GB,United Kingdom,Northamptonshire,Borough of Kettering,,,,ChIJ0WE1jAyed0gRsOXCu6gcDgQ,2022-01-01,-63,-53,,-68,-54,11
+GB,United Kingdom,Northamptonshire,Borough of Wellingborough,,,,ChIJ84zARzKhd0gR4OXCu6gcDgQ,2022-01-01,-73,-61,8,-74,-58,10
+GB,United Kingdom,Northamptonshire,Corby District,,,,ChIJL2biQpacd0gRkOXCu6gcDgQ,2022-01-01,-68,-66,-21,-9,-57,11
+GB,United Kingdom,Northamptonshire,Daventry District,,,,ChIJEeZnlagTd0gRoOXCu6gcDgQ,2022-01-01,-59,-49,-10,-47,-52,11
+GB,United Kingdom,Northamptonshire,East Northamptonshire,,,,ChIJJcl6pUuRd0gRUOfCu6gcDgQ,2022-01-01,-58,-65,-3,-74,-46,11
+GB,United Kingdom,Northamptonshire,Northampton District,,,,ChIJbwMro9YOd0gRwOXCu6gcDgQ,2022-01-01,-68,-60,-66,-66,-49,11
+GB,United Kingdom,Northamptonshire,South Northamptonshire District,,,,ChIJpa0eDZ4bd0gR0OXCu6gcDgQ,2022-01-01,-60,-63,-24,-68,-51,11
+GB,United Kingdom,Northumberland,,,GB-NBL,,ChIJzWRvDH6FfUgRmcRi5Pzuur8,2022-01-01,-47,-50,23,-64,-43,10
+GB,United Kingdom,Nottingham,,,GB-NGM,,ChIJ2d-4ZifCeUgRwJ_Du6gcDgM,2022-01-01,-75,-60,41,-73,-52,11
+GB,United Kingdom,Nottinghamshire,,,GB-NTT,,ChIJzXkHOdIyeEgREinv5XDJr1Q,2022-01-01,-63,-57,4,-63,-48,11
+GB,United Kingdom,Nottinghamshire,Ashfield District,,,,ChIJP_vJ-qyVeUgRsOTCu6gcDgQ,2022-01-01,-68,-64,19,-73,-53,11
+GB,United Kingdom,Nottinghamshire,Bassetlaw District,,,,ChIJa29y-luoeUgRYOfCu6gcDgQ,2022-01-01,-63,-59,5,-54,-49,11
+GB,United Kingdom,Nottinghamshire,Broxtowe District,,,,ChIJLy42lcnreUgRwOTCu6gcDgQ,2022-01-01,-64,-57,16,-60,-51,11
+GB,United Kingdom,Nottinghamshire,Gedling District,,,,ChIJJzAwvrvAeUgRmgMbLTIYG7g,2022-01-01,-57,-58,44,-68,-57,12
+GB,United Kingdom,Nottinghamshire,Mansfield District,,,,ChIJfQb4pQ69eUgR4OTCu6gcDgQ,2022-01-01,-67,-57,-28,-78,-48,11
+GB,United Kingdom,Nottinghamshire,Newark and Sherwood District,,,,ChIJ9RuEer62eUgRcOfCu6gcDgQ,2022-01-01,-58,-54,-1,-62,-47,11
+GB,United Kingdom,Nottinghamshire,Rushcliffe District,,,,ChIJ68w-n6rFeUgR8OTCu6gcDgQ,2022-01-01,-55,-55,0,-70,-49,11
+GB,United Kingdom,Oxfordshire,,,GB-OXF,,ChIJ5xOOaNPUcEgRUY89nbaaqW8,2022-01-01,-62,-57,-26,-57,-47,11
+GB,United Kingdom,Oxfordshire,Cherwell District,,,,ChIJq11ooOHYdkgREIqX1COLDQQ,2022-01-01,-58,-52,-26,-50,-51,12
+GB,United Kingdom,Oxfordshire,Oxford,,,,ChIJqQsoql3BdkgRIIqX1COLDQQ,2022-01-01,-67,-64,-52,-67,-41,10
+GB,United Kingdom,Oxfordshire,South Oxfordshire District,,,,ChIJPX9mJvaUdkgRMIqX1COLDQQ,2022-01-01,-58,-62,-13,-48,-52,10
+GB,United Kingdom,Oxfordshire,Vale of White Horse District,,,,ChIJTd6bz-m1dkgRQIqX1COLDQQ,2022-01-01,-57,-56,-23,-77,-55,10
+GB,United Kingdom,Oxfordshire,West Oxfordshire District,,,,ChIJDaEJrH3NdkgRUIqX1COLDQQ,2022-01-01,-60,-52,20,-66,-48,11
+GB,United Kingdom,Pembrokeshire,,,GB-PEM,,ChIJ58ydyqDQaEgRROFYyT8xOlk,2022-01-01,-51,-39,63,-57,-41,10
+GB,United Kingdom,Perth and Kinross,,,GB-PKN,,ChIJFysl40uiiEgRwLBCBhpoDAM,2022-01-01,-81,-72,-9,-69,-61,13
+GB,United Kingdom,Peterborough,,,GB-PTE,,ChIJL2LxlyTxd0gRcJ_Du6gcDgM,2022-01-01,-70,-57,,-59,-55,11
+GB,United Kingdom,Plymouth,,,GB-PLY,,ChIJ0bg6FOjsbEgRcJ6VP0H0EAM,2022-01-01,-67,-60,15,-63,-46,10
+GB,United Kingdom,Portsmouth,,,GB-POR,,ChIJ5yrWSmhddEgRwJ7toi2uDgM,2022-01-01,-58,-55,19,-55,-45,10
+GB,United Kingdom,Powys,,,GB-POW,,ChIJQ0SL-jBRZUgR1eL1ZLry8Vg,2022-01-01,-63,-56,11,-69,-52,11
+GB,United Kingdom,Reading,,,GB-RDG,,ChIJAWJESQqbdkgR8J7toi2uDgM,2022-01-01,-69,-57,-35,-63,-41,10
+GB,United Kingdom,Redcar and Cleveland,,,GB-RCC,,ChIJPWx3MfrkfkgR0KBv7Z75DAM,2022-01-01,-53,-54,73,-60,-49,11
+GB,United Kingdom,Renfrewshire,,,GB-RFW,,ChIJMWXTLcFIiEgRgcDTu3b7jX0,2022-01-01,-86,-71,26,,-57,14
+GB,United Kingdom,Rhondda Cynon Taff,,,GB-RCT,,ChIJ30vwO9g9bkgR8KGZ1COLDQM,2022-01-01,-62,-51,-28,-78,-47,12
+GB,United Kingdom,Rutland,,,GB-RUT,,ChIJl4pDuIB4d0gRy_G7Ifl8M_0,2022-01-01,-54,,,,-58,
+GB,United Kingdom,Scottish Borders,,,GB-SCB,,ChIJ-WTiG7WGh0gR8LJCBhpoDAM,2022-01-01,-69,-58,0,-68,-53,12
+GB,United Kingdom,Shropshire,,,GB-SHR,,ChIJLx3o1zdNZUgRIvHNaPOeniE,2022-01-01,-64,-54,4,-64,-49,11
+GB,United Kingdom,Shropshire,Telford and Wrekin,,GB-TFW,,ChIJoXQ7uHWBekgRQKBv7Z75DAM,2022-01-01,-64,-57,22,-72,-42,11
+GB,United Kingdom,Slough,,,GB-SLG,,ChIJ35sYgq96dkgRkJ_toi2uDgM,2022-01-01,-57,-56,-17,-60,-47,10
+GB,United Kingdom,Somerset,,,GB-SOM,,ChIJv5RA1diJbUgRmRrjBMtJxLg,2022-01-01,-60,-48,1,-44,-51,10
+GB,United Kingdom,Somerset,Mendip District,,,,ChIJ_bsxcF8kckgRYHPsoi2uDgQ,2022-01-01,-60,-46,0,-68,-45,11
+GB,United Kingdom,Somerset,Sedgemoor,,,,ChIJsyBneSoEckgRcHPsoi2uDgQ,2022-01-01,-53,-41,31,-28,-49,11
+GB,United Kingdom,Somerset,South Somerset District,,,,ChIJJ7HJZ9IUckgRgHPsoi2uDgQ,2022-01-01,-66,-60,-14,-57,-58,11
+GB,United Kingdom,Somerset,Taunton Deane,,,,ChIJD9MwTHrzbUgRkHPsoi2uDgQ,2022-01-01,-64,-47,5,-49,-48,10
+GB,United Kingdom,Somerset,West Somerset District,,,,ChIJnb3eJQPobUgRoHPsoi2uDgQ,2022-01-01,-37,,-17,-16,-50,
+GB,United Kingdom,South Ayrshire Council,,,GB-SAY,,ChIJhV6xcNBwYkgRoLNCBhpoDAM,2022-01-01,-79,-66,13,-71,-54,12
+GB,United Kingdom,South Gloucestershire,,,GB-SGC,,ChIJ1cbMfWqacUgRAKCZ1COLDQM,2022-01-01,-64,-51,15,-69,-41,11
+GB,United Kingdom,South Lanarkshire,,,GB-SLK,,ChIJfUCdedcaiEgRsLNCBhpoDAM,2022-01-01,-81,-71,39,-73,-50,13
+GB,United Kingdom,South Yorkshire,,,,,ChIJL-13sqjieEgRmY8MZJxnEDo,2022-01-01,-65,-57,-8,-69,-50,11
+GB,United Kingdom,South Yorkshire,Borough of Barnsley,,GB-BNS,,ChIJ6eBAp5B8eUgRcOJs7Z75DAQ,2022-01-01,-69,-62,-6,-68,-52,12
+GB,United Kingdom,South Yorkshire,Doncaster District,,GB-DNC,,ChIJ1Ta-r20OeUgRgOI-cTfRDwQ,2022-01-01,-62,-58,-1,-71,-54,12
+GB,United Kingdom,South Yorkshire,Rotherham District,,GB-ROT,,ChIJRzoY57x1eUgRkOJs7Z75DAQ,2022-01-01,-53,-58,7,-64,-51,11
+GB,United Kingdom,South Yorkshire,Sheffield District,,GB-SHF,,ChIJNd7_bBN_eUgRoOJs7Z75DAQ,2022-01-01,-67,-56,-12,-65,-48,11
+GB,United Kingdom,Southampton,,,GB-STH,,ChIJtxiG86x2dEgR0J7toi2uDgM,2022-01-01,-72,-57,-34,-64,-53,11
+GB,United Kingdom,Southend-on-Sea,,,GB-SOS,,ChIJ546Ao2nY2EcRYJ_Du6gcDgM,2022-01-01,-51,-46,54,-60,-52,11
+GB,United Kingdom,Staffordshire,,,GB-STS,,ChIJ_dclMtSAcEgRzqVXT1iTEEs,2022-01-01,-60,-57,12,-53,-53,11
+GB,United Kingdom,Staffordshire,Cannock Chase District,,,,ChIJSVRZZbgKekgRQDZt7Z75DAQ,2022-01-01,-51,-56,89,-50,-51,12
+GB,United Kingdom,Staffordshire,East Staffordshire District,,,,ChIJSRdpaHEQekgRUDZt7Z75DAQ,2022-01-01,-66,-62,23,-71,-53,11
+GB,United Kingdom,Staffordshire,Lichfield District,,,,ChIJNZQoYPEHekgRYDZt7Z75DAQ,2022-01-01,-68,-59,-14,-64,-61,12
+GB,United Kingdom,Staffordshire,Newcastle-under-Lyme District,,,,ChIJoTJcDTNnekgRcDZpWLxiEAQ,2022-01-01,-63,-55,34,-43,-52,12
+GB,United Kingdom,Staffordshire,South Staffordshire District,,,,ChIJzbBMxISccEgRgDZt7Z75DAQ,2022-01-01,-57,-49,37,-38,-49,12
+GB,United Kingdom,Staffordshire,Stafford District,,,,ChIJH00L9CVwekgRkDZt7Z75DAQ,2022-01-01,-56,-55,-20,-61,-47,11
+GB,United Kingdom,Staffordshire,Staffordshire Moorlands District,,,,ChIJUTVrvaA_ekgRoDZt7Z75DAQ,2022-01-01,-53,-50,-2,-50,-60,11
+GB,United Kingdom,Staffordshire,Tamworth District,,,,ChIJ03tcDuGrcEgRMDZt7Z75DAQ,2022-01-01,-63,-64,,-57,-64,11
+GB,United Kingdom,Stirling,,,GB-STG,,ChIJvcYk6pRiiEgRU8UgjtzDpV4,2022-01-01,-83,-69,-8,-77,-61,
+GB,United Kingdom,Stockton-on-Tees,,,GB-STT,,ChIJMU7U5h6TfkgRsKBv7Z75DAM,2022-01-01,-68,-56,2,-73,-50,11
+GB,United Kingdom,Stoke-on-Trent,,,GB-STE,,ChIJLSYOtdtpekgRMKBv7Z75DAM,2022-01-01,-67,-49,7,-69,-50,11
+GB,United Kingdom,Suffolk,,,GB-SFK,,ChIJ4RrP7mIV2EcR-mrZ7pFDz7g,2022-01-01,-61,-50,21,-60,-51,11
+GB,United Kingdom,Suffolk,Babergh District,,,,ChIJwwRu_Iao2UcRoOPBu6gcDgQ,2022-01-01,-61,-54,17,-54,-50,10
+GB,United Kingdom,Suffolk,Ipswich,,,,ChIJMSIxzIGf2UcRkOPBu6gcDgQ,2022-01-01,-73,-54,11,-59,-51,10
+GB,United Kingdom,Suffolk,Mid Suffolk District,,,,ChIJ4fxAxFu82UcRwOPBu6gcDgQ,2022-01-01,-58,-30,9,-53,-54,10
+GB,United Kingdom,Suffolk,Suffolk Coastal District,,,,ChIJ3cTJD6iF2UcR4OPBu6gcDgQ,2022-01-01,-30,-45,58,-54,-48,11
+GB,United Kingdom,Suffolk,Waveney District,,,,ChIJM0bKAeT12UcR8OPBu6gcDgQ,2022-01-01,-52,-51,17,-59,-52,12
+GB,United Kingdom,Suffolk,West Suffolk District,,,,ChIJsytpv9JF2EcRndAbE9CeKNw,2022-01-01,-65,-53,16,-69,-49,10
+GB,United Kingdom,Surrey,,,GB-SRY,,ChIJgSUS1VpV30cRd0IDXESDUtU,2022-01-01,-61,-52,-1,-53,-43,10
+GB,United Kingdom,Surrey,Borough of Guildford,,,,ChIJEaciRq_QdUgRcGrsoi2uDgQ,2022-01-01,-65,-41,-9,-61,-42,9
+GB,United Kingdom,Surrey,Borough of Waverley,,,,ChIJW6fCEhXOdUgRgE3toi2uDgQ,2022-01-01,-62,-53,6,-68,-47,9
+GB,United Kingdom,Surrey,Borough of Woking,,,,ChIJF1yRbSzYdUgRoEvtoi2uDgQ,2022-01-01,-66,-54,-35,-64,-45,10
+GB,United Kingdom,Surrey,Elmbridge,,,,ChIJmzDSaFx1dkgRIGnsoi2uDgQ,2022-01-01,-58,-55,21,-35,-42,11
+GB,United Kingdom,Surrey,Epsom and Ewell District,,,,ChIJCcdQ8g3idUgRMGnsoi2uDgQ,2022-01-01,-68,-47,10,-66,-53,11
+GB,United Kingdom,Surrey,Mole Valley District,,,,ChIJ8WjeRF_mdUgRgGrsoi2uDgQ,2022-01-01,-53,-56,-1,-63,-48,10
+GB,United Kingdom,Surrey,Reigate and Banstead District,,,,ChIJTT5BobrkdUgRQGnsoi2uDgQ,2022-01-01,-57,-56,25,-50,-42,10
+GB,United Kingdom,Surrey,Runnymede District,,,,ChIJ6xYC6Ax3dkgRUGnsoi2uDgQ,2022-01-01,-50,-55,7,-64,-51,11
+GB,United Kingdom,Surrey,Spelthorne District,,,,ChIJwxkkfgZ0dkgRYGnsoi2uDgQ,2022-01-01,-58,-51,24,-61,-44,10
+GB,United Kingdom,Surrey,Surrey Heath District,,,,ChIJi7ZcvvzVdUgRkGrsoi2uDgQ,2022-01-01,-62,-53,,-70,-42,11
+GB,United Kingdom,Surrey,Tandridge District,,,,ChIJox1Ibh75dUgRoGrsoi2uDgQ,2022-01-01,-59,-49,-1,-50,-52,11
+GB,United Kingdom,Swansea,,,GB-SWA,,ChIJBZwG_lfybkgRQKKZ1COLDQM,2022-01-01,-64,-55,17,-72,-50,12
+GB,United Kingdom,Swindon,,,GB-SWD,,ChIJaX2llQdGcUgRIKCZ1COLDQM,2022-01-01,-63,-59,7,-69,-48,11
+GB,United Kingdom,Thurrock,,,GB-THR,,ChIJE2okxgPI2EcRUJ_toi2uDgM,2022-01-01,-64,-61,26,-61,-57,13
+GB,United Kingdom,Torbay,,,GB-TOB,,ChIJ1yHi6BYQbUgRgJ7toi2uDgM,2022-01-01,-51,-41,11,-56,-41,10
+GB,United Kingdom,Torfaen Principal Area,,,GB-TOF,,ChIJY07_vRrecUgRVBP_CJzWakI,2022-01-01,-68,-60,,-75,-50,12
+GB,United Kingdom,Tyne and Wear,,,,,ChIJzWRvDH6FfUgRhdQ-O-5jKG0,2022-01-01,-65,-59,-2,-77,-50,11
+GB,United Kingdom,Tyne and Wear,Metropolitan Borough of Gateshead,,GB-GAT,,ChIJHXRd7jZ4fkgR8Lds7Z75DAQ,2022-01-01,-69,-63,89,-83,-53,11
+GB,United Kingdom,Tyne and Wear,Newcastle upon Tyne District,,GB-NET,,ChIJs6q4o5V2fkgRALhs7Z75DAQ,2022-01-01,-73,-59,7,-76,-46,11
+GB,United Kingdom,Tyne and Wear,North Tyneside District,,GB-NTY,,ChIJPwryW_txfkgR0Lds7Z75DAQ,2022-01-01,-50,-55,-32,-80,-46,11
+GB,United Kingdom,Tyne and Wear,South Tyneside,,GB-STY,,ChIJl4UTFHJvfkgR4Lds7Z75DAQ,2022-01-01,-48,-61,-1,-71,-50,11
+GB,United Kingdom,Tyne and Wear,Sunderland District,,GB-SND,,ChIJt8wLnoZkfkgRELhs7Z75DAQ,2022-01-01,-66,-61,6,-76,-52,11
+GB,United Kingdom,Vale of Glamorgan,,,GB-VGL,,ChIJ2wmwV-gNbkgREKKZ1COLDQM,2022-01-01,-49,-46,24,-62,-55,12
+GB,United Kingdom,Warrington,,,GB-WRT,,ChIJMWQmW4MBe0gRYKBv7Z75DAM,2022-01-01,-69,-58,39,-69,-50,11
+GB,United Kingdom,Warwickshire,,,GB-WAR,,ChIJc3FBGy2UcEgRInoraUpRIAo,2022-01-01,-62,-55,-10,-60,-45,11
+GB,United Kingdom,Warwickshire,North Warwickshire District,,,,ChIJVQTK-QKtcEgRkOTCu6gcDgQ,2022-01-01,-55,-43,-63,-68,-52,12
+GB,United Kingdom,Warwickshire,Nuneaton and Bedworth,,,,ChIJJUrkU3VOd0gRMOTCu6gcDgQ,2022-01-01,-69,-57,,-71,-44,11
+GB,United Kingdom,Warwickshire,Rugby District,,,,ChIJDaHf1QNHd0gR8OXCu6gcDgQ,2022-01-01,-61,-56,5,-38,-55,11
+GB,United Kingdom,Warwickshire,Stratford-on-Avon District,,,,ChIJ8RKIiZLScEgRoIqX1COLDQQ,2022-01-01,-54,-60,2,-51,-40,11
+GB,United Kingdom,Warwickshire,Warwick,,,,ChIJYXIfDSLLcEgRsIqX1COLDQQ,2022-01-01,-63,-58,-7,-78,-34,10
+GB,United Kingdom,West Berkshire,,,GB-WBK,,ChIJ6fK_v7WldkgR4J7toi2uDgM,2022-01-01,-61,-57,-27,-38,-42,10
+GB,United Kingdom,West Dunbartonshire Council,,,GB-WDU,,ChIJKxHgqUxSiEgRILNCBhpoDAM,2022-01-01,-77,-73,,-79,-54,13
+GB,United Kingdom,West Lothian,,,GB-WLN,,ChIJ__YFwxTFh0gR8-_8imq7VJ8,2022-01-01,-86,-68,,,-54,13
+GB,United Kingdom,West Midlands,,,,,ChIJ_dclMtSAcEgR5_O7OttvyI0,2022-01-01,-62,-53,-24,-64,-47,11
+GB,United Kingdom,West Midlands,Birmingham District,,GB-BIR,,ChIJdxO4HGC7cEgR0IiX1COLDQQ,2022-01-01,-60,-49,-17,-62,-41,10
+GB,United Kingdom,West Midlands,City of Wolverhampton District,,GB-WLV,,ChIJpXKzEo-bcEgREImX1COLDQQ,2022-01-01,-66,-56,-22,-69,-52,12
+GB,United Kingdom,West Midlands,Coventry,,GB-COV,,ChIJc1uq9aFLd0gRIImX1COLDQQ,2022-01-01,-65,-59,-22,-67,-53,11
+GB,United Kingdom,West Midlands,Dudley District,,GB-DUD,,ChIJV3gbqbiQcEgR4IiX1COLDQQ,2022-01-01,-62,-54,-32,-64,-52,12
+GB,United Kingdom,West Midlands,Metropolitan Borough of Solihull,,GB-SOL,,ChIJJ_OPgSu3cEgRMImX1COLDQQ,2022-01-01,-67,-60,-28,-68,-41,11
+GB,United Kingdom,West Midlands,Sandwell District,,GB-SAW,,ChIJbw4g4B-YcEgR8IiX1COLDQQ,2022-01-01,-56,-51,-29,-57,-50,11
+GB,United Kingdom,West Midlands,Walsall District,,GB-WLL,,ChIJt0ZYIvehcEgRAImX1COLDQQ,2022-01-01,-63,-56,-14,-66,-48,11
+GB,United Kingdom,West Sussex,,,GB-WSX,,ChIJf5cWR0NY30cRwn257Oarqa4,2022-01-01,-57,-46,14,-61,-47,10
+GB,United Kingdom,West Sussex,Adur District,,,,ChIJyU9ZVl-XdUgRkE3toi2uDgQ,2022-01-01,-49,-43,79,-57,-37,10
+GB,United Kingdom,West Sussex,Arun District,,,,ChIJ2WCM2PGvdUgRoE3toi2uDgQ,2022-01-01,-52,-47,3,-58,-35,11
+GB,United Kingdom,West Sussex,Chichester District,,,,ChIJrauF82qzdUgRsE3toi2uDgQ,2022-01-01,-55,-41,-4,-66,-45,9
+GB,United Kingdom,West Sussex,Crawley,,,,ChIJNRVmdiXudUgRsEvtoi2uDgQ,2022-01-01,-64,-51,32,-63,-52,10
+GB,United Kingdom,West Sussex,Horsham District,,,,ChIJDVDst_G_dUgRwE3toi2uDgQ,2022-01-01,-63,-48,13,-66,-49,10
+GB,United Kingdom,West Sussex,Mid Sussex District,,,,ChIJYfpuR66MdUgR0E3toi2uDgQ,2022-01-01,-57,-53,26,-52,-55,10
+GB,United Kingdom,West Sussex,Worthing,,,,ChIJyesw-7iidUgRUE3toi2uDgQ,2022-01-01,-54,-46,49,-58,-52,10
+GB,United Kingdom,West Yorkshire,,,,,ChIJ8RhrwDkTeUgRlMFjPKK1F2U,2022-01-01,-62,-53,14,-67,-48,11
+GB,United Kingdom,West Yorkshire,Bradford,,GB-BRD,,ChIJ1zMpIZrle0gRIOJoWLxiEAQ,2022-01-01,-53,-49,41,-67,-47,10
+GB,United Kingdom,West Yorkshire,Calderdale,,GB-CLD,,ChIJ3V8S0AnCe0gRMOJoWLxiEAQ,2022-01-01,-63,-57,-20,-65,-53,12
+GB,United Kingdom,West Yorkshire,Leeds District,,GB-LDS,,ChIJYXT0cPtbeUgRUOJs7Z75DAQ,2022-01-01,-64,-54,23,-67,-48,11
+GB,United Kingdom,West Yorkshire,Metropolitan Borough of Kirklees,,GB-KIR,,ChIJreGSsnDce0gRQOJoWLxiEAQ,2022-01-01,-58,-53,17,-70,-49,11
+GB,United Kingdom,West Yorkshire,Wakefield District,,GB-WKF,,ChIJ93P9tsBoeUgRYOJs7Z75DAQ,2022-01-01,-64,-53,1,-65,-48,11
+GB,United Kingdom,Wiltshire,,,GB-WIL,,ChIJKcgiicI3cUgRNJe9kfg0iGQ,2022-01-01,-65,-52,-5,-54,-50,10
+GB,United Kingdom,Windsor and Maidenhead,,,GB-WNM,,ChIJP3x1afJ8dkgRIJ_toi2uDgM,2022-01-01,-57,-56,-7,-56,-52,11
+GB,United Kingdom,Wokingham,,,GB-WOK,,ChIJydxwpfeEdkgREJ_toi2uDgM,2022-01-01,-54,-59,-5,-64,-49,11
+GB,United Kingdom,Worcestershire,,,GB-WOR,,ChIJnRlsd1hCcEgRB-wrJjlv8W4,2022-01-01,-61,-55,-5,-49,-53,11
+GB,United Kingdom,Worcestershire,Bromsgrove District,,,,ChIJXRGEQjyVcEgRYIqX1COLDQQ,2022-01-01,-56,-54,-8,-9,-54,11
+GB,United Kingdom,Worcestershire,Malvern Hills District,,,,ChIJg9w6bSpYcEgR8IqX1COLDQQ,2022-01-01,-52,-57,4,-60,-56,11
+GB,United Kingdom,Worcestershire,Redditch District,,,,ChIJubi5O-rBcEgRcIqX1COLDQQ,2022-01-01,-71,-49,-44,-75,-63,12
+GB,United Kingdom,Worcestershire,Worcester District,,,,ChIJG0PYOV_wcEgRgIqX1COLDQQ,2022-01-01,-66,-57,4,-71,-51,11
+GB,United Kingdom,Worcestershire,Wychavon District,,,,ChIJ0UgEHITocEgRkIqX1COLDQQ,2022-01-01,-55,-56,1,-37,-53,12
+GB,United Kingdom,Worcestershire,Wyre Forest District,,,,ChIJVQnkg4CLcEgRcDVt7Z75DAQ,2022-01-01,-60,-50,-12,-73,-53,11
+GB,United Kingdom,Wrexham Principal Area,,,GB-WRX,,ChIJxcQKOQS4ekgRUKGZ1COLDQM,2022-01-01,-67,-60,5,-66,-47,12
+GB,United Kingdom,York,,,GB-YOR,,ChIJh-IigLwxeUgRAKFv7Z75DAM,2022-01-01,-61,-54,-36,-66,-49,11

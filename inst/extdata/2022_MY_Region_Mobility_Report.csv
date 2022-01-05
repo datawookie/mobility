@@ -1,0 +1,18 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+MY,Malaysia,,,,,,ChIJrzBnX5fTNDAR2BwhKJOWRQc,2022-01-01,-11,14,8,-16,-36,11
+MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,ChIJ0-cIvSo2zDERmWzYQPUfLiM,2022-01-01,-19,6,-6,-51,-45,11
+MY,Malaysia,Johor,,,MY-01,,ChIJn9vtiTLMxDERtK0Mv5sya3s,2022-01-01,-21,13,-27,-10,-27,12
+MY,Malaysia,Kedah,,,MY-02,,ChIJoUVAXxN2STARpE6rChGD5Gw,2022-01-01,0,27,34,55,-17,8
+MY,Malaysia,Kelantan,,,MY-03,,ChIJWRr6ZHLZtTER8LyfSrt7yW4,2022-01-01,20,15,32,-6,-4,13
+MY,Malaysia,Labuan Federal Territory,,,MY-15,,ChIJjyIiA74ZIzIRP5TEnSjUEgs,2022-01-01,-12,-2,-4,-20,-44,7
+MY,Malaysia,Malacca,,,MY-04,,ChIJd3J6lejk0TERaU5U1OUmM5g,2022-01-01,9,28,40,8,-30,10
+MY,Malaysia,Negeri Sembilan,,,MY-05,,ChIJK9odZW_nzTERSQIXvC9ITis,2022-01-01,-8,21,24,3,-30,10
+MY,Malaysia,Pahang,,,MY-06,,ChIJixCdiOIExTERRqhbfnbrOYs,2022-01-01,-1,24,-2,4,-29,12
+MY,Malaysia,Penang,,,MY-07,,ChIJ3ZBTCQOUSjARP2OP86UFwyk,2022-01-01,-8,20,7,-21,-38,11
+MY,Malaysia,Perak,,,MY-08,,ChIJHUBEL_y1NDAR0lr-XPDW2aI,2022-01-01,1,19,28,38,-36,10
+MY,Malaysia,Perlis,,,MY-09,,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,2022-01-01,38,22,,54,-19,7
+MY,Malaysia,Putrajaya,,,MY-16,,ChIJ94azHxu2zTERCFb0lYf5LM8,2022-01-01,9,101,21,-48,-32,5
+MY,Malaysia,Sabah,,,MY-12,,ChIJnYq8yHFRFTIRB7OWbEMenYg,2022-01-01,-15,7,0,-33,-46,11
+MY,Malaysia,Sarawak,,,MY-13,,ChIJR25LAQ8q9jERABP-xW6lWvI,2022-01-01,-10,12,6,-22,-44,10
+MY,Malaysia,Selangor,,,MY-10,,ChIJXwTrzVJCzDERuftdIeG-4SY,2022-01-01,-14,11,-20,-36,-45,11
+MY,Malaysia,Terengganu,,,MY-11,,ChIJV9P7V3XdtjER_qPy7a_lj2o,2022-01-01,14,22,27,-5,-6,10

@@ -1,0 +1,11 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+ZA,South Africa,,,,,,ChIJURLu2YmmNBwRoOikHwxjXeg,2022-01-01,-35,-26,23,-33,-46,14
+ZA,South Africa,Eastern Cape,,,ZA-EC,,ChIJu5znKjRWYh4RkqxyqdKUajo,2022-01-01,-35,-13,51,-15,-50,13
+ZA,South Africa,Free State,,,ZA-FS,,ChIJGRTWM2HFjx4RRwqiTVWK9e0,2022-01-01,-36,-23,23,-16,-45,10
+ZA,South Africa,Gauteng,,,ZA-GP,,ChIJn3cRVJUSlR4R4jhUy8fnnm0,2022-01-01,-45,-35,-10,-35,-47,12
+ZA,South Africa,KwaZulu-Natal,,,ZA-KZN,,ChIJVQ7iWQ4Q8R4Rjdnka6d4YYI,2022-01-01,-38,-27,49,-38,-51,17
+ZA,South Africa,Limpopo,,,ZA-LP,,ChIJwTDNNhTJxh4RStzIZh49iWI,2022-01-01,5,-5,96,39,-38,10
+ZA,South Africa,Mpumalanga,,,ZA-MP,,ChIJPSAvTvpg6h4RhGvk9A3foGQ,2022-01-01,-23,-8,72,20,-41,13
+ZA,South Africa,North West,,,ZA-NW,,ChIJ612A6EIKmB4R_5BkMf6qLUc,2022-01-01,-22,-24,37,17,-41,13
+ZA,South Africa,Northern Cape,,,ZA-NC,,ChIJbUtwf_UhJBwRkEyPkNb4AAM,2022-01-01,-28,-28,25,,-35,8
+ZA,South Africa,Western Cape,,,ZA-WC,,ChIJ841peohdzB0Ri6I2IY95juk,2022-01-01,-36,-25,6,-33,-44,15

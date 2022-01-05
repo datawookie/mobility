@@ -1,0 +1,5 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-01,-35,-34,9,-24,-36,-3
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-01,-40,-54,,,-41,
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-01,-37,-30,13,-30,-39,-1
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-01,,,8,,,

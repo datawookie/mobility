@@ -1,0 +1,58 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+TZ,Tanzania,,,,,,ChIJEaFpSDFRSxgRMMTBSzEXWog,2022-01-01,21,15,35,6,-38,6
+TZ,Tanzania,Arusha Region,,,TZ-01,,ChIJAXA6kENnMRgRU0ESZivtD9c,2022-01-01,-6,5,-12,-31,-50,6
+TZ,Tanzania,Arusha Region,Arusha Rural,,,,ChIJ9UTLZTofNxgRA9SMJ9w9hMc,2022-01-01,,,,-71,-53,
+TZ,Tanzania,Arusha Region,Arusha Urban,,,,ChIJD1jIXNsDNxgRx9FX1mMTQ0k,2022-01-01,-8,7,-32,-34,-55,9
+TZ,Tanzania,Arusha Region,Meru,,,,ChIJ-w0-lYUSNxgRBFzZWTCtBZg,2022-01-01,,,,-2,-53,
+TZ,Tanzania,Dar es Salam,,,,,ChIJAdytM3ZJXBgRJbvL4QJNT2g,2022-01-01,26,-13,145,5,-44,8
+TZ,Tanzania,Dar es Salam,Ilala,,,,ChIJ4T98jzY2XBgRpD6SHb-wBdo,2022-01-01,-2,-43,48,2,-50,7
+TZ,Tanzania,Dar es Salam,Kinondoni,,,,ChIJ12XD3tT3XBgRX3b3GnhqSPU,2022-01-01,46,12,103,12,-44,9
+TZ,Tanzania,Dar es Salam,Temeke,,,,ChIJG9zxJlDWXRgRkQFFZ7R3gb0,2022-01-01,42,2,,-6,-37,9
+TZ,Tanzania,Dodoma Region,,,TZ-03,,ChIJmTQni0KQTRgRvxbk4f4cxeQ,2022-01-01,29,,,-1,-32,3
+TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,ChIJNXWI6DOYTRgR_BcGyT5rkek,2022-01-01,34,,,0,-34,7
+TZ,Tanzania,Geita Region,,,,,ChIJMW_y7KiNyBkR0kCKSRI-g48,2022-01-01,,,,,-34,
+TZ,Tanzania,Geita Region,Geita,,,,ChIJcVbxO1v-zhkR_0giUQO2F5Y,2022-01-01,,,,,-34,
+TZ,Tanzania,Iringa Region,,,TZ-04,,ChIJa1h2r4A9VBgReIwtX23PdcY,2022-01-01,,,,4,-36,
+TZ,Tanzania,Iringa Region,Iringa Urban,,,,ChIJs1yX3LwXVBgRukJxVCQlJs0,2022-01-01,,,,0,-34,
+TZ,Tanzania,Kagera Region,,,TZ-05,,ChIJFV7wwBYexRkRyfw7gpTnVEM,2022-01-01,,,,-42,-46,
+TZ,Tanzania,Kagera Region,Bukoba Urban,,,,ChIJUfsxaSaY0BkR-hRiSlIbRGc,2022-01-01,,,,-70,-40,
+TZ,Tanzania,Kigoma Region,,,TZ-08,,ChIJcanY8kvbuBkR89YN-OJ2-Ow,2022-01-01,,,,,-46,
+TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,ChIJVeyVxpAbvxkRyPcuwrgLWPQ,2022-01-01,,,,-38,-45,
+TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,ChIJTwPS81dqOBgRjZfI59mwNnA,2022-01-01,,,81,-6,-49,
+TZ,Tanzania,Kilimanjaro Region,Hai,,,,ChIJr-EP0zqaORgRpBMtCoQN5Bs,2022-01-01,,,,3,,
+TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,ChIJG91IZC65ORgRIZccVPM_pmw,2022-01-01,,,,,-40,
+TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,ChIJhzgiWg8vOBgRYFjRBlAj968,2022-01-01,17,,,-13,-51,
+TZ,Tanzania,Kilimanjaro Region,Same,,,,ChIJ1x8xS1qFRxgRabW7i-CQO68,2022-01-01,,,91,,,
+TZ,Tanzania,Mara Region,,,TZ-13,,ChIJFxN3JV4X0hkRi6G8DS6B5UU,2022-01-01,,,,1,-34,
+TZ,Tanzania,Mara Region,Musoma Urban,,,,ChIJfahAWP__0hkRlsPxs03DFoY,2022-01-01,,,,-49,-37,
+TZ,Tanzania,Mbeya Region,,,TZ-14,,ChIJB6_ZcUg_qhkROsljDneqkKU,2022-01-01,,,,2,-25,
+TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,ChIJj1txgsOfABkRbPmBfuP0oHk,2022-01-01,12,2,,0,-23,4
+TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,ChIJQT0dOfPQXBgRzffIXg9Ni3Q,2022-01-01,106,9,38,47,-3,0
+TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,ChIJRbxa9HwnXRgR-FWVDYY3kuI,2022-01-01,,-43,,40,10,-4
+TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,ChIJ9__0rHDZXBgRlm6EIgKgz9M,2022-01-01,111,73,50,58,-14,
+TZ,Tanzania,Morogoro Region,,,TZ-16,,ChIJ2RGBgXF1VxgR7WWIkGObZmI,2022-01-01,,,-11,24,-42,
+TZ,Tanzania,Morogoro Region,Kilosa,,,,ChIJawYXB0siUBgRPSc4GISeGtE,2022-01-01,,,-6,,,
+TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,ChIJq0K4TIZeWhgRQPT-ibCO2_A,2022-01-01,,,,27,-36,8
+TZ,Tanzania,Mtwara Region,,,TZ-17,,ChIJh2tgYShFjRgR9iOJFZ1KiI4,2022-01-01,,,,,-37,
+TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,ChIJa-MlQ31ajRgRRxobSSkkR1g,2022-01-01,,,,,-34,
+TZ,Tanzania,Mwanza Region,,,TZ-18,,ChIJOXOqJ8phzhkR-V7yRSNIthw,2022-01-01,8,-4,-41,6,-51,7
+TZ,Tanzania,Mwanza Region,Ilemela,,,,ChIJ-TWl-muezhkRc4Lz85TNrHk,2022-01-01,18,,,25,-45,
+TZ,Tanzania,Mwanza Region,Nyamagana,,,,ChIJaxrXc2WDzhkRtIQMJxQMfO4,2022-01-01,-6,,-63,-13,-54,10
+TZ,Tanzania,Njombe Region,,,,,ChIJFTcW2xsu_hgRq5rxdKYoSDw,2022-01-01,,,,,-35,
+TZ,Tanzania,Njombe Region,Njombe Urban,,,,ChIJzyGfbt83_hgRhX-jBGh0KJU,2022-01-01,,,,,-29,
+TZ,Tanzania,Pwani Region,,,TZ-19,,ChIJTYgfpn6RXBgRa9OdjCjBx6k,2022-01-01,,,,,-23,
+TZ,Tanzania,Pwani Region,Bagamoyo,,,,ChIJO1VjdOqPRBgRbMULfmZLx78,2022-01-01,,,,,-33,
+TZ,Tanzania,Pwani Region,Kibaha Urban,,,,ChIJ4bIpTrtmXBgRzeY09OCKwPU,2022-01-01,,,,,-28,
+TZ,Tanzania,Ruvuma Region,Songea Urban,,,,ChIJ2zv4FBSD-xgRcv0NEkqlt8o,2022-01-01,,,,,-35,
+TZ,Tanzania,Shinyanga Region,,,TZ-22,,ChIJyd5fAFTCyxkRGKDjqIYkY18,2022-01-01,,,,-11,-44,
+TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,ChIJTw5uBxa7yRkRh0OAoZS63NI,2022-01-01,,,,-26,-40,
+TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,ChIJ0VbFkY1tyRkRiUspGdN820E,2022-01-01,,,,,-42,
+TZ,Tanzania,Singida Region,,,TZ-23,,ChIJyV2IyiAqTRgRULt2ScfTO9A,2022-01-01,,,,,-35,
+TZ,Tanzania,Singida Region,Singida Urban,,,,ChIJz1yeZ0BLSxgRPo_NhXVO8c4,2022-01-01,,,,,-21,
+TZ,Tanzania,Tabora Region,,,TZ-24,,ChIJKwKucUGRthkRD2FL9XHxWjg,2022-01-01,,,,,-37,
+TZ,Tanzania,Tabora Region,Tabora Urban,,,,ChIJhUTAwRtHsRkRQGHRdcpTVjY,2022-01-01,,,,27,-42,
+TZ,Tanzania,Tanga Region,,,TZ-25,,ChIJkbIfw3fXQxgRucp3bOjRQV4,2022-01-01,,,,8,-45,
+TZ,Tanzania,Tanga Region,Lushoto,,,,ChIJQymBcBfFRhgRKQ_zdhPOYKY,2022-01-01,,,-59,,,
+TZ,Tanzania,Tanga Region,Tanga,,,,ChIJUeQ5NsHEQxgRf0-Cl2-YTNk,2022-01-01,,,,11,-47,
+TZ,Tanzania,Unguja South Region,,,TZ-11,,ChIJH8CxkWPfXBgREIik_fIrjcU,2022-01-01,,,53,,,
+TZ,Tanzania,Unguja South Region,Kati,,,,ChIJE8kDCYAmXRgRlg6jIYHBtrM,2022-01-01,,,50,,,
