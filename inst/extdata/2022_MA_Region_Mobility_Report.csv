@@ -1,5 +1,9 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-01,7,72,3,-5,-17,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-02,9,66,-2,-2,-1,5
 MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-01,7,44,-3,-12,-21,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-02,10,37,-6,-7,3,5
 MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-01,15,77,5,4,-17,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-02,12,60,-2,18,-7,4
 MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-01,-4,36,-24,-10,-25,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-02,-6,25,-39,-17,-10,6

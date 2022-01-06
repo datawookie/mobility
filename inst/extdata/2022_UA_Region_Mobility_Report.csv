@@ -1,3 +1,5 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 UA,Ukraine,,,,,,ChIJjw5wVMHZ0UAREED2iIQGAQA,2022-01-01,-53,-41,7,-45,-67,5
+UA,Ukraine,,,,,,ChIJjw5wVMHZ0UAREED2iIQGAQA,2022-01-02,-12,-6,18,-18,-33,0
 UA,Ukraine,,,Kiev Metropolitan Area,,,ChIJzYwQhKf_1EAR5PjP6COXiNw,2022-01-01,-56,-44,11,-50,-67,7
+UA,Ukraine,,,Kiev Metropolitan Area,,,ChIJzYwQhKf_1EAR5PjP6COXiNw,2022-01-02,-14,-13,36,-17,-27,0

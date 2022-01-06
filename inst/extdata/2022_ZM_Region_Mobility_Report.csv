@@ -1,3 +1,5 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-01,34,38,50,-14,-32,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-02,39,56,43,-8,-3,6
 ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-01,34,29,145,-24,-37,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-02,39,47,128,-19,1,7

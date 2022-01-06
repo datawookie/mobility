@@ -1,5 +1,9 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 CV,Cape Verde,,,,,,ChIJMVERWSGPNQkRH-oY-TbyGms,2022-01-01,-22,-29,13,-22,-64,11
+CV,Cape Verde,,,,,,ChIJMVERWSGPNQkRH-oY-TbyGms,2022-01-02,-9,-5,22,-9,-41,9
 CV,Cape Verde,Praia,,,CV-PR,,ChIJV_GnJLaQNQkR8sSzx_UCrKA,2022-01-01,-15,-30,,,-69,
+CV,Cape Verde,Praia,,,CV-PR,,ChIJV_GnJLaQNQkR8sSzx_UCrKA,2022-01-02,14,7,,,-33,
 CV,Cape Verde,Sal,,,CV-SL,,ChIJ4fDeyAShTAkRSt4J6i3z3DE,2022-01-01,-28,,17,-44,-58,
+CV,Cape Verde,Sal,,,CV-SL,,ChIJ4fDeyAShTAkRSt4J6i3z3DE,2022-01-02,-26,,24,-24,-41,
 CV,Cape Verde,São Vicente,,,CV-SV,,ChIJlz7KsgsfTwkRU9B_Jt9wTVc,2022-01-01,,,,,-64,
+CV,Cape Verde,São Vicente,,,CV-SV,,ChIJlz7KsgsfTwkRU9B_Jt9wTVc,2022-01-02,,,,,-33,

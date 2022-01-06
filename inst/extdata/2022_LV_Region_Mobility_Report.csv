@@ -1,16 +1,25 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 LV,Latvia,,,,,,ChIJ_ZqKe2cw6UYREPzyaM3PAAA,2022-01-01,-72,-49,-17,-54,-59,7
+LV,Latvia,,,,,,ChIJ_ZqKe2cw6UYREPzyaM3PAAA,2022-01-02,-35,-8,17,-34,-18,4
 LV,Latvia,City of Liepāja,,,LV-LPX,,ChIJNWS6eNKn-kYRMP3yaM3PAAM,2022-01-01,-78,-39,10,-49,-65,
+LV,Latvia,City of Liepāja,,,LV-LPX,,ChIJNWS6eNKn-kYRMP3yaM3PAAM,2022-01-02,-42,22,,-26,-26,
 LV,Latvia,Daugavpils,,,LV-DGV,,ChIJ28kB_zCUwkYRgPzyaM3PAAM,2022-01-01,-78,-39,,-60,-65,
+LV,Latvia,Daugavpils,,,LV-DGV,,ChIJ28kB_zCUwkYRgPzyaM3PAAM,2022-01-02,-39,4,,,-20,
 LV,Latvia,Jēkabpils,,,,,ChIJV08sdk3L6UYRwPzyaM3PAAM,2022-01-01,-70,,,,,
 LV,Latvia,Jelgava,,,LV-JEL,,ChIJjxbtbksl70YRsPzyaM3PAAM,2022-01-01,-68,-35,,,-61,
+LV,Latvia,Jelgava,,,LV-JEL,,ChIJjxbtbksl70YRsPzyaM3PAAM,2022-01-02,-37,,,,-31,
 LV,Latvia,Jūrmala,,,LV-JUR,,ChIJ1wAzb4fd7kYRaZBkQ8e5IAo,2022-01-01,-57,-44,-22,-27,-51,
+LV,Latvia,Jūrmala,,,LV-JUR,,ChIJ1wAzb4fd7kYRaZBkQ8e5IAo,2022-01-02,-37,,-21,-20,-18,
 LV,Latvia,Mārupe Municipality,,,LV-062,,ChIJrwZxoATa7kYRMALzaM3PAAM,2022-01-01,-80,-80,,-42,,
+LV,Latvia,Mārupe Municipality,,,LV-062,,ChIJrwZxoATa7kYRMALzaM3PAAM,2022-01-02,-43,-52,,-18,,
 LV,Latvia,Ogre Municipality,,,LV-067,,ChIJtfi6GykU6UYRwADzaM3PAAM,2022-01-01,-73,,,,,
 LV,Latvia,Rēzekne,,,LV-REZ,,ChIJu_1xQ_oVwkYRkP3yaM3PAAM,2022-01-01,-72,,,,,
 LV,Latvia,Riga,,,LV-RIX,,ChIJ7T0H5bDP7kYRRazILQ-36rQ,2022-01-01,-75,-57,-44,-63,-63,7
+LV,Latvia,Riga,,,LV-RIX,,ChIJ7T0H5bDP7kYRRazILQ-36rQ,2022-01-02,-40,-18,-15,-46,-22,5
 LV,Latvia,Salaspils Municipality,,,LV-087,,ChIJwTYJVmgt6UYRkAHzaM3PAAM,2022-01-01,-59,-50,,,-68,
 LV,Latvia,Sigulda Municipality,,,LV-091,,ChIJkXWrnpFF6UYRsAHzaM3PAAM,2022-01-01,-63,,-48,,,
+LV,Latvia,Sigulda Municipality,,,LV-091,,ChIJkXWrnpFF6UYRsAHzaM3PAAM,2022-01-02,-31,,,,,
 LV,Latvia,Tukums Municipality,,,LV-099,,ChIJsQViO0n-7kYRwALzaM3PAAM,2022-01-01,-77,,,,,
 LV,Latvia,Valmiera Municipality,,,LV-VMR,,ChIJD0I_WrSL60YRIP7yaM3PAAM,2022-01-01,-75,,,,,
+LV,Latvia,Valmiera Municipality,,,LV-VMR,,ChIJD0I_WrSL60YRIP7yaM3PAAM,2022-01-02,-32,,,,,
 LV,Latvia,Ventspils,,,LV-VEN,,ChIJ2UhCZpbI8UYRxC6oJkf7jUw,2022-01-01,-76,-48,,,-61,

@@ -1,9 +1,17 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-01,129,170,145,58,68,-5
+LY,Libya,,,,,,ChIJDQHOjtmSqBMRKsL5x0FgB_o,2022-01-02,131,167,142,49,64,-4
 LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-01,,,,,28,
+LY,Libya,Al Wahat District,,,LY-WA,,ChIJ2fTE9CV5iBMR2-Uwt3_jFt4,2022-01-02,,,,,30,
 LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-01,95,131,105,,81,-6
+LY,Libya,Benghazi district,,,LY-BA,,ChIJr3tibNSWgxMRmtJ0MaQSsB8,2022-01-02,98,128,99,,62,-4
 LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-01,,,,,32,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,ChIJt-vZwnhlfxMR6OGS26eBoXM,2022-01-02,,,,,35,
 LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-01,,,,,52,-6
+LY,Libya,Misrata District,,,LY-MI,,ChIJVfl8SSv4pBMRA0Fg62aVMu8,2022-01-02,,,,,56,-7
 LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-01,,,,,60,
+LY,Libya,Murqub District,,,LY-MB,,ChIJC3AMfJhkphMRqWT-xt7V-do,2022-01-02,,,,,60,
 LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-01,139,197,225,,88,0
+LY,Libya,Tripoli District,,,LY-TB,,ChIJDQHOjtmSqBMRASUseCw__3s,2022-01-02,140,206,210,,79,0
 LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-01,,,,,81,
+LY,Libya,Zawiya District,,,LY-ZA,,ChIJJ10_wZAhqRMRD3eRyZJ8l-0,2022-01-02,,,,,81,

@@ -1,81 +1,155 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 FI,Finland,,,,,,ChIJ3fYyS9_KgUYREKh1PNZGAQA,2022-01-01,-66,-46,23,-53,-35,9
+FI,Finland,,,,,,ChIJ3fYyS9_KgUYREKh1PNZGAQA,2022-01-02,-31,-5,14,-44,-13,7
 FI,Finland,Central Finland,,,FI-08,,ChIJa8VfzqW7hUYRboaEzXNHJBM,2022-01-01,-64,-49,29,-34,-36,9
+FI,Finland,Central Finland,,,FI-08,,ChIJa8VfzqW7hUYRboaEzXNHJBM,2022-01-02,-24,-3,28,-23,-13,6
 FI,Finland,Central Finland,Äänekoski,,,,ChIJT2WyrxhVhEYRUZKBy0Pj5Pg,2022-01-01,,-49,,,-37,
+FI,Finland,Central Finland,Äänekoski,,,,ChIJT2WyrxhVhEYRUZKBy0Pj5Pg,2022-01-02,,,,,-22,
 FI,Finland,Central Finland,Jämsä sub-region,,,,ChIJR6-btr93j0YRYpOBNIvZ22w,2022-01-01,,-41,,,-35,
+FI,Finland,Central Finland,Jämsä sub-region,,,,ChIJR6-btr93j0YRYpOBNIvZ22w,2022-01-02,,,,,-17,
 FI,Finland,Central Finland,Jyväskylä,,,,ChIJeaqNOS5yhUYRmiGh97b8dgA,2022-01-01,-67,-48,18,-33,-39,8
+FI,Finland,Central Finland,Jyväskylä,,,,ChIJeaqNOS5yhUYRmiGh97b8dgA,2022-01-02,-27,-3,17,-22,-16,5
 FI,Finland,Central Finland,Saarijärvi-Viitasaari sub-region,,,,ChIJY7eRXSQlhEYR8CG31pLLZ8s,2022-01-01,,-47,,,-34,
+FI,Finland,Central Finland,Saarijärvi-Viitasaari sub-region,,,,ChIJY7eRXSQlhEYR8CG31pLLZ8s,2022-01-02,,,,,-13,
 FI,Finland,Central Ostrobothnia,,,FI-07,,ChIJ4TZIZSIkh0YRV5NmkMFQygI,2022-01-01,-72,-39,,,-43,
+FI,Finland,Central Ostrobothnia,,,FI-07,,ChIJ4TZIZSIkh0YRV5NmkMFQygI,2022-01-02,-45,4,,-42,-25,
 FI,Finland,Central Ostrobothnia,Kaustinen sub-region,,,,ChIJA__66XPDhkYR7noXEhf3UZw,2022-01-01,,,,,-41,
+FI,Finland,Central Ostrobothnia,Kaustinen sub-region,,,,ChIJA__66XPDhkYR7noXEhf3UZw,2022-01-02,,,,,-33,
 FI,Finland,Central Ostrobothnia,Kokkola sub-region,,,,ChIJVeXDLfI2h0YRFyQEeLjsRDk,2022-01-01,-75,-44,,-42,-42,9
+FI,Finland,Central Ostrobothnia,Kokkola sub-region,,,,ChIJVeXDLfI2h0YRFyQEeLjsRDk,2022-01-02,-50,1,,-36,-22,6
 FI,Finland,Kainuu,,,FI-05,,ChIJwdcNXuB-gkYRUp0BOiPgFAI,2022-01-01,-46,-39,25,,-28,
+FI,Finland,Kainuu,,,FI-05,,ChIJwdcNXuB-gkYRUp0BOiPgFAI,2022-01-02,-10,8,12,,-12,
 FI,Finland,Kainuu,Kajaani sub-region,,,,ChIJx7kp93FbgkYRPYFlVXlPNLk,2022-01-01,-43,-41,38,-44,-25,9
+FI,Finland,Kainuu,Kajaani sub-region,,,,ChIJx7kp93FbgkYRPYFlVXlPNLk,2022-01-02,-4,3,22,-34,-7,7
 FI,Finland,Kainuu,Kehys-Kainuu,,,,ChIJ6bb8ZSsqKEQRQqvd0h3k9D4,2022-01-01,,,13,,-31,
 FI,Finland,Kymenlaakso,,,FI-09,,ChIJd7TWb-GpkUYR_G_Gfb0PW7M,2022-01-01,-71,-51,20,-64,-35,10
+FI,Finland,Kymenlaakso,,,FI-09,,ChIJd7TWb-GpkUYR_G_Gfb0PW7M,2022-01-02,-24,0,28,-52,-8,7
 FI,Finland,Kymenlaakso,Kotka-Hamina sub-region,,,,ChIJ95ufN4gRkUYRV5WyXn-ZOiU,2022-01-01,-72,-49,23,-37,-43,10
+FI,Finland,Kymenlaakso,Kotka-Hamina sub-region,,,,ChIJ95ufN4gRkUYRV5WyXn-ZOiU,2022-01-02,-28,-1,33,-38,-23,7
 FI,Finland,Kymenlaakso,Kouvola sub-region,,,,ChIJbXuBvsNMkEYRvOwu0sbFPJU,2022-01-01,-71,-54,11,-72,-34,9
+FI,Finland,Kymenlaakso,Kouvola sub-region,,,,ChIJbXuBvsNMkEYRvOwu0sbFPJU,2022-01-02,-24,-3,27,-59,-10,6
 FI,Finland,Lapland,,,FI-10,,ChIJRaFMJTYA00URoayRDbNO3M4,2022-01-01,-43,-29,63,1,-32,8
+FI,Finland,Lapland,,,FI-10,,ChIJRaFMJTYA00URoayRDbNO3M4,2022-01-02,-9,17,41,23,-14,6
 FI,Finland,Lapland,Eastern Lapland,,,,ChIJz_Zhzu5XLEQRg47GjkR9C9Q,2022-01-01,,,,,-23,
 FI,Finland,Lapland,Kemi-Tornio sub-region,,,,ChIJ37660DbJKkQRHtYCxMGZe-Q,2022-01-01,-62,-44,,-45,-29,9
+FI,Finland,Lapland,Kemi-Tornio sub-region,,,,ChIJ37660DbJKkQRHtYCxMGZe-Q,2022-01-02,-28,0,,-33,-13,6
 FI,Finland,Lapland,Northern Lapland,,,,ChIJh_Y30kppzUURUMLH8FUjtkE,2022-01-01,,-24,,,-19,
+FI,Finland,Lapland,Northern Lapland,,,,ChIJh_Y30kppzUURUMLH8FUjtkE,2022-01-02,,,,,-13,
 FI,Finland,Lapland,Rovaniemi,,,,ChIJWWTLKZ5GK0QReoH6jsWOOWQ,2022-01-01,-47,-41,28,-7,-31,7
+FI,Finland,Lapland,Rovaniemi,,,,ChIJWWTLKZ5GK0QReoH6jsWOOWQ,2022-01-02,-3,9,28,41,-8,5
 FI,Finland,Lapland,Tunturi Lapland,,,,ChIJQ8ZUq1OD0UURUlRd7jzXMvo,2022-01-01,-8,10,106,7,-38,
+FI,Finland,Lapland,Tunturi Lapland,,,,ChIJQ8ZUq1OD0UURUlRd7jzXMvo,2022-01-02,-2,,67,15,-24,
 FI,Finland,North Karelia,,,FI-13,,ChIJSRk3b3R7nEYRqYIU_L_gl04,2022-01-01,-69,-48,21,,-25,9
+FI,Finland,North Karelia,,,FI-13,,ChIJSRk3b3R7nEYRqYIU_L_gl04,2022-01-02,-32,-8,19,-36,-5,7
 FI,Finland,North Karelia,Joensuu sub-region,,,,ChIJwY_pCeFknEYRKvvc7jBAkf0,2022-01-01,-71,-49,23,-55,-31,9
+FI,Finland,North Karelia,Joensuu sub-region,,,,ChIJwY_pCeFknEYRKvvc7jBAkf0,2022-01-02,-36,-7,19,-43,-10,6
 FI,Finland,North Karelia,Pielinen Karelia,,,,ChIJW16PUObgnEYRoIpxLIRsDGE,2022-01-01,,,,,-35,
+FI,Finland,North Karelia,Pielinen Karelia,,,,ChIJW16PUObgnEYRoIpxLIRsDGE,2022-01-02,,,,,-32,
 FI,Finland,Northern Ostrobothnia,,,FI-14,,ChIJvWWBESThgUYRfuw2g2OUEL0,2022-01-01,-64,-47,50,-49,-36,8
+FI,Finland,Northern Ostrobothnia,,,FI-14,,ChIJvWWBESThgUYRfuw2g2OUEL0,2022-01-02,-18,-6,33,-32,-16,6
 FI,Finland,Northern Ostrobothnia,Koillismaa,,,,ChIJRz-gru5cKUQRkbR2PJHppZU,2022-01-01,-30,-6,,,-30,
+FI,Finland,Northern Ostrobothnia,Koillismaa,,,,ChIJRz-gru5cKUQRkbR2PJHppZU,2022-01-02,,,,12,-13,
 FI,Finland,Northern Ostrobothnia,Nivala-Haapajärvi sub-region,,,,ChIJjdoU9OlQgUYRGUVPTK4BD9o,2022-01-01,,-39,,,-48,
+FI,Finland,Northern Ostrobothnia,Nivala-Haapajärvi sub-region,,,,ChIJjdoU9OlQgUYRGUVPTK4BD9o,2022-01-02,,,,,-30,
 FI,Finland,Northern Ostrobothnia,Oulu sub-region,,,,ChIJ5TS-yR7LgUYRNzg837Q_p5M,2022-01-01,-67,-51,20,-57,-38,7
+FI,Finland,Northern Ostrobothnia,Oulu sub-region,,,,ChIJ5TS-yR7LgUYRNzg837Q_p5M,2022-01-02,-21,-13,2,-44,-17,5
 FI,Finland,Northern Ostrobothnia,Oulunkaari,,,,ChIJxeNyFP56KkQRb0437_QORTY,2022-01-01,,,26,,-31,
+FI,Finland,Northern Ostrobothnia,Oulunkaari,,,,ChIJxeNyFP56KkQRb0437_QORTY,2022-01-02,,,,,-21,
 FI,Finland,Northern Ostrobothnia,Raahe sub-region,,,,ChIJUVbGvhlfgEYRsJsFtYf1ias,2022-01-01,-63,-46,,,-38,
+FI,Finland,Northern Ostrobothnia,Raahe sub-region,,,,ChIJUVbGvhlfgEYRsJsFtYf1ias,2022-01-02,-30,,,,-24,
 FI,Finland,Northern Ostrobothnia,Ylivieska sub-region,,,,ChIJw5yQIIPagEYREJ_xmt2Ppv0,2022-01-01,-63,-48,,,-42,
+FI,Finland,Northern Ostrobothnia,Ylivieska sub-region,,,,ChIJw5yQIIPagEYREJ_xmt2Ppv0,2022-01-02,-23,2,,,-20,
 FI,Finland,Northern Savonia,,,FI-15,,ChIJi-yWe52hhEYRkQHI6h9N2Wo,2022-01-01,-69,-42,40,-51,-30,9
+FI,Finland,Northern Savonia,,,FI-15,,ChIJi-yWe52hhEYRkQHI6h9N2Wo,2022-01-02,-15,4,50,-42,-9,6
 FI,Finland,Northern Savonia,Inner Savonia,,,,ChIJ1-uAkeHuhEYRQQcB5oOAgVI,2022-01-01,,,,,-40,
 FI,Finland,Northern Savonia,Kuopio Province,,,,ChIJRZXSaCmlhEYR22H0evFTOzM,2022-01-01,-74,-42,37,-51,-33,8
+FI,Finland,Northern Savonia,Kuopio Province,,,,ChIJRZXSaCmlhEYR22H0evFTOzM,2022-01-02,-16,6,56,-42,-13,5
 FI,Finland,Northern Savonia,North Eastern Savonia,,,,ChIJCzVfvcRSg0YReZNg9AfHLXc,2022-01-01,,,,,-9,
 FI,Finland,Northern Savonia,Upper Savonia,,,,ChIJ6b28e52hhEYRIKl1PNZGAQM,2022-01-01,-61,-45,55,,-36,11
+FI,Finland,Northern Savonia,Upper Savonia,,,,ChIJ6b28e52hhEYRIKl1PNZGAQM,2022-01-02,-17,-7,53,,-14,7
 FI,Finland,Northern Savonia,Varkaus sub-region,,,,ChIJX3t7JO4km0YRNN09GEnIW64,2022-01-01,-64,-50,,,-37,
+FI,Finland,Northern Savonia,Varkaus sub-region,,,,ChIJX3t7JO4km0YRNN09GEnIW64,2022-01-02,,6,,,-16,
 FI,Finland,Ostrobothnia,,,FI-12,,ChIJlQo1P37th0YRRzJEfMgAGso,2022-01-01,-69,-47,52,-48,-42,10
+FI,Finland,Ostrobothnia,,,FI-12,,ChIJlQo1P37th0YRRzJEfMgAGso,2022-01-02,-40,-4,-5,-29,-15,7
 FI,Finland,Ostrobothnia,Jakobstad sub-region,,,,ChIJgeV2rnxoh0YRFUSoDxVTxzk,2022-01-01,-53,-45,,,-54,10
+FI,Finland,Ostrobothnia,Jakobstad sub-region,,,,ChIJgeV2rnxoh0YRFUSoDxVTxzk,2022-01-02,-28,1,,,-32,
 FI,Finland,Ostrobothnia,Kyrönmaa,,,,ChIJD-fkGd_qh0YRYmdwA2ScbKs,2022-01-01,,,,,-43,
 FI,Finland,Ostrobothnia,Sydösterbotten,,,,ChIJfa_18-QhiEYRBNbbVfkYHYc,2022-01-01,,,,,-52,
+FI,Finland,Ostrobothnia,Sydösterbotten,,,,ChIJfa_18-QhiEYRBNbbVfkYHYc,2022-01-02,,,,,-37,
 FI,Finland,Ostrobothnia,Vaasa Province,,,,ChIJSQGqqkdmfUYRIWqnOB9BXA8,2022-01-01,-74,-49,48,-51,-41,9
+FI,Finland,Ostrobothnia,Vaasa Province,,,,ChIJSQGqqkdmfUYRIWqnOB9BXA8,2022-01-02,-42,-9,-8,-26,-14,6
 FI,Finland,Päijänne Tavastia,,,FI-16,,ChIJ28vtxfTRj0YRbwd8ZOnSmf8,2022-01-01,-68,-48,37,-54,-40,9
+FI,Finland,Päijänne Tavastia,,,FI-16,,ChIJ28vtxfTRj0YRbwd8ZOnSmf8,2022-01-02,-28,-4,43,-42,-17,6
 FI,Finland,Pirkanmaa,,,FI-11,,ChIJ1Z2pOCMwj0YRY2eDwYLF91I,2022-01-01,-72,-46,9,-63,-39,8
+FI,Finland,Pirkanmaa,,,FI-11,,ChIJ1Z2pOCMwj0YRY2eDwYLF91I,2022-01-02,-36,-5,4,-49,-21,6
 FI,Finland,Pirkanmaa,North Western Pirkanmaa,,,,ChIJ_equoJLAiEYRog76mRvjpsY,2022-01-01,,,,,-45,
 FI,Finland,Pirkanmaa,South Western Pirkanmaa,,,,ChIJwaawwnkziUYRoQe6nqxMfWc,2022-01-01,-63,,,-68,-47,
+FI,Finland,Pirkanmaa,South Western Pirkanmaa,,,,ChIJwaawwnkziUYRoQe6nqxMfWc,2022-01-02,,,,-69,-34,
 FI,Finland,Pirkanmaa,Southern Pirkanmaa,,,,ChIJEWcin2XrjkYR_RDTIyvy_pE,2022-01-01,-60,-48,,-51,-49,
+FI,Finland,Pirkanmaa,Southern Pirkanmaa,,,,ChIJEWcin2XrjkYR_RDTIyvy_pE,2022-01-02,-24,-8,,-26,-26,
 FI,Finland,Pirkanmaa,Tampere,,,,ChIJ9-xeZzI7j0YRFcDuTpZgYtw,2022-01-01,-73,-44,-3,-61,-36,8
+FI,Finland,Pirkanmaa,Tampere,,,,ChIJ9-xeZzI7j0YRFcDuTpZgYtw,2022-01-02,-37,-3,-8,-48,-20,5
 FI,Finland,Pirkanmaa,Upper Pirkanmaa,,,,ChIJEfEtHklSj0YRwcbdeWdPvrg,2022-01-01,,,,,-32,
+FI,Finland,Pirkanmaa,Upper Pirkanmaa,,,,ChIJEfEtHklSj0YRwcbdeWdPvrg,2022-01-02,,,,,-21,
 FI,Finland,Satakunta,,,FI-17,,ChIJ1wwkI-MIiUYRYabgiw268M0,2022-01-01,-64,-44,38,-30,-38,10
+FI,Finland,Satakunta,,,FI-17,,ChIJ1wwkI-MIiUYRYabgiw268M0,2022-01-02,-23,-5,1,-30,-14,8
 FI,Finland,Satakunta,Northern Satakunta,,,,ChIJWX94E2n8iEYRyKcZh0lOIw8,2022-01-01,,,,,-32,
+FI,Finland,Satakunta,Northern Satakunta,,,,ChIJWX94E2n8iEYRyKcZh0lOIw8,2022-01-02,,,,,-19,
 FI,Finland,Satakunta,Pori sub-region,,,,ChIJref6F2oMiUYRe3Zbzmww2ws,2022-01-01,-63,-44,51,-24,-39,11
+FI,Finland,Satakunta,Pori sub-region,,,,ChIJref6F2oMiUYRe3Zbzmww2ws,2022-01-02,-14,-7,-3,-25,-15,7
 FI,Finland,Satakunta,Rauma sub-region,,,,ChIJ-TGMmOdiiUYRbDX8J9TiuY4,2022-01-01,-72,-45,23,-53,-38,12
+FI,Finland,Satakunta,Rauma sub-region,,,,ChIJ-TGMmOdiiUYRbDX8J9TiuY4,2022-01-02,-45,-2,3,-36,-17,9
 FI,Finland,South Karelia,,,FI-02,,ChIJf8EP-7WhkEYR3bUDhpNMF0s,2022-01-01,-66,-48,24,-62,-36,10
+FI,Finland,South Karelia,,,FI-02,,ChIJf8EP-7WhkEYR3bUDhpNMF0s,2022-01-02,-29,-4,,-45,-17,6
 FI,Finland,South Karelia,Imatrankoski,,,,ChIJKzhyBQQamkYR_z3_dFROtRs,2022-01-01,-65,-50,,-79,-27,
+FI,Finland,South Karelia,Imatrankoski,,,,ChIJKzhyBQQamkYR_z3_dFROtRs,2022-01-02,-26,-9,,-72,-10,
 FI,Finland,South Karelia,Lappeenranta,,,,ChIJ7z_R_RDtkEYRCZCEGWa-xj8,2022-01-01,-68,-50,36,-38,-41,9
+FI,Finland,South Karelia,Lappeenranta,,,,ChIJ7z_R_RDtkEYRCZCEGWa-xj8,2022-01-02,-28,-7,41,-6,-19,6
 FI,Finland,Southern Ostrobothnia,,,FI-03,,ChIJyegF93E0hkYR3B2BeIKmi1E,2022-01-01,-65,-48,45,-35,-39,10
+FI,Finland,Southern Ostrobothnia,,,FI-03,,ChIJyegF93E0hkYR3B2BeIKmi1E,2022-01-02,-25,-2,26,-27,-23,7
 FI,Finland,Southern Ostrobothnia,Järviseutu,,,,ChIJmRa-Ox32hkYRwOrG2J_D7VI,2022-01-01,,,,,-42,
+FI,Finland,Southern Ostrobothnia,Järviseutu,,,,ChIJmRa-Ox32hkYRwOrG2J_D7VI,2022-01-02,,,,,-33,
 FI,Finland,Southern Ostrobothnia,Kuusiokunnat,,,,ChIJo1uVZA4ThkYRk-c8NyBnX9E,2022-01-01,-72,,,,-44,
+FI,Finland,Southern Ostrobothnia,Kuusiokunnat,,,,ChIJo1uVZA4ThkYRk-c8NyBnX9E,2022-01-02,,,,,-20,
 FI,Finland,Southern Ostrobothnia,Seinäjoki sub-region,,,,ChIJqfnJ1iLGh0YR5XgmjTUCKYw,2022-01-01,-64,-53,26,-39,-42,9
+FI,Finland,Southern Ostrobothnia,Seinäjoki sub-region,,,,ChIJqfnJ1iLGh0YR5XgmjTUCKYw,2022-01-02,-19,-11,4,-27,-20,7
 FI,Finland,Southern Ostrobothnia,Suupohja,,,,ChIJ9dtkJPZliEYRWKmL5W3kZ50,2022-01-01,,,,,-34,
+FI,Finland,Southern Ostrobothnia,Suupohja,,,,ChIJ9dtkJPZliEYRWKmL5W3kZ50,2022-01-02,,,,,-17,
 FI,Finland,Southern Savonia,,,FI-04,,ChIJhwNHEP3smkYRDXGpHIAbKM8,2022-01-01,-69,-46,25,-42,-37,10
+FI,Finland,Southern Savonia,,,FI-04,,ChIJhwNHEP3smkYRDXGpHIAbKM8,2022-01-02,-27,5,34,-34,-18,7
 FI,Finland,Southern Savonia,Mikkeli sub-region,,,,ChIJuTGE70mYmkYRWZmsGWb0m0E,2022-01-01,-72,-46,30,-44,-43,10
+FI,Finland,Southern Savonia,Mikkeli sub-region,,,,ChIJuTGE70mYmkYRWZmsGWb0m0E,2022-01-02,-32,5,34,-35,-18,7
 FI,Finland,Southern Savonia,Nyslott,,,,ChIJk0XGkrSqm0YROLgGpkPh1tA,2022-01-01,-72,-41,27,,-32,
+FI,Finland,Southern Savonia,Nyslott,,,,ChIJk0XGkrSqm0YROLgGpkPh1tA,2022-01-02,,12,,,-18,
 FI,Finland,Southern Savonia,Pieksämäki sub-region,,,,ChIJq737cjfGmkYRNAqUq4VSnk0,2022-01-01,,-42,,,-28,
+FI,Finland,Southern Savonia,Pieksämäki sub-region,,,,ChIJq737cjfGmkYRNAqUq4VSnk0,2022-01-02,,,,,-15,
 FI,Finland,Southwest Finland,,,FI-19,,ChIJUbeR-MV-jEYRFFlttgpUnWg,2022-01-01,-66,-47,16,-48,-41,10
+FI,Finland,Southwest Finland,,,FI-19,,ChIJUbeR-MV-jEYRFFlttgpUnWg,2022-01-02,-29,-10,-11,-41,-20,7
 FI,Finland,Southwest Finland,Åboland-Turunmaa,,,,ChIJN4HrkbmbjEYRSrY3rn5f0rI,2022-01-01,,,,,-40,
+FI,Finland,Southwest Finland,Åboland-Turunmaa,,,,ChIJN4HrkbmbjEYRSrY3rn5f0rI,2022-01-02,,,7,,-24,
 FI,Finland,Southwest Finland,Loimaa sub-region,,,,ChIJpeCKUfQDjEYRpBrSqy4BenY,2022-01-01,,-42,,,-43,
+FI,Finland,Southwest Finland,Loimaa sub-region,,,,ChIJpeCKUfQDjEYRpBrSqy4BenY,2022-01-02,,-1,,,-28,
 FI,Finland,Southwest Finland,Salo,,,,ChIJIV_D_uRJjEYRzROyu7zb2Mc,2022-01-01,-68,-50,,-36,-43,10
+FI,Finland,Southwest Finland,Salo,,,,ChIJIV_D_uRJjEYRzROyu7zb2Mc,2022-01-02,-22,-4,,-19,-17,8
 FI,Finland,Southwest Finland,Turku,,,,ChIJcZpetPmKi0YR4U70QOe6Wss,2022-01-01,-68,-48,0,-55,-42,9
+FI,Finland,Southwest Finland,Turku,,,,ChIJcZpetPmKi0YR4U70QOe6Wss,2022-01-02,-31,-14,-30,-47,-21,7
 FI,Finland,Southwest Finland,Vakka-Suomi,,,,ChIJU3O1bMHJi0YRPT0SxzGlxJ4,2022-01-01,,-44,,,-44,
+FI,Finland,Southwest Finland,Vakka-Suomi,,,,ChIJU3O1bMHJi0YRPT0SxzGlxJ4,2022-01-02,,-5,,,-37,
 FI,Finland,Tavastia Proper,,,FI-06,,ChIJW3WpA5JhjkYRrMjf5AFWvXY,2022-01-01,-64,-49,47,-51,-35,9
+FI,Finland,Tavastia Proper,,,FI-06,,ChIJW3WpA5JhjkYRrMjf5AFWvXY,2022-01-02,-27,-1,30,-42,-12,7
 FI,Finland,Tavastia Proper,Forssa sub-region,,,,ChIJ8fogIpicjkYRhriT7A1lALY,2022-01-01,-69,-51,,,-40,
+FI,Finland,Tavastia Proper,Forssa sub-region,,,,ChIJ8fogIpicjkYRhriT7A1lALY,2022-01-02,-46,-5,,,-17,
 FI,Finland,Tavastia Proper,Hämeenlinna,,,,ChIJz2w7l1xcjkYRJ8XJ9uzLXGk,2022-01-01,-68,-47,52,-58,-42,9
+FI,Finland,Tavastia Proper,Hämeenlinna,,,,ChIJz2w7l1xcjkYRJ8XJ9uzLXGk,2022-01-02,-25,1,41,-45,-22,7
 FI,Finland,Tavastia Proper,Riihimäki sub-region,,,,ChIJyd9OZINyjkYRU8l-NCKeGe8,2022-01-01,-54,-46,,-49,-36,
+FI,Finland,Tavastia Proper,Riihimäki sub-region,,,,ChIJyd9OZINyjkYRU8l-NCKeGe8,2022-01-02,-10,-1,,-43,-19,
 FI,Finland,Uusimaa,,,FI-18,,ChIJjxx_x8PzjUYRoPTt2ZDEppc,2022-01-01,-67,-46,16,-53,-34,8
+FI,Finland,Uusimaa,,,FI-18,,ChIJjxx_x8PzjUYRoPTt2ZDEppc,2022-01-02,-36,-9,-8,-47,-11,6
 FI,Finland,Uusimaa,Helsinki,,,,ChIJ8d7XsbPvjUYRSkCZVH4SEe4,2022-01-01,-67,-46,12,-54,-36,8
+FI,Finland,Uusimaa,Helsinki,,,,ChIJ8d7XsbPvjUYRSkCZVH4SEe4,2022-01-02,-36,-9,-12,-47,-11,6
 FI,Finland,Uusimaa,Loviisa sub-region,,,,ChIJv2kW_PCPkUYRtNpeE6JT8HU,2022-01-01,,,,,-37,
+FI,Finland,Uusimaa,Loviisa sub-region,,,,ChIJv2kW_PCPkUYRtNpeE6JT8HU,2022-01-02,,,,,-17,
 FI,Finland,Uusimaa,Porvoo sub-region,,,,ChIJAeWflbeKkUYRTufHx2Fe1Rs,2022-01-01,-65,-48,49,,-43,10
+FI,Finland,Uusimaa,Porvoo sub-region,,,,ChIJAeWflbeKkUYRTufHx2Fe1Rs,2022-01-02,-27,1,26,,-18,7
 FI,Finland,Uusimaa,Raseborg sub-region,,,,ChIJg9X80pYIjUYRukF8ULCl4-k,2022-01-01,-66,-43,25,-35,-32,
+FI,Finland,Uusimaa,Raseborg sub-region,,,,ChIJg9X80pYIjUYRukF8ULCl4-k,2022-01-02,-36,15,-20,-31,-7,

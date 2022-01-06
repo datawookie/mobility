@@ -1,8 +1,13 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 NE,Niger,,,,,,ChIJXa-hxnrsmRER1CSOFQqSM8k,2022-01-01,78,42,43,53,-16,-4
+NE,Niger,,,,,,ChIJXa-hxnrsmRER1CSOFQqSM8k,2022-01-02,76,-10,50,66,4,-5
 NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-01-01,78,46,40,44,-15,0
+NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-01-02,79,46,53,62,12,-3
 NE,Niger,Agadez Region,,,NE-1,,ChIJkSYyDLUxmBERECmbaH6AWZQ,2022-01-01,,,,,-16,
 NE,Niger,Maradi Region,,,NE-4,,ChIJnY-OjnuAuhER6s-5m19Rv5c,2022-01-01,,,,,-11,
+NE,Niger,Maradi Region,,,NE-4,,ChIJnY-OjnuAuhER6s-5m19Rv5c,2022-01-02,,,,,-1,
 NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-01-01,93,45,38,42,-15,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-01-02,95,-14,,60,12,-4
 NE,Niger,Tahoua Region,,,NE-5,,ChIJJ4d0ETWyuBERBuBHP2WqUT4,2022-01-01,,,,,-27,
 NE,Niger,Zinder Region,,,NE-7,,ChIJmbPPv6s_oRER_5Sb6OW64Es,2022-01-01,,,,,-25,
+NE,Niger,Zinder Region,,,NE-7,,ChIJmbPPv6s_oRER_5Sb6OW64Es,2022-01-02,,,,,-17,

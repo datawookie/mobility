@@ -1,3 +1,5 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 MN,Mongolia,,,,,,ChIJS22qaQYFJzYRluDmNzkh3eA,2022-01-01,-8,68,56,17,-38,10
+MN,Mongolia,,,,,,ChIJS22qaQYFJzYRluDmNzkh3eA,2022-01-02,40,106,50,45,8,4
 MN,Mongolia,Ulaanbaatar,,,MN-1,,ChIJq4qx4luSll0RUeihxGubDJs,2022-01-01,-14,54,55,8,-42,11
+MN,Mongolia,Ulaanbaatar,,,MN-1,,ChIJq4qx4luSll0RUeihxGubDJs,2022-01-02,38,96,45,41,12,4

@@ -1,5 +1,8 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 AO,Angola,,,,,,ChIJJ4utyk7yURoRPU5KDZ0oClk,2022-01-01,-30,-46,21,-18,-53,10
+AO,Angola,,,,,,ChIJJ4utyk7yURoRPU5KDZ0oClk,2022-01-02,11,22,35,10,0,1
 AO,Angola,Benguela Province,,,AO-BGU,,ChIJy-7lhHXRrxsRnUa_guvLoE8,2022-01-01,,-48,,,-64,
+AO,Angola,Benguela Province,,,AO-BGU,,ChIJy-7lhHXRrxsRnUa_guvLoE8,2022-01-02,,,,,-32,
 AO,Angola,Huila Province,,,AO-HUI,,ChIJ8e-6cINLoxsRDBPEVCG2svQ,2022-01-01,,,,,-61,
 AO,Angola,Luanda Province,,,AO-LUA,,ChIJJ4utyk7yURoRh72IMlZ_E38,2022-01-01,-34,-48,20,-30,-56,10
+AO,Angola,Luanda Province,,,AO-LUA,,ChIJJ4utyk7yURoRh72IMlZ_E38,2022-01-02,10,22,41,-8,3,1

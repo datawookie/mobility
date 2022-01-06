@@ -1,34 +1,67 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 MX,Mexico,,,,,,ChIJU1NoiDs6BIQREZgJa760ZO0,2022-01-01,-43,-15,-22,-39,-53,7
+MX,Mexico,,,,,,ChIJU1NoiDs6BIQREZgJa760ZO0,2022-01-02,5,27,-7,30,18,1
 MX,Mexico,Aguascalientes,,,MX-AGU,,ChIJuRMJdqXmKYQRHxX0saYvLmY,2022-01-01,-49,-13,-7,-33,-61,8
+MX,Mexico,Aguascalientes,,,MX-AGU,,ChIJuRMJdqXmKYQRHxX0saYvLmY,2022-01-02,0,32,3,51,12,2
 MX,Mexico,Baja California,,,MX-BCN,,ChIJ0913qAxw14ARjt4YA5_9pPw,2022-01-01,-52,-18,-53,-9,-59,11
+MX,Mexico,Baja California,,,MX-BCN,,ChIJ0913qAxw14ARjt4YA5_9pPw,2022-01-02,-3,19,-37,40,12,5
 MX,Mexico,Baja California Sur,,,MX-BCS,,ChIJyR6itTnTr4YRGFmnqTqz33E,2022-01-01,-31,-4,-31,-1,-44,7
+MX,Mexico,Baja California Sur,,,MX-BCS,,ChIJyR6itTnTr4YRGFmnqTqz33E,2022-01-02,4,22,-26,34,15,2
 MX,Mexico,Campeche,,,MX-CAM,,ChIJFeLHS0LD6IURw_yqe4z3i-Y,2022-01-01,-41,-15,-30,-16,-43,6
+MX,Mexico,Campeche,,,MX-CAM,,ChIJFeLHS0LD6IURw_yqe4z3i-Y,2022-01-02,6,37,-17,79,27,1
 MX,Mexico,Chiapas,,,MX-CHP,,ChIJZ85Xl7REjYURFdYZRoIzAM8,2022-01-01,-26,-11,-31,-20,-47,6
+MX,Mexico,Chiapas,,,MX-CHP,,ChIJZ85Xl7REjYURFdYZRoIzAM8,2022-01-02,25,39,-16,40,20,0
 MX,Mexico,Chihuahua,,,MX-CHH,,ChIJCaSRhS91loYRB36nQFPig5s,2022-01-01,-57,-23,-55,-29,-59,11
+MX,Mexico,Chihuahua,,,MX-CHH,,ChIJCaSRhS91loYRB36nQFPig5s,2022-01-02,-4,16,-29,45,10,5
 MX,Mexico,Coahuila,,,MX-COA,,ChIJKR6Opr1yiIYROXrNFNeaAGQ,2022-01-01,-43,-11,-28,-13,-57,5
+MX,Mexico,Coahuila,,,MX-COA,,ChIJKR6Opr1yiIYROXrNFNeaAGQ,2022-01-02,4,25,-15,88,20,2
 MX,Mexico,Colima,,,MX-COL,,ChIJ6yVw_g0yJYQRCmlXH5dAHiw,2022-01-01,-27,6,2,-20,-55,4
+MX,Mexico,Colima,,,MX-COL,,ChIJ6yVw_g0yJYQRCmlXH5dAHiw,2022-01-02,9,38,0,35,14,0
 MX,Mexico,Durango,,,MX-DUR,,ChIJSUVzr8GpkIYRsgjjq0HifSk,2022-01-01,-34,0,7,27,-51,6
+MX,Mexico,Durango,,,MX-DUR,,ChIJSUVzr8GpkIYRsgjjq0HifSk,2022-01-02,20,41,17,184,21,1
 MX,Mexico,Guanajuato,,,MX-GUA,,ChIJf3-bUI9bK4QRoEO-gRmmjuc,2022-01-01,-36,-4,-4,-32,-58,7
+MX,Mexico,Guanajuato,,,MX-GUA,,ChIJf3-bUI9bK4QRoEO-gRmmjuc,2022-01-02,12,37,13,32,18,0
 MX,Mexico,Guerrero,,,MX-GRO,,ChIJPyAn81hly4UROst3QpsiNzE,2022-01-01,7,23,30,25,-37,3
+MX,Mexico,Guerrero,,,MX-GRO,,ChIJPyAn81hly4UROst3QpsiNzE,2022-01-02,46,61,35,93,16,-1
 MX,Mexico,Hidalgo,,,MX-HID,,ChIJ5y_OIgQK0YURG3hAeb_FUoE,2022-01-01,-27,7,-14,-32,-45,5
+MX,Mexico,Hidalgo,,,MX-HID,,ChIJ5y_OIgQK0YURG3hAeb_FUoE,2022-01-02,26,55,-1,52,30,-1
 MX,Mexico,Jalisco,,,MX-JAL,,ChIJb05i1OtAH4QRU0obWqOw_qA,2022-01-01,-44,-15,-19,-12,-59,8
+MX,Mexico,Jalisco,,,MX-JAL,,ChIJb05i1OtAH4QRU0obWqOw_qA,2022-01-02,-2,21,-3,49,10,1
 MX,Mexico,Mexico City,,,MX-CMX,,ChIJJyk1sTYAzoURW4rR6E6e_d4,2022-01-01,-59,-36,-50,-53,-56,10
+MX,Mexico,Mexico City,,,MX-CMX,,ChIJJyk1sTYAzoURW4rR6E6e_d4,2022-01-02,-7,17,-20,13,17,1
 MX,Mexico,Michoacán,,,MX-MIC,,ChIJt1yzHj5fKoQR1OBL8wxlxzs,2022-01-01,-34,-5,12,2,-54,5
+MX,Mexico,Michoacán,,,MX-MIC,,ChIJt1yzHj5fKoQR1OBL8wxlxzs,2022-01-02,16,38,21,109,13,-2
 MX,Mexico,Morelos,,,MX-MOR,,ChIJR_72Ja7fzYURD91poSWCX5c,2022-01-01,-27,-1,-18,-30,-46,8
+MX,Mexico,Morelos,,,MX-MOR,,ChIJR_72Ja7fzYURD91poSWCX5c,2022-01-02,20,40,4,40,23,1
 MX,Mexico,Nayarit,,,MX-NAY,,ChIJR9s-5pyoIIQROdKUhqL1yMI,2022-01-01,-20,6,29,-12,-39,4
+MX,Mexico,Nayarit,,,MX-NAY,,ChIJR9s-5pyoIIQROdKUhqL1yMI,2022-01-02,16,45,21,61,20,-1
 MX,Mexico,Nuevo Leon,,,MX-NLE,,ChIJXbClooSVYoYRxrtsw0L0HXA,2022-01-01,-56,-21,-43,-47,-63,7
+MX,Mexico,Nuevo Leon,,,MX-NLE,,ChIJXbClooSVYoYRxrtsw0L0HXA,2022-01-02,-15,13,-36,15,9,4
 MX,Mexico,Oaxaca,,,MX-OAX,,ChIJUVwOOk_YwIURyQvZPUMMxkQ,2022-01-01,-20,-2,14,9,-37,6
+MX,Mexico,Oaxaca,,,MX-OAX,,ChIJUVwOOk_YwIURyQvZPUMMxkQ,2022-01-02,24,43,18,85,25,0
 MX,Mexico,Puebla,,,MX-PUE,,ChIJZafA3bCMz4URrSAC1luuXOI,2022-01-01,-42,-9,-9,-21,-51,7
+MX,Mexico,Puebla,,,MX-PUE,,ChIJZafA3bCMz4URrSAC1luuXOI,2022-01-02,7,33,-7,56,21,1
 MX,Mexico,Querétaro,,,MX-QUE,,ChIJX3BEYdFE04URu2lIpMSxRpE,2022-01-01,-46,-24,-9,-34,-56,8
+MX,Mexico,Querétaro,,,MX-QUE,,ChIJX3BEYdFE04URu2lIpMSxRpE,2022-01-02,5,17,5,45,23,-3
 MX,Mexico,Quintana Roo,,,MX-ROO,,ChIJlSbD6vD8T48RnI1MSCrF8MQ,2022-01-01,-22,7,-11,-5,-33,6
+MX,Mexico,Quintana Roo,,,MX-ROO,,ChIJlSbD6vD8T48RnI1MSCrF8MQ,2022-01-02,8,41,-8,30,27,0
 MX,Mexico,San Luis Potosi,,,MX-SLP,,ChIJefusBQCiKoQRXkEExEGyIOY,2022-01-01,-45,-15,-2,,-58,5
+MX,Mexico,San Luis Potosi,,,MX-SLP,,ChIJefusBQCiKoQRXkEExEGyIOY,2022-01-02,8,34,22,,16,0
 MX,Mexico,Sinaloa,,,MX-SIN,,ChIJWUmnKJRTn4YR71--DXbfe5w,2022-01-01,-37,-2,1,-15,-54,3
+MX,Mexico,Sinaloa,,,MX-SIN,,ChIJWUmnKJRTn4YR71--DXbfe5w,2022-01-02,11,38,11,56,21,1
 MX,Mexico,Sonora,,,MX-SON,,ChIJD9JN52kpmIYRdOO7_Br_Vs0,2022-01-01,-53,-16,-36,-21,-56,5
+MX,Mexico,Sonora,,,MX-SON,,ChIJD9JN52kpmIYRdOO7_Br_Vs0,2022-01-02,-3,16,-33,47,9,2
 MX,Mexico,State of Mexico,,,MX-MEX,,ChIJOwrrwJKJzYURV6jFn775_sI,2022-01-01,-39,-14,-31,-45,-52,8
+MX,Mexico,State of Mexico,,,MX-MEX,,ChIJOwrrwJKJzYURV6jFn775_sI,2022-01-02,15,33,-11,24,25,0
 MX,Mexico,Tabasco,,,MX-TAB,,ChIJT8t4j1_77YURRGuG2RHLJtQ,2022-01-01,-47,-23,-26,-16,-47,3
+MX,Mexico,Tabasco,,,MX-TAB,,ChIJT8t4j1_77YURRGuG2RHLJtQ,2022-01-02,7,38,2,90,29,-3
 MX,Mexico,Tamaulipas,,,MX-TAM,,ChIJWSQe265TeYYRJRnoNVqfhTM,2022-01-01,-46,-16,-24,4,-55,6
+MX,Mexico,Tamaulipas,,,MX-TAM,,ChIJWSQe265TeYYRJRnoNVqfhTM,2022-01-02,-2,16,-31,101,10,1
 MX,Mexico,Tlaxcala,,,MX-TLA,,ChIJE2EAHD_Zz4UR4L181Friujg,2022-01-01,-32,2,8,-26,-45,7
+MX,Mexico,Tlaxcala,,,MX-TLA,,ChIJE2EAHD_Zz4UR4L181Friujg,2022-01-02,20,52,4,85,30,3
 MX,Mexico,Veracruz,,,MX-VER,,ChIJbVJUr9BVw4URs7kQZwp_dy0,2022-01-01,-27,5,27,-7,-43,3
+MX,Mexico,Veracruz,,,MX-VER,,ChIJbVJUr9BVw4URs7kQZwp_dy0,2022-01-02,21,44,0,86,17,0
 MX,Mexico,Yucatan,,,MX-YUC,,ChIJ7QTWqvgPVI8RCj0IMXUhzMw,2022-01-01,-47,-20,-37,-59,-51,7
+MX,Mexico,Yucatan,,,MX-YUC,,ChIJ7QTWqvgPVI8RCj0IMXUhzMw,2022-01-02,-9,16,-25,-25,29,4
 MX,Mexico,Zacatecas,,,MX-ZAC,,ChIJb_7JfqDRgYYRmG0lXv0tHxw,2022-01-01,-33,-1,0,-15,-41,2
+MX,Mexico,Zacatecas,,,MX-ZAC,,ChIJb_7JfqDRgYYRmG0lXv0tHxw,2022-01-02,12,39,8,62,14,-2

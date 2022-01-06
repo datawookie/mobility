@@ -1,212 +1,391 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 RO,Romania,,,,,,ChIJw3aJlSb_sUARlLEEqJJP74Q,2022-01-01,-74,-77,-6,-58,-62,4
+RO,Romania,,,,,,ChIJw3aJlSb_sUARlLEEqJJP74Q,2022-01-02,-25,-14,32,-25,-26,0
 RO,Romania,Alba County,,,RO-AB,,ChIJZdpVeI4pSUcR19X4rqa3sdk,2022-01-01,-73,-79,-4,-47,-60,4
+RO,Romania,Alba County,,,RO-AB,,ChIJZdpVeI4pSUcR19X4rqa3sdk,2022-01-02,-27,-19,9,-24,-25,0
 RO,Romania,Alba County,Aiud,,,,ChIJaQaZl01RSUcRXPTsbiz73uU,2022-01-01,,,,,-54,
 RO,Romania,Alba County,Alba Iulia,,,,ChIJpdbwVTKmTkcR9PGU05bZjTs,2022-01-01,-85,-80,27,-60,-59,5
+RO,Romania,Alba County,Alba Iulia,,,,ChIJpdbwVTKmTkcR9PGU05bZjTs,2022-01-02,-37,-23,51,-45,-16,-1
 RO,Romania,Alba County,Blaj,,,,ChIJDa4dZv73S0cRJ_4h-xeHYoo,2022-01-01,,,,,-59,
 RO,Romania,Alba County,Cugir,,,,ChIJ47X2-tooTEcRCtdbMqJZaac,2022-01-01,,,,,-53,
 RO,Romania,Alba County,Poiana Vadului,,,,ChIJL29n7BXVSEcRLiLP8_g83Ak,2022-01-01,,,-20,,,
+RO,Romania,Alba County,Poiana Vadului,,,,ChIJL29n7BXVSEcRLiLP8_g83Ak,2022-01-02,,,-13,,,
 RO,Romania,Alba County,Sebes,,,,ChIJWb1GtvkeTEcRzg_4qKHXu7k,2022-01-01,,-90,,,-65,
+RO,Romania,Alba County,Sebes,,,,ChIJWb1GtvkeTEcRzg_4qKHXu7k,2022-01-02,-19,,,,-37,
 RO,Romania,Arad County,,,RO-AR,,ChIJw1lco0uYRUcRLdg7q_qRtcQ,2022-01-01,-78,-79,7,-60,-64,6
+RO,Romania,Arad County,,,RO-AR,,ChIJw1lco0uYRUcRLdg7q_qRtcQ,2022-01-02,-41,-28,18,-21,-27,0
 RO,Romania,Arad County,Arad,,,,ChIJzRnlT9iYRUcRDLCS-DdiYEg,2022-01-01,-81,-82,32,-71,-67,9
+RO,Romania,Arad County,Arad,,,,ChIJzRnlT9iYRUcRDLCS-DdiYEg,2022-01-02,-44,-35,41,-28,-20,2
 RO,Romania,Arad County,Sebis,,,,ChIJs5DCZzRQT0cR8EmOqsO6knw,2022-01-01,,,-6,,,
+RO,Romania,Arad County,Sebis,,,,ChIJs5DCZzRQT0cR8EmOqsO6knw,2022-01-02,,,13,,,
 RO,Romania,Argeș County,,,RO-AG,,ChIJWytS4Iu8skARvw6fAEmSC2E,2022-01-01,-65,-72,17,-54,-63,3
+RO,Romania,Argeș County,,,RO-AG,,ChIJWytS4Iu8skARvw6fAEmSC2E,2022-01-02,-18,-13,47,-21,-25,-3
 RO,Romania,Argeș County,Campulung,,,,ChIJoX9Jr9XXskARhDIZP7dG-Ko,2022-01-01,-61,-86,,,-59,
+RO,Romania,Argeș County,Campulung,,,,ChIJoX9Jr9XXskARhDIZP7dG-Ko,2022-01-02,,-15,,,-15,
 RO,Romania,Argeș County,Curtea de Arges,,,,ChIJFXc0F60zTUcRoumfR1lrTsE,2022-01-01,,-83,,,-53,
+RO,Romania,Argeș County,Curtea de Arges,,,,ChIJFXc0F60zTUcRoumfR1lrTsE,2022-01-02,,-1,,,-34,
 RO,Romania,Argeș County,Mioveni,,,,ChIJcS0mwku_skARNyIHq_IUWJQ,2022-01-01,-69,-80,,,-68,
+RO,Romania,Argeș County,Mioveni,,,,ChIJcS0mwku_skARNyIHq_IUWJQ,2022-01-02,-29,-17,,,-43,
 RO,Romania,Argeș County,Pitesti,,,,ChIJjcR4gIG8skARD0mLGdVujRU,2022-01-01,-66,-72,15,-58,-62,4
+RO,Romania,Argeș County,Pitesti,,,,ChIJjcR4gIG8skARD0mLGdVujRU,2022-01-02,-23,-21,65,-28,-19,-2
 RO,Romania,Argeș County,Poienarii de Muscel,,,,ChIJ00gWTcTZskARoMi6QFLYnzg,2022-01-01,,,-24,,,
+RO,Romania,Argeș County,Poienarii de Muscel,,,,ChIJ00gWTcTZskARoMi6QFLYnzg,2022-01-02,,,-11,,,
 RO,Romania,Bacău County,,,RO-BC,,ChIJC-OCOBhwtUARtK5hbKZ3Mvc,2022-01-01,-63,-71,40,-63,-58,2
+RO,Romania,Bacău County,,,RO-BC,,ChIJC-OCOBhwtUARtK5hbKZ3Mvc,2022-01-02,-7,-1,93,-33,-22,0
 RO,Romania,Bacău County,Bacau,,,,ChIJu3GbBzBwtUARZmL0tZymyVc,2022-01-01,-75,-76,78,-73,-62,4
+RO,Romania,Bacău County,Bacau,,,,ChIJu3GbBzBwtUARZmL0tZymyVc,2022-01-02,-19,-10,176,-38,-15,1
 RO,Romania,Bacău County,Comanesti,,,,ChIJ8-bDNhE9tUARwHUvAzZ88rY,2022-01-01,,,,,-62,
+RO,Romania,Bacău County,Comanesti,,,,ChIJ8-bDNhE9tUARwHUvAzZ88rY,2022-01-02,,,,-39,,
 RO,Romania,Bacău County,Dofteana,,,,ChIJOa0HokkZtUARJgIgSXZwW9s,2022-01-01,,,35,,,
+RO,Romania,Bacău County,Dofteana,,,,ChIJOa0HokkZtUARJgIgSXZwW9s,2022-01-02,,,56,,,
 RO,Romania,Bacău County,Moinesti,,,,ChIJW_KPD2Q-tUAR1abCkDqP_H8,2022-01-01,,,,,-50,
 RO,Romania,Bacău County,Onesti,,,,ChIJBwN-YKkHtUAR4PCb9dVExaU,2022-01-01,-67,-80,,-63,-51,
+RO,Romania,Bacău County,Onesti,,,,ChIJBwN-YKkHtUAR4PCb9dVExaU,2022-01-02,,-8,,-30,-24,
 RO,Romania,Bacău County,Urechesti,,,,ChIJM1vUrs6ztUARiJ76dy6i3bw,2022-01-01,,,22,,,
+RO,Romania,Bacău County,Urechesti,,,,ChIJM1vUrs6ztUARiJ76dy6i3bw,2022-01-02,,,15,,,
 RO,Romania,Bihor County,,,RO-BH,,ChIJUyN2aONHRkcRQ0Y9SRqIKn4,2022-01-01,-73,-75,7,-68,-61,5
+RO,Romania,Bihor County,,,RO-BH,,ChIJUyN2aONHRkcRQ0Y9SRqIKn4,2022-01-02,-31,-14,24,-41,-20,0
 RO,Romania,Bihor County,Hidiselu de Sus,,,,ChIJu30DQrA9RkcRPMItahJV7Ho,2022-01-01,,,-12,,,
+RO,Romania,Bihor County,Hidiselu de Sus,,,,ChIJu30DQrA9RkcRPMItahJV7Ho,2022-01-02,,,5,,,
 RO,Romania,Bihor County,Holod,,,,ChIJxdOsGVMZRkcRyJTVAHReBJA,2022-01-01,,,30,,,
+RO,Romania,Bihor County,Holod,,,,ChIJxdOsGVMZRkcRyJTVAHReBJA,2022-01-02,,,35,,,
 RO,Romania,Bihor County,Marghita,,,,ChIJFa6nngPER0cR1vnnQJNTQow,2022-01-01,,,-37,,,
+RO,Romania,Bihor County,Marghita,,,,ChIJFa6nngPER0cR1vnnQJNTQow,2022-01-02,,,-15,,,
 RO,Romania,Bihor County,Oradea,,,,ChIJj_po1gxIRkcRsK7ZyHZbTiw,2022-01-01,-80,-77,18,-77,-64,7
+RO,Romania,Bihor County,Oradea,,,,ChIJj_po1gxIRkcRsK7ZyHZbTiw,2022-01-02,-36,-15,28,-50,-18,0
 RO,Romania,Bihor County,Salonta,,,,ChIJjwvs0OJxRkcRdiVUFLuWduU,2022-01-01,,,,,-52,
 RO,Romania,Bihor County,Sanmartin,,,,ChIJ9ZLE0ko5RkcR9XZMUZV01fo,2022-01-01,,,,,-63,
+RO,Romania,Bihor County,Sanmartin,,,,ChIJ9ZLE0ko5RkcR9XZMUZV01fo,2022-01-02,,,16,,,
 RO,Romania,Bistrița-Năsăud County,,,RO-BN,,ChIJWwtrR0HjSUcR5ZhyPaPPswA,2022-01-01,-72,-76,75,-31,-68,2
+RO,Romania,Bistrița-Năsăud County,,,RO-BN,,ChIJWwtrR0HjSUcR5ZhyPaPPswA,2022-01-02,-32,-11,83,12,-36,-2
 RO,Romania,Bistrița-Năsăud County,Bistrita,,,,ChIJX96GDbz3SUcRkINqjQFll-0,2022-01-01,-76,-83,,-53,-71,7
+RO,Romania,Bistrița-Năsăud County,Bistrita,,,,ChIJX96GDbz3SUcRkINqjQFll-0,2022-01-02,-46,-28,,-4,-40,0
 RO,Romania,Botoșani County,,,RO-BT,,ChIJEatP0tfrNEcR5vdS1t9FdUo,2022-01-01,-63,-63,15,-50,-63,3
+RO,Romania,Botoșani County,,,RO-BT,,ChIJEatP0tfrNEcR5vdS1t9FdUo,2022-01-02,-13,5,18,-16,-40,0
 RO,Romania,Botoșani County,Botosani,,,,ChIJ1z10adXrNEcR-oNamQvsOMM,2022-01-01,-71,-76,59,-57,-69,7
+RO,Romania,Botoșani County,Botosani,,,,ChIJ1z10adXrNEcR-oNamQvsOMM,2022-01-02,-10,1,77,-8,-38,3
 RO,Romania,Botoșani County,Corlateni,,,,ChIJAUf6KYmONEcRoXmPCp6tmOs,2022-01-01,,,33,,,
+RO,Romania,Botoșani County,Corlateni,,,,ChIJAUf6KYmONEcRoXmPCp6tmOs,2022-01-02,,,22,,,
 RO,Romania,Botoșani County,Dorohoi,,,,ChIJy2pGdAGKNEcRqGZD4ARAPqc,2022-01-01,,,,,-54,
+RO,Romania,Botoșani County,Dorohoi,,,,ChIJy2pGdAGKNEcRqGZD4ARAPqc,2022-01-02,,,,,-21,
 RO,Romania,Brăila County,,,RO-BR,,ChIJQZTGxSrWtkARtZa5A4TEQ40,2022-01-01,-75,-73,-12,-53,-62,5
+RO,Romania,Brăila County,,,RO-BR,,ChIJQZTGxSrWtkARtZa5A4TEQ40,2022-01-02,-26,-10,24,-15,-39,2
 RO,Romania,Brăila County,Braila,,,,ChIJo-MqZeEpt0AR1A1_d-Pj7RM,2022-01-01,-76,-71,4,-59,-64,6
+RO,Romania,Brăila County,Braila,,,,ChIJo-MqZeEpt0AR1A1_d-Pj7RM,2022-01-02,-23,-19,43,-21,-36,2
 RO,Romania,Brăila County,Chiscani,,,,ChIJ2dg6e50st0ARgoD67WL-990,2022-01-01,,-100,,,,
+RO,Romania,Brăila County,Chiscani,,,,ChIJ2dg6e50st0ARgoD67WL-990,2022-01-02,-60,-11,,,,
 RO,Romania,Brașov County,,,RO-BV,,ChIJ8RSiKoZbs0ARq9j546ZhS-w,2022-01-01,-71,-77,-1,-58,-60,7
+RO,Romania,Brașov County,,,RO-BV,,ChIJ8RSiKoZbs0ARq9j546ZhS-w,2022-01-02,-16,-18,67,-3,-17,0
 RO,Romania,Brașov County,Brasov,,,,ChIJi6rdR51bs0ARKOX0iq1Z9PA,2022-01-01,-72,-77,43,-59,-59,6
+RO,Romania,Brașov County,Brasov,,,,ChIJi6rdR51bs0ARKOX0iq1Z9PA,2022-01-02,-18,-22,139,-8,-7,-2
 RO,Romania,Brașov County,Codlea,,,,ChIJSwz3H9xTs0ARE_zR4MbkGGk,2022-01-01,,,,-69,-66,
 RO,Romania,Brașov County,Fagaras,,,,ChIJGaUZjNijTEcRgPDq5H3ZKpU,2022-01-01,,-90,-67,,-53,
+RO,Romania,Brașov County,Fagaras,,,,ChIJGaUZjNijTEcRgPDq5H3ZKpU,2022-01-02,,,-13,,-21,
 RO,Romania,Brașov County,Predeal,,,,ChIJKyDmFB9Cs0ARJFHB_kR0Po0,2022-01-01,,,-48,-55,,
+RO,Romania,Brașov County,Predeal,,,,ChIJKyDmFB9Cs0ARJFHB_kR0Po0,2022-01-02,,,,42,,
 RO,Romania,Brașov County,Rasnov,,,,ChIJh839GodGs0ARCKxpA3Jxi-Q,2022-01-01,,,-61,,-54,
 RO,Romania,Brașov County,Sacele,,,,ChIJZaV7G0Fvs0ARrrKSf-rmrl4,2022-01-01,,,,-66,-71,
+RO,Romania,Brașov County,Sacele,,,,ChIJZaV7G0Fvs0ARrrKSf-rmrl4,2022-01-02,,,,,-38,
 RO,Romania,Brașov County,Zarnesti,,,,ChIJmYLS4LxLs0ARFNGKX5hVe1Y,2022-01-01,,-78,,,-64,
+RO,Romania,Brașov County,Zarnesti,,,,ChIJmYLS4LxLs0ARFNGKX5hVe1Y,2022-01-02,,,,,-41,
 RO,Romania,Bucharest,,,RO-B,,ChIJw3aJlSb_sUARM24B2-DNqIQ,2022-01-01,-79,-83,-18,-61,-64,6
+RO,Romania,Bucharest,,,RO-B,,ChIJw3aJlSb_sUARM24B2-DNqIQ,2022-01-02,-35,-27,-5,-37,-23,0
 RO,Romania,Buzău County,,,RO-BZ,,ChIJr_Zv_dhfsUAR6I3EbWkCWjU,2022-01-01,-70,-68,7,6,-66,4
+RO,Romania,Buzău County,,,RO-BZ,,ChIJr_Zv_dhfsUAR6I3EbWkCWjU,2022-01-02,-27,-12,35,66,-31,1
 RO,Romania,Buzău County,Beceni,,,,ChIJSY-uLT_6s0ARxPu75QNy2x4,2022-01-01,,,1,,,
+RO,Romania,Buzău County,Beceni,,,,ChIJSY-uLT_6s0ARxPu75QNy2x4,2022-01-02,,,25,,,
 RO,Romania,Buzău County,Buzau,,,,ChIJ68qtg25gsUARizFADg3uUes,2022-01-01,-76,-72,47,19,-68,6
+RO,Romania,Buzău County,Buzau,,,,ChIJ68qtg25gsUARizFADg3uUes,2022-01-02,-30,-15,73,78,-29,1
 RO,Romania,Buzău County,Ramnicu Sarat,,,,ChIJl_2YWMaqtkARWfZKnWC1vq0,2022-01-01,,-65,-48,-60,-70,
+RO,Romania,Buzău County,Ramnicu Sarat,,,,ChIJl_2YWMaqtkARWfZKnWC1vq0,2022-01-02,,-2,-36,-24,-39,
 RO,Romania,Călărași County,,,RO-CL,,ChIJjZJi6U7nsUAR7EMrd0cgvNs,2022-01-01,-61,-66,-8,-46,-60,5
+RO,Romania,Călărași County,,,RO-CL,,ChIJjZJi6U7nsUAR7EMrd0cgvNs,2022-01-02,-17,0,17,1,-34,0
 RO,Romania,Călărași County,Calarasi,,,,ChIJb_gNS0o9sEAR2yf-vx71xaA,2022-01-01,-72,-69,-32,-61,-61,7
+RO,Romania,Călărași County,Calarasi,,,,ChIJb_gNS0o9sEAR2yf-vx71xaA,2022-01-02,-28,-9,-15,4,-39,2
 RO,Romania,Călărași County,Oltenita,,,,ChIJX9jxHfosrkAR_EU5T0eJBv0,2022-01-01,,-85,,,-49,
+RO,Romania,Călărași County,Oltenita,,,,ChIJX9jxHfosrkAR_EU5T0eJBv0,2022-01-02,,,,,-19,
 RO,Romania,Caraș-Severin County,,,RO-CS,,ChIJLW6qKKkAUUcRhzks2Jp5mhM,2022-01-01,-59,-75,-9,-62,-56,7
+RO,Romania,Caraș-Severin County,,,RO-CS,,ChIJLW6qKKkAUUcRhzks2Jp5mhM,2022-01-02,5,-1,48,-4,-31,-1
 RO,Romania,Caraș-Severin County,Berzovia,,,,ChIJY1gXIHfgT0cRwk8Nl4P5zOI,2022-01-01,,,-10,,,
+RO,Romania,Caraș-Severin County,Berzovia,,,,ChIJY1gXIHfgT0cRwk8Nl4P5zOI,2022-01-02,,,9,,,
 RO,Romania,Caraș-Severin County,Caransebes,,,,ChIJw5AytR4yTkcRGkazkPft1lo,2022-01-01,,-80,,-55,-61,
+RO,Romania,Caraș-Severin County,Caransebes,,,,ChIJw5AytR4yTkcRGkazkPft1lo,2022-01-02,,,,-17,-26,
 RO,Romania,Caraș-Severin County,Resita,,,,ChIJr0oqzGbVT0cRtTv-4wYcQTc,2022-01-01,-69,-82,-42,,-60,9
+RO,Romania,Caraș-Severin County,Resita,,,,ChIJr0oqzGbVT0cRtTv-4wYcQTc,2022-01-02,-8,-6,9,,-26,-1
 RO,Romania,Cluj County,,,RO-CJ,,ChIJiwtskR8MSUcR6Nk3QsedRkI,2022-01-01,-84,-83,6,-65,-57,5
+RO,Romania,Cluj County,,,RO-CJ,,ChIJiwtskR8MSUcR6Nk3QsedRkI,2022-01-02,-38,-14,56,-23,-18,-3
 RO,Romania,Cluj County,Apahida,,,,ChIJTcDJtMp0SUcRkrLmPDEdGos,2022-01-01,,,,-50,-66,
 RO,Romania,Cluj County,Campia Turzii,,,,ChIJAyK1KMVmSUcRsjQpKkp6v48,2022-01-01,,,,,-69,
+RO,Romania,Cluj County,Campia Turzii,,,,ChIJAyK1KMVmSUcRsjQpKkp6v48,2022-01-02,,,,,-40,
 RO,Romania,Cluj County,Cluj - Napoca,,,,ChIJY95eGB8MSUcRL11BldQ5-XI,2022-01-01,-86,-85,19,-63,-54,5
+RO,Romania,Cluj County,Cluj - Napoca,,,,ChIJY95eGB8MSUcRL11BldQ5-XI,2022-01-02,-45,-26,77,-24,-12,-6
 RO,Romania,Cluj County,Dej,,,,ChIJA54wBS-4SUcRFc5suxziaCw,2022-01-01,,-82,,-57,-57,
+RO,Romania,Cluj County,Dej,,,,ChIJA54wBS-4SUcRFc5suxziaCw,2022-01-02,,,,-18,-38,
 RO,Romania,Cluj County,Floresti,,,,ChIJBdHCKBgQSUcRstGuQRzXMig,2022-01-01,-92,-79,,-81,-58,7
+RO,Romania,Cluj County,Floresti,,,,ChIJBdHCKBgQSUcRstGuQRzXMig,2022-01-02,-28,,,20,-12,-3
 RO,Romania,Cluj County,Gherla,,,,ChIJi087kRq9SUcRHchK6vdaX9w,2022-01-01,,,,,-55,
 RO,Romania,Cluj County,Turda,,,,ChIJcaXQBaxoSUcRgg84BHMFVi4,2022-01-01,-78,-84,,-69,-69,
+RO,Romania,Cluj County,Turda,,,,ChIJcaXQBaxoSUcRgg84BHMFVi4,2022-01-02,-42,-13,,-39,-41,
 RO,Romania,Constanța County,,,RO-CT,,ChIJx2UixiXhukARjVHPJktMmQU,2022-01-01,-70,-72,51,-55,-60,4
+RO,Romania,Constanța County,,,RO-CT,,ChIJx2UixiXhukARjVHPJktMmQU,2022-01-02,-20,2,151,-9,-24,0
 RO,Romania,Constanța County,Cernavoda,,,,ChIJtaHi8AidukARb3VXHe424Lg,2022-01-01,,,-41,,-33,
+RO,Romania,Constanța County,Cernavoda,,,,ChIJtaHi8AidukARb3VXHe424Lg,2022-01-02,,,-1,,,
 RO,Romania,Constanța County,Constanta,,,,ChIJDa6wZ_zvukARSZ3-Newx66I,2022-01-01,-76,-82,37,-61,-65,5
+RO,Romania,Constanța County,Constanta,,,,ChIJDa6wZ_zvukARSZ3-Newx66I,2022-01-02,-22,-5,139,-16,-20,1
 RO,Romania,Constanța County,Lumina,,,,ChIJgwyai-T0ukARjOiShVG7fY0,2022-01-01,,,,,-56,
 RO,Romania,Constanța County,Medgidia,,,,ChIJNT-DxlyRukARRRb-xexkRWg,2022-01-01,,-63,,,-52,
+RO,Romania,Constanța County,Medgidia,,,,ChIJNT-DxlyRukARRRb-xexkRWg,2022-01-02,,,,,-32,
 RO,Romania,Constanța County,Mihail Kogalniceanu,,,,ChIJcd4uSJGKukARCI2SqTUs6wE,2022-01-01,,,,-51,,
 RO,Romania,Constanța County,Municipiul Mangalia,,,,ChIJH32-Krspu0ARauWvAmMkjK4,2022-01-01,-49,-64,,,-64,
+RO,Romania,Constanța County,Municipiul Mangalia,,,,ChIJH32-Krspu0ARauWvAmMkjK4,2022-01-02,1,5,,,-42,
 RO,Romania,Constanța County,Navodari,,,,ChIJsUos-KH1ukARPiEBI_FFuJ8,2022-01-01,,-61,,,-59,
+RO,Romania,Constanța County,Navodari,,,,ChIJsUos-KH1ukARPiEBI_FFuJ8,2022-01-02,,17,,,-23,
 RO,Romania,Constanța County,Ovidiu,,,,ChIJ_xl07hfyukARVXAl2GE3pbI,2022-01-01,,,,,-58,
 RO,Romania,Constanța County,Valu lui Traian,,,,ChIJLfmyx6PuukAR4TUgsDyy3wQ,2022-01-01,,,,,-58,
 RO,Romania,Covasna County,,,RO-CV,,ChIJv1LKlZlKS0cR4ErYSY6JKXI,2022-01-01,-81,-83,-13,-55,-63,4
+RO,Romania,Covasna County,,,RO-CV,,ChIJv1LKlZlKS0cR4ErYSY6JKXI,2022-01-02,-9,-11,35,,-31,-2
 RO,Romania,Covasna County,Sfantu Gheorghe,,,,ChIJSQuSAIaktEARMbKpkqzVods,2022-01-01,-87,-84,,-52,-69,
+RO,Romania,Covasna County,Sfantu Gheorghe,,,,ChIJSQuSAIaktEARMbKpkqzVods,2022-01-02,0,-19,,,-31,
 RO,Romania,Dâmbovița County,,,RO-DB,,ChIJXypAB5z1skAR0_SguIHvPrg,2022-01-01,-70,-75,-39,-50,-65,3
+RO,Romania,Dâmbovița County,,,RO-DB,,ChIJXypAB5z1skAR0_SguIHvPrg,2022-01-02,-10,-17,-15,-23,-35,-1
 RO,Romania,Dâmbovița County,Corbii Mari,,,,ChIJD4AbJc53skAR5xGCNYU4lZA,2022-01-01,,,-40,,,
+RO,Romania,Dâmbovița County,Corbii Mari,,,,ChIJD4AbJc53skAR5xGCNYU4lZA,2022-01-02,,,-34,,,
 RO,Romania,Dâmbovița County,Gaesti,,,,ChIJn7CDIHeIskARvouA8uo8ZJQ,2022-01-01,,,,,-57,
 RO,Romania,Dâmbovița County,I. L. Caragiale,,,,ChIJBe8Fo0laskARyJ3AiqYnpJc,2022-01-01,,,-37,,,
+RO,Romania,Dâmbovița County,I. L. Caragiale,,,,ChIJBe8Fo0laskARyJ3AiqYnpJc,2022-01-02,,,-22,,,
 RO,Romania,Dâmbovița County,Moreni,,,,ChIJKRTNI8RXskARTYS8ISObcZs,2022-01-01,,,,,-53,
 RO,Romania,Dâmbovița County,Targoviste,,,,ChIJdbo0sBj0skARIb9Z9i7KtDA,2022-01-01,-74,-79,-14,-67,-66,3
+RO,Romania,Dâmbovița County,Targoviste,,,,ChIJdbo0sBj0skARIb9Z9i7KtDA,2022-01-02,5,-17,-2,-35,-33,-1
 RO,Romania,Dâmbovița County,Titu,,,,ChIJhTpiVTRwskARAQe6F83pp6I,2022-01-01,,,,-69,,
+RO,Romania,Dâmbovița County,Titu,,,,ChIJhTpiVTRwskARAQe6F83pp6I,2022-01-02,,,,-33,,
 RO,Romania,Dolj County,,,RO-DJ,,ChIJB81tbQ7XUkcRBpWYV4LFOaY,2022-01-01,-72,-78,17,-57,-60,3
+RO,Romania,Dolj County,,,RO-DJ,,ChIJB81tbQ7XUkcRBpWYV4LFOaY,2022-01-02,-27,-22,73,-26,-29,0
 RO,Romania,Dolj County,Craiova,,,,ChIJZ0y5iAvXUkcRy5Em4T_S5VU,2022-01-01,-72,-81,13,-57,-65,4
+RO,Romania,Dolj County,Craiova,,,,ChIJZ0y5iAvXUkcRy5Em4T_S5VU,2022-01-02,-24,-28,76,-25,-32,0
 RO,Romania,Galați,,,RO-GL,,ChIJtcTyieXetkARjU8Fsz6nTD4,2022-01-01,-73,-77,-21,-48,-60,3
+RO,Romania,Galați,,,RO-GL,,ChIJtcTyieXetkARjU8Fsz6nTD4,2022-01-02,-27,-26,14,-6,-33,1
 RO,Romania,Galați,Galati,,,,ChIJOz9-WYPgtkARHLbD14g2dlQ,2022-01-01,-76,-80,-19,-51,-62,5
+RO,Romania,Galați,Galati,,,,ChIJOz9-WYPgtkARHLbD14g2dlQ,2022-01-02,-31,-28,31,-4,-34,2
 RO,Romania,Galați,Tecuci,,,,ChIJN3MJE_4otEARjTVh1qYATEk,2022-01-01,,-80,-40,-64,-65,
+RO,Romania,Galați,Tecuci,,,,ChIJN3MJE_4otEARjTVh1qYATEk,2022-01-02,,-27,-22,-8,-32,
 RO,Romania,Giurgiu County,,,RO-GR,,ChIJx-sy0qMHskARHQ5nu7zEACQ,2022-01-01,-64,-76,2,-56,-64,7
+RO,Romania,Giurgiu County,,,RO-GR,,ChIJx-sy0qMHskARHQ5nu7zEACQ,2022-01-02,-27,-17,17,-18,-32,2
 RO,Romania,Giurgiu County,Giurgiu,,,,ChIJbZoogVdmrkARlH_SpU65Vg0,2022-01-01,-71,-86,35,-61,-59,6
+RO,Romania,Giurgiu County,Giurgiu,,,,ChIJbZoogVdmrkARlH_SpU65Vg0,2022-01-02,-27,-21,29,-19,-28,3
 RO,Romania,Gorj County,,,RO-GJ,,ChIJkSodn9kUUkcR012tXpRDw-Q,2022-01-01,-65,-71,-18,-55,-52,4
+RO,Romania,Gorj County,,,RO-GJ,,ChIJkSodn9kUUkcR012tXpRDw-Q,2022-01-02,-9,-13,18,-18,-29,0
 RO,Romania,Gorj County,Motru,,,,ChIJDXS33fIUUkcRV-KoYqvIJpQ,2022-01-01,,,,,-53,
 RO,Romania,Gorj County,Targu Jiu,,,,ChIJcWfCcEmKTUcRxoyeTV9sRrY,2022-01-01,-84,-74,-26,-65,-56,6
+RO,Romania,Gorj County,Targu Jiu,,,,ChIJcWfCcEmKTUcRxoyeTV9sRrY,2022-01-02,-32,-22,10,-19,-25,0
 RO,Romania,Gorj County,Turburea,,,,ChIJa_dxiFeMUkcRQY3-RqlhomY,2022-01-01,,,-25,,,
+RO,Romania,Gorj County,Turburea,,,,ChIJa_dxiFeMUkcRQY3-RqlhomY,2022-01-02,,,-7,,,
 RO,Romania,Harghita County,,,RO-HR,,ChIJmypj21diSkcRlOrcYBLZRBM,2022-01-01,-68,-81,22,-45,-67,4
+RO,Romania,Harghita County,,,RO-HR,,ChIJmypj21diSkcRlOrcYBLZRBM,2022-01-02,7,-13,90,-1,-25,-1
 RO,Romania,Harghita County,Miercurea Ciuc,,,,ChIJXaU46CoqS0cRtICx78rV2Ok,2022-01-01,-84,-86,,-61,-66,
+RO,Romania,Harghita County,Miercurea Ciuc,,,,ChIJXaU46CoqS0cRtICx78rV2Ok,2022-01-02,,,,-18,-39,
 RO,Romania,Harghita County,Odorheiu Secuiesc,,,,ChIJo0GuaP4XS0cR4vGwCQYZTKg,2022-01-01,,-88,,,-74,
+RO,Romania,Harghita County,Odorheiu Secuiesc,,,,ChIJo0GuaP4XS0cR4vGwCQYZTKg,2022-01-02,,,,,-40,
 RO,Romania,Harghita County,Toplita,,,,ChIJX3EggcR8SkcR72ZxJrW-J5Q,2022-01-01,,,,,-58,
 RO,Romania,Hunedoara County,,,RO-HD,,ChIJD0j9oaHeTkcRHpA5FHaMhnI,2022-01-01,-74,-77,15,-63,-56,6
+RO,Romania,Hunedoara County,,,RO-HD,,ChIJD0j9oaHeTkcRHpA5FHaMhnI,2022-01-02,-33,-18,49,-31,-24,1
 RO,Romania,Hunedoara County,Deva,,,,ChIJgxkfT9jyTkcRXLT6vbyzlik,2022-01-01,-82,-91,23,-75,-62,8
+RO,Romania,Hunedoara County,Deva,,,,ChIJgxkfT9jyTkcRXLT6vbyzlik,2022-01-02,-31,-27,45,-42,-28,1
 RO,Romania,Hunedoara County,Hunedoara,,,,ChIJ1z3K6cWKTkcRqR2RGIXAamI,2022-01-01,-77,-77,-14,-71,-66,8
+RO,Romania,Hunedoara County,Hunedoara,,,,ChIJ1z3K6cWKTkcRqR2RGIXAamI,2022-01-02,-50,-24,32,-43,-41,
 RO,Romania,Hunedoara County,Lupeni,,,,ChIJueM1XvTnTUcRzitoxot969Y,2022-01-01,,,,,-35,
 RO,Romania,Hunedoara County,Orastie,,,,ChIJdZJPfsOaTkcRHaWRuOMzPEQ,2022-01-01,,,,,-60,
 RO,Romania,Hunedoara County,Petrila,,,,ChIJ2fFWGJHITUcRIMkmQ-vmUTU,2022-01-01,,,,,-57,
+RO,Romania,Hunedoara County,Petrila,,,,ChIJ2fFWGJHITUcRIMkmQ-vmUTU,2022-01-02,,,,,-39,
 RO,Romania,Hunedoara County,Petrosani,,,,ChIJKb2Gt8bFTUcRL01dNXJw6uA,2022-01-01,-76,-86,,-54,-50,
+RO,Romania,Hunedoara County,Petrosani,,,,ChIJKb2Gt8bFTUcRL01dNXJw6uA,2022-01-02,-57,-16,,0,-20,
 RO,Romania,Hunedoara County,Simeria,,,,ChIJQfsAYJCNTkcRJUfBaCxIs8o,2022-01-01,,,,,-49,
 RO,Romania,Hunedoara County,Vulcan,,,,ChIJcxiabujCTUcRHbyAIiB74tw,2022-01-01,,,,,-51,
+RO,Romania,Hunedoara County,Vulcan,,,,ChIJcxiabujCTUcRHbyAIiB74tw,2022-01-02,,,,,-36,
 RO,Romania,Ialomița County,,,RO-IL,,ChIJHR7RTzicsUARB_akNLAYbP8,2022-01-01,-64,-73,-30,-52,-63,4
+RO,Romania,Ialomița County,,,RO-IL,,ChIJHR7RTzicsUARB_akNLAYbP8,2022-01-02,-22,-8,-1,-12,-33,0
 RO,Romania,Ialomița County,Fetesti,,,,ChIJd5ogTxhwsEARjFk7UYZnhNk,2022-01-01,,,-48,-51,-52,
+RO,Romania,Ialomița County,Fetesti,,,,ChIJd5ogTxhwsEARjFk7UYZnhNk,2022-01-02,,,-15,6,-26,
 RO,Romania,Ialomița County,Gheorghe Doja,,,,ChIJq-uerw2ssUARoduqfHQewAA,2022-01-01,,,-6,,,
+RO,Romania,Ialomița County,Gheorghe Doja,,,,ChIJq-uerw2ssUARoduqfHQewAA,2022-01-02,,,33,,,
 RO,Romania,Ialomița County,Slobozia,,,,ChIJd5ntTlRRsEARzxJBHLwN6wo,2022-01-01,-68,-78,-46,-74,-63,4
+RO,Romania,Ialomița County,Slobozia,,,,ChIJd5ntTlRRsEARzxJBHLwN6wo,2022-01-02,-33,4,-35,-44,-26,
 RO,Romania,Iași County,,,RO-IS,,ChIJu9059nz7ykARpJyg2swFmVs,2022-01-01,-76,-74,-14,-62,-63,3
+RO,Romania,Iași County,,,RO-IS,,ChIJu9059nz7ykARpJyg2swFmVs,2022-01-02,-27,-17,7,-29,-24,0
 RO,Romania,Iași County,Iași metropolitan area,,,,ChIJ13QZi3X7ykARpsHby75tLIY,2022-01-01,-80,-79,-19,-62,-63,3
+RO,Romania,Iași County,Iași metropolitan area,,,,ChIJ13QZi3X7ykARpsHby75tLIY,2022-01-02,-27,-23,24,-28,-18,-1
 RO,Romania,Iași County,Miroslava,,,,ChIJvcn6OizlykARbUnmnmePLFY,2022-01-01,,,,,-71,
+RO,Romania,Iași County,Miroslava,,,,ChIJvcn6OizlykARbUnmnmePLFY,2022-01-02,,,,,-37,
 RO,Romania,Iași County,Motca,,,,ChIJpX2gzps2NUcRMkx2G5YRh4s,2022-01-01,,,28,,,
+RO,Romania,Iași County,Motca,,,,ChIJpX2gzps2NUcRMkx2G5YRh4s,2022-01-02,,,23,,,
 RO,Romania,Iași County,Pascani,,,,ChIJmQDvlAkzNUcRgmESYWa8Phc,2022-01-01,,-75,,-35,-65,
+RO,Romania,Iași County,Pascani,,,,ChIJmQDvlAkzNUcRgmESYWa8Phc,2022-01-02,,-28,,4,-38,
 RO,Romania,Ilfov County,,,RO-IF,,ChIJGzLex0QdskAR6dMhIc5oMg0,2022-01-01,-84,-88,30,-58,-66,7
+RO,Romania,Ilfov County,,,RO-IF,,ChIJGzLex0QdskAR6dMhIc5oMg0,2022-01-02,-43,-14,44,-24,-20,1
 RO,Romania,Ilfov County,Afumati,,,,ChIJh26TKub2sUARPlY1j4u1-70,2022-01-01,-96,,,,,
 RO,Romania,Ilfov County,Balotesti,,,,ChIJb-Nx1HgZskARpbveEkSKjj4,2022-01-01,-74,,,,,
+RO,Romania,Ilfov County,Balotesti,,,,ChIJb-Nx1HgZskARpbveEkSKjj4,2022-01-02,-22,,,,,
 RO,Romania,Ilfov County,Berceni,,,,ChIJ3z_7PCkdrkARBXg7Lga_GEA,2022-01-01,,,,-59,-60,
 RO,Romania,Ilfov County,Bragadiru,,,,ChIJDzK7IMD_rUARgI8Ta-0hVkQ,2022-01-01,-73,-90,,-42,-63,7
+RO,Romania,Ilfov County,Bragadiru,,,,ChIJDzK7IMD_rUARgI8Ta-0hVkQ,2022-01-02,-39,-28,,-15,-27,
 RO,Romania,Ilfov County,Buftea,,,,ChIJJZvm-_cPskAR6WCT1FAFkP0,2022-01-01,,-91,,,-66,
+RO,Romania,Ilfov County,Buftea,,,,ChIJJZvm-_cPskAR6WCT1FAFkP0,2022-01-02,,,,-48,-32,
 RO,Romania,Ilfov County,Chiajna,,,,ChIJnwlOMSkBskAR9lU151zBtv8,2022-01-01,-90,-89,,-71,-54,5
+RO,Romania,Ilfov County,Chiajna,,,,ChIJnwlOMSkBskAR9lU151zBtv8,2022-01-02,-36,-27,,-61,2,-3
 RO,Romania,Ilfov County,Chitila,,,,ChIJedKDExcEskARolGETLSVd_Y,2022-01-01,,,,-69,-67,
+RO,Romania,Ilfov County,Chitila,,,,ChIJedKDExcEskARolGETLSVd_Y,2022-01-02,,,,-33,,
 RO,Romania,Ilfov County,Dobroesti,,,,ChIJraU1ZKL5sUARH5O0X49Yeyc,2022-01-01,-95,,,,-75,
+RO,Romania,Ilfov County,Dobroesti,,,,ChIJraU1ZKL5sUARH5O0X49Yeyc,2022-01-02,,,,,-30,
 RO,Romania,Ilfov County,Domnesti,,,,ChIJT0JgsUv_rUARpS_bLVODJo4,2022-01-01,,,,-46,-67,
+RO,Romania,Ilfov County,Domnesti,,,,ChIJT0JgsUv_rUARpS_bLVODJo4,2022-01-02,,,,-32,,
 RO,Romania,Ilfov County,Magurele,,,,ChIJKe6TRosArkARlhXtaRg3So0,2022-01-01,,,-32,-48,-64,
+RO,Romania,Ilfov County,Magurele,,,,ChIJKe6TRosArkARlhXtaRg3So0,2022-01-02,,,-9,,,
 RO,Romania,Ilfov County,Mogosoaia,,,,ChIJfUkwbuoEskAR0wP-AgP7qXY,2022-01-01,,,18,,,
+RO,Romania,Ilfov County,Mogosoaia,,,,ChIJfUkwbuoEskAR0wP-AgP7qXY,2022-01-02,,,50,,,
 RO,Romania,Ilfov County,Otopeni,,,,ChIJT__MKpkcskAR0Hywl2uomGI,2022-01-01,-74,-89,,-63,-64,
+RO,Romania,Ilfov County,Otopeni,,,,ChIJT__MKpkcskAR0Hywl2uomGI,2022-01-02,-20,-32,,-22,-35,
 RO,Romania,Ilfov County,Pantelimon,,,,ChIJQfZge0X6sUARda2fcmwO_yQ,2022-01-01,,-90,,-52,-76,
+RO,Romania,Ilfov County,Pantelimon,,,,ChIJQfZge0X6sUARda2fcmwO_yQ,2022-01-02,,-15,,,-41,
 RO,Romania,Ilfov County,Popesti Leordeni,,,,ChIJ1eSu0KkCrkARNd5_LJJ5Dos,2022-01-01,-80,-83,,-39,-65,6
+RO,Romania,Ilfov County,Popesti Leordeni,,,,ChIJ1eSu0KkCrkARNd5_LJJ5Dos,2022-01-02,-44,-27,,1,-10,-1
 RO,Romania,Ilfov County,Voluntari,,,,ChIJTdVTyQT4sUARWdCke8yFOYg,2022-01-01,-94,-91,,,-79,8
+RO,Romania,Ilfov County,Voluntari,,,,ChIJTdVTyQT4sUARWdCke8yFOYg,2022-01-02,-65,-9,,,-36,
 RO,Romania,Maramureș County,,,RO-MM,,ChIJN28gtHDcN0cRxh06eVc75-M,2022-01-01,-78,-79,10,-39,-69,5
+RO,Romania,Maramureș County,,,RO-MM,,ChIJN28gtHDcN0cRxh06eVc75-M,2022-01-02,-25,-14,91,30,-30,0
 RO,Romania,Maramureș County,Baia Mare,,,,ChIJfZreJ__CN0cRUT8hjzw1I2E,2022-01-01,-87,-87,19,-68,-74,7
+RO,Romania,Maramureș County,Baia Mare,,,,ChIJfZreJ__CN0cRUT8hjzw1I2E,2022-01-02,-33,-34,170,-10,-25,0
 RO,Romania,Maramureș County,Copalnic - Manastur,,,,ChIJAzwPTifWN0cR6CIvb6MyhGM,2022-01-01,,,21,,,
+RO,Romania,Maramureș County,Copalnic - Manastur,,,,ChIJAzwPTifWN0cR6CIvb6MyhGM,2022-01-02,,,47,,,
 RO,Romania,Maramureș County,Sighetu Marmatiei,,,,ChIJowkmrmG5N0cRKxpEsX-mf-E,2022-01-01,-78,-88,-27,,-70,
+RO,Romania,Maramureș County,Sighetu Marmatiei,,,,ChIJowkmrmG5N0cRKxpEsX-mf-E,2022-01-02,-24,,,,-30,
 RO,Romania,Mehedinți County,,,RO-MH,,ChIJq-1TCMiHUUcRnGZ9aI3ljDU,2022-01-01,-69,-75,5,-52,-54,5
+RO,Romania,Mehedinți County,,,RO-MH,,ChIJq-1TCMiHUUcRnGZ9aI3ljDU,2022-01-02,-26,-4,67,-28,-32,0
 RO,Romania,Mehedinți County,Drobeta - Turnu Severin,,,,ChIJbZvJAAovUkcRsDhMDqOBKSY,2022-01-01,-76,-78,5,-58,-58,7
+RO,Romania,Mehedinți County,Drobeta - Turnu Severin,,,,ChIJbZvJAAovUkcRsDhMDqOBKSY,2022-01-02,-24,-6,65,-41,-33,2
 RO,Romania,Mureș County,,,RO-MS,,ChIJd5E-VUq2S0cR0LbfbkS1jms,2022-01-01,-80,-80,-12,-61,-58,5
+RO,Romania,Mureș County,,,RO-MS,,ChIJd5E-VUq2S0cR0LbfbkS1jms,2022-01-02,-19,-8,33,-10,-21,-2
 RO,Romania,Mureș County,Ludus,,,,ChIJm4EizfTeS0cRpPVGjInS5Yo,2022-01-01,,,,,-47,
 RO,Romania,Mureș County,Reghin,,,,ChIJF2p22bo3SkcRsHvdn6SxHoQ,2022-01-01,,-89,-56,,-65,
+RO,Romania,Mureș County,Reghin,,,,ChIJF2p22bo3SkcRsHvdn6SxHoQ,2022-01-02,,-33,,,-28,
 RO,Romania,Mureș County,Sighisoara,,,,ChIJH-SbcpN1S0cRnuqF9bXVB94,2022-01-01,,-82,,,-57,
+RO,Romania,Mureș County,Sighisoara,,,,ChIJH-SbcpN1S0cRnuqF9bXVB94,2022-01-02,,,,,-29,
 RO,Romania,Mureș County,Targu Mures,,,,ChIJt4VnrzG2S0cRXqcxFuoajVU,2022-01-01,-86,-85,-19,-70,-57,7
+RO,Romania,Mureș County,Targu Mures,,,,ChIJt4VnrzG2S0cRXqcxFuoajVU,2022-01-02,-23,-18,34,-35,-13,-3
 RO,Romania,Mureș County,Tarnaveni,,,,ChIJia4SCX_sS0cRUx8gA7C6EaA,2022-01-01,,,,,-43,
 RO,Romania,Neamț County,,,RO-NT,,ChIJZaiPlklUNUcR8oYAN72kIC0,2022-01-01,-65,-69,44,-62,-63,2
+RO,Romania,Neamț County,,,RO-NT,,ChIJZaiPlklUNUcR8oYAN72kIC0,2022-01-02,-8,2,67,-31,-27,-1
 RO,Romania,Neamț County,Piatra Neamt,,,,ChIJaXCcKL1VNUcRD44138Jhgbo,2022-01-01,-74,-75,116,-75,-67,5
+RO,Romania,Neamț County,Piatra Neamt,,,,ChIJaXCcKL1VNUcRD44138Jhgbo,2022-01-02,-24,-11,149,-51,-19,1
 RO,Romania,Neamț County,Roman,,,,ChIJdeLW6Ni8ykARiXQYRayhaP0,2022-01-01,-78,-72,-28,-60,-63,5
+RO,Romania,Neamț County,Roman,,,,ChIJdeLW6Ni8ykARiXQYRayhaP0,2022-01-02,3,16,14,-17,-37,
 RO,Romania,Neamț County,Targu Neamt,,,,ChIJBUn2kz5HNUcRSdcJ1jjt4bI,2022-01-01,-62,,,,,
+RO,Romania,Neamț County,Targu Neamt,,,,ChIJBUn2kz5HNUcRSdcJ1jjt4bI,2022-01-02,21,,,,,
 RO,Romania,Olt County,,,RO-OT,,ChIJ76DWs0FWTUcR395fSl9T208,2022-01-01,-62,-75,10,-53,-65,4
+RO,Romania,Olt County,,,RO-OT,,ChIJ76DWs0FWTUcR395fSl9T208,2022-01-02,-26,-21,43,-19,-42,0
 RO,Romania,Olt County,Caracal,,,,ChIJo4Yqr_ngrEAR9s_inp0UJV0,2022-01-01,,-80,,,-58,
+RO,Romania,Olt County,Caracal,,,,ChIJo4Yqr_ngrEAR9s_inp0UJV0,2022-01-02,,,,,-38,
 RO,Romania,Olt County,Slatina,,,,ChIJEb6XIDQ4rUARdiagBTuHXME,2022-01-01,-69,-83,57,-56,-70,5
+RO,Romania,Olt County,Slatina,,,,ChIJEb6XIDQ4rUARdiagBTuHXME,2022-01-02,-34,-27,80,-39,-52,0
 RO,Romania,Prahova,,,RO-PH,,ChIJ9-_WqPZJskARiu2xsGG1Pbg,2022-01-01,-71,-78,-9,-55,-62,4
+RO,Romania,Prahova,,,RO-PH,,ChIJ9-_WqPZJskARiu2xsGG1Pbg,2022-01-02,-15,-9,22,12,-26,0
 RO,Romania,Prahova,Blejoi,,,,ChIJA8beZ7xLskAR1dr72TC3fmA,2022-01-01,-100,-93,,,,
+RO,Romania,Prahova,Blejoi,,,,ChIJA8beZ7xLskAR1dr72TC3fmA,2022-01-02,-87,,,,,
 RO,Romania,Prahova,Breaza,,,,ChIJFdkHDu8Ds0ARx7qb0gclURo,2022-01-01,,,,,-54,
 RO,Romania,Prahova,Bușteni,,,,ChIJRTR-yJ0Vs0ARL5ZPFTEuXpg,2022-01-01,,-76,-41,-52,-38,
+RO,Romania,Prahova,Bușteni,,,,ChIJRTR-yJ0Vs0ARL5ZPFTEuXpg,2022-01-02,,,,44,,
 RO,Romania,Prahova,Campina,,,,ChIJi4dHPoQAs0ARwxqu75OVWHw,2022-01-01,,-79,,,-68,
+RO,Romania,Prahova,Campina,,,,ChIJi4dHPoQAs0ARwxqu75OVWHw,2022-01-02,,-20,,,-47,
 RO,Romania,Prahova,Comarnic,,,,ChIJHadIULEas0AR0e9aG3gFjjQ,2022-01-01,,,,-70,,
+RO,Romania,Prahova,Comarnic,,,,ChIJHadIULEas0AR0e9aG3gFjjQ,2022-01-02,,,,6,,
 RO,Romania,Prahova,Ploiesti,,,,ChIJ5ybFR5pJskARP7-Ibd0ZVf0,2022-01-01,-83,-84,31,-61,-64,4
+RO,Romania,Prahova,Ploiesti,,,,ChIJ5ybFR5pJskARP7-Ibd0ZVf0,2022-01-02,-15,-28,48,6,-23,0
 RO,Romania,Prahova,Sinaia,,,,ChIJpw7hq9kWs0ARwevuP6ofO0g,2022-01-01,-43,,-14,-39,-29,
+RO,Romania,Prahova,Sinaia,,,,ChIJpw7hq9kWs0ARwevuP6ofO0g,2022-01-02,5,,10,35,,
 RO,Romania,Prahova,Teisani,,,,ChIJz_8X6rOls0ARCdXFPQ9nS98,2022-01-01,,,-7,,,
+RO,Romania,Prahova,Teisani,,,,ChIJz_8X6rOls0ARCdXFPQ9nS98,2022-01-02,,,20,,,
 RO,Romania,Prahova,Valenii de Munte,,,,ChIJG41xJUmls0AR1JLiNZIjdfA,2022-01-01,,-93,,,,
 RO,Romania,Prahova,Varbilau,,,,ChIJva-Mtf2us0AR9moQmUJfs24,2022-01-01,,,-16,,,
+RO,Romania,Prahova,Varbilau,,,,ChIJva-Mtf2us0AR9moQmUJfs24,2022-01-02,,,4,,,
 RO,Romania,Sălaj,,,RO-SJ,,ChIJy4t2WktHSEcRk1kYidZ35lY,2022-01-01,-75,-70,-5,-64,-61,3
+RO,Romania,Sălaj,,,RO-SJ,,ChIJy4t2WktHSEcRk1kYidZ35lY,2022-01-02,-18,37,20,-32,-29,-2
 RO,Romania,Sălaj,Zalau,,,,ChIJO9XeEpNCSEcRB7byyPhjQHI,2022-01-01,-80,-70,-5,-75,-74,7
+RO,Romania,Sălaj,Zalau,,,,ChIJO9XeEpNCSEcRB7byyPhjQHI,2022-01-02,-18,,12,-52,-42,
 RO,Romania,Satu Mare County,,,RO-SM,,ChIJKwzl9DQEOEcRdQ11VcuzCrs,2022-01-01,-73,-77,9,-41,-66,4
+RO,Romania,Satu Mare County,,,RO-SM,,ChIJKwzl9DQEOEcRdQ11VcuzCrs,2022-01-02,-12,-14,35,-24,-32,-1
 RO,Romania,Satu Mare County,Carei,,,,ChIJXy2CcBjzR0cRD-Hw3ZKJy4c,2022-01-01,,,-65,,-62,
 RO,Romania,Satu Mare County,Homoroade,,,,ChIJqxReZhkCSEcRQnwZoYijWS0,2022-01-01,,,16,,,
+RO,Romania,Satu Mare County,Homoroade,,,,ChIJqxReZhkCSEcRQnwZoYijWS0,2022-01-02,,,54,,,
 RO,Romania,Satu Mare County,Satu Mare,,,,ChIJt9m_XeEFOEcR9qFcA14d6cU,2022-01-01,-80,-83,11,-62,-68,7
+RO,Romania,Satu Mare County,Satu Mare,,,,ChIJt9m_XeEFOEcR9qFcA14d6cU,2022-01-02,-21,-19,50,-28,-13,2
 RO,Romania,Sibiu,,,RO-SB,,ChIJ1Rws_YhnTEcRYHxhnkL6sqE,2022-01-01,-75,-76,12,-60,-65,4
+RO,Romania,Sibiu,,,RO-SB,,ChIJ1Rws_YhnTEcRYHxhnkL6sqE,2022-01-02,-22,-19,61,-15,-28,-1
 RO,Romania,Sibiu,Medias,,,,ChIJw98HNNaIS0cRFrMSRFLzJE8,2022-01-01,-80,-76,-24,,-65,
+RO,Romania,Sibiu,Medias,,,,ChIJw98HNNaIS0cRFrMSRFLzJE8,2022-01-02,,-4,,,-32,
 RO,Romania,Sibiu,Sibiu,,,,ChIJcdoorlVDTEcRjwA2SlXUK1o,2022-01-01,-77,-79,30,-63,-66,5
+RO,Romania,Sibiu,Sibiu,,,,ChIJcdoorlVDTEcRjwA2SlXUK1o,2022-01-02,-22,-22,97,-19,-24,-2
 RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2022-01-01,-66,-72,2,-49,-65,2
+RO,Romania,Suceava County,,,RO-SV,,ChIJ2Z_nTSP_NEcRb59ZAPQq4eQ,2022-01-02,-7,2,19,-6,-29,-1
 RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2022-01-01,,,3,,,
+RO,Romania,Suceava County,Brosteni,,,,ChIJCV2CgViCNUcRwIWm5PgZwh4,2022-01-02,,,5,,,
 RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2022-01-01,,,,,-60,
+RO,Romania,Suceava County,Falticeni,,,,ChIJ3R3p8MgbNUcRplf3ilIXebY,2022-01-02,,,,,-29,
 RO,Romania,Suceava County,Gura Humorului,,,,ChIJAwRiZp-oNUcR463IaWeskFw,2022-01-01,,,,,-51,
 RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2022-01-01,,,,,-62,
+RO,Romania,Suceava County,Municipiul Câmpulung Moldovenesc,,,,ChIJd9u4I_67NUcRyjaRFgtPu9Q,2022-01-02,,,,,-34,
 RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2022-01-01,,-78,,,-70,
+RO,Romania,Suceava County,Radauti,,,,ChIJ9fWzv_RFNEcRL7iYdszvkWo,2022-01-02,-12,,,,-21,
 RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2022-01-01,,,7,,,
+RO,Romania,Suceava County,"Râșca, Suceava",,,,ChIJRyaRbEMSNUcRG-Bzg-wutnA,2022-01-02,,,10,,,
 RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2022-01-01,-74,-78,-34,-68,-71,5
+RO,Romania,Suceava County,Suceava,,,,ChIJ4evoix38NEcRD2HlRei1P6o,2022-01-02,-22,-12,39,-26,-35,1
 RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2022-01-01,,,-39,-71,,
+RO,Romania,Suceava County,Vatra Dornei,,,,ChIJ16-irAmTNUcRBOV3-hK8ePE,2022-01-02,,,-5,-9,,
 RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2022-01-01,-62,-72,-5,-38,-55,5
+RO,Romania,Teleorman County,,,RO-TR,,ChIJW8jIM6sMrUARXUUWec1eWAo,2022-01-02,-13,-16,19,-7,-31,1
 RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2022-01-01,-72,-81,,,-54,
+RO,Romania,Teleorman County,Alexandria,,,,ChIJE1q4yZXNrUARK_WReRau1w4,2022-01-02,,-13,,,-25,
 RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2022-01-01,,,,-49,-45,
+RO,Romania,Teleorman County,Rosiori de Vede,,,,ChIJ4TBeCXqyrUART7STMrktOQw,2022-01-02,,,,-9,-22,
 RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2022-01-01,,,,,-60,
+RO,Romania,Teleorman County,Turnu Magurele,,,,ChIJF-DEPRJBrEARKeuVCH3PgJ0,2022-01-02,,,,,-31,
 RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2022-01-01,,,9,,,
+RO,Romania,Teleorman County,Vedea,,,,ChIJ49iJ9g-xrUAREojtp9M5JiI,2022-01-02,,,32,,,
 RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2022-01-01,-80,-84,8,-72,-67,7
+RO,Romania,Timiș County,,,RO-TM,,ChIJp7UPy31nRUcRLDo6Gt5VZdE,2022-01-02,-30,-23,34,-36,-29,-2
 RO,Romania,Timiș County,Dumbravita,,,,ChIJiTtpKEdmRUcR6c57RAUGWD0,2022-01-01,,,,,-67,
 RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2022-01-01,,,,-70,,
+RO,Romania,Timiș County,Ghiroda,,,,ChIJIRnh0C5hRUcRxU73p02112k,2022-01-02,,,,-33,,
 RO,Romania,Timiș County,Giroc,,,,ChIJIwsox6teRUcR8UFWXk1GaAg,2022-01-01,,,,,-57,
 RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2022-01-01,,,2,,,
+RO,Romania,Timiș County,Jebel,,,,ChIJTV8YrZ74T0cR0tcevTNLaHc,2022-01-02,,,27,,,
 RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2022-01-01,-71,-92,-60,-63,-73,
+RO,Romania,Timiș County,Lugoj,,,,ChIJt_CPwxi8T0cR0GSSL-eFB6U,2022-01-02,,-38,,-46,-29,
 RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2022-01-01,-83,-86,29,-75,-68,8
+RO,Romania,Timiș County,Timisoara,,,,ChIJTct-In1dRUcRCpgIrDRD86c,2022-01-02,-32,-26,61,-34,-26,-2
 RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2022-01-01,-68,-68,-30,-41,-61,4
+RO,Romania,Tulcea County,,,RO-TL,,ChIJW35vFOEDukARYf8nXMWgTQ8,2022-01-02,-26,-13,-2,21,-30,0
 RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2022-01-01,-81,-74,-49,-61,-65,6
+RO,Romania,Tulcea County,Tulcea,,,,ChIJ32i6IKhZt0AR7SmhPpiuygw,2022-01-02,-42,-14,-33,-20,-31,0
 RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2022-01-01,-70,-66,-5,-54,-58,3
+RO,Romania,Vâlcea County,,,RO-VL,,ChIJKc7R9XdsTUcRKeryu7WA1-4,2022-01-02,-14,-6,40,-18,-30,-3
 RO,Romania,Vâlcea County,Dragasani,,,,ChIJoXzbPXqtUkcR7CW0ZGtC_Do,2022-01-01,,,,,-60,
 RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2022-01-01,-76,-71,4,-70,-63,4
+RO,Romania,Vâlcea County,Municipiul Râmnicu - Vâlcea,,,,ChIJKXNetFpHTUcRfboQbii6L3Q,2022-01-02,-23,-13,43,-39,-24,-3
 RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2022-01-01,-58,-69,5,-47,-61,3
+RO,Romania,Vaslui County,,,RO-VS,,ChIJOeFQzewQykAR0QmYAXWXyZU,2022-01-02,-9,-3,8,27,-35,1
 RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2022-01-01,-68,-68,-47,-68,-63,7
+RO,Romania,Vaslui County,Barlad,,,,ChIJe-aJ62HdtUARWWv0uxsXdGk,2022-01-02,-32,7,-31,50,-33,
 RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2022-01-01,,,-59,,-52,
+RO,Romania,Vaslui County,Husi,,,,ChIJeZj8PY4QykARvUuZhf_7CQw,2022-01-02,,,-45,,-25,
 RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2022-01-01,,,22,,,
+RO,Romania,Vaslui County,Negresti,,,,ChIJ7xn_qGliykARFNxGk6Nl_cc,2022-01-02,,,22,,,
 RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2022-01-01,,,15,,,
+RO,Romania,Vaslui County,Perieni,,,,ChIJR5XLPqrptUAREGlIF8L_iRc,2022-01-02,,,27,,,
 RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2022-01-01,-64,-82,-38,-46,-63,6
+RO,Romania,Vaslui County,Vaslui,,,,ChIJlR8NcwtzykARgEt_haqgyck,2022-01-02,-4,-18,16,5,-29,
 RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2022-01-01,-69,-68,-4,-52,-64,2
+RO,Romania,Vrancea County,,,RO-VN,,ChIJre_K_QkitEARA5camYcCuqg,2022-01-02,-5,-8,5,-8,-33,-1
 RO,Romania,Vrancea County,Adjud,,,,ChIJVeLS-da1tUARyqiKLJnYOGU,2022-01-01,,,,,-52,
 RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2022-01-01,-78,-75,-42,-63,-72,5
+RO,Romania,Vrancea County,Focsani,,,,ChIJ23jmygMitEARVdN6pGKNOsE,2022-01-02,-11,2,-21,-17,-37,1
 RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2022-01-01,,,9,,,
+RO,Romania,Vrancea County,Mera,,,,ChIJYRbfnes_tEAReBdpsU9UuV0,2022-01-02,,,20,,,

@@ -1,3 +1,5 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-01,-43,-12,26,-25,-60,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-02,-20,16,35,-17,-36,0
 GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-01,-52,-23,20,-22,-63,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-02,-24,3,28,-17,-35,2
