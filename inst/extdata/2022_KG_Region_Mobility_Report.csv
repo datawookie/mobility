@@ -1,17 +1,25 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 KG,Kyrgyzstan,,,,,,ChIJ8yfp_B04lzgRM8SITrdYECg,2022-01-01,-49,-42,-21,-46,-74,6
 KG,Kyrgyzstan,,,,,,ChIJ8yfp_B04lzgRM8SITrdYECg,2022-01-02,-27,-27,-20,-32,-49,1
+KG,Kyrgyzstan,,,,,,ChIJ8yfp_B04lzgRM8SITrdYECg,2022-01-03,-30,-27,-30,-27,-67,8
 KG,Kyrgyzstan,Batken Province,,,KG-B,,ChIJVYNrr04RujgRvyIWQs1WzCk,2022-01-01,-57,,,4,-58,
 KG,Kyrgyzstan,Batken Province,,,KG-B,,ChIJVYNrr04RujgRvyIWQs1WzCk,2022-01-02,-37,,,18,-43,
+KG,Kyrgyzstan,Batken Province,,,KG-B,,ChIJVYNrr04RujgRvyIWQs1WzCk,2022-01-03,-45,,,18,-64,
 KG,Kyrgyzstan,Chuy Province,,,KG-C,,ChIJSYCimF4xmTgRu6zwHysIk4A,2022-01-01,-51,-44,-15,-48,-77,6
 KG,Kyrgyzstan,Chuy Province,,,KG-C,,ChIJSYCimF4xmTgRu6zwHysIk4A,2022-01-02,-34,-30,-21,-38,-53,1
+KG,Kyrgyzstan,Chuy Province,,,KG-C,,ChIJSYCimF4xmTgRu6zwHysIk4A,2022-01-03,-32,-27,-23,-32,-68,9
 KG,Kyrgyzstan,Issyk-Kul Region,,,KG-Y,,ChIJmSXShAk8hDgRmaJEQ04p-zo,2022-01-01,-45,-22,-31,,-72,-4
 KG,Kyrgyzstan,Issyk-Kul Region,,,KG-Y,,ChIJmSXShAk8hDgRmaJEQ04p-zo,2022-01-02,-7,-4,-30,,-54,-7
+KG,Kyrgyzstan,Issyk-Kul Region,,,KG-Y,,ChIJmSXShAk8hDgRmaJEQ04p-zo,2022-01-03,-10,-6,-38,,-73,-2
 KG,Kyrgyzstan,Jalal-Abad Region,,,KG-J,,ChIJZ_Y3HKc3ozgRGVCldXSjb00,2022-01-01,-42,-39,-23,-38,-64,1
 KG,Kyrgyzstan,Jalal-Abad Region,,,KG-J,,ChIJZ_Y3HKc3ozgRGVCldXSjb00,2022-01-02,-18,-20,-17,-26,-38,-3
+KG,Kyrgyzstan,Jalal-Abad Region,,,KG-J,,ChIJZ_Y3HKc3ozgRGVCldXSjb00,2022-01-03,-25,-25,-27,-14,-60,-1
 KG,Kyrgyzstan,Naryn Region,,,KG-N,,ChIJLQAMhYOWkDgRKmo5Z1ts44M,2022-01-01,-36,,-38,,-71,
 KG,Kyrgyzstan,Naryn Region,,,KG-N,,ChIJLQAMhYOWkDgRKmo5Z1ts44M,2022-01-02,,,-29,,-54,
+KG,Kyrgyzstan,Naryn Region,,,KG-N,,ChIJLQAMhYOWkDgRKmo5Z1ts44M,2022-01-03,,,-42,,-74,
 KG,Kyrgyzstan,Osh Region,,,KG-O,,ChIJZYZaKB-svTgRZsjuUjKmMCk,2022-01-01,-40,-45,-46,-52,-66,7
 KG,Kyrgyzstan,Osh Region,,,KG-O,,ChIJZYZaKB-svTgRZsjuUjKmMCk,2022-01-02,-19,-30,-37,-38,-45,0
+KG,Kyrgyzstan,Osh Region,,,KG-O,,ChIJZYZaKB-svTgRZsjuUjKmMCk,2022-01-03,-28,-36,-44,-28,-58,6
 KG,Kyrgyzstan,Talas Region,,,KG-T,,ChIJTVS47SPHozgRqyAdJHOnVQ4,2022-01-01,-40,-15,-21,,-72,
 KG,Kyrgyzstan,Talas Region,,,KG-T,,ChIJTVS47SPHozgRqyAdJHOnVQ4,2022-01-02,-18,13,-20,,-52,
+KG,Kyrgyzstan,Talas Region,,,KG-T,,ChIJTVS47SPHozgRqyAdJHOnVQ4,2022-01-03,-24,-9,-29,,-70,

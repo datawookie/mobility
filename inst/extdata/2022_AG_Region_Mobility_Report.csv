@@ -1,7 +1,11 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2022-01-01,-3,-15,86,-43,-31,-1
 AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2022-01-02,34,17,96,-16,-5,-6
+AG,Antigua and Barbuda,,,,,,ChIJwdG4bbluDYwRlHmL4Yg3aic,2022-01-03,37,29,97,-11,-15,-4
 AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2022-01-01,,,,-12,,
 AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2022-01-02,,,,-5,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,ChIJ6cF5YfGWEowRmpa8eUBRPOo,2022-01-03,,,,-2,,
 AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2022-01-01,-11,-20,97,-64,-32,-1
 AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2022-01-02,31,20,114,,-2,
+AG,Antigua and Barbuda,Saint John,,,AG-04,,ChIJiT6yVLGTEowR1Umhm7fdKXY,2022-01-03,38,29,115,-21,-13,-4
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,ChIJl11ncTjrEowRuxnK5knZrSM,2022-01-03,,,,,-20,

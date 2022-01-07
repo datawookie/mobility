@@ -1,5 +1,7 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2022-01-01,-20,11,21,-27,-48,12
 KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2022-01-02,-5,25,6,-13,-14,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2022-01-03,7,22,28,-5,0,5
 KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2022-01-01,-29,3,2,-33,-51,13
 KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2022-01-02,-10,22,9,-14,-17,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2022-01-03,0,19,28,-6,-2,7

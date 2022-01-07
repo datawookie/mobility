@@ -1,5 +1,7 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 AF,Afghanistan,,,,,,ChIJbQL_-LZu0TgReNqWvg1GtfM,2022-01-01,31,58,29,-29,1,0
 AF,Afghanistan,,,,,,ChIJbQL_-LZu0TgReNqWvg1GtfM,2022-01-02,54,113,33,-25,4,0
+AF,Afghanistan,,,,,,ChIJbQL_-LZu0TgReNqWvg1GtfM,2022-01-03,43,95,22,-35,0,0
 AF,Afghanistan,,,Kabul Metropolitan Area,,,ChIJ5U8S6F5v0TgREM8nxN8oCHA,2022-01-01,23,41,27,-10,-4,4
 AF,Afghanistan,,,Kabul Metropolitan Area,,,ChIJ5U8S6F5v0TgREM8nxN8oCHA,2022-01-02,26,85,27,-7,-6,6
+AF,Afghanistan,,,Kabul Metropolitan Area,,,ChIJ5U8S6F5v0TgREM8nxN8oCHA,2022-01-03,12,72,15,-19,-10,6

@@ -1,12 +1,20 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2022-01-01,-36,-65,45,-39,-40,5
 BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2022-01-02,24,6,62,3,10,-4
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2022-01-03,14,12,51,-15,-21,0
 BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2022-01-01,-39,-57,,-21,-45,6
 BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2022-01-02,27,5,,11,-5,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2022-01-03,19,17,,-14,-23,2
 BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2022-01-01,,,87,,-41,
 BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2022-01-02,,,97,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2022-01-03,,,96,,-19,
 BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2022-01-01,,-63,,,-41,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2022-01-03,,,,,-25,
 BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2022-01-01,-50,-76,-32,-63,-44,8
 BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2022-01-02,21,3,17,-16,-2,0
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2022-01-03,8,4,2,-15,-20,2
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2022-01-03,,,,,-21,
 BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2022-01-01,,,,,-40,
 BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2022-01-02,,,,,-1,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2022-01-03,,,,,-16,-3
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2022-01-03,,,,,-24,

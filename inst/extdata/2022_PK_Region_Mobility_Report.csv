@@ -1,43 +1,64 @@
 country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
 PK,Pakistan,,,,,,ChIJH3X9-NJS2zgRXJIU5veht0Y,2022-01-01,47,76,39,60,26,-2
 PK,Pakistan,,,,,,ChIJH3X9-NJS2zgRXJIU5veht0Y,2022-01-02,51,76,45,63,33,-1
+PK,Pakistan,,,,,,ChIJH3X9-NJS2zgRXJIU5veht0Y,2022-01-03,59,88,44,65,23,-1
 PK,Pakistan,,,Abbottabad Metropolitan Area,,,ChIJN27pPn853jgRZCdd1EsX_XY,2022-01-01,80,59,62,55,19,0
 PK,Pakistan,,,Abbottabad Metropolitan Area,,,ChIJN27pPn853jgRZCdd1EsX_XY,2022-01-02,94,63,69,54,13,2
+PK,Pakistan,,,Abbottabad Metropolitan Area,,,ChIJN27pPn853jgRZCdd1EsX_XY,2022-01-03,87,61,54,70,19,1
 PK,Pakistan,,,Faisalabad Metropolitan Area,,,ChIJScRtaC1FIjkRCeD2xtKt1R0,2022-01-01,34,46,38,63,21,-3
 PK,Pakistan,,,Faisalabad Metropolitan Area,,,ChIJScRtaC1FIjkRCeD2xtKt1R0,2022-01-02,39,46,43,58,34,-3
+PK,Pakistan,,,Faisalabad Metropolitan Area,,,ChIJScRtaC1FIjkRCeD2xtKt1R0,2022-01-03,57,78,72,70,17,-5
 PK,Pakistan,,,Gujranwala Metropolitan Area,,,ChIJR78V_zwqHzkRv3abUm_ll1k,2022-01-01,60,70,58,37,20,-3
 PK,Pakistan,,,Gujranwala Metropolitan Area,,,ChIJR78V_zwqHzkRv3abUm_ll1k,2022-01-02,62,72,57,40,34,-4
+PK,Pakistan,,,Gujranwala Metropolitan Area,,,ChIJR78V_zwqHzkRv3abUm_ll1k,2022-01-03,76,90,79,53,20,-4
 PK,Pakistan,,,Islamabad Metropolitan Area,,,ChIJPwZ8CN7q3zgRYg5wOrUYip8,2022-01-01,51,61,39,63,26,-2
 PK,Pakistan,,,Islamabad Metropolitan Area,,,ChIJPwZ8CN7q3zgRYg5wOrUYip8,2022-01-02,51,64,47,69,31,-1
+PK,Pakistan,,,Islamabad Metropolitan Area,,,ChIJPwZ8CN7q3zgRYg5wOrUYip8,2022-01-03,49,63,42,62,24,0
 PK,Pakistan,,,Karachi Metropolitan Area,,,ChIJLXcJ88w9sz4RN9_Hs39xoqI,2022-01-01,34,61,18,48,32,-2
 PK,Pakistan,,,Karachi Metropolitan Area,,,ChIJLXcJ88w9sz4RN9_Hs39xoqI,2022-01-02,38,60,25,57,39,-2
+PK,Pakistan,,,Karachi Metropolitan Area,,,ChIJLXcJ88w9sz4RN9_Hs39xoqI,2022-01-03,43,71,25,47,29,-2
 PK,Pakistan,,,Lahore Metropolitan Area,,,ChIJf6C0XSkHGTkReXuTkA7dpzA,2022-01-01,36,63,20,42,20,0
 PK,Pakistan,,,Lahore Metropolitan Area,,,ChIJf6C0XSkHGTkReXuTkA7dpzA,2022-01-02,38,60,18,43,28,-1
+PK,Pakistan,,,Lahore Metropolitan Area,,,ChIJf6C0XSkHGTkReXuTkA7dpzA,2022-01-03,57,89,37,54,20,-1
 PK,Pakistan,,,Multan Metropolitan Area,,,ChIJmffEOOw5OzkRTueO0T_bxN4,2022-01-01,57,84,50,52,26,-3
 PK,Pakistan,,,Multan Metropolitan Area,,,ChIJmffEOOw5OzkRTueO0T_bxN4,2022-01-02,60,92,52,53,28,-4
+PK,Pakistan,,,Multan Metropolitan Area,,,ChIJmffEOOw5OzkRTueO0T_bxN4,2022-01-03,69,99,62,60,25,-3
 PK,Pakistan,,,Peshawar Metropolitan Area,,,ChIJp5OsEiAY2TgR9--hgdRFMS0,2022-01-01,47,90,18,43,34,-1
 PK,Pakistan,,,Peshawar Metropolitan Area,,,ChIJp5OsEiAY2TgR9--hgdRFMS0,2022-01-02,50,93,22,47,42,0
+PK,Pakistan,,,Peshawar Metropolitan Area,,,ChIJp5OsEiAY2TgR9--hgdRFMS0,2022-01-03,51,95,15,47,27,1
 PK,Pakistan,,,Quetta Metropolitan Area,,,ChIJ77upb3He0j4RWpMwHFVC20U,2022-01-01,48,62,6,6,12,-4
 PK,Pakistan,,,Quetta Metropolitan Area,,,ChIJ77upb3He0j4RWpMwHFVC20U,2022-01-02,50,68,10,14,8,-3
+PK,Pakistan,,,Quetta Metropolitan Area,,,ChIJ77upb3He0j4RWpMwHFVC20U,2022-01-03,44,54,6,5,15,-4
 PK,Pakistan,,,Sargodha Metropolitan Area,,,ChIJtVMxttGCITkRGnyUuAqjA_4,2022-01-01,41,43,10,74,17,1
 PK,Pakistan,,,Sargodha Metropolitan Area,,,ChIJtVMxttGCITkRGnyUuAqjA_4,2022-01-02,37,42,13,74,24,0
+PK,Pakistan,,,Sargodha Metropolitan Area,,,ChIJtVMxttGCITkRGnyUuAqjA_4,2022-01-03,49,52,21,91,7,0
 PK,Pakistan,,,Sialkot Metropolitan Area,,,ChIJX7k6aDDsHjkRiUdeg5fLQ1E,2022-01-01,39,165,41,77,21,-3
 PK,Pakistan,,,Sialkot Metropolitan Area,,,ChIJX7k6aDDsHjkRiUdeg5fLQ1E,2022-01-02,46,147,35,84,22,-3
+PK,Pakistan,,,Sialkot Metropolitan Area,,,ChIJX7k6aDDsHjkRiUdeg5fLQ1E,2022-01-03,47,156,45,83,21,-3
 PK,Pakistan,,,Swat Metropolitan Area,,,ChIJNxK5pEJE3DgRk-QQ6n-l1sk,2022-01-01,91,109,73,59,53,-4
 PK,Pakistan,,,Swat Metropolitan Area,,,ChIJNxK5pEJE3DgRk-QQ6n-l1sk,2022-01-02,104,107,75,63,37,-2
+PK,Pakistan,,,Swat Metropolitan Area,,,ChIJNxK5pEJE3DgRk-QQ6n-l1sk,2022-01-03,89,105,59,90,59,-3
 PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,ChIJk7BQ_z9a4DgRQl3JyvZBKyw,2022-01-01,60,,41,73,2,-6
 PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,ChIJk7BQ_z9a4DgRQl3JyvZBKyw,2022-01-02,65,,49,81,4,-5
+PK,Pakistan,Azad Jammu and Kashmir,,,PK-JK,,ChIJk7BQ_z9a4DgRQl3JyvZBKyw,2022-01-03,52,,46,68,6,-5
 PK,Pakistan,Balochistan,,,PK-BA,,ChIJ-2KAIReaMjkRssYQf8eDtJE,2022-01-01,59,74,18,40,20,-3
 PK,Pakistan,Balochistan,,,PK-BA,,ChIJ-2KAIReaMjkRssYQf8eDtJE,2022-01-02,58,78,17,50,19,-2
+PK,Pakistan,Balochistan,,,PK-BA,,ChIJ-2KAIReaMjkRssYQf8eDtJE,2022-01-03,51,66,14,43,18,-3
 PK,Pakistan,Federally Administered Tribal Area,,,,,ChIJbXB820j21zgR9TI6QwHy0pI,2022-01-01,,,16,,58,
 PK,Pakistan,Federally Administered Tribal Area,,,,,ChIJbXB820j21zgR9TI6QwHy0pI,2022-01-02,,,27,,57,
+PK,Pakistan,Federally Administered Tribal Area,,,,,ChIJbXB820j21zgR9TI6QwHy0pI,2022-01-03,,,9,,53,
 PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,ChIJtYAth63X5TgRKPCFl01igpg,2022-01-01,,,48,,22,
 PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,ChIJtYAth63X5TgRKPCFl01igpg,2022-01-02,,,56,,24,
+PK,Pakistan,Gilgit-Baltistan,,,PK-GB,,ChIJtYAth63X5TgRKPCFl01igpg,2022-01-03,,,40,,30,
 PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,ChIJHWyVfKG_3zgRkqcUZrwNOLY,2022-01-01,51,45,56,70,26,-1
 PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,ChIJHWyVfKG_3zgRkqcUZrwNOLY,2022-01-02,48,49,48,71,32,0
+PK,Pakistan,Islamabad Capital Territory,,,PK-IS,,ChIJHWyVfKG_3zgRkqcUZrwNOLY,2022-01-03,44,44,56,58,25,1
 PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,ChIJm2fuN8mu3jgRcad6v070EZY,2022-01-01,67,94,38,59,40,-3
 PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,ChIJm2fuN8mu3jgRcad6v070EZY,2022-01-02,77,98,44,59,37,-1
+PK,Pakistan,Khyber Pakhtunkhwa,,,PK-KP,,ChIJm2fuN8mu3jgRcad6v070EZY,2022-01-03,73,95,31,65,33,-1
 PK,Pakistan,Punjab,,,PK-PB,,ChIJy5pBdImU3zgRoOxO0hgwnjo,2022-01-01,50,80,46,61,22,-2
 PK,Pakistan,Punjab,,,PK-PB,,ChIJy5pBdImU3zgRoOxO0hgwnjo,2022-01-02,53,79,46,67,32,-2
+PK,Pakistan,Punjab,,,PK-PB,,ChIJy5pBdImU3zgRoOxO0hgwnjo,2022-01-03,68,99,52,70,20,-2
 PK,Pakistan,Sindh,,,PK-SD,,ChIJK5TBa2vATDkRLeiLx6lWIC4,2022-01-01,36,70,27,50,32,-2
 PK,Pakistan,Sindh,,,PK-SD,,ChIJK5TBa2vATDkRLeiLx6lWIC4,2022-01-02,41,71,31,61,39,-1
+PK,Pakistan,Sindh,,,PK-SD,,ChIJK5TBa2vATDkRLeiLx6lWIC4,2022-01-03,44,81,31,51,29,-2
