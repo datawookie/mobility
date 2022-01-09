@@ -2,190 +2,333 @@ country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166
 PR,Puerto Rico,,,,,,ChIJ-aeSGyaWAowRGpsEGCjsNvM,2022-01-01,-55,-62,-16,-40,-57,15
 PR,Puerto Rico,,,,,,ChIJ-aeSGyaWAowRGpsEGCjsNvM,2022-01-02,-16,-9,-15,-7,-18,6
 PR,Puerto Rico,,,,,,ChIJ-aeSGyaWAowRGpsEGCjsNvM,2022-01-03,1,9,-13,-11,-35,10
+PR,Puerto Rico,,,,,,ChIJ-aeSGyaWAowRGpsEGCjsNvM,2022-01-04,-1,10,-13,-14,-37,10
+PR,Puerto Rico,,,,,,ChIJ-aeSGyaWAowRGpsEGCjsNvM,2022-01-05,2,26,-11,-19,-38,9
 PR,Puerto Rico,Adjuntas,,,,,ChIJqXTrLXzRAowR1dubwMyBqeA,2022-01-03,,,,,-30,
+PR,Puerto Rico,Adjuntas,,,,,ChIJqXTrLXzRAowR1dubwMyBqeA,2022-01-04,,,,,-39,
+PR,Puerto Rico,Adjuntas,,,,,ChIJqXTrLXzRAowR1dubwMyBqeA,2022-01-05,,,,,-36,
 PR,Puerto Rico,Aguada,,,,,ChIJ67GZBda6AowRPbE-k6stJAk,2022-01-01,-28,-73,,,-59,
 PR,Puerto Rico,Aguada,,,,,ChIJ67GZBda6AowRPbE-k6stJAk,2022-01-02,-6,,,,-25,
 PR,Puerto Rico,Aguada,,,,,ChIJ67GZBda6AowRPbE-k6stJAk,2022-01-03,-2,12,,,-37,
+PR,Puerto Rico,Aguada,,,,,ChIJ67GZBda6AowRPbE-k6stJAk,2022-01-04,-4,7,,,-37,
+PR,Puerto Rico,Aguada,,,,,ChIJ67GZBda6AowRPbE-k6stJAk,2022-01-05,8,32,,,-38,
 PR,Puerto Rico,Aguadilla,,,,,ChIJ_Rq0x528AowRNLIi-XKjHWI,2022-01-01,-41,-49,,-7,-48,
 PR,Puerto Rico,Aguadilla,,,,,ChIJ_Rq0x528AowRNLIi-XKjHWI,2022-01-02,-4,19,38,9,-30,
 PR,Puerto Rico,Aguadilla,,,,,ChIJ_Rq0x528AowRNLIi-XKjHWI,2022-01-03,5,42,,15,-35,9
+PR,Puerto Rico,Aguadilla,,,,,ChIJ_Rq0x528AowRNLIi-XKjHWI,2022-01-04,2,39,,-1,-36,11
+PR,Puerto Rico,Aguadilla,,,,,ChIJ_Rq0x528AowRNLIi-XKjHWI,2022-01-05,4,53,,13,-36,9
 PR,Puerto Rico,Aguas Buenas,,,,,ChIJ27X80hdEA4wRi9Pl0x-pw8g,2022-01-01,,,,,-66,
 PR,Puerto Rico,Aguas Buenas,,,,,ChIJ27X80hdEA4wRi9Pl0x-pw8g,2022-01-03,,,,,-31,
+PR,Puerto Rico,Aguas Buenas,,,,,ChIJ27X80hdEA4wRi9Pl0x-pw8g,2022-01-04,,,,,-33,
+PR,Puerto Rico,Aguas Buenas,,,,,ChIJ27X80hdEA4wRi9Pl0x-pw8g,2022-01-05,,,,,-32,
 PR,Puerto Rico,Aibonito,,,,,ChIJxYo3kGs2A4wRp6dbHORhoqM,2022-01-01,,-60,,,-59,
 PR,Puerto Rico,Aibonito,,,,,ChIJxYo3kGs2A4wRp6dbHORhoqM,2022-01-03,,,,,-34,
+PR,Puerto Rico,Aibonito,,,,,ChIJxYo3kGs2A4wRp6dbHORhoqM,2022-01-04,,,,,-34,
+PR,Puerto Rico,Aibonito,,,,,ChIJxYo3kGs2A4wRp6dbHORhoqM,2022-01-05,,,,,-36,
 PR,Puerto Rico,Añasco,,,,,ChIJIaqcP_KwAowRoUhlBRBIl5I,2022-01-01,-20,-66,,,-64,
 PR,Puerto Rico,Añasco,,,,,ChIJIaqcP_KwAowRoUhlBRBIl5I,2022-01-02,-2,,,,-38,
 PR,Puerto Rico,Añasco,,,,,ChIJIaqcP_KwAowRoUhlBRBIl5I,2022-01-03,,5,,,-39,
+PR,Puerto Rico,Añasco,,,,,ChIJIaqcP_KwAowRoUhlBRBIl5I,2022-01-04,,8,,,-44,
+PR,Puerto Rico,Añasco,,,,,ChIJIaqcP_KwAowRoUhlBRBIl5I,2022-01-05,,27,,,-42,
 PR,Puerto Rico,Arecibo,,,,,ChIJpzerWkjeAowR8TDNUP4pxFc,2022-01-01,-41,-62,-12,,-59,14
 PR,Puerto Rico,Arecibo,,,,,ChIJpzerWkjeAowR8TDNUP4pxFc,2022-01-02,-7,-11,-13,,-20,
 PR,Puerto Rico,Arecibo,,,,,ChIJpzerWkjeAowR8TDNUP4pxFc,2022-01-03,-6,5,-26,,-37,7
+PR,Puerto Rico,Arecibo,,,,,ChIJpzerWkjeAowR8TDNUP4pxFc,2022-01-04,-3,3,-13,,-36,7
+PR,Puerto Rico,Arecibo,,,,,ChIJpzerWkjeAowR8TDNUP4pxFc,2022-01-05,-5,26,-18,,-38,6
 PR,Puerto Rico,Arroyo,,,,,ChIJVfnx7mOtHIwRijMsrzXLLUY,2022-01-01,,-45,,,,
 PR,Puerto Rico,Arroyo,,,,,ChIJVfnx7mOtHIwRijMsrzXLLUY,2022-01-03,,,,,-36,
+PR,Puerto Rico,Arroyo,,,,,ChIJVfnx7mOtHIwRijMsrzXLLUY,2022-01-04,,,,,-29,
+PR,Puerto Rico,Arroyo,,,,,ChIJVfnx7mOtHIwRijMsrzXLLUY,2022-01-05,,,,,-31,
 PR,Puerto Rico,Barceloneta,,,,,ChIJ57XaslQeA4wRuSIUk5mStzU,2022-01-01,-48,-51,,,-47,
 PR,Puerto Rico,Barceloneta,,,,,ChIJ57XaslQeA4wRuSIUk5mStzU,2022-01-02,5,,,,,
 PR,Puerto Rico,Barceloneta,,,,,ChIJ57XaslQeA4wRuSIUk5mStzU,2022-01-03,26,,,,-32,
+PR,Puerto Rico,Barceloneta,,,,,ChIJ57XaslQeA4wRuSIUk5mStzU,2022-01-04,39,,,,-25,
+PR,Puerto Rico,Barceloneta,,,,,ChIJ57XaslQeA4wRuSIUk5mStzU,2022-01-05,43,,,,-31,
 PR,Puerto Rico,Barranquitas,,,,,ChIJHyInwV03A4wRUpTJNpl3LuQ,2022-01-01,-42,-66,,,-61,
 PR,Puerto Rico,Barranquitas,,,,,ChIJHyInwV03A4wRUpTJNpl3LuQ,2022-01-03,,,,,-25,
+PR,Puerto Rico,Barranquitas,,,,,ChIJHyInwV03A4wRUpTJNpl3LuQ,2022-01-04,,,,,-23,
+PR,Puerto Rico,Barranquitas,,,,,ChIJHyInwV03A4wRUpTJNpl3LuQ,2022-01-05,,,,,-24,
 PR,Puerto Rico,Bayamón,,,,,ChIJpVNddcFBA4wRBiWfz-BFWPc,2022-01-01,-68,-64,-51,-78,-54,16
 PR,Puerto Rico,Bayamón,,,,,ChIJpVNddcFBA4wRBiWfz-BFWPc,2022-01-02,-15,-3,-35,-70,0,7
 PR,Puerto Rico,Bayamón,,,,,ChIJpVNddcFBA4wRBiWfz-BFWPc,2022-01-03,3,13,-31,-61,-33,12
+PR,Puerto Rico,Bayamón,,,,,ChIJpVNddcFBA4wRBiWfz-BFWPc,2022-01-04,5,13,-31,-68,-34,14
+PR,Puerto Rico,Bayamón,,,,,ChIJpVNddcFBA4wRBiWfz-BFWPc,2022-01-05,7,38,-35,-68,-35,13
 PR,Puerto Rico,Cabo Rojo,,,,,ChIJvxPrh9hNHYwRRgf3rcivAhU,2022-01-01,-52,-42,,,-57,
 PR,Puerto Rico,Cabo Rojo,,,,,ChIJvxPrh9hNHYwRRgf3rcivAhU,2022-01-02,1,10,,,-21,
 PR,Puerto Rico,Cabo Rojo,,,,,ChIJvxPrh9hNHYwRRgf3rcivAhU,2022-01-03,20,26,,,-29,6
+PR,Puerto Rico,Cabo Rojo,,,,,ChIJvxPrh9hNHYwRRgf3rcivAhU,2022-01-04,20,29,,,-34,7
+PR,Puerto Rico,Cabo Rojo,,,,,ChIJvxPrh9hNHYwRRgf3rcivAhU,2022-01-05,15,44,,,-37,8
 PR,Puerto Rico,Caguas,,,,,ChIJTcAMQCxFA4wRjFLyrzMHv3Q,2022-01-01,-67,-64,-24,,-60,15
 PR,Puerto Rico,Caguas,,,,,ChIJTcAMQCxFA4wRjFLyrzMHv3Q,2022-01-02,-14,-22,-6,,-18,7
 PR,Puerto Rico,Caguas,,,,,ChIJTcAMQCxFA4wRjFLyrzMHv3Q,2022-01-03,2,1,-1,,-36,10
+PR,Puerto Rico,Caguas,,,,,ChIJTcAMQCxFA4wRjFLyrzMHv3Q,2022-01-04,1,5,-13,,-39,13
+PR,Puerto Rico,Caguas,,,,,ChIJTcAMQCxFA4wRjFLyrzMHv3Q,2022-01-05,6,22,-2,,-38,10
 PR,Puerto Rico,Camuy,,,,,ChIJLeASbmTCAowRrfknVoGyZFo,2022-01-01,-31,-59,,,-63,
 PR,Puerto Rico,Camuy,,,,,ChIJLeASbmTCAowRrfknVoGyZFo,2022-01-02,-9,-15,,,-25,
 PR,Puerto Rico,Camuy,,,,,ChIJLeASbmTCAowRrfknVoGyZFo,2022-01-03,,14,,,-28,
+PR,Puerto Rico,Camuy,,,,,ChIJLeASbmTCAowRrfknVoGyZFo,2022-01-04,6,7,,,-29,
+PR,Puerto Rico,Camuy,,,,,ChIJLeASbmTCAowRrfknVoGyZFo,2022-01-05,10,30,,,-29,
 PR,Puerto Rico,Canóvanas,,,,,ChIJbWPv7NhfA4wRjYEP_w5zUF0,2022-01-01,-64,-76,,,-58,
 PR,Puerto Rico,Canóvanas,,,,,ChIJbWPv7NhfA4wRjYEP_w5zUF0,2022-01-02,-6,-10,,,-24,
 PR,Puerto Rico,Canóvanas,,,,,ChIJbWPv7NhfA4wRjYEP_w5zUF0,2022-01-03,12,0,,,-29,
+PR,Puerto Rico,Canóvanas,,,,,ChIJbWPv7NhfA4wRjYEP_w5zUF0,2022-01-04,19,6,,,-33,14
+PR,Puerto Rico,Canóvanas,,,,,ChIJbWPv7NhfA4wRjYEP_w5zUF0,2022-01-05,27,40,,,-35,13
 PR,Puerto Rico,Carolina,,,,,ChIJh-Ybp-xmA4wRHpigel45EIY,2022-01-01,-66,-65,-27,-49,-59,18
 PR,Puerto Rico,Carolina,,,,,ChIJh-Ybp-xmA4wRHpigel45EIY,2022-01-02,-20,-14,-19,-32,-24,8
 PR,Puerto Rico,Carolina,,,,,ChIJh-Ybp-xmA4wRHpigel45EIY,2022-01-03,-1,-7,-23,-27,-35,12
+PR,Puerto Rico,Carolina,,,,,ChIJh-Ybp-xmA4wRHpigel45EIY,2022-01-04,5,-4,-21,-24,-40,14
+PR,Puerto Rico,Carolina,,,,,ChIJh-Ybp-xmA4wRHpigel45EIY,2022-01-05,6,16,-14,-35,-40,13
 PR,Puerto Rico,Cataño,,,,,ChIJvdXdgFdpA4wRU-L7j-N4jmc,2022-01-01,-29,-55,-3,-52,-61,
 PR,Puerto Rico,Cataño,,,,,ChIJvdXdgFdpA4wRU-L7j-N4jmc,2022-01-02,-14,-32,-9,29,-38,
 PR,Puerto Rico,Cataño,,,,,ChIJvdXdgFdpA4wRU-L7j-N4jmc,2022-01-03,-8,-23,-10,-52,-36,
+PR,Puerto Rico,Cataño,,,,,ChIJvdXdgFdpA4wRU-L7j-N4jmc,2022-01-04,-17,-35,-31,-80,-38,
+PR,Puerto Rico,Cataño,,,,,ChIJvdXdgFdpA4wRU-L7j-N4jmc,2022-01-05,-11,-22,-22,-72,-40,
 PR,Puerto Rico,Cayey,,,,,ChIJm3R8wlZJA4wRvF4d9NzevZs,2022-01-01,-47,-73,,,-67,
 PR,Puerto Rico,Cayey,,,,,ChIJm3R8wlZJA4wRvF4d9NzevZs,2022-01-02,1,-15,,,-37,
 PR,Puerto Rico,Cayey,,,,,ChIJm3R8wlZJA4wRvF4d9NzevZs,2022-01-03,29,-5,,,-38,
+PR,Puerto Rico,Cayey,,,,,ChIJm3R8wlZJA4wRvF4d9NzevZs,2022-01-04,35,7,,,-39,
+PR,Puerto Rico,Cayey,,,,,ChIJm3R8wlZJA4wRvF4d9NzevZs,2022-01-05,37,28,,,-41,
 PR,Puerto Rico,Ciales,,,,,ChIJA_BIMy8kA4wRsqrUVWjlhEs,2022-01-03,,,,,-37,
+PR,Puerto Rico,Ciales,,,,,ChIJA_BIMy8kA4wRsqrUVWjlhEs,2022-01-04,,,,,-40,
+PR,Puerto Rico,Ciales,,,,,ChIJA_BIMy8kA4wRsqrUVWjlhEs,2022-01-05,,,,,-39,
 PR,Puerto Rico,Cidra,,,,,ChIJiyOdqH5GA4wRCle4xzT1HAw,2022-01-01,-40,-59,,,-67,
 PR,Puerto Rico,Cidra,,,,,ChIJiyOdqH5GA4wRCle4xzT1HAw,2022-01-02,,-28,,,-37,
 PR,Puerto Rico,Cidra,,,,,ChIJiyOdqH5GA4wRCle4xzT1HAw,2022-01-03,,-9,,,-41,
+PR,Puerto Rico,Cidra,,,,,ChIJiyOdqH5GA4wRCle4xzT1HAw,2022-01-04,,-5,,,-43,
+PR,Puerto Rico,Cidra,,,,,ChIJiyOdqH5GA4wRCle4xzT1HAw,2022-01-05,,22,,,-42,
 PR,Puerto Rico,Coamo,,,,,ChIJPQSyiL0zA4wR_gBaZUXbfyU,2022-01-01,,-71,,,-58,
 PR,Puerto Rico,Coamo,,,,,ChIJPQSyiL0zA4wR_gBaZUXbfyU,2022-01-02,,,,,-34,
 PR,Puerto Rico,Coamo,,,,,ChIJPQSyiL0zA4wR_gBaZUXbfyU,2022-01-03,,,,,-30,
+PR,Puerto Rico,Coamo,,,,,ChIJPQSyiL0zA4wR_gBaZUXbfyU,2022-01-04,,,,,-28,
+PR,Puerto Rico,Coamo,,,,,ChIJPQSyiL0zA4wR_gBaZUXbfyU,2022-01-05,,,,,-31,
 PR,Puerto Rico,Comerío,,,,,ChIJX4cnpfZGA4wRa-N1wWkxHPg,2022-01-03,,,,,-32,
+PR,Puerto Rico,Comerío,,,,,ChIJX4cnpfZGA4wRa-N1wWkxHPg,2022-01-04,,,,,-35,
+PR,Puerto Rico,Comerío,,,,,ChIJX4cnpfZGA4wRa-N1wWkxHPg,2022-01-05,,,,,-31,
 PR,Puerto Rico,Corozal,,,,,ChIJyzdixKs-A4wRUeOWIieuZAQ,2022-01-01,-45,-60,,,-66,
 PR,Puerto Rico,Corozal,,,,,ChIJyzdixKs-A4wRUeOWIieuZAQ,2022-01-02,,,,,-31,
 PR,Puerto Rico,Corozal,,,,,ChIJyzdixKs-A4wRUeOWIieuZAQ,2022-01-03,,,,,-30,
+PR,Puerto Rico,Corozal,,,,,ChIJyzdixKs-A4wRUeOWIieuZAQ,2022-01-04,,,,,-35,
+PR,Puerto Rico,Corozal,,,,,ChIJyzdixKs-A4wRUeOWIieuZAQ,2022-01-05,,,,,-33,
 PR,Puerto Rico,Dorado,,,,,ChIJRzlO82ATA4wRckmx8Mt9Yko,2022-01-01,-47,-8,-36,,-51,
 PR,Puerto Rico,Dorado,,,,,ChIJRzlO82ATA4wRckmx8Mt9Yko,2022-01-02,-19,34,-21,,-27,
 PR,Puerto Rico,Dorado,,,,,ChIJRzlO82ATA4wRckmx8Mt9Yko,2022-01-03,-11,36,,,-37,
+PR,Puerto Rico,Dorado,,,,,ChIJRzlO82ATA4wRckmx8Mt9Yko,2022-01-04,-7,37,,,-41,
+PR,Puerto Rico,Dorado,,,,,ChIJRzlO82ATA4wRckmx8Mt9Yko,2022-01-05,-5,59,,,-41,
 PR,Puerto Rico,Fajardo,,,,,ChIJp8cC09yWBIwRhRUFDTfvqms,2022-01-01,-51,-57,,,-55,
 PR,Puerto Rico,Fajardo,,,,,ChIJp8cC09yWBIwRhRUFDTfvqms,2022-01-02,-6,2,,,-25,
 PR,Puerto Rico,Fajardo,,,,,ChIJp8cC09yWBIwRhRUFDTfvqms,2022-01-03,-1,7,,,-30,
+PR,Puerto Rico,Fajardo,,,,,ChIJp8cC09yWBIwRhRUFDTfvqms,2022-01-04,-8,11,,,-32,
+PR,Puerto Rico,Fajardo,,,,,ChIJp8cC09yWBIwRhRUFDTfvqms,2022-01-05,-1,33,,,-33,
 PR,Puerto Rico,Florida,,,,,ChIJmf3ekAchA4wRLXYGnGi7YQU,2022-01-03,,,,,-41,
+PR,Puerto Rico,Florida,,,,,ChIJmf3ekAchA4wRLXYGnGi7YQU,2022-01-04,,,,,-36,
+PR,Puerto Rico,Florida,,,,,ChIJmf3ekAchA4wRLXYGnGi7YQU,2022-01-05,,,,,-41,
 PR,Puerto Rico,Guánica,,,,,ChIJb5PkW9k2HYwRZ1kFu5hvMZc,2022-01-01,,,-34,,,
 PR,Puerto Rico,Guánica,,,,,ChIJb5PkW9k2HYwRZ1kFu5hvMZc,2022-01-02,,,-38,,,
 PR,Puerto Rico,Guayama,,,,,ChIJRd23LMtMA4wRYX2N92KbO5E,2022-01-01,-52,-60,,,-53,
 PR,Puerto Rico,Guayama,,,,,ChIJRd23LMtMA4wRYX2N92KbO5E,2022-01-02,-3,,,,-31,
 PR,Puerto Rico,Guayama,,,,,ChIJRd23LMtMA4wRYX2N92KbO5E,2022-01-03,4,14,,,-36,
+PR,Puerto Rico,Guayama,,,,,ChIJRd23LMtMA4wRYX2N92KbO5E,2022-01-04,-2,19,,,-35,
+PR,Puerto Rico,Guayama,,,,,ChIJRd23LMtMA4wRYX2N92KbO5E,2022-01-05,3,37,,,-33,
 PR,Puerto Rico,Guayanilla,,,,,ChIJj4KT2fwtHYwRr7Bkul4oMyQ,2022-01-01,,,-47,,,
 PR,Puerto Rico,Guayanilla,,,,,ChIJj4KT2fwtHYwRr7Bkul4oMyQ,2022-01-02,,,-53,,,
 PR,Puerto Rico,Guayanilla,,,,,ChIJj4KT2fwtHYwRr7Bkul4oMyQ,2022-01-03,,,,,-20,
+PR,Puerto Rico,Guayanilla,,,,,ChIJj4KT2fwtHYwRr7Bkul4oMyQ,2022-01-04,,,,,-30,
+PR,Puerto Rico,Guayanilla,,,,,ChIJj4KT2fwtHYwRr7Bkul4oMyQ,2022-01-05,,,,,-32,
 PR,Puerto Rico,Guaynabo,,,,,ChIJFzKRY2xCA4wRem1KontPEV8,2022-01-01,-71,-56,,,-65,
 PR,Puerto Rico,Guaynabo,,,,,ChIJFzKRY2xCA4wRem1KontPEV8,2022-01-02,-23,-23,,,-35,
 PR,Puerto Rico,Guaynabo,,,,,ChIJFzKRY2xCA4wRem1KontPEV8,2022-01-03,-13,-2,,,-47,14
+PR,Puerto Rico,Guaynabo,,,,,ChIJFzKRY2xCA4wRem1KontPEV8,2022-01-04,-11,-6,,,-49,16
+PR,Puerto Rico,Guaynabo,,,,,ChIJFzKRY2xCA4wRem1KontPEV8,2022-01-05,-8,22,,,-49,14
 PR,Puerto Rico,Gurabo,,,,,ChIJrfOuv21cA4wRjLkoK3rH2UM,2022-01-01,-71,-81,,,-64,
 PR,Puerto Rico,Gurabo,,,,,ChIJrfOuv21cA4wRjLkoK3rH2UM,2022-01-02,-22,-20,,,-31,
 PR,Puerto Rico,Gurabo,,,,,ChIJrfOuv21cA4wRjLkoK3rH2UM,2022-01-03,1,1,,,-42,11
+PR,Puerto Rico,Gurabo,,,,,ChIJrfOuv21cA4wRjLkoK3rH2UM,2022-01-04,4,1,,,-42,14
+PR,Puerto Rico,Gurabo,,,,,ChIJrfOuv21cA4wRjLkoK3rH2UM,2022-01-05,9,12,,,-44,12
 PR,Puerto Rico,Hatillo,,,,,ChIJ03W8YFDdAowRQ4MHCLfKm9I,2022-01-01,-62,-78,,,-64,
 PR,Puerto Rico,Hatillo,,,,,ChIJ03W8YFDdAowRQ4MHCLfKm9I,2022-01-02,-11,3,,,-27,
 PR,Puerto Rico,Hatillo,,,,,ChIJ03W8YFDdAowRQ4MHCLfKm9I,2022-01-03,11,26,,,-32,
+PR,Puerto Rico,Hatillo,,,,,ChIJ03W8YFDdAowRQ4MHCLfKm9I,2022-01-04,15,33,,,-31,
+PR,Puerto Rico,Hatillo,,,,,ChIJ03W8YFDdAowRQ4MHCLfKm9I,2022-01-05,13,39,,,-32,
 PR,Puerto Rico,Hormigueros,,,,,ChIJpdxaGUuzAowRfEunOaS2sdg,2022-01-01,-81,,,,,
 PR,Puerto Rico,Hormigueros,,,,,ChIJpdxaGUuzAowRfEunOaS2sdg,2022-01-02,-14,,,,,
 PR,Puerto Rico,Hormigueros,,,,,ChIJpdxaGUuzAowRfEunOaS2sdg,2022-01-03,12,,,,-40,
+PR,Puerto Rico,Hormigueros,,,,,ChIJpdxaGUuzAowRfEunOaS2sdg,2022-01-04,21,,,,-39,
+PR,Puerto Rico,Hormigueros,,,,,ChIJpdxaGUuzAowRfEunOaS2sdg,2022-01-05,17,,,,-35,
 PR,Puerto Rico,Humacao,,,,,ChIJ45Nw2JioBIwRgtQEF1votc4,2022-01-01,-57,-59,,,-55,
 PR,Puerto Rico,Humacao,,,,,ChIJ45Nw2JioBIwRgtQEF1votc4,2022-01-02,0,7,,,-28,
 PR,Puerto Rico,Humacao,,,,,ChIJ45Nw2JioBIwRgtQEF1votc4,2022-01-03,17,19,,,-33,11
+PR,Puerto Rico,Humacao,,,,,ChIJ45Nw2JioBIwRgtQEF1votc4,2022-01-04,10,16,,,-34,11
+PR,Puerto Rico,Humacao,,,,,ChIJ45Nw2JioBIwRgtQEF1votc4,2022-01-05,25,38,,,-35,10
 PR,Puerto Rico,Isabela,,,,,ChIJG2Vq1luVAowRBWdUh0lcUHw,2022-01-01,-48,-64,,,-52,
 PR,Puerto Rico,Isabela,,,,,ChIJG2Vq1luVAowRBWdUh0lcUHw,2022-01-02,-17,-3,13,,-19,
 PR,Puerto Rico,Isabela,,,,,ChIJG2Vq1luVAowRBWdUh0lcUHw,2022-01-03,5,25,,,-35,
+PR,Puerto Rico,Isabela,,,,,ChIJG2Vq1luVAowRBWdUh0lcUHw,2022-01-04,5,15,,,-34,9
+PR,Puerto Rico,Isabela,,,,,ChIJG2Vq1luVAowRBWdUh0lcUHw,2022-01-05,6,36,,,-33,8
+PR,Puerto Rico,Jayuya,,,,,ChIJbzBVrkgoA4wRr3Dio8K0BsU,2022-01-05,,,,,-52,
 PR,Puerto Rico,Juana Díaz,,,,,ChIJXcPIIrvTHIwRQImFjG8Ed0w,2022-01-01,-45,-63,,,-65,
 PR,Puerto Rico,Juana Díaz,,,,,ChIJXcPIIrvTHIwRQImFjG8Ed0w,2022-01-02,-3,-13,,,-33,
 PR,Puerto Rico,Juana Díaz,,,,,ChIJXcPIIrvTHIwRQImFjG8Ed0w,2022-01-03,20,22,,,-32,5
+PR,Puerto Rico,Juana Díaz,,,,,ChIJXcPIIrvTHIwRQImFjG8Ed0w,2022-01-04,19,22,,,-34,6
+PR,Puerto Rico,Juana Díaz,,,,,ChIJXcPIIrvTHIwRQImFjG8Ed0w,2022-01-05,,37,,,-36,5
 PR,Puerto Rico,Juncos,,,,,ChIJcRSN8iFZA4wRan5lqrHhvCw,2022-01-01,-61,-59,,,-66,
 PR,Puerto Rico,Juncos,,,,,ChIJcRSN8iFZA4wRan5lqrHhvCw,2022-01-02,-18,-10,,,-26,
 PR,Puerto Rico,Juncos,,,,,ChIJcRSN8iFZA4wRan5lqrHhvCw,2022-01-03,3,1,,,-33,
+PR,Puerto Rico,Juncos,,,,,ChIJcRSN8iFZA4wRan5lqrHhvCw,2022-01-04,11,5,,,-33,8
+PR,Puerto Rico,Juncos,,,,,ChIJcRSN8iFZA4wRan5lqrHhvCw,2022-01-05,13,34,,,-37,9
 PR,Puerto Rico,Lajas,,,,,ChIJZw_D11lIHYwRwxjTUk1LSII,2022-01-01,,-52,,,-55,
 PR,Puerto Rico,Lajas,,,,,ChIJZw_D11lIHYwRwxjTUk1LSII,2022-01-03,,,,,-25,
+PR,Puerto Rico,Lajas,,,,,ChIJZw_D11lIHYwRwxjTUk1LSII,2022-01-04,,,,,-32,
+PR,Puerto Rico,Lajas,,,,,ChIJZw_D11lIHYwRwxjTUk1LSII,2022-01-05,,,,,-32,
 PR,Puerto Rico,Lares,,,,,ChIJnzLSDnDPAowR61hIi5rV8Kk,2022-01-01,-32,,,,-50,
 PR,Puerto Rico,Lares,,,,,ChIJnzLSDnDPAowR61hIi5rV8Kk,2022-01-02,,,-40,,,
 PR,Puerto Rico,Lares,,,,,ChIJnzLSDnDPAowR61hIi5rV8Kk,2022-01-03,,-15,,,-41,
+PR,Puerto Rico,Lares,,,,,ChIJnzLSDnDPAowR61hIi5rV8Kk,2022-01-04,,-20,,,-44,
+PR,Puerto Rico,Lares,,,,,ChIJnzLSDnDPAowR61hIi5rV8Kk,2022-01-05,,2,,,-42,
 PR,Puerto Rico,Las Piedras,,,,,ChIJq70uwmRYA4wRH8uYjvOuOVY,2022-01-01,-49,-69,,,-61,
 PR,Puerto Rico,Las Piedras,,,,,ChIJq70uwmRYA4wRH8uYjvOuOVY,2022-01-02,-15,-14,,,-40,
 PR,Puerto Rico,Las Piedras,,,,,ChIJq70uwmRYA4wRH8uYjvOuOVY,2022-01-03,,2,,,-37,
+PR,Puerto Rico,Las Piedras,,,,,ChIJq70uwmRYA4wRH8uYjvOuOVY,2022-01-04,-2,0,,,-39,
+PR,Puerto Rico,Las Piedras,,,,,ChIJq70uwmRYA4wRH8uYjvOuOVY,2022-01-05,10,18,,,-39,
 PR,Puerto Rico,Loíza,,,,,ChIJw4CCk0tiA4wRboYw6WtrYWo,2022-01-01,-2,,,,-54,
 PR,Puerto Rico,Loíza,,,,,ChIJw4CCk0tiA4wRboYw6WtrYWo,2022-01-02,3,,-23,,-30,
 PR,Puerto Rico,Loíza,,,,,ChIJw4CCk0tiA4wRboYw6WtrYWo,2022-01-03,,,,,-33,
+PR,Puerto Rico,Loíza,,,,,ChIJw4CCk0tiA4wRboYw6WtrYWo,2022-01-04,,,,,-37,
+PR,Puerto Rico,Loíza,,,,,ChIJw4CCk0tiA4wRboYw6WtrYWo,2022-01-05,,,,,-36,
 PR,Puerto Rico,Luquillo,,,,,ChIJUduRnWmXBIwRxib5huu5bzs,2022-01-01,-26,,,,-50,
 PR,Puerto Rico,Luquillo,,,,,ChIJUduRnWmXBIwRxib5huu5bzs,2022-01-03,,,,,-36,
+PR,Puerto Rico,Luquillo,,,,,ChIJUduRnWmXBIwRxib5huu5bzs,2022-01-04,,,,,-26,
+PR,Puerto Rico,Luquillo,,,,,ChIJUduRnWmXBIwRxib5huu5bzs,2022-01-05,,,,,-32,
 PR,Puerto Rico,Manatí,,,,,ChIJPXjHRuMYA4wRXKQD728Xwtk,2022-01-01,-61,-48,,,-58,
 PR,Puerto Rico,Manatí,,,,,ChIJPXjHRuMYA4wRXKQD728Xwtk,2022-01-02,-6,7,,,-28,
 PR,Puerto Rico,Manatí,,,,,ChIJPXjHRuMYA4wRXKQD728Xwtk,2022-01-03,3,20,,,-30,
+PR,Puerto Rico,Manatí,,,,,ChIJPXjHRuMYA4wRXKQD728Xwtk,2022-01-04,5,26,,,-31,
+PR,Puerto Rico,Manatí,,,,,ChIJPXjHRuMYA4wRXKQD728Xwtk,2022-01-05,9,52,,,-34,
 PR,Puerto Rico,Mayagüez,,,,,ChIJ4ZqVo0qyAowR6OdMAqn8EXU,2022-01-01,-61,-76,19,,-56,
 PR,Puerto Rico,Mayagüez,,,,,ChIJ4ZqVo0qyAowR6OdMAqn8EXU,2022-01-02,-22,-14,-12,,-31,
 PR,Puerto Rico,Mayagüez,,,,,ChIJ4ZqVo0qyAowR6OdMAqn8EXU,2022-01-03,-10,-5,-20,,-35,9
+PR,Puerto Rico,Mayagüez,,,,,ChIJ4ZqVo0qyAowR6OdMAqn8EXU,2022-01-04,-10,-1,-23,,-42,9
+PR,Puerto Rico,Mayagüez,,,,,ChIJ4ZqVo0qyAowR6OdMAqn8EXU,2022-01-05,-16,5,-21,,-41,9
 PR,Puerto Rico,Moca,,,,,ChIJq3qSPUO5AowR3PMe9eH7jVo,2022-01-01,-35,,,,-58,
 PR,Puerto Rico,Moca,,,,,ChIJq3qSPUO5AowR3PMe9eH7jVo,2022-01-02,-9,,,,-33,
 PR,Puerto Rico,Moca,,,,,ChIJq3qSPUO5AowR3PMe9eH7jVo,2022-01-03,5,0,,,-35,
+PR,Puerto Rico,Moca,,,,,ChIJq3qSPUO5AowR3PMe9eH7jVo,2022-01-04,-3,0,,,-36,
+PR,Puerto Rico,Moca,,,,,ChIJq3qSPUO5AowR3PMe9eH7jVo,2022-01-05,11,12,,,-37,
 PR,Puerto Rico,Morovis,,,,,ChIJa8avTak8A4wRe8stwR4sO4c,2022-01-01,,-65,,,-64,
 PR,Puerto Rico,Morovis,,,,,ChIJa8avTak8A4wRe8stwR4sO4c,2022-01-03,,,,,-33,
+PR,Puerto Rico,Morovis,,,,,ChIJa8avTak8A4wRe8stwR4sO4c,2022-01-04,,,,,-31,
+PR,Puerto Rico,Morovis,,,,,ChIJa8avTak8A4wRe8stwR4sO4c,2022-01-05,,,,,-36,
 PR,Puerto Rico,Naguabo,,,,,ChIJt3pUu3KkBIwROWdjshaKbDk,2022-01-01,,-64,1,,-66,
 PR,Puerto Rico,Naguabo,,,,,ChIJt3pUu3KkBIwROWdjshaKbDk,2022-01-02,,,1,,,
 PR,Puerto Rico,Naguabo,,,,,ChIJt3pUu3KkBIwROWdjshaKbDk,2022-01-03,,,8,,-37,
+PR,Puerto Rico,Naguabo,,,,,ChIJt3pUu3KkBIwROWdjshaKbDk,2022-01-04,,,3,,-41,
+PR,Puerto Rico,Naguabo,,,,,ChIJt3pUu3KkBIwROWdjshaKbDk,2022-01-05,,,4,,-41,
 PR,Puerto Rico,Naranjito,,,,,ChIJRUgvFrM4A4wRY_-Fn2V4bIE,2022-01-01,-42,-66,,,-68,
 PR,Puerto Rico,Naranjito,,,,,ChIJRUgvFrM4A4wRY_-Fn2V4bIE,2022-01-03,,,,,-42,
+PR,Puerto Rico,Naranjito,,,,,ChIJRUgvFrM4A4wRY_-Fn2V4bIE,2022-01-04,,,,,-43,
+PR,Puerto Rico,Naranjito,,,,,ChIJRUgvFrM4A4wRY_-Fn2V4bIE,2022-01-05,,,,,-45,
 PR,Puerto Rico,Orocovis,,,,,ChIJOYbLafsvA4wR40vjxv9ctto,2022-01-03,,,,,-43,
+PR,Puerto Rico,Orocovis,,,,,ChIJOYbLafsvA4wR40vjxv9ctto,2022-01-04,,,,,-38,
+PR,Puerto Rico,Orocovis,,,,,ChIJOYbLafsvA4wR40vjxv9ctto,2022-01-05,,,,,-37,
 PR,Puerto Rico,Patillas,,,,,ChIJAdx1ZiVTA4wRLioM2l-zy-w,2022-01-02,,,15,,,
 PR,Puerto Rico,Patillas,,,,,ChIJAdx1ZiVTA4wRLioM2l-zy-w,2022-01-03,,,,,-43,
+PR,Puerto Rico,Patillas,,,,,ChIJAdx1ZiVTA4wRLioM2l-zy-w,2022-01-04,,,,,-34,
+PR,Puerto Rico,Patillas,,,,,ChIJAdx1ZiVTA4wRLioM2l-zy-w,2022-01-05,,,,,-33,
 PR,Puerto Rico,Peñuelas,,,,,ChIJl7znim4sHYwRi7rWsAmNb_w,2022-01-01,,-63,,,-56,
 PR,Puerto Rico,Peñuelas,,,,,ChIJl7znim4sHYwRi7rWsAmNb_w,2022-01-03,,,,,-19,
+PR,Puerto Rico,Peñuelas,,,,,ChIJl7znim4sHYwRi7rWsAmNb_w,2022-01-04,,,,,-33,
+PR,Puerto Rico,Peñuelas,,,,,ChIJl7znim4sHYwRi7rWsAmNb_w,2022-01-05,,,,,-40,
 PR,Puerto Rico,Ponce,,,,,ChIJ58h1HVbVHIwRK68hJmZ0eZA,2022-01-01,-54,-70,40,,-56,16
 PR,Puerto Rico,Ponce,,,,,ChIJ58h1HVbVHIwRK68hJmZ0eZA,2022-01-02,2,-4,56,,-15,9
 PR,Puerto Rico,Ponce,,,,,ChIJ58h1HVbVHIwRK68hJmZ0eZA,2022-01-03,12,6,7,,-25,11
+PR,Puerto Rico,Ponce,,,,,ChIJ58h1HVbVHIwRK68hJmZ0eZA,2022-01-04,10,13,0,,-31,11
+PR,Puerto Rico,Ponce,,,,,ChIJ58h1HVbVHIwRK68hJmZ0eZA,2022-01-05,9,21,28,,-33,10
 PR,Puerto Rico,Quebradillas,,,,,ChIJFe9OieDBAowR58PA8xwEYQ8,2022-01-01,,,,,-44,
 PR,Puerto Rico,Quebradillas,,,,,ChIJFe9OieDBAowR58PA8xwEYQ8,2022-01-03,,,,,-30,
+PR,Puerto Rico,Quebradillas,,,,,ChIJFe9OieDBAowR58PA8xwEYQ8,2022-01-04,,,,,-32,
+PR,Puerto Rico,Quebradillas,,,,,ChIJFe9OieDBAowR58PA8xwEYQ8,2022-01-05,,,,,-33,
 PR,Puerto Rico,Rincón,,,,,ChIJIfXAAIOlAowRCrQQgbmVa8c,2022-01-01,,,-2,,,
 PR,Puerto Rico,Rincón,,,,,ChIJIfXAAIOlAowRCrQQgbmVa8c,2022-01-02,,,-31,,,
 PR,Puerto Rico,Rincón,,,,,ChIJIfXAAIOlAowRCrQQgbmVa8c,2022-01-03,,,,,-38,
+PR,Puerto Rico,Rincón,,,,,ChIJIfXAAIOlAowRCrQQgbmVa8c,2022-01-04,,,,,-37,
+PR,Puerto Rico,Rincón,,,,,ChIJIfXAAIOlAowRCrQQgbmVa8c,2022-01-05,,,,,-42,
 PR,Puerto Rico,Río Grande,,,,,ChIJL-yK8vCeBIwRMc5woi-nYMQ,2022-01-01,-48,-47,,,-55,
 PR,Puerto Rico,Río Grande,,,,,ChIJL-yK8vCeBIwRMc5woi-nYMQ,2022-01-02,-8,10,,,-29,
 PR,Puerto Rico,Río Grande,,,,,ChIJL-yK8vCeBIwRMc5woi-nYMQ,2022-01-03,1,14,,,-30,7
+PR,Puerto Rico,Río Grande,,,,,ChIJL-yK8vCeBIwRMc5woi-nYMQ,2022-01-04,-7,5,,,-35,10
+PR,Puerto Rico,Río Grande,,,,,ChIJL-yK8vCeBIwRMc5woi-nYMQ,2022-01-05,7,49,,,-33,7
 PR,Puerto Rico,Sabana Grande,,,,,ChIJiww7PeQ0HYwRxRb_SNeo0RE,2022-01-01,,,,,-64,
 PR,Puerto Rico,Sabana Grande,,,,,ChIJiww7PeQ0HYwRxRb_SNeo0RE,2022-01-03,,,,,-33,
+PR,Puerto Rico,Sabana Grande,,,,,ChIJiww7PeQ0HYwRxRb_SNeo0RE,2022-01-04,,-14,,,-35,
+PR,Puerto Rico,Sabana Grande,,,,,ChIJiww7PeQ0HYwRxRb_SNeo0RE,2022-01-05,,,,,-40,
 PR,Puerto Rico,Salinas,,,,,ChIJM7Zlpp-1HIwRWJURil4yZyU,2022-01-01,-21,-53,,,-53,
 PR,Puerto Rico,Salinas,,,,,ChIJM7Zlpp-1HIwRWJURil4yZyU,2022-01-02,-1,-18,,,-29,
 PR,Puerto Rico,Salinas,,,,,ChIJM7Zlpp-1HIwRWJURil4yZyU,2022-01-03,,3,,,-26,
+PR,Puerto Rico,Salinas,,,,,ChIJM7Zlpp-1HIwRWJURil4yZyU,2022-01-04,,1,,,-22,
+PR,Puerto Rico,Salinas,,,,,ChIJM7Zlpp-1HIwRWJURil4yZyU,2022-01-05,,28,,,-21,
 PR,Puerto Rico,San Germán,,,,,ChIJrzycadpKHYwRX_FKI4LZDGI,2022-01-01,-56,-56,,,-66,
 PR,Puerto Rico,San Germán,,,,,ChIJrzycadpKHYwRX_FKI4LZDGI,2022-01-02,-12,-5,,,-40,
 PR,Puerto Rico,San Germán,,,,,ChIJrzycadpKHYwRX_FKI4LZDGI,2022-01-03,-9,3,,,-34,
+PR,Puerto Rico,San Germán,,,,,ChIJrzycadpKHYwRX_FKI4LZDGI,2022-01-04,-14,2,,,-40,
+PR,Puerto Rico,San Germán,,,,,ChIJrzycadpKHYwRX_FKI4LZDGI,2022-01-05,0,17,,,-40,
 PR,Puerto Rico,San Juan,,,,,ChIJJZ95DGVoA4wRfE4aUPoNFNI,2022-01-01,-69,-66,-22,-76,-58,17
 PR,Puerto Rico,San Juan,,,,,ChIJJZ95DGVoA4wRfE4aUPoNFNI,2022-01-02,-23,-16,-4,-55,-23,8
 PR,Puerto Rico,San Juan,,,,,ChIJJZ95DGVoA4wRfE4aUPoNFNI,2022-01-03,-11,-4,-21,-52,-41,13
+PR,Puerto Rico,San Juan,,,,,ChIJJZ95DGVoA4wRfE4aUPoNFNI,2022-01-04,-12,-3,-19,-52,-44,15
+PR,Puerto Rico,San Juan,,,,,ChIJJZ95DGVoA4wRfE4aUPoNFNI,2022-01-05,-13,10,-26,-52,-47,15
 PR,Puerto Rico,San Lorenzo,,,,,ChIJ5_5z4JVQA4wRbMOPe3-QAME,2022-01-01,-51,-62,,,-61,
 PR,Puerto Rico,San Lorenzo,,,,,ChIJ5_5z4JVQA4wRbMOPe3-QAME,2022-01-02,-18,-6,,,-34,
 PR,Puerto Rico,San Lorenzo,,,,,ChIJ5_5z4JVQA4wRbMOPe3-QAME,2022-01-03,1,13,,,-38,
+PR,Puerto Rico,San Lorenzo,,,,,ChIJ5_5z4JVQA4wRbMOPe3-QAME,2022-01-04,-3,8,,,-36,
+PR,Puerto Rico,San Lorenzo,,,,,ChIJ5_5z4JVQA4wRbMOPe3-QAME,2022-01-05,14,34,,,-38,
 PR,Puerto Rico,San Sebastián,,,,,ChIJ9eeaEKPHAowRFkLbObYCxbw,2022-01-01,-51,-57,,,-59,
 PR,Puerto Rico,San Sebastián,,,,,ChIJ9eeaEKPHAowRFkLbObYCxbw,2022-01-02,-25,-5,,,-28,
 PR,Puerto Rico,San Sebastián,,,,,ChIJ9eeaEKPHAowRFkLbObYCxbw,2022-01-03,-4,14,,,-32,
+PR,Puerto Rico,San Sebastián,,,,,ChIJ9eeaEKPHAowRFkLbObYCxbw,2022-01-04,-11,7,,,-34,
+PR,Puerto Rico,San Sebastián,,,,,ChIJ9eeaEKPHAowRFkLbObYCxbw,2022-01-05,-2,28,,,-32,
 PR,Puerto Rico,Santa Isabel,,,,,ChIJuZ0VFNbNHIwRAJaqpEHdN1c,2022-01-01,-46,-55,,,-61,
 PR,Puerto Rico,Santa Isabel,,,,,ChIJuZ0VFNbNHIwRAJaqpEHdN1c,2022-01-02,-7,,,,,
 PR,Puerto Rico,Santa Isabel,,,,,ChIJuZ0VFNbNHIwRAJaqpEHdN1c,2022-01-03,13,,,,-31,
+PR,Puerto Rico,Santa Isabel,,,,,ChIJuZ0VFNbNHIwRAJaqpEHdN1c,2022-01-04,20,,,,-33,
+PR,Puerto Rico,Santa Isabel,,,,,ChIJuZ0VFNbNHIwRAJaqpEHdN1c,2022-01-05,24,,,,-34,
 PR,Puerto Rico,Toa Alta,,,,,ChIJDSyOl_E_A4wRpADeYRi9u0M,2022-01-01,-55,-56,,,-63,18
 PR,Puerto Rico,Toa Alta,,,,,ChIJDSyOl_E_A4wRpADeYRi9u0M,2022-01-02,-17,-1,,,-12,8
 PR,Puerto Rico,Toa Alta,,,,,ChIJDSyOl_E_A4wRpADeYRi9u0M,2022-01-03,0,12,,,-32,12
+PR,Puerto Rico,Toa Alta,,,,,ChIJDSyOl_E_A4wRpADeYRi9u0M,2022-01-04,0,18,,,-35,15
+PR,Puerto Rico,Toa Alta,,,,,ChIJDSyOl_E_A4wRpADeYRi9u0M,2022-01-05,15,48,,,-36,14
 PR,Puerto Rico,Toa Baja,,,,,ChIJXduEon9rA4wRi7ujMWzgISU,2022-01-01,-65,-55,,,-60,18
 PR,Puerto Rico,Toa Baja,,,,,ChIJXduEon9rA4wRi7ujMWzgISU,2022-01-02,-18,0,,,-15,8
 PR,Puerto Rico,Toa Baja,,,,,ChIJXduEon9rA4wRi7ujMWzgISU,2022-01-03,2,10,,,-32,12
+PR,Puerto Rico,Toa Baja,,,,,ChIJXduEon9rA4wRi7ujMWzgISU,2022-01-04,6,11,,,-36,14
+PR,Puerto Rico,Toa Baja,,,,,ChIJXduEon9rA4wRi7ujMWzgISU,2022-01-05,9,35,,,-37,14
 PR,Puerto Rico,Trujillo Alto,,,,,ChIJpyWCeXhdA4wRjF77NMt_BDk,2022-01-01,-54,-58,,,-63,
 PR,Puerto Rico,Trujillo Alto,,,,,ChIJpyWCeXhdA4wRjF77NMt_BDk,2022-01-02,-20,-25,,,-37,
 PR,Puerto Rico,Trujillo Alto,,,,,ChIJpyWCeXhdA4wRjF77NMt_BDk,2022-01-03,-5,2,,,-45,12
+PR,Puerto Rico,Trujillo Alto,,,,,ChIJpyWCeXhdA4wRjF77NMt_BDk,2022-01-04,-6,-3,,,-46,15
+PR,Puerto Rico,Trujillo Alto,,,,,ChIJpyWCeXhdA4wRjF77NMt_BDk,2022-01-05,-4,28,,,-47,13
 PR,Puerto Rico,Utuado,,,,,ChIJgb2mEvDZAowRq5EMhCDNjXU,2022-01-01,,-66,,,-53,
 PR,Puerto Rico,Utuado,,,,,ChIJgb2mEvDZAowRq5EMhCDNjXU,2022-01-03,,,,,-33,
+PR,Puerto Rico,Utuado,,,,,ChIJgb2mEvDZAowRq5EMhCDNjXU,2022-01-04,,,,,-34,
+PR,Puerto Rico,Utuado,,,,,ChIJgb2mEvDZAowRq5EMhCDNjXU,2022-01-05,,,,,-43,
 PR,Puerto Rico,Vega Alta,,,,,ChIJOdxajYAWA4wRiZ-Vvs6AD2c,2022-01-01,-57,-52,,,-64,
 PR,Puerto Rico,Vega Alta,,,,,ChIJOdxajYAWA4wRiZ-Vvs6AD2c,2022-01-02,-10,,,,-25,
 PR,Puerto Rico,Vega Alta,,,,,ChIJOdxajYAWA4wRiZ-Vvs6AD2c,2022-01-03,5,,,,-26,
+PR,Puerto Rico,Vega Alta,,,,,ChIJOdxajYAWA4wRiZ-Vvs6AD2c,2022-01-04,6,19,,,-30,
+PR,Puerto Rico,Vega Alta,,,,,ChIJOdxajYAWA4wRiZ-Vvs6AD2c,2022-01-05,17,,,,-30,
 PR,Puerto Rico,Vega Baja,,,,,ChIJF8v5GgoXA4wRwHBEmwMaoDM,2022-01-01,-53,-56,,,-60,
 PR,Puerto Rico,Vega Baja,,,,,ChIJF8v5GgoXA4wRwHBEmwMaoDM,2022-01-02,-5,-3,,,-29,
 PR,Puerto Rico,Vega Baja,,,,,ChIJF8v5GgoXA4wRwHBEmwMaoDM,2022-01-03,6,8,,,-33,8
+PR,Puerto Rico,Vega Baja,,,,,ChIJF8v5GgoXA4wRwHBEmwMaoDM,2022-01-04,4,11,,,-31,10
+PR,Puerto Rico,Vega Baja,,,,,ChIJF8v5GgoXA4wRwHBEmwMaoDM,2022-01-05,11,30,,,-32,8
 PR,Puerto Rico,Villalba,,,,,ChIJSZrLbM0tA4wRrtH994Tq-sM,2022-01-01,,,,,-62,
 PR,Puerto Rico,Villalba,,,,,ChIJSZrLbM0tA4wRrtH994Tq-sM,2022-01-03,,,,,-35,
+PR,Puerto Rico,Villalba,,,,,ChIJSZrLbM0tA4wRrtH994Tq-sM,2022-01-04,,,,,-32,
+PR,Puerto Rico,Villalba,,,,,ChIJSZrLbM0tA4wRrtH994Tq-sM,2022-01-05,,,,,-40,
 PR,Puerto Rico,Yabucoa,,,,,ChIJPVAy2utVA4wRj7_b8WkufAI,2022-01-01,,-70,,,-63,
 PR,Puerto Rico,Yabucoa,,,,,ChIJPVAy2utVA4wRj7_b8WkufAI,2022-01-03,,,,,-29,
+PR,Puerto Rico,Yabucoa,,,,,ChIJPVAy2utVA4wRj7_b8WkufAI,2022-01-04,,,,,-29,
+PR,Puerto Rico,Yabucoa,,,,,ChIJPVAy2utVA4wRj7_b8WkufAI,2022-01-05,,,,,-33,
 PR,Puerto Rico,Yauco,,,,,ChIJ4d8ukAEtHYwRx1uFwx-ZZEU,2022-01-01,-55,-65,-46,,-57,
 PR,Puerto Rico,Yauco,,,,,ChIJ4d8ukAEtHYwRx1uFwx-ZZEU,2022-01-02,1,,-39,,-32,
 PR,Puerto Rico,Yauco,,,,,ChIJ4d8ukAEtHYwRx1uFwx-ZZEU,2022-01-03,35,35,,,-16,
+PR,Puerto Rico,Yauco,,,,,ChIJ4d8ukAEtHYwRx1uFwx-ZZEU,2022-01-04,22,25,,,-27,
+PR,Puerto Rico,Yauco,,,,,ChIJ4d8ukAEtHYwRx1uFwx-ZZEU,2022-01-05,30,55,,,-28,
