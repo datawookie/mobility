@@ -6,6 +6,8 @@
 
 R package with [Google Mobility data](https://www.google.com/covid19/mobility/).
 
+The data are updated daily. To get the most recent data, simply reinstall the package.
+
 ## Install
 
 ```
