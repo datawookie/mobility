@@ -221,6 +221,7 @@ NE,Niger,,,,,,ChIJXa-hxnrsmRER1CSOFQqSM8k,2022-08-07,143,28,,174,65,20
 NE,Niger,,,,,,ChIJXa-hxnrsmRER1CSOFQqSM8k,2022-08-08,126,24,,159,42,26
 NE,Niger,,,,,,ChIJXa-hxnrsmRER1CSOFQqSM8k,2022-08-09,135,27,,169,46,24
 NE,Niger,,,,,,ChIJXa-hxnrsmRER1CSOFQqSM8k,2022-08-10,135,27,,175,47,23
+NE,Niger,,,,,,ChIJXa-hxnrsmRER1CSOFQqSM8k,2022-08-11,127,101,,153,47,26
 NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-01-01,78,46,40,44,-15,0
 NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-01-02,79,46,53,62,12,-3
 NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-01-03,83,74,62,55,8,-2
@@ -443,6 +444,7 @@ NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-08-07,131
 NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-08-08,107,95,161,158,29,24
 NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-08-09,111,105,183,155,30,22
 NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-08-10,112,103,170,175,35,21
+NE,Niger,,,Naimey Metropolitan Area,,,ChIJ-2RgOAt10BERzO4xfaK1N0E,2022-08-11,104,100,181,154,35,23
 NE,Niger,Agadez Region,,,NE-1,,ChIJkSYyDLUxmBERECmbaH6AWZQ,2022-01-01,,,,,-16,
 NE,Niger,Agadez Region,,,NE-1,,ChIJkSYyDLUxmBERECmbaH6AWZQ,2022-01-03,,,,,-7,
 NE,Niger,Agadez Region,,,NE-1,,ChIJkSYyDLUxmBERECmbaH6AWZQ,2022-01-04,,,,,-12,
@@ -651,6 +653,7 @@ NE,Niger,Maradi Region,,,NE-4,,ChIJnY-OjnuAuhER6s-5m19Rv5c,2022-08-05,,,,,70,
 NE,Niger,Maradi Region,,,NE-4,,ChIJnY-OjnuAuhER6s-5m19Rv5c,2022-08-08,,,,,58,
 NE,Niger,Maradi Region,,,NE-4,,ChIJnY-OjnuAuhER6s-5m19Rv5c,2022-08-09,,,,,80,
 NE,Niger,Maradi Region,,,NE-4,,ChIJnY-OjnuAuhER6s-5m19Rv5c,2022-08-10,,,,,74,
+NE,Niger,Maradi Region,,,NE-4,,ChIJnY-OjnuAuhER6s-5m19Rv5c,2022-08-11,,,,,67,
 NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-01-01,93,45,38,42,-15,-1
 NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-01-02,95,-14,,60,12,-4
 NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-01-03,104,-5,,57,8,-3
@@ -873,6 +876,7 @@ NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-08-07,1
 NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-08-08,127,10,,165,28,23
 NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-08-09,131,15,,154,32,20
 NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-08-10,130,16,,,33,19
+NE,Niger,Niamey Urban Community,,,NE-8,,ChIJOUfMJHN10BERe6H-GxKgJ94,2022-08-11,121,13,,151,34,21
 NE,Niger,Tahoua Region,,,NE-5,,ChIJJ4d0ETWyuBERBuBHP2WqUT4,2022-01-01,,,,,-27,
 NE,Niger,Tahoua Region,,,NE-5,,ChIJJ4d0ETWyuBERBuBHP2WqUT4,2022-01-03,,,,,-2,
 NE,Niger,Tahoua Region,,,NE-5,,ChIJJ4d0ETWyuBERBuBHP2WqUT4,2022-01-04,,,,,-10,
@@ -1054,3 +1058,4 @@ NE,Niger,Zinder Region,,,NE-7,,ChIJmbPPv6s_oRER_5Sb6OW64Es,2022-08-05,,,,,61,
 NE,Niger,Zinder Region,,,NE-7,,ChIJmbPPv6s_oRER_5Sb6OW64Es,2022-08-08,,,,,56,
 NE,Niger,Zinder Region,,,NE-7,,ChIJmbPPv6s_oRER_5Sb6OW64Es,2022-08-09,,,,,54,
 NE,Niger,Zinder Region,,,NE-7,,ChIJmbPPv6s_oRER_5Sb6OW64Es,2022-08-10,,,,,67,
+NE,Niger,Zinder Region,,,NE-7,,ChIJmbPPv6s_oRER_5Sb6OW64Es,2022-08-11,,,,,61,
